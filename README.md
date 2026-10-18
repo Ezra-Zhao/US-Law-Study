@@ -18,6 +18,7 @@
 经典判例拆解：事实、争点、判决、推理，一篇一个案子。
 - [Miranda v. Arizona (1966) 案例分析](案例分析/Miranda-v-Arizona-1966-案例分析.md) —— "米兰达警告"的来源，看第五修正案在讯问室里是怎么落地的。
 - [Gideon v. Wainwright (1963) 案例分析](案例分析/Gideon-v-Wainwright-1963-案例分析.md) —— 请不起律师时州必须免费指派：第六修正案律师帮助权如何经第十四修正案落到各州，以及 Argersinger、Scott、Strickland 划出的后续边界。
+- [Brown v. Board of Education (1954) 案例分析](案例分析/Brown-v-Board-of-Education-1954-案例分析.md) —— 公立学校种族隔离为何「本质上不平等」：347 U.S. 483 一致判决如何处理 Plessy 先例、第十四修正案制定史的「不确定」结论与脚注 11，以及 Brown II「审慎的速度」留下的执行难题。
 
 ### 常用法律常识
 普通人在美国生活绕不开的法律常识，收到法院文件、签合同、被传唤时先看这里。
