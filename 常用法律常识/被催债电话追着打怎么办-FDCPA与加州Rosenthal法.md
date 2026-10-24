@@ -23,8 +23,22 @@ La FDCPA regula a los «cobradores de deudas» (debt collectors), definidos en 1
 
 Un segundo límite está en el § 1692a(5): la ley cubre solo deudas de consumo, contraídas con fines personales, familiares o domésticos. Las deudas comerciales quedan fuera. Por eso, ante cualquier llamada de cobro, pregunte primero tres cosas: quién llama, en nombre de quién, y quién fue el acreedor original. En la primera comunicación, el cobrador debe revelar que intenta cobrar una deuda y que la información obtenida se usará para ese fin (§ 1692e(11), el llamado mini-Miranda). Si no puede identificarse ni identificar al acreedor, trate la llamada como sospechosa y no confirme datos personales por teléfono.
 
----
+### 한국어 (초역)
+FDCPA가 규율하는 대상은 「채무 추심인」(debt collector)이며, 정의는 15 U.S.C. § 1692a(6)에 있다. 타인의 빚을 추심하는 것을 업으로 하는 제3자, 예컨대 추심 회사, 부실채권을 사들인 채무 매수자, 추심을 전문으로 하는 로펌이 해당한다. 처음에 돈을 빌려준 은행이나 카드사가 직접 전화해 돈을 달라고 하는 경우는 일반적으로 FDCPA가 말하는 추심인에 해당하지 않는다. 이 경계는 뒤에서 캘리포니아 법을 설명할 때 다시 등장하는데, 많은 사람의 권리 행사가 공허해지는 이유이기도 하다.
 
+또 하나의 범위 제한은 § 1692a(5)에 있다. FDCPA는 「소비자 채무」, 즉 개인이 개인·가정·가사용 목적으로 진 빚만 다룬다. 회사 사업으로 진 물품 대금이나 사업 대출은 이 법에 들어가지 않으며, 계약법과 주법을 보아야 한다. 그래서 추심 전화를 받으면 먼저 세 가지를 확인하라. 상대가 누구인지, 누구를 위해 추심하는지, 이 빚의 원래 채권자가 누구인지이다. 상대는 첫 소통에서 이것이 추심 행위이며, 얻은 정보는 추심에 사용된다는 점을 법적으로 밝혀야 한다(§ 1692e(11), 업계에서는 mini-Miranda 고지라고 부른다). 자기 신분과 채권자조차 제대로 말하지 못하는 상대는 일단 수상한 전화로 취급하고, 전화로 개인 정보를 확인해 주지 마라.
+
+### Tiếng Việt (bản dịch)
+FDCPA điều chỉnh 「người thu nợ」(debt collector), định nghĩa tại 15 U.S.C. § 1692a(6): bên thứ ba hành nghề thu nợ của người khác, ví dụ công ty thu nợ, người mua nợ xấu, văn phòng luật chuyên thu nợ. Ngân hàng hay tổ chức phát hành thẻ ban đầu cho bạn vay tiền mà tự gọi điện đòi tiền thì thông thường không phải là người thu nợ theo nghĩa FDCPA. Ranh giới này sẽ quay lại khi nói về luật California ở phần sau, và là lý do nhiều người bảo vệ quyền của mình bị hụt.
+
+Một giới hạn phạm vi nữa nằm ở § 1692a(5): FDCPA chỉ quản 「nợ tiêu dùng」, tức khoản tiền cá nhân nợ vì mục đích cá nhân, gia đình hoặc gia dụng. Tiền hàng, vay kinh doanh trong làm ăn công ty không nằm trong luật này mà phải xem luật hợp đồng và luật bang. Vì vậy khi nhận điện thoại thu nợ, trước hết hãy hỏi rõ ba việc: đối phương là ai, thu thay cho ai, chủ nợ gốc của khoản nợ này là ai. Đối phương, trong lần liên lạc đầu tiên, theo luật phải nói rõ đây là hành vi thu nợ và thông tin thu được sẽ dùng để thu nợ (§ 1692e(11), trong ngành gọi là thông báo mini-Miranda). Người mà ngay cả danh tính của mình và chủ nợ cũng nói không rõ, trước hết hãy xử lý như cuộc gọi đáng ngờ, đừng xác nhận bất kỳ thông tin cá nhân nào qua điện thoại.
+
+### हिन्दी (अनुवाद)
+FDCPA जिन पर लागू होता है वे हैं 「ऋण वसूलीकर्ता」(debt collector), जिनकी परिभाषा 15 U.S.C. § 1692a(6) में है: दूसरों के ऋण की वसूली को व्यवसाय बनाने वाले तृतीय पक्ष, जैसे वसूली कंपनियाँ, ख़राब ऋण ख़रीदने वाले ऋण क्रेता, वसूली में विशेषज्ञ विधि फ़र्म। जिस बैंक या कार्ड जारीकर्ता ने शुरू में आपको धन उधार दिया था, उसके स्वयं फ़ोन करके माँगने को सामान्यतः FDCPA अर्थ में वसूलीकर्ता नहीं माना जाता। यह सीमा बाद में कैलिफ़ोर्निया कानून की चर्चा में फिर आएगी, और यही कई लोगों के अधिकार-प्रयोग के विफल होने का कारण है।
+
+एक और दायरा-सीमा § 1692a(5) में है: FDCPA केवल 「उपभोक्ता ऋण」 को देखता है, अर्थात व्यक्तिगत, पारिवारिक या घरेलू उद्देश्य से लिया गया व्यक्तिगत ऋण। कंपनी के व्यवसाय में लिया गया माल का बकाया या व्यावसायिक ऋण इस कानून में नहीं आता; उसके लिए अनुबंध कानून और राज्य कानून देखना होगा। इसलिए वसूली का फ़ोन आते ही पहले तीन बातें पूछकर स्पष्ट करें: सामने वाला कौन है, वह किसके लिए वसूली कर रहा है, और इस ऋण का मूल ऋणदाता कौन है। सामने वाले को पहली बातचीत में कानूनी रूप से यह बताना होता है कि यह वसूली का कार्य है और प्राप्त जानकारी वसूली के लिए उपयोग होगी (§ 1692e(11), उद्योग में इसे mini-Miranda सूचना कहते हैं)। जो अपनी पहचान और ऋणदाता तक ठीक से न बता सके, उसे पहले संदिग्ध कॉल मानें और फ़ोन पर कोई व्यक्तिगत जानकारी पुष्ट न करें।
+
+---
 ## 二、30 天争议期：整套规则里最值钱的一段
 
 ### 中文
@@ -42,8 +56,22 @@ Dentro de los cinco días posteriores a la primera comunicación, el cobrador de
 
 La acción decisiva es suya: dentro de los 30 días desde que reciba el aviso, dispute la deuda —o cualquier parte— por escrito, o pida por escrito el nombre y la dirección del acreedor original. Una disputa escrita y oportuna obliga al cobrador a detener el cobro de la parte disputada hasta obtener la verificación de la deuda y enviársela por correo. Decir «no debo esto» por teléfono no activa esa protección: la disputa oral no basta. Guarde copia de su carta y envíela por un medio que pruebe la entrega. Perder el plazo de 30 días no equivale a admitir la deuda —la ley dice que un tribunal no puede tratar el silencio como admisión—, pero el freno al cobro solo funciona si usa ese plazo, así que actúe rápido.
 
----
+### 한국어 (초역)
+추심인은 첫 소통 후 5일 이내에 서면 검증 통지(validation notice)를 보내야 하며, 근거는 § 1692g이다. CFPB의 Regulation F(12 C.F.R. Part 1006) 현행 서식에 따르면, 통지에는 추심인 이름과 주소, 채권자 이름, 계좌번호(있는 경우), 채무의 항목별 명세(이자, 수수료, 이미 낸 돈이 현재 금액을 어떻게 구성하는지), 현재 금액, 그리고 이 빚을 다투는 방법이 들어 있어야 한다.
 
+핵심 행동은 당신 쪽에 있다. 통지를 받은 날부터 30일 이내에 서면으로 빚의 전부나 일부를 다투거나, 원래 채권자의 이름과 주소를 알려 달라고 요구하는 것이다. 30일 안에 서면으로 다투기만 하면, 추심인은 빚에 대한 검증(verification)을 받아 당신에게 우편으로 보낼 때까지 다툼이 있는 부분의 추심을 중단해야 한다. 전화로 「나는 빚이 없다」라고 한마디 하는 것은 인정되지 않으며, 구두 이의는 이 중단 효과를 일으키지 않는다. 이의 제기 서신은 사본을 남기고, 송달을 증명할 수 있는 방식으로 보내라. 또 한 가지 주의할 점은, 30일 안에 다투지 않았다고 해서 빚을 인정한 것이 되지는 않는다는 것이다. 법은 기한 안에 다투지 않은 것을 법원이 빚을 인정한 것으로 추정해서는 안 된다고 명시한다. 다만 추심을 중단시키는 자물쇠는 그 기한을 놓치면 쓸 수 없게 되므로, 빠르게 움직여야 한다.
+
+### Tiếng Việt (bản dịch)
+Người thu nợ, trong vòng 5 ngày sau lần liên lạc đầu tiên, phải gửi thông báo xác thực bằng văn bản (validation notice), căn cứ là § 1692g. Theo định dạng hiện hành của Regulation F của CFPB (12 C.F.R. Part 1006), trong thông báo phải có tên và địa chỉ người thu nợ, tên chủ nợ, số tài khoản (nếu có), bảng kê chi tiết khoản nợ (lãi, phí, số tiền đã trả cấu thành số tiền hiện tại như thế nào), số tiền hiện tại, và hướng dẫn cách tranh chấp khoản nợ này.
+
+Hành động then chốt nằm ở phía bạn: trong vòng 30 ngày kể từ khi nhận thông báo, hãy tranh chấp khoản nợ hoặc bất kỳ phần nào của nó bằng văn bản, hoặc yêu cầu cung cấp tên và địa chỉ của chủ nợ gốc. Chỉ cần bạn tranh chấp bằng văn bản trong 30 ngày, người thu nợ buộc phải tạm dừng việc thu phần đang tranh chấp, cho đến khi họ lấy được xác thực khoản nợ (verification) và gửi qua thư cho bạn. Nói một câu 「tôi không nợ」 qua điện thoại không tính; tranh chấp bằng miệng không kích hoạt hiệu lực tạm dừng này. Hãy giữ bản sao thư tranh chấp của mình và gửi bằng cách có thể chứng minh việc giao nhận. Cũng cần lưu ý: không tranh chấp trong 30 ngày không đồng nghĩa với thừa nhận khoản nợ; luật nói rõ việc quá hạn không tranh chấp không được tòa án suy đoán là nhận nợ. Chỉ là chiếc khóa tạm dừng thu nợ này, lỡ cửa sổ thì không dùng được nữa, nên phải hành động nhanh.
+
+### हिन्दी (अनुवाद)
+वसूलीकर्ता को पहली बातचीत के बाद 5 दिनों के भीतर लिखित सत्यापन सूचना (validation notice) भेजनी होती है, जिसका आधार § 1692g है। CFPB के Regulation F (12 C.F.R. Part 1006) के वर्तमान प्रारूप के अनुसार, सूचना में वसूलीकर्ता का नाम और पता, ऋणदाता का नाम, खाता संख्या (यदि हो), ऋण का मदवार विवरण (ब्याज, शुल्क, पहले से चुकाई राशि वर्तमान राशि को कैसे बनाती है), वर्तमान राशि, और इस ऋण पर विवाद करने की विधि होनी चाहिए।
+
+मूल कार्रवाई आपकी ओर से है: सूचना मिलने के 30 दिनों के भीतर, लिखित रूप में ऋण या उसके किसी भाग पर विवाद करें, या मूल ऋणदाता का नाम और पता देने की माँग करें। यदि आप 30 दिनों के भीतर लिखित विवाद करते हैं, तो वसूलीकर्ता को विवादित भाग की वसूली तब तक रोकनी होगी जब तक वह ऋण का सत्यापन (verification) प्राप्त करके आपको डाक से न भेज दे। फ़ोन पर 「मैं ऋणी नहीं हूँ」 कह देना मान्य नहीं है; मौखिक विवाद इस रोक को सक्रिय नहीं करता। विवाद-पत्र की प्रति अपने पास रखें और ऐसे तरीके से भेजें जिससे सुपुर्दगी सिद्ध हो सके। यह भी ध्यान रखें: 30 दिनों में विवाद न करना ऋण स्वीकार करना नहीं है; कानून स्पष्ट कहता है कि समय पर विवाद न करने को न्यायालय ऋण-स्वीकृति नहीं मान सकता। बस इतना है कि वसूली रोकने वाला यह ताला खिड़की चूक जाने पर उपयोग नहीं होगा, इसलिए तेज़ी से कार्रवाई करें।
+
+---
 ## 三、联系的边界：时间、地点、第三方和喊停
 
 ### 中文
@@ -61,8 +89,22 @@ La sección 1692c fija los límites. Sin consentimiento previo, el cobrador no p
 
 Con terceros la regla es más estricta. Bajo el § 1692b, solo se les puede contactar para confirmar datos de localización —dirección, teléfono y lugar de empleo—, sin revelar la deuda y, en general, una sola vez por persona. La Regulation F regula los canales electrónicos: los correos y mensajes de texto deben ofrecer una forma sencilla de darse de baja (opt-out), y los mensajes por redes sociales deben ser privados y no visibles al público. Adopte un hábito en cada llamada de cobro: anote fecha, hora, número, el nombre que le den y lo que se dijo. Las notas tomadas en el momento valen mucho más que la memoria.
 
----
+### 한국어 (초역)
+§ 1692c는 연락 방식에 선을 긋는다. 사전 동의가 없으면 추심인은 「불편한 시간」에 연락할 수 없으며, 법은 현지 시간 오전 8시 이전과 오후 9시 이후를 불편한 시간으로 추정한다. 당신의 고용주가 허용하지 않는다는 것을 알면서도, 당신이 그 사실을 알렸는데도 직장으로 전화해서는 안 된다. 이 빚에 대해 당신을 대리하는 변호사가 있다는 것을 알면, 당신이 아니라 변호사에게 직접 연락해야 한다. 한 걸음 더 나갈 수도 있다. § 1692c(c)에 따라 상대에게 모든 연락을 중단하라고 서면으로 통지하면, 상대가 받은 뒤에는 연락을 중단하겠다는 확인, 또는 소송 같은 특정 조치를 취하겠다는 통지를 위해서만 연락할 수 있으며, 일상의 추심을 계속할 수 없다.
 
+제3자에 대해서는 더 엄격하다. § 1692b는 당신의 주소, 전화번호, 근무지를 확인하기 위한 목적에 한해 타인에게 연락할 수 있게 허용하고, 당신이 빚을 졌다는 사실을 밝혀서는 안 되며 같은 사람을 반복해서 찾아가서도 안 된다. 문자, 이메일, 소셜 미디어는 이제 Regulation F가 세분화한다. 전자 메시지에는 간단한 수신 거부(opt-out) 방법이 있어야 하고, 소셜 미디어의 다이렉트 메시지는 비공개로 유지되어야 하며 공개적으로 보여서는 안 되고, 고용주나 공개된 장소에 추심 정보를 보내는 것은 금지선이다. 추심 전화를 받을 때 습관을 하나 들여라. 날짜, 시간, 번호, 상대가 밝힌 이름, 그리고 말한 내용의 요점을 기록하는 것이다. 이 동시대 기록(contemporaneous record)은 사후 기억보다 훨씬 유용하다.
+
+### Tiếng Việt (bản dịch)
+§ 1692c vạch ra ranh giới cho cách thức liên lạc. Không có sự đồng ý trước, người thu nợ không được liên lạc vào 「thời gian bất tiện」; luật suy đoán trước 8 giờ sáng và sau 9 giờ tối giờ địa phương là bất tiện; biết chủ lao động của bạn không cho phép, và bạn đã thông báo, thì không được gọi đến nơi làm việc của bạn. Khi biết bạn có luật sư đại diện về khoản nợ này, họ phải liên lạc trực tiếp với luật sư chứ không phải với bạn. Bạn còn có thể đi xa hơn: theo § 1692c(c), thông báo bằng văn bản cho đối phương ngừng mọi liên lạc; sau khi nhận được, đối phương chỉ có thể liên lạc để xác nhận sẽ ngừng liên lạc, hoặc thông báo sẽ thực hiện một hành động cụ thể nào đó (như khởi kiện), không được tiếp tục thu nợ thường ngày.
+
+Đối với bên thứ ba còn nghiêm hơn: § 1692b cho phép liên lạc với người khác chỉ để xác nhận địa chỉ, số điện thoại và nơi làm việc của bạn, không được tiết lộ rằng bạn đang nợ, không được tìm đi tìm lại cùng một người. Tin nhắn, email và mạng xã hội nay được Regulation F quy định chi tiết: tin nhắn điện tử phải có cách từ chối đơn giản (opt-out), tin nhắn riêng trên mạng xã hội phải giữ riêng tư, không được công khai nhìn thấy; gửi thông tin thu nợ cho chủ lao động hoặc nơi công cộng là vạch đỏ. Nhận điện thoại thu nợ hãy tạo một thói quen: ghi lại ngày, giờ, số điện thoại, tên đối phương xưng và ý chính lời họ nói; bản ghi đương thời (contemporaneous record) này hữu ích hơn nhiều so với trí nhớ về sau.
+
+### हिन्दी (अनुवाद)
+§ 1692c संपर्क के तरीकों पर रेखा खींचता है। पूर्व सहमति के बिना, वसूलीकर्ता 「असुविधाजनक समय」 पर संपर्क नहीं कर सकता; कानून स्थानीय समयानुसार सुबह 8 बजे से पहले और रात 9 बजे के बाद को असुविधाजनक मानता है; यह जानते हुए कि आपका नियोक्ता अनुमति नहीं देता और आपने उसे बता दिया है, वह आपके कार्यस्थल पर फ़ोन नहीं कर सकता। यह जानने के बाद कि इस ऋण के लिए आपका वकील आपका प्रतिनिधित्व कर रहा है, उसे आपसे नहीं, सीधे वकील से संपर्क करना चाहिए। आप एक कदम और आगे बढ़ सकते हैं: § 1692c(c) के अनुसार विरोधी पक्ष को लिखित रूप में सभी संपर्क बंद करने की सूचना दें; सूचना मिलने के बाद वह केवल यह पुष्टि करने के लिए संपर्क कर सकता है कि संपर्क बंद किया जाएगा, या यह सूचित करने के लिए कि कोई विशिष्ट कार्रवाई (जैसे मुकदमा) की जाएगी, और दैनिक वसूली जारी नहीं रख सकता।
+
+तृतीय पक्षों के प्रति नियम और कड़े हैं: § 1692b दूसरों से संपर्क केवल आपका पता, फ़ोन नंबर और कार्यस्थल की पुष्टि के लिए अनुमति देता है; यह नहीं बताया जा सकता कि आप ऋणी हैं, और एक ही व्यक्ति से बार-बार संपर्क नहीं किया जा सकता। संदेश, ईमेल और सोशल मीडिया अब Regulation F द्वारा विस्तृत हैं: इलेक्ट्रॉनिक संदेशों में सरल opt-out तरीका होना चाहिए, सोशल मीडिया के निजी संदेश निजी रहने चाहिए और सार्वजनिक रूप से दिखाई नहीं देने चाहिए, नियोक्ता या सार्वजनिक स्थान पर वसूली सूचना भेजना लाल रेखा है। वसूली फ़ोन आने पर एक आदत बनाएँ: तिथि, समय, नंबर, सामने वाले का बताया नाम और उसकी बात के मुख्य बिंदु नोट करें; यह समकालीन अभिलेख (contemporaneous record) बाद की याददाश्त से कहीं अधिक उपयोगी होता है।
+
+---
 ## 四、禁止清单：骚扰、谎言、不公平手段与过期债
 
 ### 中文
@@ -80,8 +122,22 @@ Tres normas fijan el piso de conducta. El § 1692d prohíbe el acoso y el abuso:
 
 La deuda prescrita (time-barred) merece una advertencia propia. Vencido el plazo de prescripción, el acreedor en general ya no puede cobrar mediante demanda: en California el plazo es de cuatro años para contratos escritos (Code of Civil Procedure § 337) y de dos años para acuerdos verbales (§ 339). La Regulation F (12 C.F.R. § 1006.26(b)) prohíbe directamente demandar o amenazar con demandar por deuda prescrita. Dos puntos prácticos: el cobrador aún puede contactarlo para pedir un pago voluntario (California además exige avisos escritos sobre deuda prescrita), y no reconozca la deuda ni pague una suma pequeña sin pensar: en muchos estados, un pago parcial o un reconocimiento escrito puede reiniciar el reloj de prescripción. Verifique primero si la deuda está prescrita, con un abogado si hace falta, antes de pagar.
 
----
+### 한국어 (초역)
+세 가지 금지 규정이 행동의 하한선을 이룬다. § 1692d는 괴롭힘과 학대를 금지한다. 폭력을 위협하고, 욕설을 하고, 끝없이 전화해 압박하는 행위가 여기에 속한다. Regulation F는 전화 빈도에 반박 가능한 추정을 더했다(12 C.F.R. § 1006.14(b)). 같은 빚에 대해 7일 안에 7번을 넘게 전화하거나, 당신과 통화한 뒤 7일 안에 다시 전화하면 괴롭힘으로 추정된다. § 1692e는 허위 또는 오해의 소지가 있는 진술을 금지한다. 금액을 부풀리고, 변호사나 정부 관계자인 척하고, 실제로 의도도 권한도 없는 조치(예컨대 체포하겠다고 겁주는 것)를 하겠다고 위협하는 것이 여기에 속한다. § 1692f는 불공정한 수단을 금지한다. 계약과 법이 모두 허용하지 않은 수수료나 이자를 받는 것이 전형적인 예이다.
 
+소멸시효가 지난 빚(time-barred debt)은 따로 짚어야 한다. 빚의 소송 시효가 지나면 채권자는 일반적으로 소송으로 강제집행할 수 없다. 캘리포니아에서 서면 계약에 기한 빚의 시효는 4년(Code of Civil Procedure § 337), 구두 약정은 2년(§ 339)이다. Regulation F(12 C.F.R. § 1006.26(b))는 추심인이 시효가 지난 빚에 대해 소송을 제기하거나 제기하겠다고 위협하는 것을 직접 금지한다. 실무상 주의할 점이 두 가지 있다. 첫째, 추심 측은 여전히 합법적으로 연락해 자발적 상환을 요구할 수 있다(캘리포니아는 시효가 지난 빚에 대해 서면 고지도 요구한다). 둘째, 함부로 빚을 인정하거나 소액을 내지 마라. 많은 주에서 일부 상환이나 서면 인정이 시효를 다시 시작하게 만들 수 있으므로, 돈을 내기 전에 먼저 시효 상태를 확인하고 필요하면 변호사에게 물어라.
+
+### Tiếng Việt (bản dịch)
+Ba quy định cấm tạo thành giới hạn dưới của hành vi. § 1692d cấm quấy rối và lạm dụng: đe dọa bạo lực, chửi thề, gọi điện không dứt để gây áp lực đều nằm trong đó. Regulation F thêm một suy đoán có thể bác bỏ cho tần suất gọi điện (12 C.F.R. § 1006.14(b)): về cùng một khoản nợ, gọi quá 7 lần trong 7 ngày, hoặc gọi lại trong 7 ngày sau khi đã nói chuyện với bạn, thì bị suy đoán là quấy rối. § 1692e cấm phát ngôn sai lệch hoặc gây hiểu lầm: khai khống số tiền, giả mạo luật sư hoặc nhân viên chính phủ, đe dọa thực hiện hành động mà thực ra không có ý định cũng không có quyền thực hiện (như dọa sẽ bắt giữ bạn) đều tính. § 1692f cấm thủ đoạn không công bằng: thu các khoản phí, lãi mà cả hợp đồng lẫn pháp luật đều không cho phép là ví dụ điển hình.
+
+Nợ đã hết thời hiệu (time-barred debt) cần nói riêng. Khi khoản nợ đã qua thời hiệu khởi kiện, chủ nợ thông thường không thể dựa vào khởi kiện để cưỡng chế thi hành nữa: ở California, thời hiệu của nợ theo hợp đồng văn bản là 4 năm (Code of Civil Procedure § 337), thỏa thuận miệng là 2 năm (§ 339). Regulation F (12 C.F.R. § 1006.26(b)) trực tiếp cấm người thu nợ khởi kiện hoặc đe dọa khởi kiện đối với nợ đã hết thời hiệu. Hai lưu ý thực tế: một là, phía thu nợ vẫn có thể liên lạc hợp pháp để yêu cầu tự nguyện trả (California còn yêu cầu phải có thông báo bằng văn bản về nợ đã hết thời hiệu); hai là, đừng tùy tiện nhận nợ hoặc trả một khoản nhỏ — ở nhiều bang, trả một phần hoặc nhận nợ bằng văn bản có thể khiến thời hiệu bắt đầu chạy lại, nên trước khi trả tiền hãy kiểm tra rõ tình trạng thời hiệu, khi cần thì hỏi luật sư.
+
+### हिन्दी (अनुवाद)
+तीन निषेध प्रावधान आचरण की निचली सीमा बनाते हैं। § 1692d उत्पीड़न और दुर्व्यवहार पर रोक लगाता है: हिंसा की धमकी, अपशब्द, दबाव डालने के लिए लगातार फ़ोन करना इसमें आते हैं। Regulation F ने फ़ोन की आवृत्ति पर एक खंडनीय अनुमान जोड़ा (12 C.F.R. § 1006.14(b)): एक ही ऋण के बारे में 7 दिनों में 7 बार से अधिक फ़ोन करना, या आपसे बात होने के 7 दिनों के भीतर फिर फ़ोन करना, उत्पीड़न माना जाने का अनुमान देता है। § 1692e झूठे या भ्रामक कथनों पर रोक लगाता है: राशि बढ़ा-चढ़ाकर बताना, वकील या सरकारी व्यक्ति बनकर दिखाना, ऐसी कार्रवाई की धमकी देना जिसका वास्तव में न इरादा हो न अधिकार (जैसे गिरफ़्तारी की धमकी) — ये सब आते हैं। § 1692f अनुचित साधनों पर रोक लगाता है: अनुबंध और कानून दोनों द्वारा अनधिकृत शुल्क या ब्याज वसूलना इसका विशिष्ट उदाहरण है।
+
+समय-बाधित ऋण (time-barred debt) को अलग से कहना चाहिए। ऋण की मुकदमा समय-सीमा बीत जाने पर, ऋणदाता सामान्यतः मुकदमे द्वारा वसूली नहीं कर सकता: कैलिफ़ोर्निया में लिखित अनुबंध ऋण की सीमा 4 वर्ष है (Code of Civil Procedure § 337), मौखिक करार की 2 वर्ष (§ 339)। Regulation F (12 C.F.R. § 1006.26(b)) वसूलीकर्ता को समय-बाधित ऋण पर मुकदमा करने या मुकदमे की धमकी देने से सीधे रोकता है। दो व्यावहारिक सावधानियाँ: एक, वसूली पक्ष फिर भी कानूनी रूप से संपर्क करके स्वैच्छिक भुगतान की माँग कर सकता है (कैलिफ़ोर्निया समय-बाधित ऋण के बारे में लिखित प्रकटीकरण भी माँगता है); दो, बिना सोचे ऋण स्वीकार न करें या छोटी राशि न चुकाएँ — कई राज्यों में आंशिक भुगतान या लिखित स्वीकृति से समय-सीमा फिर से शुरू हो सकती है, इसलिए भुगतान से पहले समय-सीमा की स्थिति स्पष्ट कर लें, आवश्यकता हो तो वकील से पूछें।
+
+---
 ## 五、加州多一层：Rosenthal 法把原始债权人也圈进来
 
 ### 中文
@@ -99,8 +155,22 @@ La ley Rosenthal de California (Rosenthal Fair Debt Collection Practices Act, Ci
 
 El mecanismo está en el § 1788.17: la ley Rosenthal incorpora la mayoría de las reglas sustantivas de la FDCPA y las aplica a todos los que cubre, con dos excepciones para los acreedores originales: no deben dar el aviso mini-Miranda del § 1692e(11) ni el aviso de validación del § 1692g. En cuanto a remedios, el § 1788.30 prevé daños reales, una multa legal de 100 a 1.000 dólares por violación consciente y deliberada, y honorarios de abogado para la parte vencedora. En el plano federal, el § 1692k prevé daños reales, hasta 1.000 dólares adicionales en una acción individual, costas y honorarios razonables; la demanda debe presentarse dentro del año de la violación (§ 1692k(d)) y la competencia, según el § 1692i, se vincula al lugar donde el consumidor firmó el contrato o reside. Las reclamaciones federales y californianas pueden acumularse sobre la misma conducta.
 
----
+### 한국어 (초역)
+캘리포니아의 Rosenthal 공정채무추심법(Rosenthal Fair Debt Collection Practices Act, Civil Code §§ 1788–1788.64)에서 가장 중요한 점은 「추심인」의 정의가 더 넓다는 것이다. § 1788.2(c)는 일상 영업 과정에서 자신을 위해 또는 타인을 위해 정기적으로 추심하는 사람을 모두 포함한다. 그래서 카드사, 은행, 병원 청구 부서 같은 원래 채권자가 캘리포니아 주민을 상대로 추심할 때도 Rosenthal 법의 규율을 받는다. 이것이 정확히 FDCPA의 그 경계를 메운다.
 
+연결 방식은 § 1788.17에 있다. Rosenthal 법은 FDCPA의 실질 규정 대부분을 주법에 편입해, 그 규율을 받는 모든 추심인에게 적용한다. 원래 채권자에 대해서는 두 가지 예외가 있다. § 1692e(11)의 mini-Miranda 고지를 할 필요가 없고, § 1692g의 검증 통지도 보낼 필요가 없다. 구제에 대해서는 § 1788.30이 실제 손해배상을 제공하고, 고의적 위반에는 별도로 100달러에서 1,000달러의 법정 벌금이 있으며, 승소한 쪽의 변호사 비용도 인정된다. 연방 차원에서 FDCPA 위반에 대한 배상은 § 1692k에 있다. 실제 손해, 개인 소송에서 최대 1,000달러의 법정 배상, 소송 비용과 합리적인 변호사 비용이다. 소송 제기 기한은 위반일로부터 1년(§ 1692k(d))이고, 소송 장소는 § 1692i에 따라 채무자의 거주지나 계약 체결지 등 채무자와 관련된 사법 구역으로 제한된다. 연방과 캘리포니아의 청구는 같은 행위에 대해 병행해 주장할 수 있으며, 이것이 소비자 변호사가 강한 사건을 맡으려는 이유 중 하나이다.
+
+### Tiếng Việt (bản dịch)
+Điểm then chốt nhất của Đạo luật Rosenthal về thực hành thu nợ công bằng của California (Rosenthal Fair Debt Collection Practices Act, Civil Code §§ 1788–1788.64) là định nghĩa 「người thu nợ」 rộng hơn: § 1788.2(c) tính cả những người thường xuyên thu nợ cho mình hoặc cho người khác trong hoạt động kinh doanh hằng ngày, nên các chủ nợ gốc như tổ chức phát hành thẻ, ngân hàng, bộ phận thanh toán của bệnh viện, khi thu nợ đối với cư dân California, cũng chịu sự điều chỉnh của luật Rosenthal — điều này vừa khớp lấp đúng ranh giới đó của FDCPA.
+
+Cách kết nối nằm ở § 1788.17: luật Rosenthal đưa phần lớn quy định thực chất của FDCPA vào luật bang, áp dụng cho mọi người thu nợ chịu sự điều chỉnh của nó; đối với chủ nợ gốc có hai ngoại lệ — họ không cần đưa ra thông báo mini-Miranda theo § 1692e(11), cũng không cần gửi thông báo xác thực theo § 1692g. Về biện pháp khắc phục, § 1788.30 cho bồi thường thiệt hại thực tế, đối với vi phạm cố ý còn có khoản phạt theo luật định từ 100 đến 1.000 đô la, cộng thêm phí luật sư của bên thắng kiện. Ở cấp liên bang, bồi thường cho vi phạm FDCPA nằm ở § 1692k: thiệt hại thực tế, bồi thường theo luật định tối đa 1.000 đô la trong vụ kiện cá nhân, chi phí tố tụng và phí luật sư hợp lý; thời hạn khởi kiện là 1 năm kể từ ngày vi phạm (§ 1692k(d)), và nơi khởi kiện theo § 1692i bị giới hạn ở khu vực tư pháp liên quan đến con nợ như nơi cư trú của con nợ hoặc nơi ký kết hợp đồng. Yêu cầu bồi thường theo luật liên bang và luật California có thể được nêu song song đối với cùng một loạt hành vi, và đây cũng là một trong những lý do luật sư tiêu dùng sẵn lòng nhận những vụ án mạnh.
+
+### हिन्दी (अनुवाद)
+कैलिफ़ोर्निया के Rosenthal निष्पक्ष ऋण वसूली व्यवहार अधिनियम (Rosenthal Fair Debt Collection Practices Act, Civil Code §§ 1788–1788.64) का सबसे महत्वपूर्ण बिंदु यह है कि 「वसूलीकर्ता」 की परिभाषा अधिक व्यापक है: § 1788.2(c) उन सभी को शामिल करता है जो दैनिक व्यवसाय में नियमित रूप से स्वयं या दूसरों के लिए वसूली करते हैं, इसलिए कार्ड जारीकर्ता, बैंक, अस्पताल के बिलिंग विभाग जैसे मूल ऋणदाता जब कैलिफ़ोर्निया निवासियों से वसूली करते हैं, तो वे भी Rosenthal कानून के अधीन होते हैं — यही FDCPA की उस सीमा को ठीक-ठीक भरता है।
+
+जोड़ने का तरीका § 1788.17 में है: Rosenthal कानून FDCPA के अधिकांश सारभूत नियमों को राज्य कानून में समाहित करता है और वे उसके अधीन सभी वसूलीकर्ताओं पर लागू होते हैं; मूल ऋणदाताओं के लिए दो अपवाद हैं — उन्हें § 1692e(11) की mini-Miranda सूचना देने की आवश्यकता नहीं, और § 1692g की सत्यापन सूचना भेजने की भी आवश्यकता नहीं। उपचार के रूप में, § 1788.30 वास्तविक क्षति की भरपाई देता है, जानबूझकर उल्लंघन पर 100 से 1,000 डॉलर तक अतिरिक्त वैधानिक जुर्माना है, साथ में जीतने वाले पक्ष की वकील फ़ीस भी। संघीय स्तर पर, FDCPA उल्लंघन की भरपाई § 1692k में है: वास्तविक क्षति, व्यक्तिगत मुकदमे में अधिकतम 1,000 डॉलर वैधानिक भरपाई, मुकदमा लागत और उचित वकील फ़ीस; मुकदमा दायर करने की अवधि उल्लंघन की तिथि से 1 वर्ष है (§ 1692k(d)), और मुकदमे का स्थान § 1692i के अनुसार ऋणी के निवास या अनुबंध-हस्ताक्षर स्थान जैसे ऋणी से संबंधित न्याय-क्षेत्रों तक सीमित है। संघीय और कैलिफ़ोर्निया दोनों दावे एक ही आचरण पर समानांतर रूप से किए जा सकते हैं, और यही एक कारण है कि उपभोक्ता वकील मज़बूत मामले लेने को तैयार रहते हैं।
+
+---
 ## 六、落到操作上：一套不吃亏的顺序
 
 ### 中文
@@ -124,8 +194,26 @@ La línea contra el fraude es simple: un cobrador legítimo no exige pago inmedi
 
 Fuentes principales: 15 U.S.C. §§ 1692a–1692k (FDCPA); 12 C.F.R. Parte 1006 (Regulation F de la CFPB), en especial §§ 1006.14, 1006.26, 1006.30 y 1006.34; California Civil Code §§ 1788.2, 1788.17 y 1788.30 (ley Rosenthal); California Code of Civil Procedure §§ 337 y 339.
 
----
+### 한국어 (초역)
+앞의 절들을 실제 순서로 배열해 보자. 첫째, 전화로 빚을 인정하거나, 돈을 내거나, 은행 정보를 주지 마라. 먼저 서면 검증 통지를 받아 채권자, 금액 명세, 계좌번호를 대조해 보라. 당신의 빚인지, 금액이 맞는지, 이미 낸 적이 있는지를 확인하라. 둘째, 30일 안에 다툴지 인정할지를 정하라. 이의가 있으면 서면으로 다투고 송달 증거를 남겨라. 추심은 검증을 받기 전에 중단되어야 한다. 셋째, 모든 소통은 가능한 한 서면으로 돌려라. 완전히 조용히 지내고 싶다면 § 1692c(c)의 서면 연락 중단 통지를 사용하라. 다만 빚 자체가 사라지지는 않으며, 상대가 여전히 소송을 제기할 수 있다는 점은 분명히 알아 두어라. 넷째, 덤으로 3대 신용 보고를 확인하라. Regulation F(12 C.F.R. § 1006.30(b))에 따르면, 추심인이 신용조사 기관에 빚을 보고하기 전에 먼저 사전 소통 요건을 충족해야 한다. 이미 이 빚에 대해 전화나 대면으로 이야기했거나, 검증 통지 같은 서면 소통을 우편으로 보내고 합리적인 시간(우편의 경우 CFPB 기준으로는 일반적으로 연속 14일)을 기다렸으며 되돌아오지 않은 경우이다. 보고에 오류가 있으면 《공정신용보고법》(Fair Credit Reporting Act, FCRA)의 경로로 따로 다투어라. 다섯째, 정말 합의하려면 먼저 금액을 협상한 뒤 조건을 협상하고, 서면 확인(금액, 완납 처리 방법, 신용 보고 방식)을 받은 뒤에야 돈을 내라. 「성의 표시금」을 먼저 내지 마라.
 
+마지막은 사기를 가려내는 하한선이다. 진짜 추심인은 기프트 카드, 전신 송금, 암호화폐로 즉시 결제하라고 요구하지 않고, 즉시 체포하겠다고 위협하지 않으며, 서면 통지 제공을 거부하지 않는다. 상대가 정말로 소송을 제기하면 법원 문서에 반드시 답변해야 한다. 궐석은 궐석판결을 가져오며, 그것은 어떤 추심 전화보다 비싸다. 금액이 크거나, 시효가 걸려 있거나, 이미 소가 제기되었다면 소비자 변호사에게 한 번 보여 주어라. 강한 사건은 FDCPA와 Rosenthal 법 아래에서 변호사 비용이 전가되는 경우가 많아, 당신이 먼저 돈을 낼 필요가 없을 수도 있다.
+
+주요 출처: 15 U.S.C. §§ 1692a–1692k(FDCPA); 12 C.F.R. Part 1006(CFPB Regulation F), 특히 §§ 1006.14, 1006.26, 1006.30, 1006.34; California Civil Code §§ 1788.2, 1788.17, 1788.30(Rosenthal 법); California Code of Civil Procedure §§ 337, 339.
+
+### Tiếng Việt (bản dịch)
+Hãy xếp các phần trước thành một trình tự thực tế. Bước một, đừng nhận nợ, trả tiền hay cho thông tin ngân hàng qua điện thoại; trước hết hãy nhận thông báo xác thực bằng văn bản, đối chiếu chủ nợ, bảng kê số tiền và số tài khoản, xem có phải nợ của bạn không, số tiền có đúng không, có phần nào đã trả rồi không. Bước hai, trong 30 ngày hãy quyết định tranh chấp hay nhận nợ: có ý kiến thì tranh chấp bằng văn bản và giữ bằng chứng giao nhận; việc thu nợ phải dừng trước khi có xác thực. Bước ba, mọi liên lạc cố gắng chuyển sang văn bản; muốn hoàn toàn yên tĩnh, hãy dùng thông báo ngừng liên lạc bằng văn bản theo § 1692c(c), nhưng hãy rõ trong lòng rằng điều này không xóa khoản nợ, đối phương vẫn có thể khởi kiện. Bước bốn, tiện thể kiểm tra ba báo cáo tín dụng. Theo Regulation F (12 C.F.R. § 1006.30(b)), trước khi báo cáo một khoản nợ cho cơ quan thông tin tín dụng, người thu nợ phải thỏa mãn điều kiện liên lạc trước: đã nói chuyện với bạn về khoản nợ này qua điện thoại hoặc trực tiếp, hoặc đã gửi thư thông báo xác thực như một liên lạc bằng văn bản và đã chờ một khoảng thời gian hợp lý (theo cách tính của CFPB, gửi thư thường tính là 14 ngày liên tiếp) mà không bị trả lại; nếu báo cáo có sai, hãy tranh chấp riêng qua kênh của 《Đạo luật Báo cáo Tín dụng Công bằng》(Fair Credit Reporting Act, FCRA). Bước năm, nếu thật sự muốn dàn xếp, trước hết đàm phán số tiền rồi mới đàm phán điều kiện, lấy được xác nhận bằng văn bản (số tiền, cách xử lý xóa nợ, cách báo cáo tín dụng) rồi mới trả tiền; đừng trả trước 「tiền thiện chí」.
+
+Cuối cùng là giới hạn dưới để nhận diện lừa đảo: người thu nợ thật sẽ không yêu cầu bạn thanh toán ngay bằng thẻ quà tặng, chuyển tiền điện báo hay tiền mã hóa, không đe dọa bắt giữ ngay lập tức, cũng không từ chối cung cấp thông báo bằng văn bản. Nếu đối phương thật sự khởi kiện, văn kiện tòa án buộc phải trả lời; vắng mặt sẽ dẫn đến bản án vắng mặt, đắt hơn bất kỳ cuộc điện thoại thu nợ nào. Khi số tiền lớn, liên quan đến thời hiệu hoặc đã bị kiện, hãy cho luật sư tiêu dùng xem qua một lượt; những vụ án mạnh theo FDCPA và luật Rosenthal thường có phí luật sư được chuyển sang phía đối phương, chưa chắc bạn phải bỏ tiền trước.
+
+### हिन्दी (अनुवाद)
+पिछले भागों को व्यावहारिक क्रम में रखें। पहला कदम, फ़ोन पर ऋण स्वीकार न करें, भुगतान न करें और बैंक जानकारी न दें; पहले लिखित सत्यापन सूचना प्राप्त करें, ऋणदाता, राशि विवरण और खाता संख्या मिलाएँ, देखें कि क्या यह आपका ऋण है, राशि सही है, क्या कुछ पहले चुकाया गया है। दूसरा कदम, 30 दिनों के भीतर तय करें कि विवाद करना है या स्वीकार करना है: आपत्ति हो तो लिखित विवाद करें और सुपुर्दगी का प्रमाण रखें; सत्यापन से पहले वसूली रुकनी चाहिए। तीसरा कदम, सभी संवाद यथासंभव लिखित में बदलें; पूरी शांति चाहिए तो § 1692c(c) की लिखित संपर्क-बंद सूचना का उपयोग करें, लेकिन मन में स्पष्ट रखें कि इससे ऋण समाप्त नहीं होता, विरोधी पक्ष फिर भी मुकदमा कर सकता है। चौथा कदम, साथ में तीनों क्रेडिट रिपोर्ट जाँचें। Regulation F (12 C.F.R. § 1006.30(b)) के अनुसार, वसूलीकर्ता को क्रेडिट ब्यूरो को ऋण की रिपोर्ट करने से पहले पूर्व-संपर्क शर्त पूरी करनी होती है: या तो उसने इस ऋण के बारे में आपसे फ़ोन पर या आमने-सामने बात की हो, या सत्यापन सूचना जैसी लिखित सूचना डाक से भेजकर उचित समय प्रतीक्षा की हो (CFPB के अनुसार डाक सामान्यतः लगातार 14 दिन गिनी जाती है) और वह लौटकर न आई हो; रिपोर्ट में त्रुटि हो तो 《निष्पक्ष क्रेडिट रिपोर्टिंग अधिनियम》(Fair Credit Reporting Act, FCRA) के माध्यम से अलग से विवाद करें। पाँचवाँ कदम, यदि सच में समझौता करना है तो पहले राशि पर, फिर शर्तों पर बात करें, लिखित पुष्टि (राशि, निपटान का तरीका, क्रेडिट रिपोर्टिंग कैसे होगी) मिलने के बाद ही भुगतान करें; पहले 「सद्भावना राशि」 न दें।
+
+अंत में धोखाधड़ी पहचानने की निचली रेखा: असली वसूलीकर्ता आपसे गिफ़्ट कार्ड, वायर ट्रांसफ़र या क्रिप्टोकरेंसी से तुरंत भुगतान नहीं माँगेगा, तत्काल गिरफ़्तारी की धमकी नहीं देगा, और लिखित सूचना देने से इनकार नहीं करेगा। यदि विरोधी पक्ष सच में मुकदमा करे, तो न्यायालय दस्तावेज़ का उत्तर अवश्य देना होगा; अनुपस्थिति से अनुपस्थिति निर्णय होगा, जो किसी भी वसूली फ़ोन से महँगा है। राशि बड़ी हो, समय-सीमा का प्रश्न हो या मुकदमा पहले से दायर हो, तो उपभोक्ता वकील को एक बार दिखाएँ; मज़बूत मामलों में FDCPA और Rosenthal कानून के तहत वकील फ़ीस अक्सर दूसरी ओर स्थानांतरित होती है, हो सकता है आपको पहले धन न देना पड़े।
+
+मुख्य स्रोत: 15 U.S.C. §§ 1692a–1692k (FDCPA); 12 C.F.R. Part 1006 (CFPB Regulation F), विशेषकर §§ 1006.14, 1006.26, 1006.30, 1006.34; California Civil Code §§ 1788.2, 1788.17, 1788.30 (Rosenthal कानून); California Code of Civil Procedure §§ 337, 339.
+
+---
 ## 声明 / Disclaimer / Aviso
 
 本篇为个人学习笔记，不构成法律建议。具体债务、时效与诉讼问题请咨询有执业资格的律师。
@@ -133,3 +221,7 @@ Fuentes principales: 15 U.S.C. §§ 1692a–1692k (FDCPA); 12 C.F.R. Parte 1006 
 This article is a personal study note only and does not constitute legal advice. For a specific debt, limitations, or litigation question, consult a licensed attorney.
 
 Este artículo es solo una nota personal de estudio y no constituye asesoría legal. Para una deuda, prescripción o litigio concreto, consulte a un abogado con licencia.
+
+*한국어·베트남어·힌디어 본문은 학습용 초역으로, 원어민 감수를 기다리고 있습니다.*
+*Bản tiếng Hàn, tiếng Việt và tiếng Hindi là bản dịch học tập, đang chờ người bản ngữ hiệu đính.*
+*कोरियाई, वियतनामी और हिंदी पाठ अध्ययन अनुवाद हैं; मूल-भाषी समीक्षा लंबित है।*
