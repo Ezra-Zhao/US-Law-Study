@@ -28,6 +28,7 @@
 - [New York Times Co. v. Sullivan (1964) 案例分析](案例分析/New-York-Times-v-Sullivan-1964-案例分析.md) —— 一则没点名的广告与 50 万美元陪审团裁决：376 U.S. 254 如何确立公职人员诽谤索赔的「实际恶意」规则。（六语对照）
 - [Terry v. Ohio (1968) 案例分析](案例分析/Terry-v-Ohio-1968-案例分析.md) —— 拦停拍搜的源头：392 U.S. 1 以「具体而可言明的事实」撑起合理怀疑门槛，Warren 多数把拍搜限在外衣找武器，Dickerson 的 plain feel 又划回边界。（六语对照）
 - [Mapp v. Ohio (1961) 案例分析](案例分析/Mapp-v-Ohio-1961-案例分析.md) —— 排除规则落到各州：367 U.S. 643 以 6 比 3 推翻 Wolf 的救济缺口，违法搜查的成果州法院也不能用；再看 Leon 善意、Hudson、Herring 六十年划出的例外线与加州 Prop 8 的量刑真相规则。（六语对照）
+- [Katz v. United States (1967) 案例分析](案例分析/Katz-v-United-States-1967-案例分析.md) —— 第四修正案保护人而非场所：389 U.S. 347 多数意见与 Harlan 协同的两步合理隐私期待测试、Olmstead 物理侵入旧轨的退场，以及 Smith 第三人原则与 Carpenter 手机定位记录划出的数字时代边界。（六语对照）
 
 ### 常用法律常识
 普通人在美国生活绕不开的法律常识，收到法院文件、签合同、被传唤时先看这里。
