@@ -17,6 +17,7 @@
 - [刑法备考核心：犯罪构成、谋杀分级与正当防卫](法律备考/刑法备考核心-犯罪构成谋杀分级与正当防卫.md) —— 先立 actus reus、MPC § 2.02 四级心态、因果与一致性的构成骨架，再走杀人阶梯：一级谋杀与 People v. Anderson（70 Cal.2d 15）的预谋证据、Mullaney（421 U.S. 684）与 Patterson（432 U.S. 197）的举证边界；加州 § 188(a)(3) 与 § 189(e) 经 SB 1437/SB 775 收紧后的重罪谋杀共犯门槛，以及正当防卫四件与 Humphrey（13 Cal.4th 1073）的不完美正当防卫。（六语对照）
 - [民事诉讼程序备考核心：对人管辖权、诉答、证据开示与简易判决](法律备考/民事诉讼程序备考核心-管辖权诉答开示与简易判决.md) —— 按阶段走完整条诉讼线：对人管辖的 International Shoe 最低接触与 Daimler「在家」门槛、Ford 的 relate to 与 Mallory（600 U.S. 122）的注册同意，Twombly/Iqbal 的可信性诉答标准与加州 demurrer 对照，第 26 条开示范围与比例性、Hickman 工作成果保护，以及 Celotex/Anderson 简易判决标准与 Erie/Hanna 选法。（六语对照）
 - [财产法备考核心：地产权益、转让与未来利益](法律备考/财产法备考核心-地产权益转让与未来利益.md) —— 先分占有性权益（fee simple、defeasible fees、life estate）与未来利益（remainder/reversion 与 RAP 的 lives in being + 21 年），再走共有三形态与加州 community property 对照、Statute of Frauds 与 deed/登记三型（race/notice/race-notice）转让链、lien theory 与 deed of trust、地役四种产生方式，以及 zoning 与 Penn Central（438 U.S. 104）/Lucas（505 U.S. 1003）征收规则。（六语对照）
+- [刑事诉讼程序备考核心：第四、第五、第六修正案与排除规则](法律备考/刑事诉讼程序备考核心-第四第五第六修正案与排除规则.md) —— 按执法顺序走：Katz（389 U.S. 347）隐私期待与 Riley 手机令状、Terry 拦停与 Rodriguez 时长、Miranda 羁押讯问与 Blockburger 双重追诉、Gideon/Strickland 律师权与 Ramos 一致裁决、排除规则与 Leon 善意例外，以及加州 Prop 8（§ 28(f)(2)）与 Penal Code §§ 825/859b/1538.5 的程序衔接。（六语对照）
 
 ### 案例分析
 经典判例拆解：事实、争点、判决、推理，一篇一个案子。
