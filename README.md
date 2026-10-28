@@ -23,7 +23,8 @@
 - [Gideon v. Wainwright (1963) 案例分析](案例分析/Gideon-v-Wainwright-1963-案例分析.md) —— 请不起律师时州必须免费指派：第六修正案律师帮助权如何经第十四修正案落到各州，以及 Argersinger、Scott、Strickland 划出的后续边界。
 - [Brown v. Board of Education (1954) 案例分析](案例分析/Brown-v-Board-of-Education-1954-案例分析.md) —— 公立学校种族隔离为何「本质上不平等」：347 U.S. 483 一致判决如何处理 Plessy 先例、第十四修正案制定史的「不确定」结论与脚注 11，以及 Brown II「审慎的速度」留下的执行难题。
 - [Marbury v. Madison (1803) 案例分析](案例分析/Marbury-v-Madison-1803-案例分析.md)
-- [New York Times Co. v. Sullivan (1964) 案例分析](案例分析/New-York-Times-v-Sullivan-1964-案例分析.md) —— 一则没点名的广告与 50 万美元陪审团裁决：376 U.S. 254 如何确立公职人员诽谤索赔的「实际恶意」规则、清楚而令人信服的证明标准与独立审查，以及 Butts 公众人物与 Gertz 私人原告两条后续边界。 —— 司法审查的源头：5 U.S. (1 Cranch) 137 里 Marshall 的三问结构、1789 年《司法法》第 13 条与宪法第三条的冲突，以及法院靠拒绝行使一项权力确立更大权力的悖论。
+- [New York Times Co. v. Sullivan (1964) 案例分析](案例分析/New-York-Times-v-Sullivan-1964-案例分析.md) —— 一则没点名的广告与 50 万美元陪审团裁决：376 U.S. 254 如何确立公职人员诽谤索赔的「实际恶意」规则。（六语对照）
+- [Terry v. Ohio (1968) 案例分析](案例分析/Terry-v-Ohio-1968-案例分析.md) —— 拦停拍搜的源头：392 U.S. 1 以「具体而可言明的事实」撑起合理怀疑门槛，Warren 多数把拍搜限在外衣找武器，Dickerson 的 plain feel 又划回边界。（六语对照）
 
 ### 常用法律常识
 普通人在美国生活绕不开的法律常识，收到法院文件、签合同、被传唤时先看这里。
