@@ -19,6 +19,7 @@
 - [财产法备考核心：地产权益、转让与未来利益](法律备考/财产法备考核心-地产权益转让与未来利益.md) —— 先分占有性权益（fee simple、defeasible fees、life estate）与未来利益（remainder/reversion 与 RAP 的 lives in being + 21 年），再走共有三形态与加州 community property 对照、Statute of Frauds 与 deed/登记三型（race/notice/race-notice）转让链、lien theory 与 deed of trust、地役四种产生方式，以及 zoning 与 Penn Central（438 U.S. 104）/Lucas（505 U.S. 1003）征收规则。（六语对照）
 - [刑事诉讼程序备考核心：第四、第五、第六修正案与排除规则](法律备考/刑事诉讼程序备考核心-第四第五第六修正案与排除规则.md) —— 按执法顺序走：Katz（389 U.S. 347）隐私期待与 Riley 手机令状、Terry 拦停与 Rodriguez 时长、Miranda 羁押讯问与 Blockburger 双重追诉、Gideon/Strickland 律师权与 Ramos 一致裁决、排除规则与 Leon 善意例外，以及加州 Prop 8（§ 28(f)(2)）与 Penal Code §§ 825/859b/1538.5 的程序衔接。（六语对照）
 - [证据法备考核心：相关性、传闻与弹劾](法律备考/证据法备考核心-相关性传闻与弹劾.md) —— 按四道门判断链走：FRE § 401/402 相关性与 § 403 天平、§ 404 品格禁令与 MIMIC 非倾向目的及 §§ 407–411 政策性排除、§ 801(c) 传闻定义与 § 801(d) 非传闻、§ 803/804 两组例外与 § 807 兜底、Crawford（541 U.S. 36）的对质天花板、§§ 607–609 弹劾与 § 702/Daubert（509 U.S. 579）专家守门，以及加州 Evidence Code §§ 210/352/1101/1200 与 Prop 8 的对照。（六语对照）
+- [宪法备考核心：权力结构、言论、宗教与正当程序](法律备考/宪法备考核心-权力结构言论宗教与正当程序.md) —— 列举权力与 McCulloch 宽读、Lopez 三类与 NFIB 三刀、Printz 反命令征用；言论先分内容中立再选档位（Reed 严格审查、Brandenburg 三要件、Sullivan actual malice、论坛三级）；宗教双条款分开走（Kennedy 弃 Lemon、Smith 中立普遍适用与 Fulton 豁免口子、RFRA 只约束联邦）；正当程序分程序与实体（Mathews 三因素、Dobbs 的深植历史传统方法）。（六语对照）
 
 ### 案例分析
 经典判例拆解：事实、争点、判决、推理，一篇一个案子。
