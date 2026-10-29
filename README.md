@@ -6,6 +6,8 @@
 
 作者：Guangyi Zhao
 
+
+支持与更多：[GitHub Sponsors](https://github.com/sponsors/Ezra-Zhao) · [Gumroad — 我在用的模板与工作簿](https://ezraflow28.gumroad.com) · [Ko-fi](https://ko-fi.com/ezra777zhao)
 ## 栏目
 
 ### 法律备考
