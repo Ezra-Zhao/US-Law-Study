@@ -76,6 +76,7 @@
 - [美国环境法地图：空气、水与污染清理与加州规则](美国法律图谱/美国环境法地图-空气水与污染清理与加州规则.md) —— 空气、水与污染清理一张图：NEPA（42 U.S.C. §§ 4321 起、§ 4332(2)(C)）的程序底盘与 1970 年设立的 EPA，Clean Air Act 的 § 7409 NAAQS 与 § 7411 及 SIP 落地、Massachusetts v. EPA（549 U.S. 497）与 2009 年危害认定、West Virginia v. EPA（597 U.S. 697）的重大问题原则与 § 7543 加州豁免，Clean Water Act 的 § 1342 NPDES 与 § 1344 第 404 节许可及 Sackett（598 U.S. 651）的连续地表连接线，以及 CERCLA § 9607 的严格、溯及既往与连带责任、RCRA／TSCA／ESA 伙伴法与加州 CEQA、Porter-Cologne、CARB、Prop 65（§ 25249.6）的加层。（六语对照）
 - [美国消费者保护法地图：联邦 FTC 与 CFPB、州 UDAP 与加州规则](美国法律图谱/美国消费者保护法地图-FTC与CFPB州UDAP与加州规则.md) —— 买东西被坑找谁的整张图：FTC Act § 5（15 U.S.C. § 45）的不公平与欺骗行为禁令与 AMG Capital（593 U.S. 67）后 § 13(b) 不能再直接拿钱、须走 § 19 的收尾；Dodd-Frank 设立的 CFPB（12 U.S.C. §§ 5491 起）与 §§ 5531／5536 的 UDAAP，分线法 TILA／ECOA／FCRA／FDCPA 与 Magnuson-Moss 保修、TCPA（47 U.S.C. § 227）、CAN-SPAM；加州 UCL § 17200 三叉与 § 17500 虚假广告、Prop 64 后私人原告须有金钱或财产损失，CLRA（Civil Code § 1750 起）、Song-Beverly（§ 1790 起）、自动续订法（§§ 17600 起）与 CCPA／CPRA（§ 1798.100 起），以及仲裁条款把多数消费争议导出法院的现实。（六语对照）
 
+- [美国刑事司法地图：联邦与州双轨——检察、审判、量刑与加州规则](美国法律图谱/美国刑事司法地图-联邦与州双轨检察审判量刑与加州规则.md) —— Gamble（587 U.S. 678）双重主权与 94 个联邦司法区、大陪审团与加州 §§ 738/859b 预审、Speedy Trial Act § 3161 的 30 天与 70 天、Booker 后咨询性量刑指南与 § 3583 监督释放、三振法 §§ 667/1170.12 与 Prop 36/47、AB 109 与 § 1170(h)。（六语对照）
 ## 关于西语版
 
 西班牙语版本为学习译稿（study translation），由作者为语言学习目的译出，待母语校对（pending native review）。法律术语的准确表述请以英文原版和官方文本为准。
