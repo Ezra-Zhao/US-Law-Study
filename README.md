@@ -36,6 +36,7 @@
 - [Tinker v. Des Moines (1969) 案例分析](案例分析/Tinker-v-Des-Moines-1969-案例分析.md) —— 学生不把言论自由留在校门外：393 U.S. 503 以 7 比 2 否掉无干扰证据的黑纱先行禁令，立下「能合理预见实质干扰或侵犯他人权利才可禁」的测试；再看 Fraser、Hazelwood、Morse、Mahanoy 一块块切出的例外，以及加州 Education Code §§ 48907／48950 的州层保护。（六语对照）
 - [Chevron U.S.A. Inc. v. NRDC (1984) 案例分析](案例分析/Chevron-v-NRDC-1984-案例分析.md) —— 法条没说清时听谁的：467 U.S. 837 以一致判决（Stevens 执笔）立下两步框架——国会意图清楚则照办，沉默或含糊则只问机关解释是否容许（permissible construction），EPA 的气泡概念据此过关；再看 2024 年 Loper Bright（603 U.S. 369）以 6 比 3 明文推翻 Chevron、法院回归独立判断，但既往判决效力与 Skidmore 敬重保留的双轨收尾。（六语对照）
 - [Citizens United v. FEC (2010) 案例分析](案例分析/Citizens-United-v-FEC-2010-案例分析.md) —— 公司花钱说话能不能禁：558 U.S. 310 以 5 比 4 推翻 Austin（494 U.S. 652）与 McConnell 的相关部分，放开公司与工会的独立支出；却以 8 比 1 留下 BCRA §§ 201/311 的披露与声明义务，且完全没动 52 U.S.C. § 30118 的直接捐款禁令与 Beaumont（539 U.S. 157）；再看 SpeechNow 催生 Super PAC 与加州政治改革法（Gov. Code §§ 81000 起）的双轨衔接。（六语对照）
+- [Obergefell v. Hodges (2015) 案例分析](案例分析/Obergefell-v-Hodges-2015-案例分析.md) —— 同性婚姻推向全国的那一判：576 U.S. 644 以 5 比 4 认定各州婚姻禁令违反第十四修正案正当程序与平等保护，各州既须发证、也须承认外州合法同性婚姻；Kennedy 多数沿 Loving／Zablocki／Turner／Griswold 的婚姻基本权谱系立论，Roberts 首席大法官以民主程序为据的主要异议对照；加州 Prop 8 经 Hollingsworth v. Perry（570 U.S. 693）以当事人资格驳回后于 2013 年先行恢复登记，Obergefell 于 2015 年推向全国，2022 年《尊重婚姻法》（Pub. L. 117-228）再补 1 U.S.C. § 7 与 28 U.S.C. § 1738C 的法定承认层（本身不课各州发证义务）。（六语对照）
 
 ### 常用法律常识
 普通人在美国生活绕不开的法律常识，收到法院文件、签合同、被传唤时先看这里。
