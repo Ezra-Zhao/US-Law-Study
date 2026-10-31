@@ -40,6 +40,7 @@
 
 ### 案例分析
 经典判例拆解：事实、争点、判决、推理，一篇一个案子。
+- [Students for Fair Admissions v. Harvard (2023) 案例分析](案例分析/Students-for-Fair-Admissions-v-Harvard-2023-案例分析.md) —— 招生平权终局：600 U.S. 181 以 UNC 案 6 比 3、哈佛案 6 比 2（Jackson 回避哈佛案）认定两校种族因素招生未过严格审查——多元化利益不可衡量、种族成零和负数、刻板印象、无逻辑终点，Grutter（539 U.S. 306）的 25 年预期到期；脚注 4 不处理军校，文书谈种族影响人生只许系于个人品质；加州 Prop 209（宪法 art. I, 第 31 条）早已种族中立、Prop 16 恢复被否决的衔接。（六语对照）
 - [Miranda v. Arizona (1966) 案例分析](案例分析/Miranda-v-Arizona-1966-案例分析.md) —— "米兰达警告"的来源，看第五修正案在讯问室里是怎么落地的。（六语对照）
 - [Gideon v. Wainwright (1963) 案例分析](案例分析/Gideon-v-Wainwright-1963-案例分析.md) —— 请不起律师时州必须免费指派：第六修正案律师帮助权如何经第十四修正案落到各州，以及 Argersinger、Scott、Strickland 划出的后续边界。（六语对照）
 - [Brown v. Board of Education (1954) 案例分析](案例分析/Brown-v-Board-of-Education-1954-案例分析.md) —— 公立学校种族隔离为何「本质上不平等」：347 U.S. 483 一致判决如何处理 Plessy 先例、第十四修正案制定史的「不确定」结论与脚注 11，以及 Brown II「审慎的速度」留下的执行难题。（六语对照）
