@@ -73,6 +73,7 @@
 - [Loving v. Virginia (1967) 案例分析](案例分析/Loving-v-Virginia-1967-案例分析.md) —— 结婚自由的源头判例：388 U.S. 1 以 9 比 0 一致推翻弗吉尼亚反异族通婚法，Warren 首席大法官双轨并进——平等保护上种族分类受最严格审查、「双方同罚」论（Pace v. Alabama, 106 U.S. 583）被拒且 McLaughlin (379 U.S. 184) 已先行掏空，正当程序上结婚是基本自由（Skinner, 316 U.S. 535 谱系）；1959 年 Bazile 法官以离州 25 年换 1 年缓刑的流放式判决、206 Va. 924 的州审维持与 ACLU 代理链；加州 Perez v. Sharp (32 Cal.2d 711, 1948) 早 19 年首推此类法律，Loving 的谱系再由 Zablocki／Turner／Obergefell 承接，2022 年《尊重婚姻法》28 U.S.C. § 1738C 的承认义务明确涵盖种族。（六语对照）
 - [Plessy v. Ferguson (1896) 案例分析](案例分析/Plessy-v-Ferguson-1896-案例分析.md) —— 「分离但平等」的源头：163 U.S. 537 以 7 比 1 维持路易斯安那《分车法》，Brown 多数把平等切成法律与社会两半、把隔离污名说成主观感受；Harlan 独自异议「宪法是色盲的」；1892 年公民委员会安排的测试案件、25 美元／20 天罚则，以及 Brown（347 U.S. 483）先在教育领域否定其前提、1964 年《民权法》立法封堵与 2022 年身后赦免的收尾。（六语对照）
 - [Dobbs v. Jackson Women's Health Organization (2022) 案例分析](案例分析/Dobbs-v-Jackson-Womens-Health-2022-案例分析.md) —— 推翻 Roe 与 Casey 的判例：597 U.S. 215 以 6 比 3 维持密西西比 15 周禁令、以 5 比 4 推翻 Roe（410 U.S. 113）与 Casey（505 U.S. 833），Alito 多数以 Glucksberg 历史传统测试与 stare decisis 五因素论证、审查回到 rational basis，Roberts 仅同意结论，Breyer 与 Sotomayor、Kagan 联合异议；加州以 Prop 1 把生殖自由写入州宪法 §1.1 的反向衔接。（六语对照）
+- [Texas v. Johnson (1989) 案例分析](案例分析/Texas-v-Johnson-1989-案例分析.md) —— 焚旗算不算言论：491 U.S. 397，5 比 4（Brennan 多数、Kennedy 协同、Rehnquist 与 Stevens 反对）认定政治抗议焚旗是受第一修正案保护的表达行为；判断链为 Spence 表达行为认定＋州利益与压制表达相关故排除 O'Brien、转最严格审查，根子是 Barnette 的禁止规定正统；1989 年《国旗保护法》被 Eichman（496 U.S. 310 (1990)）以同一阵容判违宪，护旗修宪案 2006 年参议院 66 比 34 一票之差受阻。（六语对照）
 
 ### 常用法律常识
 普通人在美国生活绕不开的法律常识，收到法院文件、签合同、被传唤时先看这里。
