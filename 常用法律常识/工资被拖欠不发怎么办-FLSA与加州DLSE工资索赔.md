@@ -75,3 +75,7 @@ Thứ nhất, đồng hồ thời hiệu. Theo § 255(a) FLSA, khiếu nại th�
 
 *声明：本文为个人学习笔记，不构成法律建议。具体案件请咨询执业律师或劳工专员办公室。*
 *Disclaimer: Personal study notes only; not legal, tax, or medical advice.*
+*Notas personales de estudio; no constituyen asesoría legal. Para un caso concreto, consulte a un abogado colegiado. (译稿·初译待校)*
+*개인 학습 노트이며 법률 자문이 아닙니다. 구체적인 사안은 면허 있는 변호사에게 상담하십시오. (초역·待校)*
+*Ghi chú học tập cá nhân, không cấu thành tư vấn pháp lý. Đối với vụ việc cụ thể, hãy tham vấn luật sư có giấy phép. (bản dịch sơ bộ·待校)*
+*यह व्यक्तिगत अध्ययन नोट है और कानूनी सलाह नहीं है। किसी विशिष्ट मामले के लिए कृपया लाइसेंसधारी वकील से परामर्श करें। (प्रारंभिक अनुवाद·待校)*
