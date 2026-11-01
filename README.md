@@ -146,6 +146,7 @@
 
 - [美国交通法地图：联邦监管、州车辆法与加州车辆法典](美国法律图谱/美国交通法地图-联邦监管州车辆法与加州车辆法典.md) —— 车、路、人的三层拼图：联邦 49 U.S.C. §§ 30101–30183 与 FMVSS 定车辆标准、§ 30103 优先适用（Geier 529 U.S. 861），23 U.S.C. § 158 经 Dole（483 U.S. 203）把饮酒年龄推到 21、§ 163 推 0.08 per se；州管驾照注册与酒驾三件套（per se＋默示同意＋刑罚阶梯），商用轨 CDL（49 C.F.R. Part 383）与 HOS § 395.3；加州 Vehicle Code § 23152 双轨酒驾、§ 12810.5 记点 4/6/8、§ 22349 限速与 SB 1107 自 2025 年保额 30/60/15。（六语对照）
 - [美国水法地图：东部润岸、西部先占与加州双轨及 SGMA](美国法律图谱/美国水法地图-东部润岸西部先占与加州双轨SGMA.md) —— 用水权与水质两层拆：东部润岸合理使用、西部先占制先到先得与有益使用；联邦 CWA § 402 NPDES 与 § 404、SDWA 管水质；Winters（207 U.S. 564）保留权利与 Arizona v. California（373 U.S. 546）科罗拉多河分配；加州 Lux v. Haggin 双轨、州水委员会许可、宪法 art. X § 2 合理使用、National Audubon（33 Cal.3d 419）莫诺湖公共信托与 SGMA（Water Code §§ 10720 起）地下水可持续。（六语对照）
+- [环境法备考核心：NEPA、CAA/CWA 许可双轨、CERCLA 与加州 CEQA](法律备考/环境法备考核心-NEPA清洁空气水法与CERCLA及加州CEQA.md) —— NEPA 纯程序法（42 U.S.C. § 4332(2)(C) 的 EIS、Methow Valley 490 U.S. 332 无实质义务、Vermont Yankee 435 U.S. 519）；CAA 合作联邦主义（§ 7409 NAAQS＋§ 7410 SIP、Massachusetts v. EPA 549 U.S. 497 与 West Virginia v. EPA 597 U.S. 697 重大问题）；CWA 双许可（§ 1342 NPDES＋§ 1344、Sackett 598 U.S. 651 收窄 WOTUS）；CERCLA § 9607 四类 PRP 严格追溯连带与 Burlington Northern 556 U.S. 599 的 9% 分割、RCRA 全程管控；加州 CEQA 的实质减缓义务、Porter-Cologne 与 SB 32 的 2030 年减 40% 及 AB 1279 的 2045 碳中和。（六语对照）
 
 ## 关于西语版
 
