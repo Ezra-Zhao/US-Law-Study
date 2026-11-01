@@ -75,6 +75,7 @@
 - [Plessy v. Ferguson (1896) 案例分析](案例分析/Plessy-v-Ferguson-1896-案例分析.md) —— 「分离但平等」的源头：163 U.S. 537 以 7 比 1 维持路易斯安那《分车法》，Brown 多数把平等切成法律与社会两半、把隔离污名说成主观感受；Harlan 独自异议「宪法是色盲的」；1892 年公民委员会安排的测试案件、25 美元／20 天罚则，以及 Brown（347 U.S. 483）先在教育领域否定其前提、1964 年《民权法》立法封堵与 2022 年身后赦免的收尾。（六语对照）
 - [Dobbs v. Jackson Women's Health Organization (2022) 案例分析](案例分析/Dobbs-v-Jackson-Womens-Health-2022-案例分析.md) —— 推翻 Roe 与 Casey 的判例：597 U.S. 215 以 6 比 3 维持密西西比 15 周禁令、以 5 比 4 推翻 Roe（410 U.S. 113）与 Casey（505 U.S. 833），Alito 多数以 Glucksberg 历史传统测试与 stare decisis 五因素论证、审查回到 rational basis，Roberts 仅同意结论，Breyer 与 Sotomayor、Kagan 联合异议；加州以 Prop 1 把生殖自由写入州宪法 §1.1 的反向衔接。（六语对照）
 - [Texas v. Johnson (1989) 案例分析](案例分析/Texas-v-Johnson-1989-案例分析.md) —— 焚旗算不算言论：491 U.S. 397，5 比 4（Brennan 多数、Kennedy 协同、Rehnquist 与 Stevens 反对）认定政治抗议焚旗是受第一修正案保护的表达行为；判断链为 Spence 表达行为认定＋州利益与压制表达相关故排除 O'Brien、转最严格审查，根子是 Barnette 的禁止规定正统；1989 年《国旗保护法》被 Eichman（496 U.S. 310 (1990)）以同一阵容判违宪，护旗修宪案 2006 年参议院 66 比 34 一票之差受阻。（六语对照）
+- [Loper Bright Enterprises v. Raimondo (2024) 案例分析](案例分析/Loper-Bright-v-Raimondo-2024-案例分析.md) —— Chevron 时代怎么结束：603 U.S. 369，2024-06-28 以 6 比 3（Roberts 多数、Thomas 与 Gorsuch 协同、Kagan 反对）推翻 Chevron v. NRDC, 467 U.S. 837 (1984) 两步框架；案源为马格努森-史蒂文斯法下 NMFS 要鲱鱼船自付约每天 710 美元海上观察员费用，论证回到 APA 5 U.S.C. § 706「法院决定一切相关法律问题」与 Skidmore, 323 U.S. 134 (1944) 的说服力尊重，并保留既往依 Chevron 判决的效力。（六语对照）
 
 ### 常用法律常识
 普通人在美国生活绕不开的法律常识，收到法院文件、签合同、被传唤时先看这里。
