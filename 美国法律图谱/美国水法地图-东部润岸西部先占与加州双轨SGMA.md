@@ -1,0 +1,53 @@
+# 美国水法地图：东部润岸、西部先占，联邦管水质与航行，加州双轨加地下水新规
+
+> 板块：美国法律图谱 · 水法没有统一法典：用水权利在州法（东部润岸制与西部先占制两条根），联邦管水质、航行与联邦保留权利；加州是少数双轨并行州，2014 年起地下水也有了可持续管理框架。
+
+## 中文
+
+### 一、先分清两件事：用水权在州，管水质在联邦
+
+美国水法要先拆成两层。第一层是"谁能取多少水"，这是财产权问题，归州法：东部水量相对充沛，走润岸权（riparian rights）——沿岸土地所有人都有合理使用（reasonable use）河湖之水的权利，权利随土地走、不用不失，只是不能不合理地损害其他润岸者。第二层是"水干不干净、能不能通航"，联邦介入很深：《清洁水法》（Clean Water Act, 33 U.S.C. §§ 1251 起）第 402 条设国家污染物排放消除系统（NPDES）许可证管点源排放，第 404 条管疏浚与填埋物排入水体（陆军工程兵团与 EPA 共管）；《安全饮用水法》（Safe Drinking Water Act, 42 U.S.C. §§ 300f 起）由 EPA 设饮用水标准、州执行为主。两层别混：拿到州的取水权，不等于可以排污；拿到联邦排污许可，也不产生取水权。
+
+### 二、西部先占制：先到先得、用益不用作废
+
+西部干旱，规则完全不同：先占权（prior appropriation）按"时间优先、权利优先"（first in time, first in right）排序——谁先把水实际引走并作有益使用（beneficial use），谁的权利位阶就高，枯水年按位阶从低到高依次削减，资深权利人先足量。用而不用则废：多年不用可能被认定放弃或没收（forfeiture）。权利可以与土地分离、单独买卖转让，这正是西部水市场的基础。联邦层面还有一层叠加：Winters v. United States, 207 U.S. 564 (1908) 确立保留权利（reserved rights）——联邦为印第安保留地等联邦土地默示保留足够水量，优先级按保留地设立之日算，往往非常资深；Arizona v. California, 373 U.S. 546 (1963) 则把科罗拉多河下流的水量在各州之间以《博尔德峡谷工程法》的框架作了量化分配。
+
+### 三、加州规则：双轨并行加公共信托与地下水改革
+
+加州是混合制：润岸权与先占权并存（Lux v. Haggin, 69 Cal. 255 (1886) 确立的"加州主义"），1914 年后取水许可由州水资源控制委员会（State Water Resources Control Board）管理，先占权也要按位阶排队，润岸权一般优先但受宪法第 10 条第 2 款"合理有益使用"总约束——浪费的水不受保护。公共信托原则是第三条线：National Audubon Society v. Superior Court, 33 Cal.3d 419 (1983)（莫诺湖案）认定州有持续义务保护通航水域的公共信托价值，取水许可也要受信托审查。地下水过去基本靠土地上覆权（overlying rights）与普通法分配，直到《可持续地下水管理法》（Sustainable Groundwater Management Act, SGMA, Water Code §§ 10720 起，2014 年）要求高、中优先级盆地组建地下水可持续机构（GSA）、制定可持续计划（GSP），目标在 2040/2042 年前实现盆地可持续——地下水从"先抽先赢"第一次被装上总量管理。
+
+### 四、看懂这张图的三个抓手
+
+第一问权利类型：润岸、先占、上覆还是保留权利，类型决定位阶与可转让性。第二问哪一层管辖：取水看州与州水委员会，水质与湿地看联邦 CWA 许可，两条线分别办。第三问有没有信托与环境叠加：公共信托、濒危物种法对取水时点与流量的限制，常让纸面权利在枯水年大打折扣。
+
+> 个人学习笔记，不构成法律建议。
+
+## English
+
+Water law in the United States has no single code. Rights to use water are state property law: the East follows riparian rights — owners of land adjoining water may make reasonable use of it, the right runs with the land and is not lost by nonuse — while water quality and navigation are heavily federal. The Clean Water Act (33 U.S.C. §§ 1251 et seq.) requires NPDES permits for point-source discharges under § 402 and dredge-and-fill permits under § 404, and the Safe Drinking Water Act (42 U.S.C. §§ 300f et seq.) sets federal drinking-water standards. A state water right never authorizes pollution, and a federal discharge permit never creates a water right. The arid West instead uses prior appropriation: first in time, first in right, priority turns on diverting water to beneficial use, senior rights are satisfied first in dry years, unused rights may be forfeited, and rights can be severed from land and sold. Federal reserved rights overlay the system: Winters v. United States, 207 U.S. 564 (1908) held that federal reservations carry implied water rights with a priority date of the reservation's creation, and Arizona v. California, 373 U.S. 546 (1963) quantified lower Colorado River entitlements. California is a hybrid: riparian and appropriative rights coexist under the doctrine confirmed in Lux v. Haggin, 69 Cal. 255 (1886), post-1914 appropriations need permits from the State Water Resources Control Board, all rights are limited by the constitutional reasonable-and-beneficial-use rule (Cal. Const. art. X, § 2), and the public trust doctrine of National Audubon Society v. Superior Court, 33 Cal.3d 419 (1983) (Mono Lake) subjects diversions to continuing trust review. Groundwater, long governed by overlying rights, gained a management framework under the Sustainable Groundwater Management Act (Water Code §§ 10720 et seq., 2014), requiring groundwater sustainability agencies and plans aimed at sustainability by 2040/2042. Study map: identify the right type first, then the governing layer (state for quantity, federal for quality), then trust and environmental overlays that can shrink paper rights in dry years.
+
+*Personal study notes only; not legal advice.*
+
+## Español (初译待校)
+
+El derecho de aguas en Estados Unidos no tiene un código único. El derecho a usar el agua es materia estatal: el este sigue los derechos ribereños (riparian rights), con uso razonable por los propietarios colindantes, mientras la calidad del agua es en gran parte federal: la Clean Water Act (33 U.S.C. §§ 1251 y ss.) exige permisos NPDES (§ 402) y permisos de dragado y relleno (§ 404), y la Safe Drinking Water Act (42 U.S.C. §§ 300f y ss.) fija estándares de agua potable. Un derecho estatal de uso no autoriza a contaminar, y un permiso federal de descarga no crea derechos de uso. El oeste árido aplica la apropiación previa (prior appropriation): primero en el tiempo, primero en el derecho; la prioridad depende del uso beneficioso, en años secos se atiende primero a los derechos más antiguos, el derecho no usado puede perderse y puede venderse separado de la tierra. Los derechos federales reservados se superponen: Winters v. United States, 207 U.S. 564 (1908) reconoció derechos implícitos de las reservas federales con la fecha de prioridad de su creación, y Arizona v. California, 373 U.S. 546 (1963) cuantificó las asignaciones del bajo río Colorado. California es un sistema mixto: conviven derechos ribereños y de apropiación (Lux v. Haggin, 69 Cal. 255 (1886)), las apropiaciones posteriores a 1914 requieren permiso de la State Water Resources Control Board, todo uso está limitado por la regla constitucional de uso razonable y beneficioso (art. X, § 2) y la doctrina del fideicomiso público de National Audubon Society v. Superior Court, 33 Cal.3d 419 (1983) (lago Mono) somete las desviaciones a revisión continua. El agua subterránea sumó un marco con la Sustainable Groundwater Management Act (Water Code §§ 10720 y ss., 2014), con agencias y planes de sostenibilidad hacia 2040/2042. Claves: identificar el tipo de derecho, la capa competente (cantidad en el estado, calidad en el nivel federal) y las limitaciones ambientales.
+
+*Notas personales de estudio; no constituye asesoría legal. Traducción de estudio, pendiente de revisión por hablante nativo.*
+
+## 한국어 (초역, 교정 대기)
+
+미국 수법에는 단일 법전이 없다. 물 사용권은 주 재산법이다. 동부는 연안권(riparian rights)을 따라 인접 토지 소유자가 합리적 사용을 할 수 있고 권리는 토지와 함께 이전되며 사용하지 않아도 소멸하지 않는다. 반면 수질은 연방이 깊이 관여한다. 청정수법(33 U.S.C. §§ 1251 이하) § 402의 NPDES 허가와 § 404의 준설·매립 허가가 필요하고, 안전식수법(42 U.S.C. §§ 300f 이하)이 음용수 기준을 정한다. 주의 사용권이 오염을 허용하지는 않으며, 연방 배출 허가가 사용권을 만들지도 않는다. 건조한 서부는 선점권(prior appropriation)이다. 먼저 beneficial use로 취수한 자가 우선하고, 가뭄 해에는 후순위부터 삭감되며, 사용하지 않으면 몰수될 수 있고 권리만 따로 매매할 수 있다. 연방 유보권이 겹친다. Winters v. United States, 207 U.S. 564 (1908)는 연방 보호구역에 설립일 우선순위의 묵시적 수리권을 인정했고, Arizona v. California, 373 U.S. 546 (1963)은 콜로라도강 하류 배분을 확정했다. 캘리포니아는 혼합형이다. 연안권과 선점권이 공존하고(Lux v. Haggin, 69 Cal. 255 (1886)), 1914년 이후 선점은 주 수자원관리위원회 허가가 필요하며, 모든 권리는 헌법 제10조 제2항의 합리적·유익한 사용 원칙과 National Audubon Society v. Superior Court, 33 Cal.3d 419 (1983)(모노호 사건)의 공공신탁 원칙에 제한을 받는다. 지하수는 2014년 지속가능 지하수관리법(Water Code §§ 10720 이하, SGMA)으로 지속가능 기관과 계획이 도입되어 2040/2042년 지속가능성을 목표로 한다. 핵심은 권리 유형, 관할 층위(수량은 주, 수질은 연방), 환경 제한을 순서대로 확인하는 것이다.
+
+*개인 학습 노트이며 법률 자문이 아닙니다. 초역으로 교정 대기 중입니다.*
+
+## Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+Luật nước của Hoa Kỳ không có một bộ luật thống nhất. Quyền sử dụng nước thuộc luật tài sản của bang: miền Đông theo quyền ven bờ (riparian rights) — chủ đất ven sông hồ được sử dụng hợp lý; chất lượng nước chủ yếu do liên bang quản lý: Đạo luật Nước sạch (33 U.S.C. §§ 1251 trở đi) yêu cầu giấy phép xả thải NPDES (§ 402) và giấy phép nạo vét, san lấp (§ 404), còn Đạo luật Nước uống an toàn (42 U.S.C. §§ 300f trở đi) đặt tiêu chuẩn nước uống. Quyền dùng nước của bang không cho phép gây ô nhiễm, và giấy phép xả thải liên bang không tạo ra quyền dùng nước. Miền Tây khô hạn áp dụng chiếm hữu trước (prior appropriation): đến trước, quyền trước; ưu tiên dựa trên việc dẫn nước vào sử dụng có ích, năm khô hạn quyền mới hơn bị cắt trước, không dùng có thể bị tước, và quyền có thể bán tách khỏi đất. Quyền bảo lưu liên bang chồng lên hệ thống: Winters v. United States, 207 U.S. 564 (1908) công nhận quyền nước ngầm định cho các khu bảo lưu liên bang với ngày ưu tiên là ngày thành lập, và Arizona v. California, 373 U.S. 546 (1963) đã định lượng phân bổ hạ lưu sông Colorado. California là hệ thống lai: quyền ven bờ và quyền chiếm hữu cùng tồn tại (Lux v. Haggin, 69 Cal. 255 (1886)), chiếm hữu sau 1914 cần giấy phép của Ủy ban Kiểm soát Tài nguyên Nước bang, mọi quyền bị giới hạn bởi nguyên tắc sử dụng hợp lý và có ích trong hiến pháp (điều X, § 2) và học thuyết ủy thác công trong National Audubon Society v. Superior Court, 33 Cal.3d 419 (1983) (hồ Mono). Nước ngầm có khung quản lý từ Đạo luật Quản lý Nước ngầm Bền vững (Water Code §§ 10720 trở đi, 2014) với cơ quan và kế hoạch bền vững hướng tới 2040/2042. Ba chìa khóa: xác định loại quyền, tầng quản lý (số lượng do bang, chất lượng do liên bang), và các giới hạn môi trường.
+
+*Ghi chú học tập cá nhân, không phải tư vấn pháp lý. Bản dịch sơ bộ, chờ hiệu đính.*
+
+## हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+संयुक्त राज्य अमेरिका के जल कानून की कोई एकल संहिता नहीं है। जल उपयोग का अधिकार राज्य संपत्ति कानून है: पूर्व में तटीय अधिकार (riparian rights) लागू हैं — किनारे की भूमि के स्वामी युक्तियुक्त उपयोग कर सकते हैं; जल गुणवत्ता मुख्यतः संघीय क्षेत्र है: स्वच्छ जल अधिनियम (33 U.S.C. §§ 1251 आदि) § 402 के अंतर्गत NPDES परमिट और § 404 के अंतर्गत ड्रेज-एवं-भराव परमिट माँगता है, और सुरक्षित पेयजल अधिनियम (42 U.S.C. §§ 300f आदि) पेयजल मानक तय करता है। राज्य का उपयोग-अधिकार प्रदूषण की अनुमति नहीं देता, और संघीय निर्वहन परमिट उपयोग-अधिकार नहीं बनाता। शुष्क पश्चिम में पूर्व विनियोग (prior appropriation) चलता है: समय में पहले, अधिकार में पहले; प्राथमिकता लाभकारी उपयोग पर आधारित है, सूखे वर्षों में कनिष्ठ अधिकार पहले घटते हैं, अनुपयोग से अधिकार जब्त हो सकता है, और अधिकार भूमि से अलग बेचा जा सकता है। संघीय आरक्षित अधिकार इस पर अध्यारोपित हैं: Winters v. United States, 207 U.S. 564 (1908) ने संघीय आरक्षणों के लिए स्थापना-तिथि प्राथमिकता वाले निहित जल अधिकार माने, और Arizona v. California, 373 U.S. 546 (1963) ने निचली कोलोराडो नदी के आवंटन तय किए। कैलिफ़ोर्निया मिश्रित प्रणाली है: तटीय और विनियोग अधिकार सह-अस्तित्व में हैं (Lux v. Haggin, 69 Cal. 255 (1886)), 1914 के बाद के विनियोग हेतु राज्य जल संसाधन नियंत्रण बोर्ड का परमिट चाहिए, सभी अधिकार संविधान अनुच्छेद X, § 2 के युक्तियुक्त व लाभकारी उपयोग नियम और National Audubon Society v. Superior Court, 33 Cal.3d 419 (1983) (मोनो झील) के सार्वजनिक न्यास सिद्धांत से सीमित हैं। भूजल को 2014 के सतत भूजल प्रबंधन अधिनियम (Water Code §§ 10720 आदि, SGMA) से प्रबंधन ढाँचा मिला, जिसका लक्ष्य 2040/2042 तक स्थिरता है। कुंजियाँ: अधिकार का प्रकार, सक्षम स्तर (मात्रा राज्य, गुणवत्ता संघ), और पर्यावरणीय सीमाएँ।
+
+*व्यक्तिगत अध्ययन नोट्स; कानूनी सलाह नहीं। प्रारंभिक अनुवाद, समीक्षा लंबित।*
