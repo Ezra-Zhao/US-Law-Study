@@ -98,5 +98,9 @@ Mapp ने मुख्य नियम स्थापित किया; अ
 ## 免责声明
 
 本仓库为个人学习笔记，不构成法律建议（This repository contains personal study notes only and does not constitute legal advice）。具体案件请咨询有执业资格的律师。
+*Notas personales de estudio; no constituyen asesoría legal. Para un caso concreto, consulte a un abogado colegiado. (译稿·初译待校)*
+*개인 학습 노트이며 법률 자문이 아닙니다. 구체적인 사안은 면허 있는 변호사에게 상담하십시오. (초역·待校)*
+*Ghi chú học tập cá nhân, không cấu thành tư vấn pháp lý. Đối với vụ việc cụ thể, hãy tham vấn luật sư có giấy phép. (bản dịch sơ bộ·待校)*
+*यह व्यक्तिगत अध्ययन नोट है और कानूनी सलाह नहीं है। किसी विशिष्ट मामले के लिए कृपया लाइसेंसधारी वकील से परामर्श करें। (प्रारंभिक अनुवाद·待校)*
 
 *六语对照：中文主文，English 次之，Español 为学习译稿，한국어·Tiếng Việt·हिन्दी 为初译待校。*
