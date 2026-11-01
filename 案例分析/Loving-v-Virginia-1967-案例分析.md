@@ -308,3 +308,13 @@ California का संबंध अलग से याद रखने यो
 ## 免责声明
 
 本文为个人学习笔记，不构成法律建议。文中所引法条、判例与程序事实已按公开来源核对，但具体个案的法律适用请咨询有执业资格的律师。Español、한국어、Tiếng Việt、हिन्दी 四个版本为初译待校，数字与判例引证与中文、英文版保持一致，正式引用时请以英文判例原文为准。
+
+This article is a personal study note and does not constitute legal advice.
+
+Este artículo es una nota de estudio personal y no constituye asesoría legal.
+
+본 문서는 개인 학습 노트이며 법률 자문이 아닙니다. (초역, 원어민 감수 대기)
+
+Bài viết này là ghi chú học tập cá nhân, không phải tư vấn pháp lý. (Bản dịch sơ bộ, chờ hiệu đính)
+
+यह लेख एक व्यक्तिगत अध्ययन नोट है और कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
