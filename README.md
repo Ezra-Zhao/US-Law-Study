@@ -43,6 +43,7 @@
 
 ### 案例分析
 经典判例拆解：事实、争点、判决、推理，一篇一个案子。
+- [Kelo v. City of New London (2005) 案例分析](案例分析/Kelo-v-City-of-New-London-2005-案例分析.md) —— 征收权边界的标志性案件：5 比 4（Stevens 多数、Kennedy 协同、O'Connor 与 Thomas 反对）认定经济发展属于公共使用，谱系 Berman（1954）—Midkiff（1984）—Kelo（2005）；判决后四十多个州收紧征收规则，加州 Prop 99（2008）禁止征收自住住宅转给私人，辉瑞 2009 年撤离使「公共目的」落空成经典注脚。（六语对照）
 - [Students for Fair Admissions v. Harvard (2023) 案例分析](案例分析/Students-for-Fair-Admissions-v-Harvard-2023-案例分析.md) —— 招生平权终局：600 U.S. 181 以 UNC 案 6 比 3、哈佛案 6 比 2（Jackson 回避哈佛案）认定两校种族因素招生未过严格审查——多元化利益不可衡量、种族成零和负数、刻板印象、无逻辑终点，Grutter（539 U.S. 306）的 25 年预期到期；脚注 4 不处理军校，文书谈种族影响人生只许系于个人品质；加州 Prop 209（宪法 art. I, 第 31 条）早已种族中立、Prop 16 恢复被否决的衔接。（六语对照）
 - [Riley v. California (2014) 案例分析](案例分析/Riley-v-California-2014-案例分析.md) —— 逮捕时扣下的手机不能无证翻看：573 U.S. 373 以 9 比 0 一致裁定，Chimel（395 U.S. 752）的警察安全与防毁证两理由撑不到数字数据，Robinson（414 U.S. 218）只管物理物件，答案是先拿搜查令、紧急情况为例外；加州 Diaz（51 Cal.4th 84）被实质推翻，CalECPA（SB 178、Penal Code §§1546–1546.4）再加一层法定令状要求。（六语对照）
 - [Miranda v. Arizona (1966) 案例分析](案例分析/Miranda-v-Arizona-1966-案例分析.md) —— "米兰达警告"的来源，看第五修正案在讯问室里是怎么落地的。（六语对照）
