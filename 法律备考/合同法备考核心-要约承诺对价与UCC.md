@@ -275,6 +275,12 @@ This article is a personal study note and does not constitute legal advice. Enfo
 
 Este artículo es una nota personal de estudio y no constituye asesoría legal. La exigibilidad depende de los hechos concretos, de las variaciones estatales y de la jurisprudencia vigente; consulte a un abogado con licencia para su caso.
 
+이 글은 개인 학습 노트이며 법률 자문이 아닙니다. 집행 가능 여부는 구체적인 사실관계, 주별 차이와 최신 판례에 따라 달라지므로, 본인의 분쟁은 자격을 갖춘 변호사에게 상담하세요.
+
+Bài viết này là ghi chép học tập cá nhân, không phải tư vấn pháp lý. Khả năng thi hành tùy thuộc vào tình tiết cụ thể, khác biệt giữa các bang và án lệ hiện hành; với tranh chấp của mình, hãy hỏi luật sư có giấy phép.
+
+यह लेख व्यक्तिगत अध्ययन नोट है, कानूनी सलाह नहीं। प्रवर्तनीयता विशिष्ट तथ्यों, राज्यों के अंतर और वर्तमान न्यायिक निर्णयों पर निर्भर करती है; अपने विवाद के लिए लाइसेंसधारी वकील से परामर्श करें।
+
 *한국어·베트남어·힌디어 본문은 학습용 초역으로, 원어민 감수를 기다리고 있습니다.*
 *Bản tiếng Hàn, tiếng Việt và tiếng Hindi là bản dịch học tập, đang chờ người bản ngữ hiệu đính.*
 *कोरियाई, वियतनामी और हिंदी पाठ अध्ययन अनुवाद हैं; मूल-भाषी समीक्षा लंबित है।*
