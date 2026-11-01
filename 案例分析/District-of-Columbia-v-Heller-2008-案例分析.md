@@ -127,3 +127,12 @@ This repository contains personal study notes only and does not constitute legal
 
 ### Español (译稿)
 Este repositorio contiene solo notas personales de estudio y no constituye asesoría legal. Las reglas sobre posesión y regulación de armas varían según el estado y los litigios en curso; consulte los textos oficiales y a un abogado autorizado.
+
+### 한국어 (초역 대기)
+이 저장소는 개인 학습 노트이며 법률 자문이 아닙니다. 총기 소지와 규제에 관한 구체적인 규칙은 주마다, 그리고 진행 중인 소송에 따라 다르므로 공식 텍스트와 자격 있는 변호사의 의견을 확인하십시오.
+
+### Tiếng Việt (bản dịch sơ bộ)
+Kho này chỉ chứa ghi chú học tập cá nhân, không cấu thành tư vấn pháp lý. Quy định về sở hữu và quản lý súng khác nhau theo bang và theo các vụ kiện đang diễn ra; hãy tra văn bản chính thức và hỏi luật sư có giấy phép.
+
+### हिन्दी (प्रारंभिक अनुवाद)
+यह भंडार केवल व्यक्तिगत अध्ययन नोट्स है और विधिक परामर्श नहीं है। आग्नेयास्त्र रखने और नियमन के नियम राज्य और चल रहे मुकदमों के अनुसार भिन्न होते हैं; आधिकारिक पाठ और लाइसेंसधारी वकील से परामर्श करें.

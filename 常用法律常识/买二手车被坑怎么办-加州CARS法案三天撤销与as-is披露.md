@@ -87,3 +87,15 @@ Khi xảy ra vấn đề, hãy bắt đầu từ bản chất của nó: trình 
 
 ### English
 This article is a personal study note and does not constitute legal advice. Whether the rules above apply to a specific transaction must be checked against the contract, the Buyers Guide, and the facts; consult a licensed attorney when needed.
+
+### Español (初译待校)
+Este artículo es una nota personal de estudio y no constituye asesoría legal. Si las reglas anteriores se aplican a una transacción concreta debe comprobarse frente al contrato, la Buyers Guide y los hechos; consulte a un abogado autorizado cuando sea necesario.
+
+### 한국어 (初译待校)
+본 글은 개인 학습 노트이며 법률 자문이 아닙니다. 위 규칙이 특정 거래에 적용되는지는 계약서, Buyers Guide 및 사실관계와 대조하여 확인해야 하며, 필요한 경우 자격 있는 변호사에게 상담하십시오.
+
+### Tiếng Việt (初译待校)
+Bài viết này là ghi chú học tập cá nhân, không cấu thành tư vấn pháp lý. Việc các quy tắc trên có áp dụng cho một giao dịch cụ thể hay không phải đối chiếu với hợp đồng, Buyers Guide và tình tiết; hãy hỏi luật sư có giấy phép khi cần.
+
+### हिन्दी (初译待校)
+यह लेख एक व्यक्तिगत अध्ययन नोट है और विधिक परामर्श नहीं है। उपरोक्त नियम किसी विशिष्ट लेनदेन पर लागू होते हैं या नहीं, यह अनुबंध, Buyers Guide और तथ्यों से जाँचना होगा; आवश्यकता पड़ने पर लाइसेंसधारी वकील से परामर्श करें.
