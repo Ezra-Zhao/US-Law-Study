@@ -268,6 +268,12 @@ Quay lại bản thân vụ án, điểm ôn thi thực tế nhất là: tranh c
 
 *This article is a personal study note, not legal advice. / Este artículo es una nota de estudio personal, no constituye asesoría legal.*
 
+본 글은 개인 학습 노트이며 법률 자문이 아닙니다. 판례 인용은 판결문 원문을 기준으로 하며, 구체적인 사건에 대해서는 자격을 갖춘 변호사와 상담하시기 바랍니다.
+
+Bài viết này là ghi chú học tập cá nhân, không phải tư vấn pháp lý. Trích dẫn phán quyết theo nguyên văn bản án; đối với vụ việc cụ thể, hãy tham khảo ý kiến luật sư có giấy phép hành nghề.
+
+यह लेख व्यक्तिगत अध्ययन नोट है और कानूनी सलाह नहीं है। निर्णयों के उद्धरण मूल निर्णय-पाठ पर आधारित हैं; किसी विशिष्ट मामले के लिए लाइसेंस-प्राप्त वकील से परामर्श करें।
+
 *한국어·베트남어·힌디어 본문은 학습용 초역으로, 원어민 감수를 기다리고 있습니다.*
 *Bản tiếng Hàn, tiếng Việt và tiếng Hindi là bản dịch học tập, đang chờ người bản ngữ hiệu đính.*
 *कोरियाई, वियतनामी और हिंदी पाठ अध्ययन अनुवाद हैं; मूल-भाषी समीक्षा लंबित है।*
