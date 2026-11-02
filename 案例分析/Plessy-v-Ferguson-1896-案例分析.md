@@ -113,3 +113,13 @@ Plessy के बाद लगभग छह दशकों तक "अलग �
 ## 免责声明
 
 本仓库为个人学习笔记，不构成法律建议。文中案件与法条为一般性介绍，具体事务请咨询持牌律师，并以官方文本为准。
+
+*This article is a personal study note and does not constitute legal advice. For a specific matter, consult a licensed attorney and rely on the official texts.*
+
+*Este artículo es una nota personal de estudio y no constituye asesoría legal. Para un caso concreto, consulte a un abogado con licencia y siga los textos oficiales. (译稿·待校)*
+
+*이 글은 개인 학습 노트이며 법률 자문이 아닙니다. 구체적인 사안은 면허를 가진 변호사와 상담하고 공식 문언을 기준으로 하십시오. (초역·待校)*
+
+*Bài viết này là ghi chú học tập cá nhân, không phải tư vấn pháp lý. Với trường hợp cụ thể, hãy tham khảo luật sư có giấy phép và căn cứ vào văn bản chính thức. (bản dịch sơ bộ·待校)*
+
+*यह लेख व्यक्तिगत अध्ययन नोट है और कानूनी सलाह नहीं है। विशिष्ट मामले के लिए लाइसेंसधारी वकील से परामर्श करें और आधिकारिक पाठों को ही आधार मानें। (प्रारंभिक अनुवाद·待校)*
