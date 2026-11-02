@@ -157,3 +157,15 @@ Sau khi vỡ nợ (default, phạm vi do thỏa thuận xác định trong khung
 本篇为个人学习笔记，不构成法律建议。UCC Article 9 虽为统一法典，各州采纳时仍有局部修正；担保交易的设立、完善与优先权判断请以交易发生州的现行成文法为准，并咨询有执业资格的律师。
 
 This article is a personal study note only and does not constitute legal advice. Although UCC Article 9 is a uniform act, individual states adopt it with local amendments; consult the current statute of the governing state and a licensed attorney for a specific transaction.
+
+Este artículo es solo una nota personal de estudio y no constituye asesoría legal. Aunque el Artículo 9 del UCC es una ley uniforme, cada estado lo adopta con modificaciones locales; consulte el estatuto vigente del estado aplicable y a un abogado con licencia para una transacción específica.
+
+이 글은 개인 학습 노트일 뿐 법률 자문이 아닙니다. UCC 제9편은 통일법이지만 각 주가 지역 수정안을 두어 채택하므로, 구체적인 거래는 준거 주의 현행 성문법과 자격을 갖춘 변호사에게 확인하세요.
+
+Bài viết này chỉ là ghi chép học tập cá nhân, không phải tư vấn pháp lý. Dù Điều 9 UCC là luật thống nhất, mỗi bang thông qua với sửa đổi riêng; với giao dịch cụ thể, hãy xem luật hiện hành của bang điều chỉnh và hỏi luật sư có giấy phép.
+
+यह लेख केवल व्यक्तिगत अध्ययन नोट है, कानूनी सलाह नहीं। UCC अनुच्छेद 9 एक समान कानून होते हुए भी प्रत्येक राज्य उसे स्थानीय संशोधनों के साथ अपनाता है; किसी विशिष्ट लेन-देन के लिए लागू राज्य के वर्तमान कानून और लाइसेंसधारी वकील से परामर्श करें।
+
+*한국어·베트남어·힌디어 본문은 학습용 초역으로, 원어민 감수를 기다리고 있습니다.*
+*Bản tiếng Hàn, tiếng Việt và tiếng Hindi là bản dịch học tập, đang chờ người bản ngữ hiệu đính.*
+*कोरियाई, वियतनामी और हिंदी पाठ अध्ययन अनुवाद हैं; मूल-भाषी समीक्षा लंबित है.*

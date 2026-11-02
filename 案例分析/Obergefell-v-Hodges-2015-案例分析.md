@@ -174,4 +174,12 @@ Ngay từ ngày phán quyết, các cặp đồng giới có thể kết hôn �
 
 This article is a personal study note and does not constitute legal advice.
 
-西班牙语、韩语、越南语、印地语部分为初译待校。
+Este artículo es una nota personal de estudio y no constituye asesoría legal. Las citas de precedentes se rigen por el texto original de las sentencias.
+
+이 글은 개인 학습 노트이며 법률 자문이 아닙니다. 판례 인용은 판결문 원문을 기준으로 합니다.
+
+Bài viết này là ghi chép học tập cá nhân, không phải tư vấn pháp lý. Trích dẫn án lệ lấy văn bản gốc của bản án làm chuẩn.
+
+यह लेख व्यक्तिगत अध्ययन नोट है, कानूनी सलाह नहीं। पूर्व-निर्णयों के उद्धरण निर्णयों के मूल पाठ के अनुसार हैं.
+
+*Español es una traducción de estudio; 한국어·Tiếng Việt·हिन्दी son traducciones iniciales pendientes de revisión / 초역으로 원어민 감수를 기다리고 있습니다.*
