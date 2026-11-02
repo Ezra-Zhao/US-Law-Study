@@ -250,6 +250,10 @@ Gideon द्वारा खींची गई रेखा बाद मे�
 本篇为个人学习笔记，不构成法律建议。判例引述以判决书原文为准（可在最高法院官网、Justia、Cornell LII 查阅）。
 
 *This article is a personal study note, not legal advice. / Este artículo es una nota de estudio personal, no constituye asesoría legal.*
+*이 글은 개인 학습 노트이며 법률 자문이 아닙니다. 판례 인용은 판결문 원문을 기준으로 하십시오. (초역·待校)*
+*Bài viết này là ghi chú học tập cá nhân, không cấu thành tư vấn pháp lý. Trích dẫn án lệ hãy đối chiếu nguyên văn phán quyết. (bản dịch sơ bộ·待校)*
+*यह लेख व्यक्तिगत अध्ययन नोट है और कानूनी सलाह नहीं है। निर्णयों के उद्धरण मूल निर्णय-पाठ से सत्यापित करें। (प्रारंभिक अनुवाद·待校)*
+
 
 *한국어·베트남어·힌디어 본문은 학습용 초역으로, 원어민 감수를 기다리고 있습니다.*
 *Bản tiếng Hàn, tiếng Việt và tiếng Hindi là bản dịch học tập, đang chờ người bản ngữ hiệu đính.*
