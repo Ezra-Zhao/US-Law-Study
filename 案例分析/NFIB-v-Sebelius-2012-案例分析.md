@@ -1,0 +1,51 @@
+# NFIB v. Sebelius (2012) 案例分析：个人强制医保的商业条款失守与税收权兜底
+
+## 中文主文
+
+### 一、案件坐标
+
+National Federation of Independent Business v. Sebelius, 567 U.S. 519 (2012)，2012 年 6 月 28 日判决。被挑战的是 2010 年《平价医疗法案》（ACA）两根支柱：个人强制参保条款（individual mandate，26 U.S.C. § 5000A：无医保者须与税表一同缴纳「共同责任支付」）与 Medicaid 扩张（各州须把覆盖扩到联邦贫困线 133% 以下人群，否则可能失去全部既有 Medicaid 联邦拨款）。26 个州与 NFIB 等原告主张两项都越权。首席大法官 Roberts 执笔的判决拼出了罕见的分段多数：强制条款在商业条款下违宪、在税收权下合宪；Medicaid 扩张的拨款威胁违宪，但救济只限于不得因拒绝扩张而撤掉既有拨款。
+
+### 二、第一道门：《反禁令法》先挡不挡
+
+程序先行问题：这笔钱名叫 penalty，若它是《反禁令法》（Anti-Injunction Act, 26 U.S.C. § 7421(a)）意义上的「税」，挑战须等缴纳后走退税诉讼、不能提前打。法院一致认定：国会在 § 5000A 里刻意用 penalty 而非 tax，且 ACA 其他条款用 tax 时明确区分，立法标签对成文法问题有决定性——AIA 不挡路。关键铺垫是：标签管成文法问题，功能管宪法问题；同一笔钱，在 AIA 下不是税、在税收权下可以是税。这是全案最容易考错的一步对子。
+
+### 三、商业条款：不能「创造商业再来管制」
+
+Roberts 首席大法官就商业条款与《必要与适当条款》写下核心理由（此部分另四位大法官以联合反对意见实质附和其结论，形成五人立场）：国会依商业条款只能规制业已存在的经济活动（activity），不参保是「不活动」（inactivity），强制购买等于先把人推进市场再来规制他——Lopez (1995)、Morrison (2000) 以来的「经济活动＋实质影响」框架装不下这一步；若接受政府逻辑，强制买菜、强制买车皆无从设限。《必要与适当条款》也不能扩张：依 McCulloch 的宽读，附带权力须「适当」且不属大权独揽，把无边界的新权力说成附带，超出了 Printz 与结构推论的底线。
+
+### 四、税收权兜底：五票转向税
+
+同一条款换税法眼光则存活，五票多数（Roberts 与 Ginsburg、Breyer、Sotomayor、Kagan 四位）认定共同责任支付在功能上是税：金额常低于保费、不以违法为前提（无 scienter 要求）、由 IRS 随所得税一并征收、产生财政收入，且 § 5000A(g) 还限制 IRS 对欠缴者动用刑事追訴与留置扣押——这些特征使它远离 Bailey v. Drexel Furniture (1922) 式的惩罚性「税」。由此确立考试框架：判断一项征收是不是税，看运作实质而非国会叫它什么；征税权可以激励行为，只要征收本身不带惩罚性强制手段。
+
+### 五、Medicaid：支出权第一次踩到「胁迫」线
+
+七票（Roberts 主笔部分获 Breyer、Kagan 加入，另四位联合反对者同认胁迫结论）认定：以撤销全部既有 Medicaid 拨款（占州预算常逾 10%）威胁各州接受扩张，是「拿枪指着头」的胁迫（compulsion），越过 South Dakota v. Dole (1987) 的「温和鼓励」与支出权「相关、明确、自愿」三线——这是最高法院史上首次以胁迫为由判联邦附条件拨款违宪。救济只有三票支持的拼图结论：不得因州拒绝扩张而撤销其既有 Medicaid 拨款，扩张改为实质可选（opt-in）。可分性（severability）因主条款以税存活而无须动刀。
+
+### 六、这案子今天怎么用
+
+三条可迁移的考点线：①成文法标签与宪法功能分开判断（AIA 对税法定性）；②商业条款的 activity/inactivity 界线仍是联邦权力论述题的起点，Raich 的汇总原则只适用于已在从事活动的人；③支出权胁迫成为分析联邦—州经费条件的标准争点。加州落点：加州自 2020 年起依州法实施本州个人强制参保（州版 mandate，经健康补贴与税务申报执行），联邦条款归零（2017 年《减税与就业法》把 § 5000A 金额降为 0，Texas v. California (2021) 又以无资格驳回新一轮挑战）后，州层面的自保市场稳定工具正属本案开启的想象空间。
+
+*声明：个人学习笔记，不构成法律建议。来源：National Federation of Independent Business v. Sebelius, 567 U.S. 519 (2012)；26 U.S.C. §§ 5000A、7421(a)；South Dakota v. Dole, 483 U.S. 203 (1987)；Bailey v. Drexel Furniture Co., 259 U.S. 20 (1922)；Texas v. California, 593 U.S. 659 (2021)。*
+
+---
+
+## English
+
+National Federation of Independent Business v. Sebelius, 567 U.S. 519 (2012), decided June 28, 2012, tested two pillars of the Affordable Care Act: the individual mandate (26 U.S.C. § 5000A) and the Medicaid expansion. The Court first held the Anti-Injunction Act no bar, because Congress deliberately labeled the exaction a "penalty" rather than a tax for statutory purposes — while stressing that labels do not control the constitutional question. On the Commerce Clause, five justices (Chief Justice Roberts plus the four joint dissenters in substance) held that Congress may regulate existing economic activity but cannot compel inactivity into commerce: the mandate creates commerce in order to regulate it, and the Necessary and Proper Clause cannot supply so great a power as a merely incidental one. The mandate survived instead as a tax, 5–4: the shared responsibility payment is filed with the IRS, scales with income, carries no scienter requirement, costs less than insurance, and is stripped of criminal and lien enforcement by § 5000A(g), making it functionally a tax rather than a Bailey v. Drexel Furniture penalty. On Medicaid, seven justices held that threatening to withdraw all existing Medicaid funds — often over ten percent of a state budget — crossed the line from Dole-style encouragement into unconstitutional coercion, the first such holding for a spending condition; the plurality remedy barred withdrawal of existing funds, making expansion effectively optional. Remember the paired lesson: statutory labels govern statutes, function governs constitutional power. *Personal study notes only; not legal advice.*
+
+## Español (traducción de estudio, pendiente de revisión nativa)
+
+National Federation of Independent Business v. Sebelius, 567 U.S. 519 (2012), resuelto el 28 de junio de 2012, examinó dos pilares de la Affordable Care Act: el mandato individual (26 U.S.C. § 5000A) y la expansión de Medicaid. El Tribunal decidió primero que la Ley Anti-Injunction no bloqueaba la demanda, porque el Congreso llamó deliberadamente «penalty» y no «tax» a la exacción a efectos legales, aunque las etiquetas no controlan la cuestión constitucional. Sobre la cláusula de comercio, cinco jueces (el presidente Roberts y, en sustancia, los cuatro disidentes conjuntos) sostuvieron que el Congreso puede regular la actividad económica existente pero no puede obligar a la inactividad a entrar en el comercio: el mandato crea comercio para regularlo, y la cláusula de necesidad y propiedad no puede aportar un poder tan grande como si fuera meramente incidental. El mandato sobrevivió como impuesto, por 5 a 4: el pago se declara ante el IRS, varía con los ingresos, no exige scienter, cuesta menos que un seguro y el § 5000A(g) le retira la ejecución penal y los gravámenes, por lo que funciona como impuesto y no como la sanción de Bailey v. Drexel Furniture. Sobre Medicaid, siete jueces consideraron que amenazar con retirar todos los fondos existentes — a menudo más del diez por ciento del presupuesto estatal — cruzaba la línea del estímulo permitido por Dole hacia la coerción inconstitucional, primera decisión de ese tipo sobre una condición de gasto; el remedio de la pluralidad prohibió retirar los fondos existentes y volvió la expansión efectivamente opcional. Lección doble: las etiquetas mandan en la ley escrita; la función manda en el poder constitucional. *Notas personales de estudio; no constituye asesoría legal.*
+
+## 한국어 (초역, 원어민 감수 대기)
+
+National Federation of Independent Business v. Sebelius, 567 U.S. 519 (2012), 2012년 6월 28일 판결은 ACA의 두 기둥, 개인 의무가입 조항(26 U.S.C. § 5000A)과 Medicaid 확대를 심사했습니다. 법원은 먼저 Anti-Injunction Act가 소송을 막지 않는다고 했습니다. 의회가 법률 해석 차원에서는 이 부과금을 tax가 아니라 penalty로 명명한 반면, 그 명칭이 헌법 문제를 좌우하지는 않는다고 선을 그었습니다. 통상조항에서는 다섯 명의 대법관(Roberts 대법원장과 사실상 합류한 네 명의 공동 반대의견)이, 의회는 이미 존재하는 경제활동을 규제할 수 있을 뿐 비활동(inactivity)을 상거래로 강제할 수 없다고 했습니다. 의무가입은 규제하기 위해 상거래를 창조하는 것이고, 필요적절조항도 그처럼 큰 권한을 부수적 권한으로 공급할 수 없습니다. 의무가입은 대신 조세로 5대 4로 유지되었습니다. 공동책임 지급금은 IRS에 신고되고 소득에 연동되며 고의 요건이 없고 보험료보다 저렴하며 § 5000A(g)가 형사 집행과 유치권 행사를 제한하므로, Bailey v. Drexel Furniture 식 벌금이 아니라 기능상 조세입니다. Medicaid에서는 일곱 명이, 기존 기금 전부(주 예산의 10%를 넘는 경우도 흔함)의 철회를 위협하는 것은 Dole 판결의 장려를 넘어 위헌적 강압이라고 했고(지출 조건에 대한 최초의 강압 판결), 다수의견의 구제책은 기존 기금 철회를 금지해 확대를 사실상 선택 사항으로 만들었습니다. 핵심 정리: 법률 명칭은 법률을, 기능은 헌법 권한을 지배합니다. *개인 학습 노트이며 법률 자문이 아닙니다.*
+
+## Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+Vụ National Federation of Independent Business v. Sebelius, 567 U.S. 519 (2012), phán quyết ngày 28 tháng 6 năm 2012, kiểm tra hai trụ cột của Affordable Care Act: nghĩa vụ mua bảo hiểm cá nhân (26 U.S.C. § 5000A) và việc mở rộng Medicaid. Tòa trước hết cho rằng Đạo luật Anti-Injunction không chặn vụ kiện, vì Quốc hội cố ý gọi khoản thu này là "penalty" chứ không phải "tax" cho mục đích luật định — dù nhãn gọi không quyết định vấn đề hiến pháp. Về Điều khoản Thương mại, năm thẩm phán (Chánh án Roberts và về thực chất bốn vị bất đồng chung) cho rằng Quốc hội có thể điều tiết hoạt động kinh tế đã tồn tại nhưng không thể ép sự không-hoạt-động thành thương mại: nghĩa vụ này tạo ra thương mại để rồi điều tiết nó, và Điều khoản Cần thiết và Thích hợp không thể cấp một quyền lớn như vậy như thể chỉ là quyền phụ thuộc. Nghĩa vụ được cứu với tư cách thuế, tỷ lệ 5–4: khoản thanh toán trách nhiệm chung được khai với IRS, tính theo thu nhập, không đòi scienter, rẻ hơn tiền bảo hiểm, và § 5000A(g) tước bỏ chế tài hình sự cùng quyền lưu giữ — nên về chức năng nó là thuế chứ không phải khoản phạt kiểu Bailey v. Drexel Furniture. Về Medicaid, bảy thẩm phán cho rằng đe dọa rút toàn bộ quỹ hiện có — thường trên mười phần trăm ngân sách bang — đã vượt ranh giới khuyến khích kiểu Dole thành cưỡng ép vi hiến, phán quyết đầu tiên như vậy với điều kiện chi tiêu; biện pháp khắc phục của nhóm đa số tương đối cấm rút quỹ hiện có, biến việc mở rộng thành thực chất tự nguyện. Bài học cặp đôi: nhãn luật định chi phối văn bản luật, còn chức năng chi phối quyền lực hiến pháp. *Ghi chú học tập cá nhân, không phải tư vấn pháp lý.*
+
+## हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+National Federation of Independent Business v. Sebelius, 567 U.S. 519 (2012), निर्णय 28 जून 2012, ने Affordable Care Act के दो स्तंभों की जाँच की: व्यक्तिगत अनिवार्यता (26 U.S.C. § 5000A) और Medicaid विस्तार. न्यायालय ने पहले कहा कि Anti-Injunction Act मुकदमे को नहीं रोकता, क्योंकि कांग्रेस ने सांविधिक प्रयोजनों के लिए इस वसूली को जानबूझकर «tax» नहीं «penalty» कहा — हालाँकि लेबल संवैधानिक प्रश्न को नियंत्रित नहीं करते. वाणिज्य खंड पर पाँच न्यायाधीशों (मुख्य न्यायाधीश Roberts और वस्तुतः चार संयुक्त असहमत) ने माना कि कांग्रेस विद्यमान आर्थिक गतिविधि का नियमन कर सकती है परंतु निष्क्रियता को वाणिज्य में धकेल नहीं सकती: अनिवार्यता नियमन के लिए वाणिज्य पैदा करती है, और Necessary and Proper खंड इतनी बड़ी शक्ति को आनुषंगिक रूप में नहीं दे सकता. अनिवार्यता इसके बजाय कर के रूप में 5–4 से बची: साझा उत्तरदायित्व भुगतान IRS के पास दाखिल होता है, आय से जुड़ा है, उसमें scienter नहीं चाहिए, वह बीमा से सस्ता है, और § 5000A(g) आपराधिक प्रवर्तन व lien हटा देता है — अतः वह Bailey v. Drexel Furniture जैसी सजा नहीं, कार्यात्मक कर है. Medicaid पर सात न्यायाधीशों ने माना कि समस्त विद्यमान निधि (प्रायः राज्य बजट का दस प्रतिशत से अधिक) वापस लेने की धमकी Dole-शैली के प्रोत्साहन से बढ़कर असंवैधानिक दबाव है — किसी व्यय-शर्त पर ऐसा पहला निर्णय; बहुलता के उपचार ने विद्यमान निधि की वापसी रोक दी और विस्तार को वस्तुतः ऐच्छिक बना दिया. युग्म पाठ याद रखें: सांविधिक लेबल विधि को, कार्य संवैधानिक शक्ति को नियंत्रित करता है. *व्यक्तिगत अध्ययन नोट; कानूनी सलाह नहीं।*
