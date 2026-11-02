@@ -108,3 +108,14 @@ Hãy biến việc ứng phó thành một danh sách để đánh dấu. Hôm n
 本仓库为个人学习笔记，不构成法律建议（This repository contains personal study notes only and does not constitute legal advice）。办理时限与材料要求请以信用局、FTC 与 IRS 官方页面为准；具体案件请咨询有执业资格的律师。
 
 *六语对照：中文主文，English 次之，Español 为学习译稿，한국어·Tiếng Việt·हिन्दी 为初译待校。*
+
+---
+
+## 免责声明（六语）
+
+*声明：本篇为个人学习笔记，不构成法律建议。具体个案请咨询有执业资格的律师。*
+*Disclaimer: This article is a personal study note and does not constitute legal advice. For a specific case, consult a licensed attorney.*
+*Notas personales de estudio; no constituyen asesoría legal. Para casos concretos, consulte a un abogado con licencia. (traducción de estudio)*
+*개인 학습 노트이며 법률 자문이 아닙니다. 구체적인 사안은 자격 있는 변호사에게 상담하십시오. (초역, 원어민 감수 대기)*
+*Ghi chú học tập cá nhân, không cấu thành tư vấn pháp lý. Với trường hợp cụ thể, hãy tham vấn luật sư có giấy phép hành nghề. (bản dịch sơ bộ, chờ hiệu đính)*
+*यह व्यक्तिगत अध्ययन नोट है और कानूनी सलाह नहीं है। किसी विशिष्ट मामले के लिए लाइसेंस-प्राप्त वकील से परामर्श करें। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)*
