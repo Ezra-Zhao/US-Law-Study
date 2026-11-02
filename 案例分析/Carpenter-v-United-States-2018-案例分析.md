@@ -42,3 +42,13 @@
 
 ---
 *个人学习笔记，不构成法律建议。*
+
+*This article is a personal study note and does not constitute legal advice.*
+
+*Este artículo es una nota de estudio personal y no constituye asesoría legal.*
+
+*본 문서는 개인 학습 노트이며 법률 자문이 아닙니다. (초역, 원어민 감수 대기)*
+
+*Bài viết này là ghi chú học tập cá nhân, không phải tư vấn pháp lý. (Bản dịch sơ bộ, chờ hiệu đính)*
+
+*यह लेख एक व्यक्तिगत अध्ययन नोट है और कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)*
