@@ -124,3 +124,12 @@ Trong 72 giờ: đi khám và giữ hồ sơ (đau mô mềm thường xuất hi
 主要依据：Cal. Vehicle Code §§ 16025、16056、1806、20001、20002、20008；SB 1107（2022 年制定，2025 年 1 月 1 日起责任险下限 30/60/15，2035 年 50/100/25）；Cal. Insurance Code § 11580.2；Cal. Civ. Code § 3333.4（Prop 213）；Li v. Yellow Cab Co., 13 Cal.3d 804 (1975)；Cal. Code Civ. Proc. §§ 335.1、338；Cal. Gov. Code §§ 911.2、945.6；加州 DMV SR-1 报告指引。具体个案以事故发生地法与保单文本为准。
 
 本仓库为个人学习笔记，不构成法律建议（This repository contains personal study notes only and does not constitute legal advice）。具体案件请咨询有执业资格的律师。西班牙语为学习译稿、韩语、越南语、印地语为初译待校（pending native review），术语以英文官方文本为准。
+This article is a personal study note only and does not constitute legal advice. Car accident claims, SR-1 reporting, and limitations periods depend on the facts and the policies involved; follow the official guidance of the California DMV and Department of Insurance, and consult a licensed attorney for a specific case.
+
+Este artículo es solo una nota personal de estudio y no constituye asesoría legal. Las reclamaciones por accidentes de tráfico, el informe SR-1 y los plazos de prescripción dependen de los hechos y de las pólizas involucradas; siga la orientación oficial del DMV y del Departamento de Seguros de California, y consulte a un abogado autorizado para un caso concreto. (Traducción de estudio, pendiente de revisión nativa.)
+
+이 글은 개인 학습 노트이며 법률 자문이 아닙니다. 교통사고 청구, SR-1 보고, 소멸시효는 사실관계와 가입한 보험에 따라 달라집니다. 캘리포니아 DMV와 보험국의 공식 안내를 따르고 구체적인 사안은 자격 있는 변호사와 상담하십시오. (초역, 교정 대기)
+
+Bài này chỉ là ghi chép học tập cá nhân, không cấu thành tư vấn pháp lý. Yêu cầu bồi thường tai nạn giao thông, báo cáo SR-1 và thời hạn khởi kiện phụ thuộc vào tình tiết và hợp đồng bảo hiểm liên quan; hãy theo hướng dẫn chính thức của DMV và Sở Bảo hiểm California, đồng thời tham vấn luật sư có giấy phép cho trường hợp cụ thể. (Bản dịch sơ bộ, chờ hiệu đính.)
+
+यह लेख केवल व्यक्तिगत अध्ययन नोट है और विधिक परामर्श नहीं है। यातायात दुर्घटना के दावे, SR-1 रिपोर्ट और परिसीमन अवधि तथ्यों और संबंधित पॉलिसियों पर निर्भर करती हैं; कैलिफ़ोर्निया DMV और बीमा विभाग के आधिकारिक मार्गदर्शन का पालन करें और विशिष्ट मामले के लिए लाइसेंसधारी वकील से परामर्श करें। (प्रारंभिक अनुवाद, समीक्षा लंबित।)
