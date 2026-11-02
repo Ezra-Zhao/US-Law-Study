@@ -246,8 +246,12 @@ La conclusión práctica hoy: las clasificaciones raciales explícitas en la asi
 
 本篇为个人学习笔记，不构成法律建议。判例引述以判决书原文为准（可在最高法院官网、Justia、Cornell LII 查阅）。
 
-*This article is a personal study note, not legal advice. / Este artículo es una nota de estudio personal, no constituye asesoría legal.*
+*This article is a personal study note, not legal advice. Case quotations follow the original opinions, available from the Supreme Court, Justia, and Cornell LII. Consult a licensed attorney for a specific matter.*
 
-*한국어·베트남어·힌디어 본문은 학습용 초역으로, 원어민 감수를 기다리고 있습니다.*
-*Bản tiếng Hàn, tiếng Việt và tiếng Hindi là bản dịch học tập, đang chờ người bản ngữ hiệu đính.*
-*कोरियाई, वियतनामी और हिंदी पाठ अध्ययन अनुवाद हैं; मूल-भाषी समीक्षा लंबित है।*
+*Este artículo es una nota de estudio personal, no constituye asesoría legal. Las citas de casos siguen las opiniones originales, disponibles en la Corte Suprema, Justia y Cornell LII. Consulte a un abogado con licencia para un asunto concreto.*
+
+*이 글은 개인 학습 노트이며 법률 자문이 아닙니다. 판례 인용은 대법원, Justia, Cornell LII에서 확인할 수 있는 판결문 원문을 따릅니다. 구체적인 사안은 면허 변호사에게 상담하십시오. (초역)*
+
+*Bài viết này là ghi chép học tập cá nhân, không phải tư vấn pháp lý. Trích dẫn án lệ theo văn bản phán quyết gốc, có tại Tòa Tối cao, Justia và Cornell LII. Với vụ việc cụ thể, hãy tham vấn luật sư có giấy phép. (bản dịch sơ bộ)*
+
+*यह लेख व्यक्तिगत अध्ययन नोट है, कानूनी सलाह नहीं। मामले के उद्धरण मूल निर्णयों के अनुसार हैं, जो सर्वोच्च न्यायालय, Justia और Cornell LII पर उपलब्ध हैं। किसी विशिष्ट मामले के लिए लाइसेंसधारी वकील से परामर्श करें। (प्रारंभिक अनुवाद)*
