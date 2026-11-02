@@ -1,0 +1,54 @@
+# Baker v. Carr (1962) 案例分析：选区划分与政治问题原则
+
+> 个人学习笔记，不构成法律建议。案例：Baker v. Carr, 369 U.S. 186 (1962)，美国联邦最高法院判决。
+
+## 中文主文
+
+### 一、案情：六十年没重划的选区
+
+田纳西州州宪法要求每十年按人口重新划分州议会选区，但州议会自 1901 年完成一次划分后，六十年间再未重划。其间城市人口暴涨、乡村人口相对萎缩，结果是同样的州议员席位，城市选民的一票只值乡村选民的一小部分。纳什维尔市长 Charles W. Baker 等选民起诉州官员，主张这种长期不重划的划分违反宪法第十四修正案的平等保护条款（Equal Protection Clause）。
+
+下级法院以 Colegrove v. Green, 328 U.S. 549 (1946) 为据驳回起诉——该案中法院曾把选区划分视为应由政治部门解决的「政治问题」（political question），法院不介入。争点因此先于实体：**这类案子，法院到底能不能管？**
+
+### 二、判决：能管——可诉性与政治问题六要素
+
+最高法院 1962 年 3 月 26 日以 6 比 2 判决撤销驳回、发回重审，由 Brennan 大法官主笔多数意见：
+
+1. **政治问题原则的适用范围是列举式的、窄的**：法院梳理先例后指出，政治问题主要出现在对外关系、宪法修正程序、弹劾等宪法已把决定权明确交给另一部门的领域；选区划分侵害平等保护的诉讼不在此列。
+2. **六要素判准**：意见列出判断政治问题的六项特征——宪法文本把事项明确托付给平级政治部门、缺乏可裁判且可操作的判断标准、非经先行政策决定无法裁判等。本案一项都不沾：平等保护条款提供了现成的裁判标准，法院只需判断划分是否任意、是否缺乏理性基础。
+3. **与 Colegrove 的切割**：Colegrove 处理的是要求法院按比例重划联邦众议院席位的诉请，而本案是州选区划分对平等保护的挑战，性质不同；投票权案件如 Gomillion v. Lightfoot（1960，种族划区案）早已证明法院可以审理选区类诉讼。
+
+注意判决的边界：法院只判「能管」（justiciable），没有在这一案里直接宣布田纳西的划分违宪，更没有提出后来的一人一票公式——那是两年后的事。
+
+### 三、后续：一人一票的来路
+
+Baker 打开门之后，最高法院在 Reynolds v. Sims, 377 U.S. 533 (1964) 进一步确立州议会两院选区都须「一人一票」（one person, one vote）：立法者代表的是人，不是树或土地面积。Baker 提供的是管辖门，Reynolds 提供的是实体标准，两案常被连读，但备考时不可混同——Baker 的考点在可诉性与政治问题原则，Reynolds 的考点在平等保护的实体内容。
+
+### 四、反对意见与备考要点
+
+- Frankfurter 大法官异议（Harlan 加入）警告法院踏入「政治丛林」（political thicket），主张这类问题应留给选民与政治过程纠正；这条异议线后来成为司法克制论述的经典文本。
+- 备考要点：①案名年份法院：Baker v. Carr, 369 U.S. 186 (1962)；②争点不是划分合不合宪，而是法院能不能审；③政治问题六要素出自本案，是行政法/宪法考题的标准框架；④与 Colegrove（不介入）、Reynolds（一人一票实体标准）三案成组记忆；⑤发回后田纳西重划选区，案件以州方调整告结。
+
+*声明：个人学习笔记，不构成法律建议。来源：Baker v. Carr, 369 U.S. 186 (1962)（多数意见与 Frankfurter 异议）；Colegrove v. Green, 328 U.S. 549 (1946)；Reynolds v. Sims, 377 U.S. 533 (1964)；U.S. Const. amend. XIV。*
+
+---
+
+## English
+
+Baker v. Carr, 369 U.S. 186 (1962). Tennessee's constitution required reapportionment every ten years, but the legislature had not redrawn state legislative districts since 1901, so urban votes counted for far less than rural ones. Voters sued under the Equal Protection Clause; the lower court dismissed under Colegrove v. Green (1946), which had treated apportionment as a political question. The Supreme Court, 6–2 in an opinion by Justice Brennan, held the claim justiciable: the political-question doctrine is narrow and enumerated, and the opinion listed six hallmarks of a political question, none of which fit — the Equal Protection Clause supplied judicially manageable standards. The Court decided only that courts may hear such cases; the substantive "one person, one vote" rule came two years later in Reynolds v. Sims (1964). Justice Frankfurter's dissent warned against entering the "political thicket." *Personal study notes only; not legal advice.*
+
+## Español (traducción de estudio, pendiente de revisión nativa)
+
+Baker v. Carr, 369 U.S. 186 (1962). La constitución de Tennessee exigía redistribuir los distritos legislativos estatales cada diez años, pero la legislatura no lo hacía desde 1901, de modo que el voto urbano valía mucho menos que el rural. Los votantes demandaron bajo la Cláusula de Igual Protección; la instancia inferior desestimó apoyándose en Colegrove v. Green (1946), que trataba la distribución de distritos como cuestión política. La Corte Suprema, por 6–2 con opinión del juez Brennan, declaró la demanda justiciable: la doctrina de la cuestión política es estrecha y enumerada, y la opinión listó sus seis rasgos, ninguno aplicable — la Igual Protección ofrecía estándares judicialmente manejables. La Corte solo decidió que los tribunales pueden conocer estos casos; la regla sustantiva de «una persona, un voto» llegó dos años después en Reynolds v. Sims (1964). El juez Frankfurter disintió advirtiendo contra entrar en la «maleza política» (political thicket). *Notas de estudio personales; no es asesoría legal.*
+
+## 한국어 (초역, 원어민 감수 대기)
+
+Baker v. Carr, 369 U.S. 186 (1962). 테네시 주헌법은 10년마다 주의회 선거구를 재획정하도록 했으나 주의회는 1901년 이후 이를 하지 않아 도시 유권자의 한 표가 농촌 유권자보다 훨씬 가볍게 취급되었습니다. 유권자들은 평등보호조항을 근거로 소송을 제기했으나, 하급심은 선거구 문제를 정치적 문제로 본 Colegrove v. Green(1946)에 따라 각하했습니다. 연방대법원은 Brennan 대법관의 다수의견으로 6대 2로 이 청구가 사법심사 가능하다고 판시했습니다. 정치적 문제 원칙은 좁고 열거적이며, 의견이 제시한 여섯 가지 표지 중 어느 것도 해당하지 않았고, 평등보호조항이 재판 가능한 기준을 제공한다는 이유였습니다. 이 판결은 법원이 심리할 수 있다는 점만 정했을 뿐이며, '1인 1표'의 실체 기준은 2년 뒤 Reynolds v. Sims(1964)에서 나왔습니다. Frankfurter 대법관은 '정치적 덤불'에 들어가지 말라는 반대의견을 냈습니다. *개인 학습 노트이며 법률 자문이 아닙니다.*
+
+## Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+Baker v. Carr, 369 U.S. 186 (1962). Hiến pháp Tennessee yêu cầu vẽ lại khu vực bầu cử nghị viện bang mười năm một lần, nhưng cơ quan lập pháp đã không làm việc này kể từ năm 1901, khiến một lá phiếu ở thành phố có giá trị thấp hơn nhiều so với ở nông thôn. Cử tri kiện theo Điều khoản Bảo vệ Bình đẳng; tòa cấp dưới bác đơn dựa trên Colegrove v. Green (1946), vốn coi phân chia khu vực bầu cử là vấn đề chính trị. Tòa Tối cao, với tỷ lệ 6–2 và ý kiến đa số của Thẩm phán Brennan, phán quyết vụ kiện thuộc thẩm quyền xét xử: học thuyết vấn đề chính trị có phạm vi hẹp và được liệt kê giới hạn, sáu dấu hiệu của nó không dấu hiệu nào phù hợp — Điều khoản Bảo vệ Bình đẳng cung cấp tiêu chuẩn mà tòa án có thể áp dụng. Tòa chỉ quyết định rằng tòa án được phép thụ lý; quy tắc thực chất «một người, một phiếu» đến hai năm sau trong Reynolds v. Sims (1964). Thẩm phán Frankfurter phản đối, cảnh báo không nên bước vào «bụi rậm chính trị» (political thicket). *Ghi chú học tập cá nhân, không phải tư vấn pháp lý.*
+
+## हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+Baker v. Carr, 369 U.S. 186 (1962)। Tennessee के संविधान में हर दस वर्ष में राज्य विधानमंडल के निर्वाचन क्षेत्रों का पुनःपरिसीमन आवश्यक था, परंतु विधानमंडल ने 1901 के बाद ऐसा नहीं किया, जिससे शहरी मतदाता का एक वोट ग्रामीण वोट से कहीं हल्का हो गया। मतदाताओं ने समान संरक्षण खंड के तहत वाद किया; निचली अदालत ने Colegrove v. Green (1946) के आधार पर वाद खारिज कर दिया, जिसमें परिसीमन को राजनीतिक प्रश्न माना गया था। सर्वोच्च न्यायालय ने न्यायमूर्ति Brennan के बहुमत मत से 6–2 से कहा कि दावा न्यायोचित (justiciable) है: राजनीतिक-प्रश्न सिद्धांत संकीर्ण और गणनात्मक है, उसके छह लक्षणों में से कोई यहाँ लागू नहीं होता — समान संरक्षण खंड न्यायालय द्वारा प्रयोज्य मानक देता है। न्यायालय ने केवल इतना तय किया कि अदालतें ऐसे मामले सुन सकती हैं; 'एक व्यक्ति, एक वोट' का वास्तविक नियम दो वर्ष बाद Reynolds v. Sims (1964) में आया। न्यायमूर्ति Frankfurter ने 'राजनीतिक झाड़ी' में प्रवेश के विरुद्ध असहमति दी। *व्यक्तिगत अध्ययन नोट; कानूनी सलाह नहीं।*
