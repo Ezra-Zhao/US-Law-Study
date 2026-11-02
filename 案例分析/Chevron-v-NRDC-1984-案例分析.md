@@ -221,3 +221,11 @@ Với người học môn này, vụ án nên được đọc đối chiếu v�
 ## 免责声明
 
 本仓库为个人学习笔记，不构成法律建议（This repository contains personal study notes only and does not constitute legal advice）。个案请咨询有执业资格的律师；法规与判例的最新状态请以官方法源为准。
+
+Este repositorio contiene solo notas personales de estudio y no constituye asesoría legal. Para un caso concreto, consulte a un abogado autorizado; para el estado vigente de leyes y precedentes, acuda a las fuentes oficiales.
+
+이 저장소는 개인 학습 노트이며 법률 자문이 아닙니다. 구체적인 사안은 자격 있는 변호사와 상담하시고, 법령과 판례의 최신 상태는 공식 법원을 확인하십시오. (초역, 교정 대기)
+
+Kho này chỉ chứa ghi chú học tập cá nhân, không cấu thành tư vấn pháp lý. Với trường hợp cụ thể, hãy hỏi luật sư có giấy phép; về trạng thái hiện hành của luật và án lệ, hãy tra nguồn pháp lý chính thức. (Bản dịch sơ bộ, chờ hiệu đính.)
+
+यह भंडार केवल व्यक्तिगत अध्ययन नोट्स है और विधिक परामर्श नहीं है। किसी ठोस मामले के लिए लाइसेंसधारी वकील से परामर्श करें; कानूनों और नज़ीरों की नवीनतम स्थिति के लिए आधिकारिक स्रोत देखें। (प्रारंभिक अनुवाद, समीक्षा लंबित।)
