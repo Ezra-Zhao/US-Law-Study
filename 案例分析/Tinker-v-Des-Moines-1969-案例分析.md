@@ -107,3 +107,15 @@ Este artículo es una nota personal de estudio y no constituye asesoría legal. 
 Bài viết này là ghi chép học tập cá nhân, không phải tư vấn pháp lý. Với vụ việc cụ thể, hãy hỏi luật sư có giấy phép hành nghề. (bản dịch sơ bộ·待校)
 
 *六语对照：中文主文，English 次之，Español 为学习译稿，한국어·Tiếng Việt·हिन्दी 为初译待校。*
+
+
+---
+
+## 六语集中声明区 / Multilingual Disclaimer
+
+- 中文：个人学习笔记，不构成法律建议。具体案件请咨询有执业资格的律师。
+- English: Personal study notes only; not legal advice. For a specific matter, consult a licensed attorney.
+- Español: Notas personales de estudio; no constituye asesoramiento legal. Para un caso concreto, consulte a un abogado con licencia. (traducción de estudio)
+- 한국어: 개인 학습 노트이며 법률 자문이 아닙니다. 구체적인 사건은 자격을 갖춘 변호사에게 상담하세요. (초역, 원어민 감수 대기)
+- Tiếng Việt: Ghi chép học tập cá nhân, không phải tư vấn pháp lý. Với vụ việc cụ thể, hãy hỏi luật sư có giấy phép hành nghề. (bản dịch sơ bộ, chờ hiệu đính)
+- हिन्दी: व्यक्तिगत अध्ययन नोट; कानूनी सलाह नहीं है। किसी विशिष्ट मामले के लिए लाइसेंसधारी वकील से परामर्श करें। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
