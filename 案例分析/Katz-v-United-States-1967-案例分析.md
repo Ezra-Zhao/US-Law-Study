@@ -100,3 +100,11 @@ Katz ने मुख्य रेखा खींची; बाद के म�
 本仓库为个人学习笔记，不构成法律建议（This repository contains personal study notes only and does not constitute legal advice）。具体案件请咨询有执业资格的律师。
 
 *六语对照：中文主文，English 次之，Español 为学习译稿，한국어·Tiếng Việt·हिन्दी 为初译待校。*
+
+*Este artículo es una nota de estudio personal y no constituye asesoría legal. Para un caso concreto, consulte a un abogado con licencia. (译稿·待校)*
+
+*이 글은 개인 학습 노트이며 법률 자문이 아닙니다. 구체적인 사건은 면허를 가진 변호사에게 상담하세요. (초역·待校)*
+
+*Bài viết này là ghi chép học tập cá nhân, không phải tư vấn pháp lý. Với trường hợp cụ thể, hãy hỏi luật sư có giấy phép. (bản dịch sơ bộ·待校)*
+
+*यह लेख व्यक्तिगत अध्ययन नोट है, कानूनी सलाह नहीं। विशिष्ट मामले के लिए लाइसेंसधारी वकील से परामर्श करें। (प्रारंभिक अनुवाद·待校)*
