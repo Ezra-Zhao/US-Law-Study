@@ -222,6 +222,12 @@ This article is a personal study note only and does not constitute legal advice.
 
 Este artículo es solo una nota personal de estudio y no constituye asesoría legal. Para una deuda, prescripción o litigio concreto, consulte a un abogado con licencia.
 
+본 글은 개인 학습 노트이며 법률 자문이 아닙니다. 구체적인 채무, 소멸시효 또는 소송 문제에 대해서는 자격을 갖춘 변호사와 상담하시기 바랍니다.
+
+Bài viết này chỉ là ghi chú học tập cá nhân, không phải tư vấn pháp lý. Đối với vấn đề cụ thể về khoản nợ, thời hiệu hoặc tố tụng, hãy tham khảo ý kiến luật sư có giấy phép hành nghề.
+
+यह लेख केवल व्यक्तिगत अध्ययन नोट है और कानूनी सलाह नहीं है। किसी विशिष्ट ऋण, समय-सीमा या मुकदमे के प्रश्न के लिए कृपया लाइसेंस-प्राप्त वकील से परामर्श करें।
+
 *한국어·베트남어·힌디어 본문은 학습용 초역으로, 원어민 감수를 기다리고 있습니다.*
 *Bản tiếng Hàn, tiếng Việt và tiếng Hindi là bản dịch học tập, đang chờ người bản ngữ hiệu đính.*
 *कोरियाई, वियतनामी और हिंदी पाठ अध्ययन अनुवाद हैं; मूल-भाषी समीक्षा लंबित है।*

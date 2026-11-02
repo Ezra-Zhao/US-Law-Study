@@ -1,0 +1,93 @@
+# Regents of the University of California v. Bakke (1978) 案例分析：配额违宪，种族只能当一个加分因素
+
+这篇讲什么：
+- 1978 年的 Bakke 案是大学招生平权（affirmative action）谱系的起点：加州大学戴维斯分校医学院把 100 个名额中的 16 个留给少数族裔等申请者的固定配额被判违宪，但种族作为多元化录取中的一个「加分因素」（plus factor）被留了下来。这篇拆清没有多数意见的 4-1-4 判决结构、Powell 法官关键意见的逻辑，以及这条路线怎样被 Grutter 维持、被 2023 年的 SFFA 案终结。
+- 来源口径：Regents of the University of California v. Bakke, 438 U.S. 265 (1978)；美国宪法第十四修正案平等保护条款；1964 年《民权法》第六章（Title VI, 42 U.S.C. § 2000d）；Grutter v. Bollinger, 539 U.S. 306 (2003)；Gratz v. Bollinger, 539 U.S. 244 (2003)；Students for Fair Admissions v. Harvard, 600 U.S. 181 (2023)；加州宪法 art. I, § 31（1996 年 209 号提案）。
+
+---
+
+## 中文主文
+
+### 一、案件事实：100 个名额，先划走 16 个
+
+原告 Allan Bakke 是白人申请者，两次申请加州大学戴维斯分校医学院（UC Davis Medical School）均被拒。该校医学院每届招 100 人，其中设有一个特别录取程序，把 16 个名额保留给自认为「弱势」（disadvantaged）的申请者，实际运作中面向黑人、拉丁裔、亚裔与美洲原住民等少数族裔；特别程序有单独的申请通道与较低的成绩门槛，进入该程序的申请者只在彼此之间竞争，不与普通池竞争全部 100 个名额。Bakke 的本科成绩与 MCAT 分数高于经特别程序录取者的平均水平。他起诉主张：这 16 个保留名额使他仅因种族被排除在 16 个名额的竞争之外，违反第十四修正案平等保护条款，也违反禁止在接受联邦资助的项目中种族歧视的 Title VI（42 U.S.C. § 2000d）。加州最高法院判 Bakke 胜诉并命令录取，案件上诉到联邦最高法院。
+
+### 二、争点
+
+大学招生中为少数族裔保留固定名额，是否违反平等保护条款与 Title VI；更广地问：公立大学在招生中究竟还能不能考虑种族。
+
+### 三、判决结构：4-1-4，没有单一多数意见
+
+本案没有一份多数意见，只有 Powell 法官宣布法院判决的意见，外加两组各四位法官的意见，拼出两个不同的 5 票多数：
+
+- **推翻配额的 5 票**：Powell 加上 Burger、Stewart、Rehnquist、Stevens 四位法官——后四人主要立足 Title VI 的文义，认定保留名额违法。结论：16 个保留名额无效，Bakke 应被录取。
+- **允许考虑种族的 5 票**：Powell 加上 Brennan、White、Marshall、Blackmun 四位法官——后四人主张种族分类应采中间审查，补救性招生计划整体上可以成立。结论：大学在招生中并非一律不得考虑种族。
+
+Powell 一票身兼两个多数的关键少数，于是他的意见实际上决定了此后四十多年的规则。备考口径：谈 Bakke 的「规则」时，指的就是 Powell 意见，而不是一份全体一致的法院意见；后来的 Grutter 直接接过 Powell 的框架，才把这一点坐实。
+
+### 四、Powell 意见：配额出局，多元化留门，种族只能是加分
+
+Powell 的推理分四步。第一，种族分类一律接受严格审查（strict scrutiny），不因受益群体不同而降格；州若要用种族分类，必须提出迫切利益（compelling interest）并证明手段合身。第二，戴维斯的固定配额过不了关：把 16 个名额整块划出、让一部分申请者仅因种族就无资格竞争这些名额，等于按种族把人绝缘于竞争之外，这不是为多元化所必需的最窄手段；校方提出的补救历史歧视、增加对弱势社区的医疗服务等理由，或缺乏本校歧视事实的支撑，或与保留名额的手段衔接不上。第三，学生群体的多元化（diversity）本身是迫切利益：大学基于学术自由，有权判断多元化的学生构成对其教育使命至关重要，多元包括但不限于种族背景。第四，合身的手段是把种族当作众多因素中的一个「加分因素」：Powell 援引哈佛大学的招生办法为范例（该办法随哈佛等校的法庭之友意见进入本案记录）——每位申请者接受个别化、整体性审查（holistic review），种族只是在成绩、经历、地区、专长等诸多要素中可能加分的一项，没有固定名额、没有双轨门槛，任何申请者都在同一个池里按其全部条件竞争。按这个框架审查本案，配额违法，但种族因素本身不违法。
+
+### 五、判决结果
+
+两项结果同时成立：①16 个保留名额的特别录取程序违反平等保护条款与 Title VI，予以禁止；②Bakke 本人被命令录取（must be admitted）。同时，大学今后仍可在整体审查中把种族作为一个加分因素。注意结论的双面性：说 Bakke「废除了平权」或「确立了平权」都只对了一半——它废掉的是配额制，立起的是 plus 框架。
+
+### 六、谱系：Grutter 维持、Gratz 划界、SFFA 终结
+
+- **Grutter v. Bollinger, 539 U.S. 306 (2003)**：密歇根大学法学院的整体审查招生被维持。多数意见明确采纳 Powell 在 Bakke 中的意见：多元化是迫切利益，个别化审查中把种族作为加分因素是合身手段；法院还预期 25 年后种族因素将不再必要。
+- **Gratz v. Bollinger, 539 U.S. 244 (2003)**：同日判决，密歇根大学本科招生给少数族裔申请者自动加 20 分的计点制被判违宪。与 Grutter 的分界正在这里：机械化、自动化的加分不是个别化审查；加分可以，自动计分不行。两案合看，Bakke 的 plus 框架有了可操作的边界——必须逐个看人，不能按公式发分。
+- 其后 Fisher v. University of Texas 两案（2013、2016）一度维持得州的整体审查做法，框架未变。
+- **Students for Fair Admissions v. Harvard, 600 U.S. 181 (2023)**：最高法院认定哈佛大学与北卡罗来纳大学的种族意识招生违反平等保护条款（哈佛案同时违反 Title VI）：所称多元化利益缺乏可衡量的终点、种族在零和录取中实际起负面作用、计划带有种族刻板印象且没有逻辑终点。判决实质上推翻了 Grutter，Bakke 留下的 plus 框架随之终结——种族不能再作为录取中的加分因素，大学至多只能考虑申请者个人叙述中种族如何塑造其个人品质与经历，而不能以此把种族加分装回来。本仓另有 SFFA 案专篇，两篇对读即可看清 1978–2023 这条线的起讫。
+
+### 七、加州落点：Prop 209 早走了 27 年
+
+对加州公立大学而言，这条联邦谱系的实际终点来得更早：1996 年选民通过 209 号提案（Proposition 209），把平权禁令写入加州宪法 art. I, § 31——州在公共就业、公立教育与公共承包中，不得基于种族、性别、肤色、族裔或原国籍歧视任何人或给予优惠待遇。209 号提案通过后，UC、CSU 等公立系统自 1990 年代末起即实行种族中立招生，Bakke 的 plus 框架在加州公立教育中从未真正落地；2020 年试图废除 209 的 16 号提案又被选民否决。因此 2023 年 SFFA 判决对加州公立大学冲击有限，主要改变的是加州私立大学（接受联邦资助者）与加州学生外州申请的规则环境。备考时注意层次：联邦宪法划的是上限，加州宪法可以、且早已划出更严的州内禁令。
+
+### 八、备考要点
+
+一句话版本：Bakke = 配额死、加分活（1978–2023）；Grutter 把 Powell 意见扶正，Gratz 禁止机械计分；SFFA 把整条线关掉；加州则自 1996 年 Prop 209 起就不在这条线里。论述题常见陷阱有三：把 Bakke 说成一份多数意见、把 16/100 的配额与 plus 因素混为一谈、忘记 Title VI 与平等保护同标准（私立大学受联邦资助时同样受约束）。
+
+### 参考依据
+
+Regents of the University of California v. Bakke, 438 U.S. 265 (1978)（Powell 法官宣布判决）；42 U.S.C. § 2000d（Title VI）；Grutter v. Bollinger, 539 U.S. 306 (2003)；Gratz v. Bollinger, 539 U.S. 244 (2003)；Fisher v. University of Texas, 570 U.S. 297 (2013) 与 579 U.S. 365 (2016)；Students for Fair Admissions v. Harvard, 600 U.S. 181 (2023)；Cal. Const. art. I, § 31（Prop 209, 1996）。
+
+*声明：个人学习笔记，不构成法律建议。具体案件请咨询执业律师。*
+
+---
+
+## English
+
+**Regents of the University of California v. Bakke, 438 U.S. 265 (1978) — quotas out, race as a plus factor in.** Allan Bakke, a white applicant twice rejected by the UC Davis Medical School, challenged its special admissions program, which reserved 16 of 100 seats for minority and disadvantaged applicants who competed only among themselves. The Court produced no single majority opinion. Justice Powell was the pivot in two different 5-4 alignments: joining four justices who rested largely on Title VI (42 U.S.C. section 2000d), he voted to strike the set-aside and order Bakke admitted; joining another four, he voted that race may still be considered in admissions. Powell's own opinion applied strict scrutiny to racial classifications, rejected the fixed quota as not narrowly tailored — it insulated some applicants from competing for 16 seats solely because of race — but accepted student-body diversity as a compelling interest and held that race may serve as one "plus" factor in individualized, holistic review, pointing to the Harvard College plan as the exemplar, in which every applicant competes in a single pool on all of his or her qualities. Bakke himself was ordered admitted. The lineage runs through Grutter v. Bollinger, 539 U.S. 306 (2003), which expressly adopted Powell's framework and upheld holistic law-school admissions, and Gratz v. Bollinger, 539 U.S. 244 (2003), which struck down an automatic 20-point bonus as mechanical rather than individualized. Students for Fair Admissions v. Harvard, 600 U.S. 181 (2023), then held the Harvard and UNC race-conscious programs unconstitutional under the Equal Protection Clause and Title VI, effectively overruling Grutter and ending the Bakke plus framework: race may no longer operate as a plus factor, though an applicant's own account of how race shaped his or her individual character may still be considered. California moved far earlier: Proposition 209 (1996), codified at Cal. Const. art. I, section 31, banned racial preferences in public education, employment, and contracting, so California public universities have been race-neutral since the late 1990s, and the 2023 ruling chiefly affects federally funded private institutions in the state. *Personal study notes; not legal advice.*
+
+## Español (译稿)
+
+**Regents of the University of California v. Bakke, 438 U.S. 265 (1978): cuotas fuera, la raza solo como factor de ventaja.** Allan Bakke, solicitante blanco rechazado dos veces por la Facultad de Medicina de UC Davis, impugnó su programa especial de admisión, que reservaba 16 de 100 plazas para solicitantes minoritarios y desfavorecidos que competían solo entre sí. La Corte no produjo una opinión mayoritaria única. El juez Powell fue el voto decisivo en dos alineaciones distintas de 5-4: junto a cuatro jueces que se apoyaban sobre todo en el Título VI (42 U.S.C. § 2000d), votó por anular la reserva y ordenar la admisión de Bakke; junto a otros cuatro, votó que la raza aún puede tenerse en cuenta en las admisiones. En su opinión, Powell aplicó el escrutinio estricto a las clasificaciones raciales, rechazó la cuota fija por no estar ajustada con precisión —aislaba a algunos solicitantes de competir por 16 plazas solo por su raza—, pero aceptó la diversidad del alumnado como interés imperioso y sostuvo que la raza puede funcionar como un «factor plus» dentro de una revisión individualizada y holística, señalando como ejemplo el plan de Harvard, donde cada solicitante compite en un único grupo con todas sus cualidades. Bakke fue admitido por orden judicial. La línea continúa en Grutter v. Bollinger, 539 U.S. 306 (2003), que adoptó expresamente el marco de Powell y validó la admisión holística de una facultad de derecho, y en Gratz v. Bollinger, 539 U.S. 244 (2003), que anuló un bono automático de 20 puntos por mecánico y no individualizado. Students for Fair Admissions v. Harvard, 600 U.S. 181 (2023), declaró después inconstitucionales los programas con conciencia racial de Harvard y de la Universidad de Carolina del Norte bajo la Cláusula de Igual Protección y el Título VI, revocando en la práctica Grutter y cerrando el marco del factor plus de Bakke. California se había adelantado mucho: la Proposición 209 (1996), Cal. Const. art. I, § 31, prohibió las preferencias raciales en la educación pública, el empleo público y la contratación pública, de modo que las universidades públicas californianas son neutras en raza desde finales de los años noventa. *Notas personales de estudio; no constituye asesoría legal.* (Traducción de estudio, pendiente de revisión nativa.)
+
+## 한국어 (초역·교정 대기)
+
+**Regents of the University of California v. Bakke, 438 U.S. 265 (1978): 쿼터는 위헌, 인종은 하나의 가점 요소로만.** 백인 지원자 Allan Bakke는 UC Davis 의대에 두 번 떨어진 뒤, 전체 100석 중 16석을 소수인종 및 불리한 배경의 지원자에게 따로 떼어 두고 그들끼리만 경쟁하게 한 특별 입학 프로그램을 문제 삼았습니다. 이 판결에는 단일 다수의견이 없습니다. Powell 대법관이 서로 다른 두 개의 5대 4 다수에서 결정적 한 표였습니다. 민권법 제6편(42 U.S.C. § 2000d)에 주로 기댄 네 명의 대법관과 함께해서는 정원 할당(set-aside)을 무효로 하고 Bakke의 입학을 명령하는 쪽에 섰고, 다른 네 명과 함께해서는 입학에서 인종을 여전히 고려할 수 있다는 쪽에 섰습니다. Powell 본인의 의견은 인종 분류에 엄격심사(strict scrutiny)를 적용하고, 고정 쿼터는 일부 지원자를 인종만을 이유로 16석 경쟁에서 차단한다는 점에서 정밀하게 맞춘 수단이 아니라고 보아 거부했습니다. 그러나 학생 구성의 다양성(diversity)은 긴요한 이익(compelling interest)으로 인정하고, 인종은 개별화되고 전체적인 심사(holistic review) 안에서 여러 요소 중 하나의 「가점 요소」(plus factor)가 될 수 있다고 했습니다. 그 전형으로 Harvard의 방식을 들었습니다. 이 방식에서는 모든 지원자가 하나의 풀에서 자신의 모든 자질을 놓고 경쟁합니다. Bakke 본인은 입학 명령을 받았습니다. 이후 계보는 Grutter v. Bollinger, 539 U.S. 306 (2003)로 이어집니다. 이 판결은 Powell의 틀을 명시적으로 받아들여 로스쿨의 전체적 심사를 유지했습니다. 반면 Gratz v. Bollinger, 539 U.S. 244 (2003)는 자동으로 20점을 더해 주는 방식을 기계적이고 개별화되지 않았다는 이유로 무효로 했습니다. 그리고 Students for Fair Admissions v. Harvard, 600 U.S. 181 (2023)는 Harvard와 노스캐롤라이나 대학교의 인종 고려 프로그램이 평등보호조항과 제6편에 어긋난다고 판단해, 사실상 Grutter를 뒤집고 Bakke의 가점 틀을 끝냈습니다. 캘리포니아는 훨씬 먼저 움직였습니다. 1996년 발의안 209(Cal. Const. art. I, § 31)가 공교육 등에서 인종 우대를 금지해, 캘리포니아 공립대학은 1990년대 말부터 인종 중립 입학을 해 왔습니다. (학습용 초역으로, 원어민 교정이 필요합니다.) *개인 학습 노트이며 법률 자문이 아닙니다.*
+
+## Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+**Regents of the University of California v. Bakke, 438 U.S. 265 (1978): chỉ tiêu cứng bị bác, chủng tộc chỉ được là một yếu tố cộng điểm.** Allan Bakke, ứng viên da trắng hai lần bị Trường Y UC Davis từ chối, đã kiện chương trình tuyển sinh đặc biệt của trường — chương trình dành riêng 16 trong 100 suất cho ứng viên thiểu số và có hoàn cảnh khó khăn, và những người này chỉ cạnh tranh với nhau. Tòa án không đưa ra một ý kiến đa số duy nhất. Thẩm phán Powell là lá phiếu then chốt trong hai liên minh 5-4 khác nhau: cùng bốn thẩm phán chủ yếu dựa trên Title VI (42 U.S.C. § 2000d), ông bỏ phiếu bãi bỏ phần ghế dành riêng và ra lệnh nhận Bakke; cùng bốn thẩm phán khác, ông bỏ phiếu rằng chủng tộc vẫn có thể được xét trong tuyển sinh. Trong ý kiến của mình, Powell áp dụng kiểm tra nghiêm ngặt (strict scrutiny) với mọi phân loại theo chủng tộc, bác bỏ chỉ tiêu cố định vì không được thiết kế hẹp (narrowly tailored) — nó cách ly một số ứng viên khỏi việc cạnh tranh 16 suất chỉ vì chủng tộc — nhưng chấp nhận sự đa dạng của sinh viên (diversity) là lợi ích cấp thiết (compelling interest), và cho rằng chủng tộc có thể là một 「yếu tố cộng」 (plus factor) trong quy trình xét duyệt cá nhân hóa, toàn diện (holistic review), lấy cách làm của Harvard làm kiểu mẫu, nơi mọi ứng viên cạnh tranh trong cùng một nhóm dựa trên toàn bộ phẩm chất của mình. Chính Bakke được lệnh cho nhập học. Dòng tiếp nối là Grutter v. Bollinger, 539 U.S. 306 (2003), vụ án đã tiếp nhận rõ ràng khung của Powell và giữ nguyên cách tuyển sinh toàn diện của trường luật; và Gratz v. Bollinger, 539 U.S. 244 (2003), đã bác bỏ cơ chế tự động cộng 20 điểm vì mang tính máy móc, không cá nhân hóa. Sau đó Students for Fair Admissions v. Harvard, 600 U.S. 181 (2023), tuyên các chương trình có xét chủng tộc của Harvard và Đại học North Carolina là vi hiến theo Điều khoản Bảo vệ Bình đẳng và Title VI, về thực chất đã lật đổ Grutter và khép lại khung cộng điểm của Bakke. California đi trước rất xa: Dự luật 209 (1996), Cal. Const. art. I, § 31, đã cấm ưu tiên chủng tộc trong giáo dục công, nên các đại học công ở California trung lập về chủng tộc từ cuối những năm 1990. (Bản dịch học tập sơ bộ, chờ người bản ngữ hiệu đính.) *Ghi chép học tập cá nhân, không phải tư vấn pháp lý.*
+
+## हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+**Regents of the University of California v. Bakke, 438 U.S. 265 (1978): कोटा असंवैधानिक, नस्ल केवल एक लाभ-कारक के रूप में।** Allan Bakke, UC Davis मेडिकल स्कूल द्वारा दो बार अस्वीकृत एक श्वेत आवेदक, ने उसके विशेष प्रवेश कार्यक्रम को चुनौती दी, जिसमें 100 सीटों में से 16 अल्पसंख्यक और वंचित आवेदकों के लिए अलग रखी जाती थीं और वे केवल आपस में प्रतिस्पर्धा करते थे। न्यायालय ने कोई एकल बहुमत राय नहीं दी। न्यायमूर्ति Powell दो अलग-अलग 5-4 गठबंधनों में निर्णायक मत थे: मुख्यतः Title VI (42 U.S.C. § 2000d) पर टिके चार न्यायाधीशों के साथ उन्होंने आरक्षण को रद्द करने और Bakke के प्रवेश का आदेश देने के पक्ष में मत दिया; अन्य चार के साथ उन्होंने माना कि प्रवेश में नस्ल पर अब भी विचार हो सकता है। अपनी राय में Powell ने नस्लीय वर्गीकरणों पर कठोर जाँच (strict scrutiny) लागू की, निश्चित कोटे को सटीक रूप से कटा हुआ (narrowly tailored) न मानकर अस्वीकार किया — वह कुछ आवेदकों को केवल नस्ल के कारण 16 सीटों की प्रतिस्पर्धा से अलग कर देता था — किंतु छात्र-समुदाय की विविधता (diversity) को बाध्यकारी हित (compelling interest) माना और कहा कि नस्ल वैयक्तिकृत, समग्र समीक्षा (holistic review) में अनेक कारकों में से एक «प्लस कारक» (plus factor) बन सकती है; इसका उदाहरण उन्होंने Harvard की पद्धति को बताया, जहाँ हर आवेदक एक ही समूह में अपने सभी गुणों के आधार पर प्रतिस्पर्धा करता है। Bakke को स्वयं प्रवेश का आदेश मिला। इसके बाद की कड़ी Grutter v. Bollinger, 539 U.S. 306 (2003) है, जिसने Powell के ढाँचे को स्पष्ट रूप से अपनाकर विधि-विद्यालय की समग्र प्रवेश पद्धति बनाए रखी, और Gratz v. Bollinger, 539 U.S. 244 (2003) है, जिसने अपने-आप मिलने वाले 20 अंकों के बोनस को यांत्रिक और अवैयक्तिक कहकर रद्द कर दिया। फिर Students for Fair Admissions v. Harvard, 600 U.S. 181 (2023) ने Harvard और North Carolina विश्वविद्यालय के नस्ल-सचेत कार्यक्रमों को समान संरक्षण खंड और Title VI के विरुद्ध ठहराया, जिससे वस्तुतः Grutter पलट गया और Bakke का प्लस-कारक ढाँचा समाप्त हो गया। California बहुत पहले चल पड़ा था: प्रस्ताव 209 (1996), Cal. Const. art. I, § 31, ने सार्वजनिक शिक्षा में नस्लीय वरीयता पर रोक लगा दी, इसलिए California के सार्वजनिक विश्वविद्यालय 1990 के दशक के अंत से नस्ल-तटस्थ हैं। (अध्ययन हेतु प्रारंभिक अनुवाद, मूलभाषी समीक्षा लंबित है।) *व्यक्तिगत अध्ययन नोट्स; कानूनी सलाह नहीं है।*
+
+---
+
+## 免责声明 / Disclaimer
+
+中文：本文为个人学习笔记，不构成法律建议。具体案件请咨询执业律师。
+
+English: This article is a personal study note only and does not constitute legal advice. For a specific case, consult a licensed attorney.
+
+Español: Este artículo es solo una nota personal de estudio y no constituye asesoría legal. Para un caso concreto, consulte a un abogado con licencia.
+
+한국어: 본 글은 개인 학습 노트이며 법률 자문이 아닙니다. 구체적인 사건에 대해서는 자격을 갖춘 변호사와 상담하시기 바랍니다.
+
+Tiếng Việt: Bài viết này chỉ là ghi chú học tập cá nhân, không phải tư vấn pháp lý. Đối với vụ việc cụ thể, hãy tham khảo ý kiến luật sư có giấy phép hành nghề.
+
+हिन्दी: यह लेख केवल व्यक्तिगत अध्ययन नोट है और कानूनी सलाह नहीं है। किसी विशिष्ट मामले के लिए कृपया लाइसेंस-प्राप्त वकील से परामर्श करें।
