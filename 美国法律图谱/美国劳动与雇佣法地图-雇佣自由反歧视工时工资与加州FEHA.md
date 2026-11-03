@@ -20,13 +20,19 @@ La regla por defecto en el sector privado es el empleo a voluntad (employment at
 ### 한국어 (초역 · 初译待校)
 민간 부문의 기본 규칙은 임의고용(employment at will)입니다. 계약이나 취업규칙상의 약속이 없으면 어느 쪽이든 합법적인 이유로 언제든 고용을 종료할 수 있고, 캘리포니아는 노동법전 § 2922에 이 추정을 명문화했습니다. 예외는 네 가지입니다. 차별·보복 금지 같은 법정 금지, 불법 지시 거부나 법정 권리 행사를 이유로 한 해고에 대한 공공정책 예외, 취업규칙의 징계 절차 약속을 계약으로 보는 묵시적 계약 예외, 그리고 소수 주에서만 인정되는 신의성실의 묵시적 의무입니다. 집단 측면은 전국노동관계법(NLRA, 29 U.S.C. §§ 151–169)이 규율합니다. § 7은 노조 유무와 관계없이 임금·조건을 함께 논의하는 단결활동(concerted activity)을 보호하고, § 8(a)는 NLRB가 집행하는 사용자의 부당노동행위를 열거합니다. NLRA는 공공부문 근로자, 감독자, 독립계약자에게는 적용되지 않습니다.
 
+보충하면, NLRA의 적용 제외에는 철도·항공 부문 근로자도 포함됩니다. 이들은 NLRA가 아니라 철도노동법(Railway Labor Act)이라는 별도의 연방법 체계로 규율됩니다.
+
 ### Tiếng Việt (bản dịch sơ bộ · 初译待校)
 Quy tắc mặc định của khu vực tư nhân là thuê mướu tùy ý (employment at will): nếu không có hợp đồng hay cam kết trong sổ tay, hai bên đều có thể chấm dứt bất cứ lúc nào vì bất kỳ lý do hợp pháp nào; California ghi nhận suy đoán này tại § 2922 Bộ luật Lao động. Có bốn ngoại lệ chính: các lệnh cấm theo luật (chống phân biệt đối xử và trả thù), ngoại lệ chính sách công (sa thải vì từ chối lệnh bất hợp pháp hoặc vì thực hiện quyền hợp pháp), hợp đồng ngụ ý (quy trình kỷ luật đã hứa trong sổ tay), và ở một số ít bang, nghĩa vụ thiện chí ngụ ý. Mặt tập thể nằm trong Đạo luật Quan hệ Lao động Quốc gia (NLRA, 29 U.S.C. §§ 151–169): § 7 bảo vệ hoạt động phối hợp (concerted activity) dù có công đoàn hay không, § 8(a) liệt kê hành vi lao động bất công của chủ lao động do NLRB thực thi. NLRA không áp dụng cho công chức, giám sát viên và nhà thầu độc lập.
+
+Bổ sung: nhóm bị loại trừ khỏi NLRA còn gồm người lao động đường sắt và hàng không — họ thuộc một khung liên bang riêng là Đạo luật Lao động Đường sắt (Railway Labor Act), không thuộc NLRA.
 
 ### हिन्दी (अनुवाद · 初译待校)
 निजी क्षेत्र का मूल नियम employment at will है: अनुबंध या handbook में वादा न हो तो कोई भी पक्ष किसी भी वैध कारण से कभी भी संबंध समाप्त कर सकता है; California इसे Labor Code § 2922 में दर्ज करता है। चार प्रमुख अपवाद हैं — वैधानिक प्रतिबंध (भेदभाव व प्रतिशोध), public-policy अपवाद (अवैध आदेश मानने से इनकार या कानूनी अधिकार के प्रयोग पर बर्खास्तगी), implied-contract अपवाद (handbook में वादा किए गए अनुशासन-प्रक्रिया), और कुछ राज्यों में good faith का implied covenant। सामूहिक पक्ष National Labor Relations Act (29 U.S.C. §§ 151–169) में है: § 7 union हो या न हो, concerted activity की रक्षा करता है, और § 8(a) NLRB द्वारा लागू employer unfair labor practices गिनाता है। NLRA सरकारी कर्मचारियों, supervisors और independent contractors पर लागू नहीं होता।
 
 ---
+
+पूरक बात: NLRA के दायरे से बाहर रेलवे और विमानन कर्मचारी भी हैं — वे NLRA के बजाय एक अलग संघीय ढांचे, Railway Labor Act, के अधीन आते हैं।
 
 ## 二、反歧视主线：四部联邦法、四种门槛
 
@@ -42,13 +48,19 @@ El derecho federal antidiscriminatorio es una familia de leyes, cada una con su 
 ### 한국어 (초역 · 初译待校)
 연방 차별금지법은 하나의 법이 아니라 각각 적용 문턱이 다른 법률군입니다. 1964년 민권법 제7장(Title VII, 42 U.S.C. §§ 2000e 이하)은 상시 15인 이상 사업장에 적용되며 인종, 피부색, 종교, 성별, 출신국 차별을 금지합니다. Bostock v. Clayton County(590 U.S. 644, 2020) 이후 성별에는 성적 지향과 성 정체성이 포함됩니다. 연령차별금지법(ADEA, 29 U.S.C. §§ 621–634)은 20인 문턱으로 40세 이상을 보호합니다. 장애인법(ADA, 42 U.S.C. §§ 12101 이하)은 15인 문턱으로, 과도한 곤란(undue hardship)이 없는 한 합리적 편의 제공을 요구합니다. 절차는 EEOC가 먼저입니다. 신고 기한은 원칙 180일, 캘리포니아처럼 주 기관이 있는 연기주(deferral state)에서는 300일로 늘어납니다(§ 2000e-5(e)(1)). 1991년 민권법은 보상적·징벌적 손해배상 합산 상한을 사업장 규모에 따라 50,000~300,000달러로 정했고(§ 1981a), 신고·증언에 대한 보복은 그 자체로 위법입니다.
 
+중국어 본문에 있는 두 가지가 더 있습니다. 임신 차별은 임신차별법(Pregnancy Discrimination Act)으로 Title VII의 성차별에 편입되어 있고, 동일임금은 동일임금법(Equal Pay Act, 29 U.S.C. § 206(d))이 같은 수준의 일에 대한 남녀 임금 격차를 다루며 대체로 FLSA의 적용 범위를 따릅니다. 또 인종차별을 42 U.S.C. § 1981로 별도로 제기하는 경우에는 1991년법 § 1981a의 배상 상한이 적용되지 않습니다.
+
 ### Tiếng Việt (bản dịch sơ bộ · 初译待校)
 Luật chống phân biệt đối xử liên bang là một họ luật, mỗi luật có ngưỡng áp dụng riêng. Title VII của Đạo luật Dân quyền 1964 (42 U.S.C. §§ 2000e trở đi) áp dụng cho chủ lao động từ 15 nhân viên, cấm phân biệt dựa trên chủng tộc, màu da, tôn giáo, giới tính và nguồn gốc quốc gia; sau Bostock v. Clayton County, 590 U.S. 644 (2020), «giới tính» bao gồm xu hướng tính dục và bản dạng giới. ADEA (29 U.S.C. §§ 621–634) dùng ngưỡng 20 nhân viên, bảo vệ người từ 40 tuổi. ADA (42 U.S.C. §§ 12101 trở đi) dùng ngưỡng 15 nhân viên và yêu cầu hỗ trợ hợp lý (reasonable accommodation) trừ khi gây khó khăn quá mức. Thủ tục đi qua EEOC trước: thời hạn nộp đơn là 180 ngày, kéo dài thành 300 ngày ở các bang có cơ quan song song như California (§ 2000e-5(e)(1)). Đạo luật 1991 giới hạn tổng bồi thường bù đắp và trừng phạt ở mức 50.000 đến 300.000 đô la tùy quy mô (§ 1981a), và hành vi trả thù người khiếu nại là bất hợp pháp độc lập.
+
+Bản chính tiếng Trung còn hai điểm nữa. Phân biệt đối xử vì mang thai được Đạo luật Chống phân biệt vì thai sản (Pregnancy Discrimination Act) gộp vào khái niệm phân biệt giới tính của Title VII; còn trả lương bình đẳng do Đạo luật Trả lương Công bằng (Equal Pay Act, 29 U.S.C. § 206(d)) điều chỉnh chênh lệch lương nam nữ cho công việc ngang nhau, về cơ bản đi theo phạm vi của FLSA. Ngoài ra, khiếu kiện phân biệt chủng tộc theo 42 U.S.C. § 1981 là một đường kiện riêng, không bị trần bồi thường của § 1981a trong Đạo luật 1991 giới hạn.
 
 ### हिन्दी (अनुवाद · 初译待校)
 संघीय भेदभाव-विरोधी कानून एक परिवार है, हर कानून की अपनी सीमा है। Civil Rights Act 1964 का Title VII (42 U.S.C. §§ 2000e आगे) 15+ कर्मचारियों वाले नियोक्ताओं पर लागू होता है और नस्ल, रंग, धर्म, लिंग व राष्ट्रीय मूल के आधार पर भेदभाव रोकता है; Bostock v. Clayton County, 590 U.S. 644 (2020) के बाद “sex” में sexual orientation और gender identity शामिल हैं। ADEA (29 U.S.C. §§ 621–634) की सीमा 20 कर्मचारी है और यह 40 वर्ष से ऊपर वालों की रक्षा करता है। ADA (42 U.S.C. §§ 12101 आगे) की सीमा 15 है और undue hardship न हो तो reasonable accommodation माँगता है। प्रक्रिया पहले EEOC से जाती है: शिकायत 180 दिनों में, California जैसे deferral राज्यों में 300 दिनों में (§ 2000e-5(e)(1))। 1991 के कानून ने compensatory व punitive damages की संयुक्त सीमा नियोक्ता-आकार अनुसार $50,000 से $300,000 रखी (§ 1981a), और शिकायत करने पर प्रतिशोध स्वयं अवैध है।
 
 ---
+
+चीनी मुख्य पाठ में दो बातें और हैं। गर्भावस्था के आधार पर भेदभाव Pregnancy Discrimination Act द्वारा Title VII के लिंग-भेदभाव में सम्मिलित है; और समान वेतन का विषय Equal Pay Act (29 U.S.C. § 206(d)) है, जो समान कार्य के लिए पुरुष-महिला वेतन-अंतर को देखता है और सामान्यतः FLSA के दायरे के साथ चलता है। इसके अतिरिक्त, नस्लीय भेदभाव का दावा 42 U.S.C. § 1981 के तहत अलग से लाने पर 1991 अधिनियम के § 1981a की क्षतिपूर्ति-सीमा लागू नहीं होती।
 
 ## 三、工时工资与休假：FLSA 的地板、FMLA 的无薪假、WARN 的裁员通知
 
@@ -64,13 +76,19 @@ El suelo de salario y jornada es la FLSA (29 U.S.C. §§ 201–219): salario mí
 ### 한국어 (초역 · 初译待校)
 임금·근로시간의 바닥은 공정근로기준법(FLSA, 29 U.S.C. §§ 201–219)입니다. 연방 최저임금은 2009년 이후 시간당 7.25달러(§ 206), 주 40시간 초과분은 1.5배 가산임금(§ 207)입니다. 화이트칼라 면제는 급여 지급 방식, 급여 수준, 직무 내용 세 가지를 모두 충족해야 합니다. 급여 수준은 주 684달러(연 35,568달러)입니다. 노동부의 2024년 규칙은 이를 844달러, 2025년에는 1,128달러로 올릴 예정이었으나 2024년 11월 15일 Texas v. Department of Labor 판결로 전국적으로 무효화되어 2019년 수준으로 돌아갔고, 고액연봉자 기준도 107,432달러로 복귀했습니다. 이는 연방 바닥일 뿐, 주 기준이 더 높으면 주가 우선합니다. 휴가는 가족·의료휴가법(FMLA, 29 U.S.C. §§ 2601 이하)입니다. 75마일 내 50인 이상 사업장, 근속 12개월·최근 1년 1,250시간 근무한 근로자에게 연 최대 12주의 무급·고용보장 휴가가 주어집니다. 사업장 폐쇄·대량해고는 WARN법(29 U.S.C. §§ 2101–2109)에 따라 100인 이상 사업장이 60일 전 서면 통지를 해야 합니다.
 
+세부 두 가지를 보충합니다. WARN법의 통지는 천재지변 같은 예외 사유가 있으면 기간이 단축될 수 있지만 통지 의무 자체가 없어지는 것은 아닙니다. FMLA 휴가의 사유에는 본인의 중대한 건강 상태, 직계가족 돌봄, 출산·신생아 돌봄이 포함되고, 사용자는 휴가 사용을 방해하거나 이를 이유로 보복할 수 없습니다.
+
 ### Tiếng Việt (bản dịch sơ bộ · 初译待校)
 Sàn lương và giờ làm là FLSA (29 U.S.C. §§ 201–219): lương tối thiểu liên bang 7,25 đô la/giờ từ năm 2009 (§ 206) và làm thêm giờ hưởng ít nhất 1,5 lần sau 40 giờ/tuần (§ 207). Miễn trừ «cổ cồn trắng» đòi hỏi đồng thời cách trả lương cố định, mức lương tối thiểu và nội dung công việc đạt chuẩn. Mức lương hiện là 684 đô la/tuần (35.568 đô la/năm): quy định 2024 của Bộ Lao động nâng lên 844 rồi 1.128 đô la đã bị tòa liên bang hủy bỏ trên toàn quốc ngày 15 tháng 11 năm 2024 trong vụ Texas v. Department of Labor, trở về mức 2019, kể cả mức 107.432 đô la cho nhân viên lương cao. Đây chỉ là sàn liên bang; ngưỡng của bang cao hơn thì áp dụng luật bang. Nghỉ phép theo FMLA (29 U.S.C. §§ 2601 trở đi): chủ lao động có 50 nhân viên trong bán kính 75 dặm, nhân viên làm đủ 12 tháng và 1.250 giờ trong năm qua, được nghỉ tối đa 12 tuần không lương nhưng giữ vị trí. Luật WARN (29 U.S.C. §§ 2101–2109) yêu cầu chủ lao động từ 100 nhân viên phải báo trước 60 ngày khi đóng cửa hoặc sa thải hàng loạt.
+
+Bổ sung hai chi tiết. Với WARN, các ngoại lệ như thiên tai có thể rút ngắn thời hạn báo trước nhưng không xóa bỏ nghĩa vụ thông báo. Với FMLA, các lý do nghỉ gồm tình trạng sức khỏe nghiêm trọng của bản thân, chăm sóc người thân trực hệ và sinh con/chăm trẻ sơ sinh; chủ lao động không được cản trở việc nghỉ cũng không được trả thù vì nhân viên đã nghỉ.
 
 ### हिन्दी (अनुवाद · 初译待校)
 मज़दूरी व कार्य-समय का आधार FLSA (29 U.S.C. §§ 201–219) है: संघीय न्यूनतम मज़दूरी 2009 से $7.25 प्रति घंटा (§ 206) और सप्ताह में 40 घंटे से अधिक पर 1.5 गुना overtime (§ 207)। White-collar छूट के लिए वेतन-भुगतान का तरीका, वेतन-स्तर और duties तीनों चाहिए। वेतन-स्तर $684 प्रति सप्ताह ($35,568 वार्षिक) है: श्रम विभाग के 2024 नियम ने इसे $844 और फिर $1,128 करना तय किया था, परंतु 15 नवंबर 2024 को Texas v. Department of Labor में नियम राष्ट्रव्यापी रद्द हो गया और 2019 स्तर लौट आया, जिसमें highly compensated कर्मचारियों के लिए $107,432 शामिल है। यह केवल संघीय आधार है; राज्य-सीमा अधिक हो तो वही लागू होती है। छुट्टी का मुख्य कानून FMLA (29 U.S.C. §§ 2601 आगे) है: 75 मील के भीतर 50 कर्मचारी वाले नियोक्ता, 12 महीने सेवा व पिछले वर्ष 1,250 घंटे काम किए कर्मचारी को 12 सप्ताह तक अवैतनिक, नौकरी-सुरक्षित छुट्टी। WARN Act (29 U.S.C. §§ 2101–2109) के तहत 100+ कर्मचारियों वाले नियोक्ता को बंदी या सामूहिक छंटनी से 60 दिन पहले लिखित सूचना देनी होती है।
 
 ---
+
+दो विवरण और जोड़ें। WARN में प्राकृतिक आपदा जैसे अपवादों से सूचना-अवधि घट सकती है, परंतु सूचना देने का दायित्व समाप्त नहीं होता। FMLA की छुट्टी के कारणों में स्वयं की गंभीर स्वास्थ्य-स्थिति, निकट परिवार की देखभाल और नवजात की देखभाल शामिल हैं; नियोक्ता छुट्टी के प्रयोग में बाधा नहीं डाल सकता और न ही इसके लिए प्रतिशोध ले सकता है।
 
 ## 四、加州加层：FEHA、最低工资与休息用餐规则
 
