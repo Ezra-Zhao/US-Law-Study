@@ -49,3 +49,14 @@ West Virginia v. EPA, 597 U.S. 697 (2022), phán quyết 6–3 rằng EPA không
 ## हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
 
 West Virginia v. EPA, 597 U.S. 697 (2022) में 6–3 से निर्णय हुआ कि EPA को Clean Air Act § 111(d), 42 U.S.C. § 7411(d) के तहत generation shifting थोपने का अधिकार नहीं था। न्यायालय ने major questions doctrine लगाया: बड़े आर्थिक व राजनीतिक महत्व वाले अधिकार के लिए Congress का स्पष्ट授权 चाहिए। यह निर्णय Massachusetts v. EPA, 549 U.S. 497 (2007) को पलटता नहीं है। *व्यक्तिगत अध्ययन नोट; कानूनी सलाह नहीं।*
+
+---
+
+## 免责声明（六语）
+
+*声明：本篇为个人学习笔记，不构成法律建议。具体个案请咨询有执业资格的律师。*
+*Disclaimer: This article is a personal study note and does not constitute legal advice. For a specific case, consult a licensed attorney.*
+*Notas personales de estudio; no constituyen asesoría legal. Para casos concretos, consulte a un abogado con licencia. (traducción de estudio)*
+*개인 학습 노트이며 법률 자문이 아닙니다. 구체적인 사안은 자격 있는 변호사에게 상담하십시오. (초역, 원어민 감수 대기)*
+*Ghi chú học tập cá nhân, không cấu thành tư vấn pháp lý. Với trường hợp cụ thể, hãy tham vấn luật sư có giấy phép hành nghề. (bản dịch sơ bộ, chờ hiệu đính)*
+*यह व्यक्तिगत अध्ययन नोट है और कानूनी सलाह नहीं है। किसी विशिष्ट मामले के लिए लाइसेंस-प्राप्त वकील से परामर्श करें। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)*
