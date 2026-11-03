@@ -38,17 +38,23 @@ Si su informe crediticio contiene una cuenta que no es suya o una deuda pagada q
 
 *개인 학습 노트이며 법률 자문이 아닙니다. 초역으로 교정 대기 중입니다.*
 
+보충: § 609(15 U.S.C. § 1681g)에 따라 본인은 파일에 담긴 정보, 그 출처, 보고서를 조회한 자를 알 권리가 있습니다. 재조사 결과가 '확인됨'으로 나와도 § 1681i(b)의 소비자 진술을 파일에 추가할 수 있고, CFPB에 불만을 제기할 수 있으며, 분쟁은 항목별로 제기하고 우편 증빙과 사본을 남기는 것이 원칙입니다. (초역, 원어민 감수 대기)
+
 ## Tiếng Việt
 
 Nếu báo cáo tín dụng của bạn có một tài khoản không phải của bạn, hoặc một khoản đã trả vẫn ghi là quá hạn, Đạo luật Báo cáo Tín dụng Công bằng liên bang (FCRA, 15 U.S.C. §§ 1681 trở đi) cho bạn một quy trình tự sửa sai. Lấy báo cáo miễn phí của Experian, Equifax và TransUnion tại AnnualCreditReport.com; § 609 (§ 1681g) cho bạn quyền biết hồ sơ chứa gì. Khiếu nại từng lỗi với cơ quan tín dụng: theo § 611 (§ 1681i), cơ quan thường phải hoàn tất tái điều tra trong 30 ngày và thông báo cho bên cung cấp thông tin (furnisher) trong 5 ngày làm việc; furnisher cũng phải điều tra theo § 623 (§ 1681s-2(b)). Nếu vẫn bị "xác minh là đúng", bạn có thể thêm tuyên bố người tiêu dùng, khiếu nại lên CFPB, và khi có thiệt hại thực tế do vi phạm cố ý, kiện theo §§ 616–617 (§§ 1681n, 1681o). § 605A (§ 1681c-1) cho phép đóng băng bảo mật miễn phí hoặc cảnh báo gian lận một năm. Luật California (Cal. Civ. Code §§ 1785.1 trở đi, § 1785.16) áp dụng song song. *(Bản dịch sơ bộ, đang chờ hiệu đính / 初译待校)*
 
 *Ghi chú học tập cá nhân, không phải tư vấn pháp lý. Bản dịch sơ bộ, chờ hiệu đính.*
 
+Bổ sung: theo § 609 (15 U.S.C. § 1681g), bạn có quyền biết thông tin trong hồ sơ, nguồn của thông tin và ai đã truy cập báo cáo của mình. Ngay cả khi việc điều tra lại kết luận 'đã xác minh', bạn vẫn có thể thêm tuyên bố của người tiêu dùng theo § 1681i(b) vào hồ sơ và khiếu nại lên CFPB; tranh chấp được thực hiện theo từng mục, nên giữ lại bản sao và bằng chứng gửi thư. (Bản dịch sơ bộ, chờ hiệu đính)
+
 ## हिन्दी
 
 यदि आपकी क्रेडिट रिपोर्ट में कोई ऐसा खाता है जो आपका नहीं है, या चुकाया गया खाता बकाया दिख रहा है, तो संघीय Fair Credit Reporting Act (FCRA, 15 U.S.C. §§ 1681 आदि) आपको स्वयं सुधार की प्रक्रिया देता है। AnnualCreditReport.com से Experian, Equifax और TransUnion की निःशुल्क रिपोर्ट लें; § 609 (§ 1681g) आपको फ़ाइल की सामग्री जानने का अधिकार देता है। प्रत्येक त्रुटि पर ब्यूरो से विवाद करें: § 611 (§ 1681i) के तहत ब्यूरो को सामान्यतः 30 दिनों में पुनः जाँच पूरी करनी होती है और 5 कार्यदिवसों में सूचना-दाता (furnisher) को सूचित करना होता है; furnisher को भी § 623 (§ 1681s-2(b)) के तहत जाँच करनी होती है। फिर भी सुधार न हो तो उपभोक्ता वक्तव्य जोड़ें, CFPB में शिकायत करें, और जानबूझकर की गई चूक से वास्तविक हानि हो तो §§ 616–617 (§§ 1681n, 1681o) के तहत मुकदमा संभव है। § 605A (§ 1681c-1) के तहत निःशुल्क security freeze या एक वर्ष का fraud alert लगाएँ। California का कानून (Cal. Civ. Code §§ 1785.1 आदि, § 1785.16) समानांतर लागू होता है। *(प्रारंभिक अनुवाद, समीक्षा लंबित / 初译待校)*
 
 *व्यक्तिगत अध्ययन नोट्स; कानूनी सलाह नहीं। प्रारंभिक अनुवाद, समीक्षा लंबित।*
+
+पूरक: § 609 (15 U.S.C. § 1681g) के तहत आपको फ़ाइल की सामग्री, सूचना के स्रोत और यह जानने का अधिकार है कि आपकी रिपोर्ट किसने देखी। यदि पुनःजाँच 'सत्यापित' कहकर समाप्त हो जाए तो भी आप § 1681i(b) के तहत उपभोक्ता वक्तव्य जोड़ सकते हैं और CFPB में शिकायत कर सकते हैं; विवाद प्रत्येक मद पर अलग से करें और डाक-प्रमाण व प्रतिलिपि संभालकर रखें। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
 
 ---
 *个人学习笔记，不构成法律建议。*

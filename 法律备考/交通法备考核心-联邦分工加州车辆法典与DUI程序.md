@@ -1,0 +1,47 @@
+# 交通法备考核心：联邦与州的分工、加州《车辆法典》与 DUI 程序
+
+> 个人学习笔记，不构成法律建议。本篇为备考整理，条文以官方现行文本为准。
+
+## 中文主文
+
+### 一、先分联邦与州：车归联邦管，人和路归州管
+
+交通法最常见的考法是先问「谁有权管」。大线是这样分的：联邦管车辆本身的安全标准与跨州运输——《机动车安全法》（49 U.S.C. §§ 30101 起）授权 NHTSA 制定联邦机动车安全标准（FMVSS），新车达不到标准不能卖；联邦还以拨款杠杆管公路安全（23 U.S.C. § 402）与商业驾照的全国统一底线（49 C.F.R. Part 383 的 CDL 标准，各州发照不得低于此线）。而驾驶资格、道路上的行为规则、事故责任与刑罚，传统上是州的警察权（police power）：谁能拿驾照、限速多少、酒驾怎么罚，都看州法。所以同一个 DUI，联邦法基本不直接出场，出场的是州《车辆法典》与州刑法、州宪法及联邦宪法第四修正案对拦停搜查的限制。
+
+### 二、加州《车辆法典》的骨架
+
+加州的主干是《车辆法典》（Vehicle Code）。备考先记四组高频条文。第一组是驾驶资格与驾照：§ 12804.9 分驾照类别（C 类为普通乘用车），§ 12500 无照驾驶本身即违法。第二组是道路行为规则：§ 22350 基本速度法（basic speed law）——任何速度都不得快于当时路况下合理审慎的速度，贴着限速牌开也不当然合法；§ 21453 红灯规则；§ 21950 驾驶人对斑马线内行人的让行义务。第三组是事故与财务责任：§ 20001 肇事逃逸致伤亡为重罪层级，§ 16000 起的《财务责任法》要求事故后能证明赔偿能力，伤亡或财产损失超过 1,000 美元的事故须在 10 天内向 DMV 报 SR-1（§ 16000.1）。第四组就是酒驾，单列一节。
+
+### 三、DUI：一条罪名、两套程序
+
+加州 DUI 的实体核心是 Vehicle Code § 23152：(a) 款是「受影响驾驶」——因酒精、药物或两者共同作用而不能像清醒审慎之人那样驾驶，不问具体数值；(b) 款是 per se 型——血液酒精浓度达到 0.08% 以上驾驶即成立，不必再证明实际受影响。致人伤害的升格看 § 23153。与实体罪名并行的是 DMV 的行政程序（administrative per se）：按 § 23612 的默示同意（implied consent），合法逮捕后驾驶人须接受化学检测，拒绝检测或测出超标，DMV 可先行吊扣驾照（§ 13353 一带规定拒绝的后果与听证），这套行政吊扣与刑事案件互相独立——刑事无罪不自动撤销行政吊扣，考试最爱在这里设套。
+
+程序上还要接第四修正案：交通拦停是「扣押」（seizure），须有合理依据——Whren v. United States, 517 U.S. 806 (1996) 定下客观标准，警察主观动机不影响有客观违章事实的拦停效力；Rodriguez v. United States, 575 U.S. 431 (2015) 则限定拦停不得超出处理本次违章所需的任务时间去等缉毒犬，除非另有合理怀疑。抽血检测另看 Missouri v. McNeely, 569 U.S. 141 (2013)：酒精自然代谢本身不构成免令状的紧急情况。
+
+### 四、备考收束
+
+答题顺序建议固定成三步：先定管辖层级（车辆标准找联邦、驾驶行为找州），再落具体条文（行为规则、DUI 实体与行政吊扣分开写），最后查程序合宪性（拦停依据与时长、检测的令状与同意）。把 § 23152 的 (a)(b) 两款分开、把刑事与 DMV 两套程序分开，本章大半分数就稳了。
+
+*声明：个人学习笔记，不构成法律建议。来源：49 U.S.C. §§ 30101 起；23 U.S.C. § 402；49 C.F.R. Part 383；Cal. Veh. Code §§ 12500、12804.9、13353、16000.1、20001、21453、21950、22350、23152、23153、23612；Whren v. United States, 517 U.S. 806 (1996)；Rodriguez v. United States, 575 U.S. 431 (2015)；Missouri v. McNeely, 569 U.S. 141 (2013)。*
+
+---
+
+## English
+
+Traffic law splits along a federal–state line: the federal government sets vehicle safety standards (the Motor Vehicle Safety Act, 49 U.S.C. §§ 30101 et seq., implemented through NHTSA's FMVSS), highway-safety funding conditions (23 U.S.C. § 402), and the national floor for commercial driver's licenses (49 C.F.R. Part 383), while licensing, rules of the road, and DUI punishment are state police-power matters. In California the Vehicle Code supplies the operative rules: § 22350's basic speed law (never drive faster than is reasonable for conditions, even at the posted limit), § 21453 on red lights, § 21950 on yielding to pedestrians, § 20001 on hit-and-run, and § 16000.1 requiring an SR-1 report to the DMV within 10 days of an injury accident or one causing over $1,000 in property damage. DUI turns on § 23152: subsection (a) punishes driving under the influence as shown by impairment, while subsection (b) is a per se offense at a blood-alcohol concentration of 0.08% or more; § 23153 covers DUI causing injury. A separate DMV administrative per se track runs in parallel — under the implied-consent law (§ 23612), refusal or a failed test can suspend the license administratively (see § 13353) regardless of the criminal outcome. Fourth Amendment limits frame the stop itself: Whren v. United States, 517 U.S. 806 (1996), applies an objective test to traffic stops, Rodriguez v. United States, 575 U.S. 431 (2015), bars prolonging a stop beyond its mission without reasonable suspicion, and Missouri v. McNeely, 569 U.S. 141 (2013), rejects a categorical exigency exception for blood draws. *Personal study notes only; not legal advice.*
+
+## Español (traducción de estudio, pendiente de revisión nativa)
+
+El derecho de tránsito se reparte entre la federación y los estados: el gobierno federal fija las normas de seguridad de los vehículos (Motor Vehicle Safety Act, 49 U.S.C. §§ 30101 y ss., con las FMVSS de la NHTSA), las condiciones de financiamiento de seguridad vial (23 U.S.C. § 402) y el piso nacional de las licencias comerciales (49 C.F.R. Parte 383), mientras que las licencias, las reglas de circulación y el castigo del DUI son materia del poder de policía estatal. En California rige el Vehicle Code: la ley básica de velocidad del § 22350 (nunca conducir más rápido de lo razonable según las condiciones, ni siquiera al límite señalizado), el § 21453 sobre semáforos en rojo, el § 21950 sobre ceder el paso a peatones, el § 20001 sobre fuga tras un accidente y el § 16000.1, que exige reportar al DMV con el formulario SR-1 en 10 días los accidentes con lesiones o daños materiales superiores a 1,000 dólares. El DUI gira sobre el § 23152: el inciso (a) sanciona conducir bajo influencia acreditada por el deterioro, y el (b) es una infracción per se con concentración de alcohol en sangre de 0.08% o más; el § 23153 cubre el DUI con lesiones. En paralelo corre la vía administrativa del DMV: bajo el consentimiento implícito (§ 23612), negarse a la prueba o no superarla puede suspender la licencia por vía administrativa (§ 13353) con independencia del resultado penal. La Cuarta Enmienda enmarca la detención: Whren v. United States, 517 U.S. 806 (1996), aplica un criterio objetivo; Rodriguez v. United States, 575 U.S. 431 (2015), prohíbe prolongar la parada más allá de su misión sin sospecha razonable, y Missouri v. McNeely, 569 U.S. 141 (2013), rechaza una excepción categórica de urgencia para las extracciones de sangre. *Notas personales de estudio; no constituye asesoría legal.*
+
+## 한국어 (초역, 원어민 감수 대기)
+
+교통법은 연방과 주로 나뉩니다. 연방은 차량 자체의 안전기준(Motor Vehicle Safety Act, 49 U.S.C. §§ 30101 이하, NHTSA의 FMVSS), 도로안전 재원 조건(23 U.S.C. § 402), 상업용 운전면허의 전국 최저기준(49 C.F.R. Part 383)을 담당하고, 면허 발급과 도로 주행 규칙, 음주운전 처벌은 주의 경찰권 사항입니다. 캘리포니아에서는 Vehicle Code가 실무 규정입니다. § 22350 기본속도법(제한속도 이내라도 당시 상황에서 합리적인 속도를 넘으면 위법), § 21453 신호위반, § 21950 보행자 양보, § 20001 뺑소니, 그리고 부상 사고나 1,000달러 초과 재산피해 사고 시 10일 이내 DMV에 SR-1을 제출해야 한다는 § 16000.1이 핵심입니다. 음주운전은 § 23152가 중심입니다. (a)호는 실제 운전능력 저하로 입증되는 영향 하 운전, (b)호는 혈중알코올농도 0.08% 이상이면 그 자체로 성립하는 per se 범죄이고, 상해를 일으키면 § 23153이 적용됩니다. 이와 별도로 DMV의 행정 절차가 병행합니다. 묵시적 동의(§ 23612)에 따라 검사를 거부하거나 기준을 초과하면 형사 결과와 무관하게 면허가 행정적으로 정지될 수 있습니다(§ 13353 참조). 정차 자체는 수정헌법 제4조의 틀 안에 있습니다. Whren v. United States, 517 U.S. 806 (1996)은 객관적 기준을, Rodriguez v. United States, 575 U.S. 431 (2015)은 합리적 의심 없이 정차 목적 범위를 넘어 연장할 수 없음을, Missouri v. McNeely, 569 U.S. 141 (2013)은 채혈에 대한 범주적 긴급상황 예외를 부정했음을 각각 판시했습니다. *개인 학습 노트이며 법률 자문이 아닙니다.*
+
+## Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+Luật giao thông chia theo tuyến liên bang – tiểu bang: liên bang đặt tiêu chuẩn an toàn của bản thân phương tiện (Motor Vehicle Safety Act, 49 U.S.C. §§ 30101 trở đi, với FMVSS của NHTSA), điều kiện tài trợ an toàn đường bộ (23 U.S.C. § 402) và mức sàn toàn quốc cho bằng lái thương mại (49 C.F.R. Part 383), còn cấp bằng, quy tắc lưu thông và xử phạt DUI thuộc quyền cảnh sát của tiểu bang. Ở California, Vehicle Code là khung operative: luật tốc độ cơ bản § 22350 (không bao giờ lái nhanh hơn mức hợp lý theo điều kiện thực tế, kể cả khi đúng tốc độ biển báo), § 21453 về đèn đỏ, § 21950 về nhường người đi bộ, § 20001 về bỏ trốn sau tai nạn, và § 16000.1 yêu cầu nộp SR-1 cho DMV trong 10 ngày khi có thương tích hoặc thiệt hại tài sản trên 1.000 đô la. DUI xoay quanh § 23152: khoản (a) xử phạt lái xe dưới ảnh hưởng được chứng minh bằng suy giảm khả năng, khoản (b) là tội per se khi nồng độ cồn trong máu từ 0,08% trở lên; § 23153 áp dụng khi gây thương tích. Song song là tuyến hành chính của DMV: theo luật đồng ý ngụ ý (§ 23612), từ chối xét nghiệm hoặc không đạt có thể bị đình chỉ bằng hành chính (§ 13353) bất kể kết quả hình sự. Tu chính án thứ Tư khung cho việc dừng xe: Whren v. United States, 517 U.S. 806 (1996) dùng tiêu chuẩn khách quan, Rodriguez v. United States, 575 U.S. 431 (2015) cấm kéo dài việc dừng xe vượt nhiệm vụ nếu không có nghi ngờ hợp lý, và Missouri v. McNeely, 569 U.S. 141 (2013) bác bỏ ngoại lệ khẩn cấp theo loại cho việc lấy máu. *Ghi chú học tập cá nhân, không phải tư vấn pháp lý.*
+
+## हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+यातायात कानून संघीय–राज्य रेखा पर बँटा है: संघीय सरकार वाहन की सुरक्षा-मानक (Motor Vehicle Safety Act, 49 U.S.C. §§ 30101 आगे, NHTSA के FMVSS), सड़क-सुरक्षा वित्तपोषण की शर्तें (23 U.S.C. § 402) और वाणिज्यिक ड्राइविंग लाइसेंस का राष्ट्रीय न्यूनतम स्तर (49 C.F.R. Part 383) तय करती है, जबकि लाइसेंस, सड़क के नियम और DUI की सज़ा राज्य के पुलिस-अधिकार का विषय है। California में Vehicle Code लागू होता है: § 22350 का basic speed law (निर्धारित सीमा पर भी परिस्थितियों के अनुसार उचित से तेज़ चलाना अपराध है), § 21453 लाल बत्ती पर, § 21950 पैदल यात्रियों को रास्ता देने पर, § 20001 hit-and-run पर, और § 16000.1 — चोट वाले या 1,000 डॉलर से अधिक संपत्ति-क्षति वाले हादसे की SR-1 रिपोर्ट 10 दिनों में DMV को देना अनिवार्य। DUI का केंद्र § 23152 है: उपधारा (a) वास्तविक क्षीणता से सिद्ध नशे में गाड़ी चलाने को, उपधारा (b) रक्त-अल्कोहल सांद्रता 0.08% या अधिक को per se अपराध बनाती है; चोट लगने पर § 23153 लागू होता है। इसके समानांतर DMV की प्रशासनिक प्रक्रिया चलती है — निहित सहमति (§ 23612) के तहत परीक्षण से इनकार या असफलता पर लाइसेंस प्रशासनिक रूप से निलंबित हो सकता है (§ 13353), आपराधिक परिणाम से स्वतंत्र। चौथा संशोधन रोक (stop) की सीमा तय करता है: Whren v. United States, 517 U.S. 806 (1996) ने वस्तुनिष्ठ परीक्षण अपनाया, Rodriguez v. United States, 575 U.S. 431 (2015) ने उचित संदेह के बिना रोक को उसके उद्देश्य से आगे बढ़ाने पर रोक लगाई, और Missouri v. McNeely, 569 U.S. 141 (2013) ने रक्त-नमूने के लिए श्रेणीगत आपात-अपवाद को अस्वीकार किया। *व्यक्तिगत अध्ययन नोट; कानूनी सलाह नहीं।*
