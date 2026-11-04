@@ -42,15 +42,21 @@ West Virginia v. EPA, 597 U.S. 697 (2022), resolvió por 6 a 3 que la EPA no ten
 
 West Virginia v. EPA, 597 U.S. 697 (2022)은 6대 3으로, EPA가 청정공기법 제111(d)조, 42 U.S.C. § 7411(d)에 근거해 발전 구조 전환을 강제할 권한이 없다고 판시했습니다. 법원은 중대 문제 원칙(major questions doctrine)을 적용해 경제적·정치적으로 중대한 권한에는 의회의 명확한 수권이 필요하다고 보았고, 해당 문구는 이를 충족하지 못했습니다. Massachusetts v. EPA, 549 U.S. 497 (2007)은 뒤집히지 않았습니다. Chevron 존중을 전면 폐지한 Loper Bright, 603 U.S. 369 (2024)와 구별해야 합니다. 중대 문제 원칙은 비상한 권한 주장에만 명확한 수권 요건을 추가하고, Biden v. Nebraska, 600 U.S. 477 (2023)이 같은 틀을 이어받았습니다. 캘리포니아 자체 프로그램은 주로 주법(예: SB 100의 청정 전력 목표)에 근거하므로 본 판결은 주로 연방 발전소 규제를 제한합니다. *개인 학습 노트이며 법률 자문이 아닙니다.*
 
+보충: 다수의견의 핵심은 EPA가 패소했다는 사실보다 심사 순서에 있다. 첫째, 주장되는 권한의 경제적·정치적 중대성을 묻고, 둘째, 의회의 명확한 수권이 있는지를 묻는다. 42 U.S.C. § 7411(d)의 '최상의 감축 시스템'이라는 문구는 그 명확한 수권에 이르지 못한다. 이 판결은 Massachusetts v. EPA, 549 U.S. 497 (2007)을 뒤집지 않았고 온실가스가 청정대기법상 오염물질이 될 수 있다는 점은 그대로 두었으며, Biden v. Nebraska, 600 U.S. 477 (2023)가 이 틀을 이어받았다. Loper Bright, 603 U.S. 369 (2024)의 Chevron 폐기와 혼동하지 말 것 — 전자는 일반 해석권, 후자는 중대 권한 주장에 대한 추가 관문이다.
+
 ## Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
 
 West Virginia v. EPA, 597 U.S. 697 (2022), phán quyết 6–3 rằng EPA không có thẩm quyền theo Mục 111(d) của Đạo luật Không khí Sạch, 42 U.S.C. § 7411(d), để áp đặt việc chuyển đổi cơ cấu phát điện. Tòa áp dụng học thuyết vấn đề trọng đại (major questions doctrine): quyền lực có ý nghĩa kinh tế và chính trị lớn cần ủy quyền rõ ràng của Quốc hội. Phán quyết không lật lại Massachusetts v. EPA, 549 U.S. 497 (2007). Cần phân biệt với Loper Bright, 603 U.S. 369 (2024), vụ án chấm dứt nguyên tắc tôn trọng Chevron nói chung, trong khi học thuyết vấn đề trọng đại chỉ thêm yêu cầu ủy quyền rõ ràng đối với các tuyên bố quyền lực phi thường; Biden v. Nebraska, 600 U.S. 477 (2023) sau đó đã áp dụng cùng khung này. Chương trình riêng của California chủ yếu dựa trên luật bang (ví dụ mục tiêu điện sạch của SB 100), nên vụ án chủ yếu giới hạn quy định liên bang về nhà máy điện. *Ghi chú học tập cá nhân, không phải tư vấn pháp lý.*
+
+Bổ sung: trọng tâm của ý kiến đa số nằm ở trình tự xét xử hơn là việc EPA thua kiện. Trước hết hỏi quyền lực được khẳng định có tầm quan trọng kinh tế và chính trị hay không, sau đó hỏi Quốc hội đã ủy quyền rõ ràng chưa. Cụm từ «hệ thống giảm phát thải tốt nhất» trong 42 U.S.C. § 7411(d) không đạt mức rõ ràng đó. Phán quyết không lật Massachusetts v. EPA, 549 U.S. 497 (2007), và Biden v. Nebraska, 600 U.S. 477 (2023) đã tiếp nối khung này. Đừng nhầm với Loper Bright, 603 U.S. 369 (2024): án lệ kia xử lý quyền giải thích nói chung, còn nguyên tắc vấn đề trọng đại là cánh cổng bổ sung cho các tuyên bố quyền lực lớn.
 
 ## हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
 
 West Virginia v. EPA, 597 U.S. 697 (2022) में 6–3 से निर्णय हुआ कि EPA को Clean Air Act § 111(d), 42 U.S.C. § 7411(d) के तहत generation shifting थोपने का अधिकार नहीं था। न्यायालय ने major questions doctrine लगाया: बड़े आर्थिक व राजनीतिक महत्व वाले अधिकार के लिए Congress का स्पष्ट授权 चाहिए। यह निर्णय Massachusetts v. EPA, 549 U.S. 497 (2007) को पलटता नहीं है। इसे Loper Bright, 603 U.S. 369 (2024) से अलग रखें, जिसने Chevron deferment को सामान्यतः समाप्त किया, जबकि major questions doctrine केवल असाधारण शक्ति-दावों पर स्पष्ट प्राधिकरण की अतिरिक्त शर्त जोड़ता है; Biden v. Nebraska, 600 U.S. 477 (2023) ने बाद में यही ढाँचा अपनाया। California का अपना कार्यक्रम मुख्यतः राज्य-कानून (जैसे SB 100 का स्वच्छ बिजली लक्ष्य) पर टिका है, अतः यह मामला मुख्यतः संघीय बिजली-संयंत्र नियमन को सीमित करता है। *व्यक्तिगत अध्ययन नोट; कानूनी सलाह नहीं।*
 
 ---
+
+पूरक: बहुमत की राय का सार EPA की हार से अधिक समीक्षा के क्रम में है। पहले पूछो कि दावा की गई शक्ति आर्थिक व राजनीतिक दृष्टि से महत्वपूर्ण है या नहीं, फिर पूछो कि कांग्रेस ने स्पष्ट प्राधिकरण दिया है या नहीं। 42 U.S.C. § 7411(d) का «सर्वोत्तम उत्सर्जन-न्यूनीकरण प्रणाली» वाक्यांश उस स्पष्टता तक नहीं पहुँचता। निर्णय ने Massachusetts v. EPA, 549 U.S. 497 (2007) को नहीं पलटा, और Biden v. Nebraska, 600 U.S. 477 (2023) ने यही ढाँचा आगे बढ़ाया। इसे Loper Bright, 603 U.S. 369 (2024) से न मिलाएँ — वह सामान्य व्याख्या-अधिकार का प्रश्न है, जबकि प्रमुख-प्रश्न सिद्धांत बड़े शक्ति-दावों पर अतिरिक्त द्वार है।
 
 ## 免责声明（六语）
 

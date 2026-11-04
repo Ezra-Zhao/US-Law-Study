@@ -32,11 +32,15 @@
 
 보충 세부사항: Cardozo의 의무 분석과 달걀껍질 두개골(eggshell skull) 규칙을 혼동하지 마십시오. 예견할 수 없는 원고는 의무 단계에서 탈락하지만, 예견 가능한 원고에 대해서는 그 원고의 특이한 취약성 때문에 손해가 예상보다 커져도 피고가 전부를 부담합니다. 또한 이 판결은 뉴욕주 보통법 판결로서 다른 주에는 설득력만 있고 구속력은 없으며, California는 Rowland v. Christian, 69 Cal.2d 108 (1968)의 다요소 검토를 쓰되 예견가능성을 여전히 첫 번째 자리에 둡니다. 시험에서는 의무 문제를 Palsgraf I로, Andrews의 이견을 근인(proximate cause) 문제로 분리해 답하십시오. (초역 보충, 원어민 감수 대기)
 
+보충: Cardozo와 Andrews의 차이는 결론보다 분석의 입구에 있다. Cardozo는 의무(duty) 단계에서 예견 가능한 원고(foreseeable plaintiff)만을 보호하므로, 위험구역 밖에 있던 Palsgraf에게는 의무 자체가 성립하지 않는다. Andrews는 의무를 모두에게 인정하되 근인(proximate cause)에서 걸러야 한다고 본다. 시험에서는 두 입장을 섞지 말 것. 그리고 '달걀껍질 두개골' 규칙과 구분하라 — 원고가 예견 가능하면 손해의 정도까지 예견할 필요는 없다. 캘리포니아는 Rowland v. Christian, 69 Cal.2d 108 (1968)의 다요소 형량을 쓰지만 예견가능성이 여전히 첫 자리이다.
+
 ## Tiếng Việt
 
 **Vụ án**: Palsgraf v. Long Island R.R. Co., 248 N.Y. 339, 162 N.E. 99 (1928), Tòa Phúc thẩm New York; Chánh án Cardozo viết ý kiến đa số (4–3), thẩm phán Andrews bất đồng. **Sự việc**: gói đồ của một hành khách chứa pháo hoa rơi và phát nổ khi nhân viên hỗ trợ lên tàu; vụ nổ làm đổ chiếc cân ở đầu xa của sân ga, khiến nguyên đơn Palsgraf bị thương. **Phán quyết**: lỗi bất cẩn đòi hỏi phải có nghĩa vụ đối với nguyên đơn; nghĩa vụ chỉ kéo dài tới những người trong vùng nguy hiểm có thể dự thấy hợp lý. Vì không thể biết gói đồ nguy hiểm, bị đơn không có nghĩa vụ với Palsgraf. **Ý kiến bất đồng**: nghĩa vụ là đối với mọi người, giới hạn thực sự là nguyên nhân trực tiếp (proximate cause), do bồi thẩm đoàn quyết định. **Ý nghĩa**: lập ra tiêu chuẩn «nguyên đơn có thể dự thấy»; California cân nhắc nghĩa vụ theo các yếu tố của Rowland v. Christian, 69 Cal.2d 108 (1968), trong đó tính có thể dự thấy đứng đầu. *(Bản dịch sơ bộ, chờ hiệu đính / 初译待校)*
 
 Chi tiết bổ sung: đừng nhầm phân tích nghĩa vụ của Cardozo với quy tắc sọ trứng (eggshell skull). Nguyên đơn không thể thấy trước được sẽ bị loại ở khâu nghĩa vụ, nhưng với nguyên đơn có thể thấy trước được, bị đơn phải chịu toàn bộ thiệt hại ngay cả khi mức độ thiệt hại lớn hơn dự kiến do thể chất đặc biệt yếu của nguyên đơn. Ngoài ra, đây là phán quyết thông luật của bang New York, chỉ có sức thuyết phục chứ không ràng buộc các bang khác; California dùng phép cân nhắc đa yếu tố trong Rowland v. Christian, 69 Cal.2d 108 (1968) nhưng vẫn đặt khả năng thấy trước lên hàng đầu. Khi làm bài, hãy tách phần nghĩa vụ thành Palsgraf I và ý kiến bất đồng của Andrews thành vấn đề nguyên nhân gần (proximate cause). (Bổ sung bản dịch sơ bộ, chờ hiệu đính)
+
+Bổ sung: khác biệt giữa Cardozo và Andrews nằm ở cửa phân tích hơn là kết luận. Cardozo chỉ bảo vệ nguyên đơn có thể dự liệu thấy được ngay ở bước nghĩa vụ (duty), nên với Palsgraf — người ngoài vùng nguy hiểm — nghĩa vụ không hề hình thành. Andrews công nhận nghĩa vụ với mọi người nhưng lọc ở bước nhân quả gần (proximate cause). Khi thi, đừng trộn hai lập trường. Cũng cần phân biệt với quy tắc «sọ trứng»: nếu nguyên đơn có thể dự liệu thấy được thì mức độ thiệt hại không cần dự liệu thấy. California dùng phép cân nhắc đa yếu tố của Rowland v. Christian, 69 Cal.2d 108 (1968), nhưng tính có thể dự liệu thấy vẫn đứng đầu.
 
 ## हिन्दी
 
@@ -56,3 +60,5 @@ Chi tiết bổ sung: đừng nhầm phân tích nghĩa vụ của Cardozo với
 *Bài viết này là ghi chú học tập cá nhân, không phải tư vấn pháp lý. (Bản dịch sơ bộ, chờ hiệu đính)*
 
 *यह लेख एक व्यक्तिगत अध्ययन नोट है और कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)*
+
+पूरक: Cardozo और Andrews का अंतर निष्कर्ष से अधिक विश्लेषण के द्वार में है। Cardozo कर्तव्य (duty) के चरण पर ही केवल पूर्वानुमेय वादी (foreseeable plaintiff) की रक्षा करते हैं, इसलिए ख़तरे के क्षेत्र से बाहर खड़ी Palsgraf के प्रति कर्तव्य बना ही नहीं। Andrews सबके प्रति कर्तव्य मानकर निकट कारण (proximate cause) पर छानने की बात करते हैं। परीक्षा में दोनों स्थितियों को न मिलाएँ। «अंडे के छिलके वाली खोपड़ी» नियम से भी अंतर रखें — वादी पूर्वानुमेय हो तो क्षति की मात्रा का पूर्वानुमान आवश्यक नहीं। कैलिफ़ोर्निया Rowland v. Christian, 69 Cal.2d 108 (1968) का बहु-कारक संतुलन अपनाता है, पर पूर्वानुमेयता फिर भी पहले स्थान पर है।
