@@ -258,3 +258,12 @@ Gideon द्वारा खींची गई रेखा बाद मे�
 *한국어·베트남어·힌디어 본문은 학습용 초역으로, 원어민 감수를 기다리고 있습니다.*
 *Bản tiếng Hàn, tiếng Việt và tiếng Hindi là bản dịch học tập, đang chờ người bản ngữ hiệu đính.*
 *कोरियाई, वियतनामी और हिंदी पाठ अध्ययन अनुवाद हैं; मूल-भाषी समीक्षा लंबित है।*
+
+
+## 补译增量 · 한국어 / Tiếng Việt / हिन्दी（细节对齐）
+
+한국어: Gideon의 권리는 Betts v. Brady(1942)를 뒤집고 제14수정조항을 통해 주에도 적용되었습니다. 이후 확장선도 함께 기억해야 합니다. Argersinger v. Hamlin(1972)은 실제 구금이 부과되는 경범죄까지, Scott v. Illinois(1979)는 실제 구금이 없으면 헌법상 권리가 발동하지 않는다고 선을 그었습니다. Strickland v. Washington(1984)의 '효과 없는 조력' 심사는 이 권리의 질을 다지는 후속 축입니다.
+
+Tiếng Việt: Quyền trong Gideon đã lật ngược Betts v. Brady (1942) và áp dụng cho các bang qua Tu chính án 14. Các mốc mở rộng cần nhớ cùng nhau: Argersinger v. Hamlin (1972) mở rộng tới tội nhẹ có phạt tù thực tế; Scott v. Illinois (1979) giới hạn ở trường hợp thực sự bị giam; Strickland v. Washington (1984) đặt chuẩn xét hỗ trợ luật sư không hiệu quả.
+
+हिन्दी: Gideon के अधिकार ने Betts v. Brady (1942) को पलटा और 14वें संशोधन द्वारा राज्यों पर लागू हुआ। विस्तार-रेखा साथ याद रखें: Argersinger v. Hamlin (1972) वास्तविक कारावास वाले दुष्कर्म तक विस्तार करता है; Scott v. Illinois (1979) वास्तविक कारावास न होने पर सीमा खींचता है; Strickland v. Washington (1984) अप्रभावी सहायता की जाँच देता है।
