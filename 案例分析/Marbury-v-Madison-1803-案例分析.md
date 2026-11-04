@@ -192,6 +192,8 @@ Tercero, el argumento formal a favor del control judicial de constitucionalidad.
 
 세 번째 층이야말로 사법 심사의 본격적인 논증이다. 헌법은 성문의, 최고의 위상을 가진 법이다. 보통 입법과 헌법이 충돌하고 둘 중 하나를 택해야 한다면, 법원은 구체적인 사건을 심리할 때 더 높은 위상의 것만을 적용할 수 있다. Marshall은 200년 넘게 인용되어 온 그 문장을 썼다. 법이 무엇인지를 밝히는 것은 사법부의 권한이자 책무이다(It is emphatically the province and duty of the judicial department to say what the law is). 주의할 점은, 법원이 이 사건에서 심사권을 행사한 결과가 자신의 관할권을 넓힌 것이 아니라 오히려 좁히고 제13조를 무효화한 것이라는 점이다. 바로 그 점이 정치적으로 무사히 빠져나올 수 있었던 이유이다.
 
+보충하면, 제13조를 둘러싼 추론의 사슬은 한 걸음씩 밟아야 한다. 제13조 본문은 대법원이 연방 공무원에 대한 집행명령을 발부할 수 있다고 적고 있었고, Marbury는 이를 제1심 관할의 근거로 읽었다. 그러나 Marshall은 헌법 제3조의 열거를 '최소선'이 아니라 '상한'으로 읽었다. 열거된 사건들만이 제1심이고 나머지는 항소심이라는 구조에서, 의회가 보통 법률로 항목을 하나 더하는 것은 헌법이 배분한 관할 자체를 고치는 것과 같다는 것이다. 그래서 충돌은 해석으로 피할 수 없었고, 남는 질문은 어느 규범이 이기는가뿐이었다. 정치적 문제의 경계도 같은 자리에서 그어진다. 대통령이 임명 여부를 정하는 것과 같은 재량 행위는 정치 부문의 판단에 맡겨지지만, 임명이 완료된 뒤 송달과 같은 법률상 의무를 집행하지 않는 행위는 개인의 권리를 침해하는 문제로 법원이 다룰 수 있다는 구분이다. (초역 보충 · 初译待校 보충)
+
 ### Tiếng Việt (bản dịch)
 Khung lập luận của phán quyết có ba tầng.
 
@@ -201,6 +203,8 @@ Tầng thứ hai là ranh giới sơ bộ giữa vấn đề chính trị và qu
 
 Tầng thứ ba mới là lập luận chính thức về quyền xem xét tư pháp: Hiến pháp là luật thành văn, có vị thế cao nhất; nếu lập pháp thông thường xung đột với Hiến pháp và buộc phải chọn một trong hai, tòa án khi xét xử vụ việc cụ thể chỉ có thể áp dụng văn bản có vị thế cao hơn. Marshall đã viết câu nói được trích dẫn hơn hai thế kỷ: Nói rõ luật là gì, chính là thẩm quyền và trách nhiệm của ngành tư pháp (It is emphatically the province and duty of the judicial department to say what the law is). Cần lưu ý, kết quả của việc tòa thực hiện quyền xem xét trong vụ này là thu hẹp thẩm quyền của chính mình và vô hiệu hóa Điều 13, chứ không phải mở rộng quyền lực của bản thân — đó chính là lý do nó có thể rút lui an toàn về mặt chính trị.
 
+Bổ sung: chuỗi suy luận quanh Điều 13 phải đi từng bước. Văn bản Điều 13 ghi rằng Tòa án Tối cao có thể ban hành lệnh bắt buộc đối với viên chức liên bang, và Marbury đã đọc nó như căn cứ của thẩm quyền sơ thẩm. Nhưng Marshall đọc danh sách liệt kê trong Điều Ba của Hiến pháp không phải là 'mức sàn' mà là 'mức trần': chỉ những vụ được liệt kê mới thuộc sơ thẩm, các vụ còn lại thuộc phúc thẩm, nên việc Quốc hội bằng một đạo luật thông thường thêm vào một mục cũng đồng nghĩa sửa chính sự phân bổ thẩm quyền do Hiến pháp ấn định. Vì thế xung đột không thể tránh bằng giải thích, và câu hỏi còn lại chỉ là quy phạm nào thắng. Ranh giới về vấn đề chính trị cũng được vạch ngay tại đây: hành vi tùy nghi như việc Tổng thống quyết định bổ nhiệm hay không thuộc phán đoán của nhánh chính trị, nhưng hành vi không thực hiện nghĩa vụ pháp lý như giao giấy sau khi việc bổ nhiệm đã hoàn thành lại là vấn đề xâm phạm quyền cá nhân mà tòa án có thể xét xử. (bổ sung bản dịch sơ bộ · 初译待校补段)
+
 ### हिन्दी (अनुवाद)
 निर्णय के तर्क की संरचना तीन स्तरों की है।
 
@@ -209,6 +213,8 @@ Tầng thứ ba mới là lập luận chính thức về quyền xem xét tư p
 दूसरा स्तर राजनीतिक प्रश्नों और कानूनी अधिकारों के बीच की प्रारंभिक सीमा है। न्यायालय ने माना कि जो कार्य विशुद्ध रूप से राष्ट्रपति के राजनीतिक विवेक में आते हैं, उनमें न्यायालय हस्तक्षेप नहीं कर सकता; लेकिन जब अधिकारी का कार्य व्यक्ति के स्पष्ट वैधानिक अधिकार का उल्लंघन करता है, तो पीड़ित न्यायालय का सहारा ले सकता है। यह स्तर बाद में राजनीतिक प्रश्न सिद्धांत (political question doctrine) के स्रोतों में से एक बना।
 
 तीसरा स्तर ही न्यायिक समीक्षा का औपचारिक तर्क है: संविधान लिखित, सर्वोच्च स्थान वाला कानून है; यदि साधारण कानून और संविधान में टकराव हो और दोनों में से एक को चुनना पड़े, तो न्यायालय ठोस मामले की सुनवाई में केवल उच्च स्थान वाले को ही लागू कर सकता है। Marshall ने वह वाक्य लिखा जो दो शताब्दियों से अधिक से उद्धृत होता आया है: यह बताना कि कानून क्या है, न्यायिक विभाग का अधिकार और कर्तव्य है (It is emphatically the province and duty of the judicial department to say what the law is)। ध्यान दें, इस मामले में न्यायालय द्वारा समीक्षा अधिकार के प्रयोग का परिणाम अपने अधिकार-क्षेत्र को बढ़ाना नहीं, बल्कि उसे संकुचित करना और धारा 13 को अमान्य करना था — यही कारण है कि वह राजनीतिक रूप से सुरक्षित निकल सका।
+
+पूरक: धारा 13 के इर्द-गिर्द तर्क-शृंखला को चरण-दर-चरण चलना चाहिए। धारा 13 का पाठ कहता था कि सर्वोच्च न्यायालय संघीय अधिकारियों के विरुद्ध परमादेश जारी कर सकता है, और Marbury ने इसे मूल अधिकार-क्षेत्र का आधार पढ़ा। लेकिन Marshall ने संविधान के अनुच्छेद तीन की सूची को 'न्यूनतम' नहीं, 'अधिकतम सीमा' पढ़ा: केवल गिनाए गए मामले मूल क्षेत्र में हैं, बाकी अपीलीय हैं, इसलिए कांग्रेस का साधारण कानून से एक मद और जोड़ना संविधान द्वारा तय अधिकार-क्षेत्र बँटवारे को ही बदलने के बराबर है। अतः टकराव व्याख्या से टाला नहीं जा सकता था, और बचा प्रश्न केवल यह था कि कौन-सा मानदंड जीतेगा। राजनीतिक प्रश्न की सीमा भी यहीं खींची गई: राष्ट्रपति का नियुक्ति करने या न करने जैसा विवेकाधीन कार्य राजनीतिक शाखा के निर्णय पर छूटा है, लेकिन नियुक्ति पूर्ण होने के बाद सुपुर्दगी जैसी कानूनी बाध्यता का पालन न करना व्यक्ति के अधिकार के उल्लंघन का प्रश्न है, जिसे न्यायालय देख सकता है। (प्रारंभिक अनुवाद पूरक · 初译待校补段)
 
 ---
 ## 五、后续影响
@@ -241,6 +247,8 @@ La lección práctica más útil del caso para cualquier examen: la jurisdicció
 
 이 사건 자체로 돌아와 가장 실용적인 시험 요점은 이렇다. 제13조를 둘러싼 다툼은 모든 소송인에게, 관할권이 언제나 실체 문제에 앞선다는 것을 일깨운다. 권리가 아무리 분명해도, 잘못된 법원에 제출하면 사건은 역시 기각된다. Marbury 본인은 결국 그 치안 판사가 되지 못했다.
 
+보충하면, 이 판결이 세운 사법 심사의 실제 경계도 정확히 적어 둘 필요가 있다. 본건이 선언한 것은 연방 법원이 '의회 입법'을 헌법과 대조해 심사할 수 있다는 것이지, 대통령의 재량적 정치 행위를 일상적으로 심사할 수 있다는 뜻이 아니었고, 주 입법에 대한 심사는 본건이 아니라 후대의 사건들에서 따로 세워졌다. 또 이 권한은 선언되자마자 상시 무기가 된 것이 아니다. 반세기 넘게 대법원이 의회 법률을 다시 무효로 선언하지 않았다는 사실 자체가, Marbury의 유산이 '자주 행사되는 힘'이 아니라 '보유하되 절제하는 권한'으로 이해되어 왔음을 보여 준다. 경계를 넓혀 읽으면 판결이 한 말보다 많아지고, 좁혀 읽으면 헌법 질서의 출발점이라는 의미가 사라진다. (초역 보충 · 初译待校 보충)
+
 ### Tiếng Việt (bản dịch)
 Sau vụ án này, Tòa án Tối cao trong một thời gian dài đã không lần thứ hai tuyên bố lập pháp của Quốc hội là vi hiến — lần tiếp theo phải đợi đến Dred Scott v. Sandford năm 1857, trong đó tòa tuyên bố 《Thỏa hiệp Missouri》 vô hiệu, và kết quả là thảm họa kép cho cả danh tiếng của tòa lẫn đất nước. Khoảng cách này vừa đủ nói rõ: điều Marbury xác lập là một thẩm quyền, chứ không phải vũ khí dùng thường xuyên.
 
@@ -248,12 +256,16 @@ Một số di sản do vụ án này xác lập còn kéo dài đến nay: tòa 
 
 Quay lại bản thân vụ án, điểm ôn thi thực tế nhất là: tranh chấp về Điều 13 nhắc mọi người đi kiện rằng thẩm quyền xét xử luôn đứng trước vấn đề thực chất. Quyền có rõ ràng đến đâu, nộp nhầm tòa thì vụ án vẫn sẽ bị bác. Bản thân Marbury cuối cùng cũng không làm được vị thẩm phán hòa giải đó.
 
+Bổ sung: cũng cần ghi chính xác ranh giới thực tế của quyền xem xét tư pháp mà phán quyết này xác lập. Điều vụ án này tuyên bố là tòa án liên bang có thể đối chiếu 'lập pháp của Quốc hội' với Hiến pháp để xem xét, chứ không có nghĩa tòa được thường xuyên xem xét các hành vi chính trị tùy nghi của Tổng thống; còn quyền xem xét lập pháp bang không phải do vụ án này lập ra, mà được xác lập riêng trong các vụ án đời sau. Quyền này cũng không trở thành vũ khí dùng thường xuyên ngay sau khi tuyên bố: việc Tòa án Tối cao hơn nửa thế kỷ không lần nữa tuyên bố đạo luật của Quốc hội vô hiệu tự nó cho thấy di sản của Marbury được hiểu là 'thẩm quyền nắm giữ nhưng kiềm chế', chứ không phải sức mạnh 행사 hằng ngày. Đọc ranh giới quá rộng thì phán quyết sẽ nói nhiều hơn điều nó đã nói; đọc quá hẹp thì ý nghĩa điểm khởi đầu của trật tự hiến pháp sẽ biến mất. (bổ sung bản dịch sơ bộ · 初译待校补段)
+
 ### हिन्दी (अनुवाद)
 इस मामले के बाद, सर्वोच्च न्यायालय ने लंबे समय तक दूसरी बार कांग्रेस के किसी कानून को असंवैधानिक घोषित नहीं किया — अगली बार 1857 के Dred Scott v. Sandford तक प्रतीक्षा करनी पड़ी, जिसमें न्यायालय ने 《मिसौरी समझौते》 को अमान्य घोषित किया, और परिणाम न्यायालय की प्रतिष्ठा और देश दोनों के लिए दोहरी आपदा था। यह अंतराल ठीक यही दर्शाता है कि Marbury ने जो स्थापित किया वह एक अधिकार था, बार-बार उपयोग होने वाला हथियार नहीं।
 
 इस मामले द्वारा स्थापित कई विरासतें आज तक जारी हैं: संघीय न्यायालय कांग्रेस के कानून की संवैधानिकता की समीक्षा कर सकते हैं; राज्य कानूनों की समीक्षा का संगत अधिकार Martin v. Hunter's Lessee (1816) और Cohens v. Virginia (1821) में पूर्ण हुआ; Cooper v. Aaron (1958) ने एक कदम आगे बढ़कर घोषित किया कि संघीय सर्वोच्च न्यायालय संविधान का सर्वोच्च व्याख्याता है। राज्य न्यायालयों का राज्य कानूनों की समीक्षा का अधिकार Marbury से पहले या उसके समानांतर मौजूद था, इस मामले की देन नहीं है — यह बिंदु पाठ्यपुस्तकों में अक्सर सरल बना दिया जाता है, इसे अलग से याद रखना चाहिए।
 
 स्वयं इस मामले पर लौटें तो सबसे व्यावहारिक परीक्षा-बिंदु यह है: धारा 13 का विवाद सभी वादियों को याद दिलाता है कि अधिकार-क्षेत्र हमेशा सारभूत प्रश्नों से पहले आता है। अधिकार कितना भी स्पष्ट हो, ग़लत न्यायालय में दायर करने पर मामला फिर भी ख़ारिज होगा। Marbury स्वयं अंततः वह शांति न्यायाधीश नहीं बन सका।
+
+पूरक: इस निर्णय द्वारा स्थापित न्यायिक समीक्षा की वास्तविक सीमा को भी ठीक-ठाक लिखना चाहिए। इस मामले ने जो घोषित किया वह यह था कि संघीय न्यायालय 'कांग्रेस के कानून' को संविधान से मिलाकर देख सकते हैं; इसका अर्थ यह नहीं था कि न्यायालय राष्ट्रपति के विवेकाधीन राजनीतिक कार्यों की नियमित समीक्षा कर सकते हैं, और राज्य कानूनों की समीक्षा का अधिकार इस मामले ने नहीं, बाद के मामलों ने अलग से स्थापित किया। यह अधिकार घोषणा होते ही रोज़मर्रा का हथियार भी नहीं बन गया: आधी शताब्दी से अधिक समय तक सर्वोच्च न्यायालय ने फिर किसी कांग्रेस कानून को अमान्य घोषित न किया, यह तथ्य स्वयं दिखाता है कि Marbury की विरासत को 'बार-बार चलाई जाने वाली शक्ति' के बजाय 'रखी हुई पर संयमित अधिकार-शक्ति' समझा गया। सीमा को फैलाकर पढ़ें तो निर्णय अपने कहे से अधिक कहेगा; सिकोड़कर पढ़ें तो संवैधानिक व्यवस्था के प्रारंभ-बिंदु होने का अर्थ खो जाएगा। (प्रारंभिक अनुवाद पूरक · 初译待校补段)
 
 ---
 ## 参考依据
