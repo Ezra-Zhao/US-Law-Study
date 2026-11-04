@@ -17,11 +17,17 @@ En 1890, Luisiana aprobó la Separate Car Act, que exigía vagones «iguales per
 ### 한국어 (초역)
 1890년 루이지애나주는 백인 승객과 '유색' 승객에게 '평등하지만 분리된' 객차를 제공하도록 요구하는 분리 객차법을 제정했고, 다른 인종에게 지정된 객차에 들어가면 25달러 벌금 또는 20일 구금에 처해졌습니다. 뉴올리언스의 시민권 단체 시민위원회(Comité des Citoyens)는 시험 소송을 기획했습니다. 1892년 6월 7일, 당시 분류로 8분의 7이 백인, 8분의 1이 흑인 혈통이고 겉보기에는 백인으로 보였던 위원 호머 플레시(Homer Plessy)가 주 내 노선 열차의 백인 전용 객차에 일부러 앉아 이동을 거부하고, 철도 회사와 사전에 조율한 대로 체포되었습니다. 법 자체를 법정에 세우기 위한 체포였습니다.
 
+보충하면, 체포는 우연이 아니었습니다. 플레시는 1등석 표를 사서 백인 객차에 앉았고, 차장이 이동을 요구하자 자신이 당시 분류상 '유색'으로 분류된다는 점을 밝히고 이동을 거부해 체포됐습니다. 시민위원회는 변호사 비용과 소송 전략까지 미리 준비한 상태였고, 철도 회사도 별도의 벌금 부담을 피할 수 있어 이 시험 소송에 협조했습니다.
+
 ### Tiếng Việt (bản dịch)
 Năm 1890, Louisiana ban hành Đạo luật Toa riêng (Separate Car Act), buộc đường sắt cung cấp toa «bình đẳng nhưng tách biệt» cho hành khách da trắng và «da màu»; vào toa dành cho chủng tộc khác có thể bị phạt 25 đô la hoặc 20 ngày tù. Comité des Citoyens, một nhóm dân quyền ở New Orleans, dàn dựng một vụ kiện thử nghiệm: ngày 7 tháng 6 năm 1892, thành viên Homer Plessy — theo cách phân loại thời đó có bảy phần tám dòng máu da trắng và một phần tám da đen, vẻ ngoài trông như người da trắng — cố ý ngồi vào toa dành cho người da trắng, từ chối di chuyển và bị bắt, theo thỏa thuận trước với công ty đường sắt, để chính đạo luật bị đưa ra tòa.
 
+Bổ sung thêm: vụ bắt giữ không phải ngẫu nhiên. Plessy đã mua vé hạng nhất, ngồi vào toa dành cho người da trắng; khi nhân viên soát vé yêu cầu di chuyển, ông nói rõ mình bị xếp vào nhóm «da màu» theo cách phân loại thời đó và từ chối di chuyển nên bị bắt. Comité des Citoyens đã chuẩn bị sẵn cả chi phí luật sư lẫn chiến lược kiện tụng, còn công ty đường sắt cũng hợp tác vì muốn tránh gánh nặng phạt riêng.
+
 ### हिन्दी (अनुवाद)
 1890 में लुइज़ियाना ने Separate Car Act बनाया, जिसमें रेलवे को श्वेत और "रंगीन" यात्रियों के लिए "बराबर लेकिन अलग" डिब्बे देने थे; दूसरे वर्ग के डिब्बे में जाने पर $25 जुर्माना या 20 दिन की कैद थी। न्यू ऑरलियन्स के नागरिक-अधिकार समूह Comité des Citoyens ने एक परीक्षण मामला बनाया: 7 जून 1892 को उसके सदस्य Homer Plessy — उस समय के वर्गीकरण में सात-आठवाँ हिस्सा श्वेत और एक-आठवाँ हिस्सा अश्वेत, और दिखने में श्वेत — जानबूझकर केवल-श्वेत डिब्बे में बैठे, हटने से इनकार किया और रेलवे से पहले से तय व्यवस्था के अनुसार गिरफ़्तार हुए, ताकि कानून को ही अदालत में चुनौती मिले।
+
+पूरक विवरण: गिरफ़्तारी संयोग नहीं थी। Plessy ने पहला दर्जा का टिकट ख़रीदा और श्वेत डिब्बे में बैठे; कंडक्टर ने हटने को कहा तो उन्होंने बताया कि उस समय के वर्गीकरण में वे "रंगीन" गिने जाते हैं और हटने से इनकार कर दिया, तभी गिरफ़्तारी हुई। Comité des Citoyens ने वकील-ख़र्च और मुकदमे की रणनीति पहले से तैयार रखी थी, और रेलवे कंपनी भी अलग दंड-भार से बचने के लिए इस परीक्षण मुकदमे में सहयोग कर रही थी।
 
 ## 二、争点与下级法院
 
@@ -37,11 +43,17 @@ El caso lleva el nombre de John H. Ferguson, el juez del tribunal penal de distr
 ### 한국어 (초역)
 사건명은 형사 지방법원 판사 존 H. 퍼거슨(John H. Ferguson)의 이름에서 왔습니다. 알비온 투르게이(Albion Tourgée)가 이끈 플레시 측 변호인단은 이 법이 수정헌법 제13조(강제 분리는 노예제의 잔재)와 제14조(법의 평등한 보호, 그리고 국가가 인종으로 분류하는 행위 자체)를 모두 위반한다고 주장했습니다. 퍼거슨 판사는 위헌 주장을 기각했고 루이지애나주 대법원도 이를 유지했습니다. 연방대법원에 올라간 쟁점은 하나로 좁혀졌습니다. 인종을 기준으로 시설 분리를 강제하는 주법이 수정헌법 제14조의 평등 보호 조항을 위반하는가 하는 점입니다.
 
+절차도 짚어 둘 만합니다. 플레시는 주 형사법원에서 인신보호(habeas corpus)를 청원해 Ferguson 판사에게 갔고, 기각되자 루이지애나주 대법원을 거쳐 연방대법원에 오류심(writ of error)으로 올라갔습니다. Tourgée의 준비서면은 인종 분류가 남기는 '노예제의 낙인(badge of servitude)'이라는 표현을 전면에 내세웠고, 백인으로 통하는 평판을 일종의 재산적 이익으로 보는 주장까지 폈습니다.
+
 ### Tiếng Việt (bản dịch)
 Vụ án mang tên John H. Ferguson, thẩm phán tòa hình sự quận. Đội luật sư của Plessy, do Albion Tourgée dẫn đầu, lập luận rằng đạo luật vi phạm cả Tu chính án 13 — phân tách bắt buộc là dấu vết của chế độ nô lệ — lẫn Tu chính án 14: bảo vệ bình đẳng và chính hành vi nhà nước phân loại theo chủng tộc. Thẩm phán Ferguson bác bỏ và Tòa Tối cao Louisiana giữ nguyên. Câu hỏi lên tới Tòa Tối cao Hoa Kỳ rất gọn: luật bang buộc tách biệt theo chủng tộc có phủ nhận sự bảo vệ bình đẳng của pháp luật theo Tu chính án 14 hay không?
 
+Thủ tục cũng đáng ghi lại: Plessy nộp đơn xin bảo thân (habeas corpus) tại tòa hình sự bang tới Thẩm phán Ferguson; bị bác, vụ việc qua Tòa Tối cao Louisiana rồi lên Tòa Tối cao liên bang bằng lệnh xem xét lỗi (writ of error). Bản tranh luận của Tourgée đưa ra trước hết cách diễn đạt «dấu vết của chế độ nô lệ» (badge of servitude) mà phân loại chủng tộc để lại, và còn lập luận rằng danh tiếng được coi là người da trắng là một loại lợi ích tài sản.
+
 ### हिन्दी (अनुवाद)
 मामला आपराधिक जिला अदालत के न्यायाधीश John H. Ferguson के नाम पर है। Albion Tourgée के नेतृत्व में Plessy के वकीलों ने कहा कि कानून तेरहवें संशोधन — अनिवार्य अलगाव दासता का अवशेष है — और चौदहवें संशोधन — कानूनों का समान संरक्षण, और राज्य द्वारा नस्ल के आधार पर वर्गीकरण ही — दोनों का उल्लंघन करता है। Ferguson ने चुनौती ख़ारिज की और लुइज़ियाना सुप्रीम कोर्ट ने उसे बरक़रार रखा। अमेरिकी सुप्रीम कोर्ट के सामने प्रश्न संकरा था: क्या नस्लीय अलगाव अनिवार्य करने वाला राज्य कानून चौदहवें संशोधन के समान संरक्षण का उल्लंघन करता है?
+
+प्रक्रिया भी दर्ज करने योग्य है: Plessy ने राज्य आपराधिक अदालत में बंदी-प्रत्यक्षीकरण (habeas corpus) याचिका न्यायाधीश Ferguson के समक्ष रखी; वह ख़ारिज हुई तो मामला लुइज़ियाना सुप्रीम कोर्ट से होकर त्रुटि-रिट (writ of error) से संघीय सुप्रीम कोर्ट पहुँचा। Tourgée के पक्ष-पत्र ने सबसे आगे यह अभिव्यक्ति रखी कि नस्लीय वर्गीकरण "दासता का दाग़" (badge of servitude) छोड़ता है, और यह तर्क भी दिया कि श्वेत माने जाने की प्रतिष्ठा एक प्रकार का संपत्ति-हित है।
 
 ## 三、判决
 
@@ -57,11 +69,17 @@ El 18 de mayo de 1896, el Tribunal confirmó la ley por 7 a 1 (163 U.S. 537; el 
 ### 한국어 (초역)
 1896년 5월 18일, 대법원은 7대 1로 이 법이 합헌이라고 판결했습니다(163 U.S. 537; 브루어 대법관은 참여하지 않음). 브라운 대법관의 다수 의견은 강제 분리 객차가 노예제나 비자발적 예속이 아니므로 제13조 주장은 성립하지 않고, 제14조가 보장하는 것은 '사회적 평등'이 아니라 법적·정치적 평등이며, 시설이 평등한 한 인종에 따른 분리는 주 경찰권(police power)의 합리적 행사라고 보았습니다. 할런 대법관은 홀로 반대하며 다수 의견보다 오래 살아남은 문장을 남겼습니다. "우리 헌법은 색맹이며, 시민 사이의 계급을 알지도 용납하지도 않는다."
 
+할런의 반대 의견에서 함께 기억할 대목이 하나 더 있습니다. 그는 다수 의견이 말하는 '합리성' 잣대로는 이 법을 지킬 수 없다고 보면서, 이 판결이 훗날 각 주가 시민의 헌법상 권리를 침해할 선례가 될 것이라고 경고했고, 두 인종의 운명은 함께 묶여 있어 법 앞에서는 지배하는 인종도 피지배 인종도 있을 수 없다고 썼습니다. 이 경고는 반세기 뒤 Brown 판결이 사실상 받아들인 판단이 됐습니다.
+
 ### Tiếng Việt (bản dịch)
 Ngày 18 tháng 5 năm 1896, Tòa giữ nguyên đạo luật với tỉ lệ 7–1 (163 U.S. 537; Thẩm phán Brewer không tham gia). Đa số do Thẩm phán Brown viết cho rằng Tu chính án 13 không áp dụng vì toa tách biệt không phải nô lệ hay lao dịch không tự nguyện, và Tu chính án 14 bảo đảm bình đẳng pháp lý và chính trị, không phải «bình đẳng xã hội»: miễn tiện nghi ngang nhau, việc tách hành khách theo chủng tộc là thực thi hợp lý quyền cảnh sát của bang. Thẩm phán Harlan một mình phản đối, để lại câu nói sống lâu hơn cả đa số: «Hiến pháp của chúng ta mù màu, không biết và không dung thứ giai cấp giữa các công dân.»
 
+Ý kiến phản đối của Harlan còn một đoạn đáng nhớ thêm: ông cho rằng luật này không thể đứng vững ngay cả theo thước đo «tính hợp lý» mà đa số nêu ra, cảnh báo phán quyết sẽ thành tiền lệ để các bang xâm phạm quyền hiến định của công dân, và viết rằng vận mệnh của hai chủng tộc gắn liền với nhau — trước pháp luật không có chủng tộc thống trị hay bị trị. Lời cảnh báo đó nửa thế kỷ sau về thực chất được phán quyết Brown tiếp nhận.
+
 ### हिन्दी (अनुवाद)
 18 मई 1896 को कोर्ट ने कानून को 7–1 से बरक़रार रखा (163 U.S. 537; न्यायमूर्ति Brewer ने भाग नहीं लिया)। न्यायमूर्ति Brown की बहुमत राय ने कहा कि तेरहवाँ संशोधन लागू नहीं होता क्योंकि अलग डिब्बे गुलामी या अनैच्छिक दासता नहीं हैं, और चौदहवाँ संशोधन कानूनी व राजनीतिक समानता देता है, "सामाजिक समानता" नहीं: सुविधाएँ बराबर हों तो नस्ल के आधार पर अलग करना राज्य की पुलिस शक्ति का उचित प्रयोग है। न्यायमूर्ति Harlan अकेले असहमत हुए, उस वाक्य के साथ जो बहुमत से ज़्यादा जिया: "हमारा संविधान रंग-अंधा है, और नागरिकों के बीच वर्गों को न जानता है, न सहन करता है।"
+
+Harlan की असहमति का एक और अंश याद रखने योग्य है: उन्होंने कहा कि बहुमत की कही "युक्तियुक्तता" की कसौटी पर भी यह कानून नहीं टिक सकता, चेताया कि यह निर्णय भविष्य में राज्यों द्वारा नागरिकों के संवैधानिक अधिकारों के हनन की मिसाल बनेगा, और लिखा कि दोनों नस्लों का भाग्य एक साथ बँधा है — कानून के सामने न कोई शासक नस्ल है, न शासित। आधी सदी बाद Brown के निर्णय ने सारतः यही 판단 अपनाया।
 
 ## 四、推理：多数错在哪里
 
@@ -77,11 +95,17 @@ La mayoría hizo tres movimientos que el derecho posterior rechazó. Primero, pa
 ### 한국어 (초역)
 다수 의견은 훗날 뒤집힌 세 가지 비약을 했습니다. 첫째, 평등을 둘로 나눴습니다. 법적 평등은 보호하되, 국가가 명령한 분리가 주는 낙인은 '사회적' 문제로 재분류해 법원 밖으로 밀어냈습니다. 그러나 그 분리는 사적 선택이 아니라 법령이 강제했습니다. 둘째, 분리 자체가 한 인종을 열등하다고 낙인찍는다는 주장을 주관적 느낌의 문제로 바꿔 버렸습니다. 셋째, 시설이 실제로 평등한지는 거의 심사하지 않았습니다. 역사는 할런의 손을 들었습니다. 분리된 시설은 결코 평등하지 않았고, 제도의 목적은 신분 질서 유지였습니다. 1954년 Brown v. Board of Education(347 U.S. 483)은 "분리된 교육 시설은 본질적으로 불평등하다"고 선언했고, 이후 판결들이 교통·공원 등 다른 영역에서도 이 원칙을 지워 나갔습니다.
 
+세 번째 비약의 실상도 구체적으로 적어 둘 필요가 있습니다. 다수 의견은 시설 평등을 심사하면서 실제 객차의 상태나 집행 실태를 거의 들여다보지 않았고, 분리 입법이 다른 주에서도 유지돼 왔다는 점을 근거의 하나로 들었습니다. 그래서 이 판결의 약점은 '평등'이라는 단어의 선언에 기대고 사실 심사를 건너뛴 데 있습니다. 훗날 Sweatt v. Painter, 339 U.S. 629 (1950) 같은 사건이 시설의 유형·무형 요소까지 항목별로 비교하는 방식으로 정반대의 길을 택한 것과 대조됩니다.
+
 ### Tiếng Việt (bản dịch)
 Đa số đã thực hiện ba bước nhảy mà pháp luật sau này bác bỏ. Thứ nhất, chia bình đẳng làm hai: bình đẳng pháp lý được bảo vệ, còn vết nhơ của sự tách biệt do nhà nước ra lệnh bị gán nhãn «xã hội» và đặt ngoài tầm tòa án — dù sự tách biệt do luật bắt buộc, không phải lựa chọn cá nhân. Thứ hai, biến lập luận rằng chính sự tách biệt đóng dấu một chủng tộc là hạ đẳng thành vấn đề cảm xúc chủ quan. Thứ ba, hầu như không kiểm tra xem tiện nghi có thật sự ngang nhau hay không. Lịch sử chứng minh Harlan đúng: tiện nghi tách biệt không bao giờ ngang nhau, và mục đích của hệ thống là duy trì đẳng cấp. Trong Brown v. Board of Education, 347 U.S. 483 (1954), Tòa tuyên bố «cơ sở giáo dục tách biệt vốn dĩ bất bình đẳng», và các phán quyết sau đó xóa bỏ nguyên tắc này trong giao thông, công viên và các lĩnh vực khác.
 
+Bước nhảy thứ ba cũng nên ghi cụ thể: khi xét tính bình đẳng của tiện nghi, đa số hầu như không xem xét tình trạng thực tế của các toa xe hay thực tế thi hành, và còn viện dẫn việc luật tách biệt từng được giữ nguyên ở các bang khác làm một căn cứ. Điểm yếu của phán quyết nằm ở chỗ dựa vào lời tuyên bố của chữ «bình đẳng» mà bỏ qua việc xét sự việc. Điều này đối ngược với cách làm sau này trong Sweatt v. Painter, 339 U.S. 629 (1950), nơi tòa so sánh từng mục cả yếu tố hữu hình lẫn vô hình của cơ sở giáo dục.
+
 ### हिन्दी (अनुवाद)
 बहुमत ने तीन ऐसी चालें चलीं जिन्हें बाद के कानून ने ख़ारिज किया। पहली, समानता को दो हिस्सों में बाँटा: कानूनी समानता सुरक्षित, लेकिन राज्य-आदेशित अलगाव का कलंक "सामाजिक" कहकर अदालतों के दायरे से बाहर — हालाँकि अलगाव कानून का आदेश था, निजी पसंद नहीं। दूसरी, इस तर्क को कि अलगाव ही एक नस्ल को हीन ठहराता है, आत्मगत भावना का प्रश्न बना दिया। तीसरी, सुविधाएँ सच में बराबर थीं या नहीं, इसकी लगभग जाँच ही नहीं की। इतिहास ने Harlan को सही ठहराया: अलग सुविधाएँ कभी बराबर नहीं थीं और व्यवस्था का उद्देश्य जाति-क्रम बनाए रखना था। Brown v. Board of Education, 347 U.S. 483 (1954) ने कहा कि "अलग शैक्षणिक सुविधाएँ स्वभावतः असमान हैं", और बाद के फ़ैसलों ने इस सिद्धांत को परिवहन, पार्कों और अन्य क्षेत्रों से भी हटा दिया।
+
+तीसरी छलांग का स्वरूप भी ठोस रूप से दर्ज करना चाहिए: सुविधाओं की समानता की जाँच में बहुमत ने डिब्बों की वास्तविक स्थिति या प्रवर्तन की हक़ीक़त लगभग देखी ही नहीं, और यह भी आधार बनाया कि अन्य राज्यों में अलगाव कानून बरक़रार रहे थे। इस निर्णय की कमज़ोरी यहीं है कि वह "समानता" शब्द की घोषणा पर टिककर तथ्य-जाँच छोड़ देता है। बाद में Sweatt v. Painter, 339 U.S. 629 (1950) जैसे मामलों ने सुविधाओं के मूर्त और अमूर्त तत्वों की बिंदुवार तुलना करके ठीक उल्टा रास्ता लिया।
 
 ## 五、后续影响与学习要点
 
@@ -97,11 +121,17 @@ Durante casi seis décadas, «separados pero iguales» fue el escudo constitucio
 ### 한국어 (초역)
 Plessy 이후 거의 60년 동안 '분리하되 평등'은 짐 크로(Jim Crow) 제도의 헌법적 방패였습니다. 그 붕괴도 점진적이었습니다. 대학원 교육 사건들(Sweatt, McLaurin)이 사건마다 불평등을 입증했고, Brown이 공교육에서 전제 자체를 부정했으며, 의회는 1964년 민권법으로 남은 문을 닫았습니다. 플레시 본인은 1925년 명예 회복 없이 세상을 떴고, 루이지애나 주지사는 2022년에야 그에게 사후 사면을 내렸습니다. 학습 포인트는 셋입니다. 국가가 인종으로 분류하면 문제는 '나눈 뒤 똑같이 줬는가'가 아니라 '국가가 무슨 권리로 그 선을 긋는가'이며, 이는 엄격 심사의 출발점입니다. 홀로 쓴 반대 의견이 두 세대 뒤 다수 의견의 언어를 마련할 수 있습니다. 그리고 시험 소송은 설계가 훌륭했더라도, 법정 노선이 막히면 결국 수십 년의 소송 축적과 입법이 함께해야 변화가 완성됩니다.
 
+대학원 교육 사건들의 인용을 정확히 적어 두면 이렇습니다. Sweatt v. Painter, 339 U.S. 629 (1950)은 텍사스가 흑인 학생을 위해 급조한 법학 교육이 교수진·명성 등에서 본교와 비교가 되지 않는다고 했고, McLaurin v. Oklahoma State Regents, 339 U.S. 637 (1950)은 입학시켜 놓고 교실·식당에서 분리하는 방식도 평등 보호를 위반한다고 했습니다. Plessy의 전제가 무너진 것은 Brown 한 사건의 선언이 아니라, 이처럼 사건마다 불평등을 입증한 축적 위에서였습니다.
+
 ### Tiếng Việt (bản dịch)
 Gần sáu thập kỷ sau Plessy, «tách biệt nhưng bình đẳng» là lá chắn hiến pháp của chế độ Jim Crow. Sự sụp đổ của nó cũng dần dần: các vụ giáo dục sau đại học (Sweatt, McLaurin) chứng minh bất bình đẳng từng vụ, Brown bác bỏ tiền đề trong trường công, và Quốc hội khóa các cánh cửa còn lại bằng Đạo luật Dân quyền 1964. Plessy qua đời năm 1925 mà chưa được minh oan; thống đốc Louisiana chỉ ân xá sau khi mất cho ông vào năm 2022. Ba điểm học tập: khi nhà nước phân loại theo chủng tộc, câu hỏi là nhà nước lấy quyền gì để vẽ ranh giới đó — trực giác gốc của kiểm tra nghiêm ngặt (strict scrutiny); giá trị của ý kiến phản đối, vốn chuẩn bị ngôn ngữ cho đa số hai thế hệ sau; và sức mạnh cùng giới hạn của vụ kiện thử nghiệm, khi thay đổi cuối cùng cần hàng thập kỷ kiện tụng tích lũy cộng với lập pháp.
 
+Ghi chính xác các vụ giáo dục sau đại học thì như sau: Sweatt v. Painter, 339 U.S. 629 (1950) cho rằng chương trình luật Texas vội vàng lập cho sinh viên da đen không thể so sánh với trường chính về giảng viên và uy tín; McLaurin v. Oklahoma State Regents, 339 U.S. 637 (1950) cho rằng nhận vào học rồi lại tách biệt trong lớp học và nhà ăn cũng vi phạm bảo vệ bình đẳng. Tiền đề của Plessy sụp đổ không phải chỉ nhờ tuyên bố của một vụ Brown, mà trên nền tích lũy từng vụ chứng minh bất bình đẳng như vậy.
+
 ### हिन्दी (अनुवाद)
 Plessy के बाद लगभग छह दशकों तक "अलग लेकिन बराबर" Jim Crow व्यवस्था की संवैधानिक ढाल रहा। उसका पतन भी धीरे-धीरे हुआ: स्नातकोत्तर शिक्षा के मामलों (Sweatt, McLaurin) ने मामले-दर-मामले असमानता साबित की, Brown ने सार्वजनिक शिक्षा में इस आधार को ख़ारिज किया, और कांग्रेस ने Civil Rights Act 1964 से बचे दरवाज़े बंद किए। Plessy 1925 में बिना प्रतिष्ठा-बहाली के चल बसे; लुइज़ियाना के गवर्नर ने उन्हें मरणोपरांत क्षमा 2022 में दी। तीन सीखें: राज्य नस्ल से वर्गीकृत करे तो प्रश्न यह नहीं कि अलग करके बराबर दिया या नहीं, बल्कि यह कि राज्य को वह रेखा खींचने का अधिकार कहाँ से मिला — यही strict scrutiny की जड़ है; अकेली असहमति दो पीढ़ियों बाद बहुमत की भाषा तैयार कर सकती है; और परीक्षण मामलों की शक्ति व सीमा — बदलाव अंततः दशकों के संचित मुक़दमों और कानून दोनों से आया।
+
+स्नातकोत्तर शिक्षा मामलों के ठीक उद्धरण इस प्रकार हैं: Sweatt v. Painter, 339 U.S. 629 (1950) ने कहा कि Texas ने अश्वेत छात्रों के लिए जल्दी में बनाई विधि-शिक्षा संकाय और प्रतिष्ठा में मुख्य विद्यालय के समकक्ष नहीं थी; McLaurin v. Oklahoma State Regents, 339 U.S. 637 (1950) ने कहा कि प्रवेश देकर कक्षा और भोजनालय में अलग रखना भी समान संरक्षण का उल्लंघन है। Plessy का आधार केवल Brown की घोषणा से नहीं गिरा, बल्कि मामले-दर-मामले असमानता सिद्ध करने के ऐसे ही संचय पर गिरा।
 
 ## 参考依据
 
