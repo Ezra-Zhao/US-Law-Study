@@ -130,6 +130,9 @@ Title VII, 42 U.S.C. §2000e 이하,는 인종, 피부색, 종교, 성별, 출�
 
 개인 학습 노트이며 법률 조언이 아닙니다.
 
+
+보충 세부사항(중국어 본문과 정렬): 첫째, §207(a)의 「통상임금(regular rate)」은 기본 시급만이 아닙니다. 재량이 없는 상여금 등 정기적 지급이 포함되면 계산 기초 자체가 달라지며, 계산 문제는 대개 여기서 출제됩니다. 둘째, FLSA의 적용 범위는 기업 단위 적용(enterprise coverage)과 개인 단위 적용(individual coverage)이라는 두 경로로 열리며, 주법의 적용 범위를 연방에 그대로 대입하면 안 됩니다. 셋째, §8(b)의 노조 부당노동행위에는 폭력·강압으로 근로자의 권리를 제한하는 행위, 사용자에게 근로자 차별을 요구하는 행위, 단체교섭 거부, 일부 이차적 보이콧(secondary boycott)과 관할권 분쟁 파업 등이 포함됩니다. 시험에서 사용자 측 위법만 외우면 절반을 놓칩니다. 넷째, NLRB의 구제는 행정 절차를 통한 것으로, 중단 명령, 복직, 임금 소급 지급(back pay) 등이 중심이며 NLRA 자체는 일반적으로 개인이 직접 손해배상을 청구하는 소송 경로를 제공하지 않습니다. 이 점이 EEOC를 거쳐 소송으로 가는 Title VII와 자주 혼동됩니다. 다섯째, Title VII(42 U.S.C. § 2000e 이하)에는 사용자 인원수 문턱이 있습니다. § 2000e(b)의 「사용자」 정의는 원칙적으로 15인 이상을 기준으로 합니다. 여섯째, 캘리포니아의 최종 임금 지급과 임금명세서(itemized wage statement) 규칙은 Labor Code의 다른 조문에 흩어져 있으며 본문 범위 밖이므로, 문제가 나오면 해당 조문으로 돌아가 확인하십시오. 마지막으로 § 226.7의 1시간은 「매일·위반 유형별」 보상이며 시간마다 누적되는 계산이 아니고, Part 541에는 컴퓨터 관련 직종과 고액 보수자 등 별도 범주가 있어 EAP 세 관문을 통과했더라도 해당 범주 요건을 따로 확인해야 합니다.
+
 ## Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
 
 ### Trọng tâm luật lao động: lương và giờ làm FLSA, hoạt động tập thể NLRA và quy định California
@@ -149,6 +152,9 @@ Title VII, 42 U.S.C. §2000e trở đi, cấm phân biệt trong việc làm d�
 Đối chiếu California: Labor Code §510 trả 1,5 lần mức lương thường cho giờ vượt quá 8 trong một ngày, và gấp đôi cho giờ vượt quá 12 trong một ngày; giờ vượt quá 40 trong một tuần cũng là làm thêm, và cùng một giờ không tính hai lần. §512 quy định giờ ăn ít nhất 30 phút khi làm việc quá 5 giờ, và nói chung có giờ ăn thứ hai khi quá 10 giờ, kèm quy tắc từ bỏ. Theo §226.7, nếu không cho giờ ăn, giờ nghỉ hoặc giờ phục hồi theo quy định, phải trả thêm tiền premium bằng một giờ lương cho mỗi ngày làm việc và cho mỗi loại vi phạm. Lương tối thiểu của California năm 2025 là 16,50 đô la một giờ, cao hơn mức liên bang 7,25 đô la. Ngưỡng lương miễn trừ của California gắn với hai lần lương tối thiểu của bang cho việc làm toàn thời gian, khoảng 68.640 đô la một năm, hay 1.320 đô la một tuần, vào năm 2025, cao hơn mức liên bang 684 đô la một tuần.
 
 Ghi chép học tập cá nhân, không phải tư vấn pháp lý.
+
+
+Chi tiết bổ sung (căn chỉnh với bản tiếng Trung): Thứ nhất, «mức lương thường (regular rate)» tại §207(a) không chỉ là lương giờ cơ bản: các khoản thưởng không tùy ý và khoản chi trả thường xuyên khác khi được tính vào sẽ làm thay đổi căn cứ tính, và bài toán tính tiền thường đặt bẫy ở đây. Thứ hai, phạm vi áp dụng của FLSA mở ra qua hai đường: bao phủ theo doanh nghiệp (enterprise coverage) và bao phủ theo cá nhân (individual coverage); không được đem phạm vi của luật bang áp sang luật liên bang. Thứ ba, hành vi lao động bất công của công đoàn tại §8(b) gồm: dùng bạo lực hoặc cưỡng ép để hạn chế quyền của người lao động, yêu cầu người sử dụng lao động phân biệt đối xử, từ chối thương lượng tập thể, một số hình thức tẩy chay thứ cấp (secondary boycott) và đình công tranh chấp thẩm quyền. Chỉ học phía người sử dụng là mất một nửa. Thứ tư, cứu trợ của NLRB đi qua thủ tục hành chính — lệnh chấm dứt hành vi, khôi phục việc làm, trả lương truy lĩnh (back pay) — và NLRA nói chung không cho cá nhân khởi kiện đòi bồi thường trực tiếp; điểm này hay bị lẫn với đường kiện tụng của Title VII qua EEOC. Thứ năm, Title VII (42 U.S.C. § 2000e trở đi) có ngưỡng số lượng nhân viên: định nghĩa «người sử dụng lao động» tại § 2000e(b) về nguyên tắc lấy mốc 15 nhân viên trở lên. Thứ sáu, quy định California về lương cuối cùng và bảng kê lương chi tiết (itemized wage statement) nằm rải rác ở các điều khác của Labor Code, ngoài phạm vi bài này; gặp đề bài thì quay lại điều luật tương ứng. Cuối cùng, khoản 1 giờ tại § 226.7 là khoản trả thêm «theo mỗi ngày làm việc, theo mỗi loại vi phạm», không cộng dồn theo từng giờ, và Part 541 còn có các nhóm riêng như nhân viên máy tính và người có thu nhập cao, cần kiểm tra riêng ngoài ba cửa của nhóm EAP.
 
 ## हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
 
@@ -170,6 +176,8 @@ Title VII, 42 U.S.C. §2000e आगे, नस्ल, रंग, धर्म, �
 
 यह व्यक्तिगत अध्ययन नोट है; कानूनी सलाह नहीं है।
 
+
+पूरक विवरण (चीनी मूल पाठ के अनुरूप): पहला, §207(a) की «नियमित दर (regular rate)» केवल मूल प्रति-घंटा वेतन नहीं है: गैर-विवेकाधीन बोनस जैसी नियमित अदायगियाँ शामिल हों तो गणना का आधार ही बदल जाता है, और गणना-प्रश्न प्रायः यहीं फँसाते हैं। दूसरा, FLSA का दायरा दो रास्तों से खुलता है: उद्यम-आधारित कवरेज (enterprise coverage) और व्यक्तिगत कवरेज (individual coverage); राज्य कानून का दायरा संघीय कानून पर न चढ़ाएँ। तीसरा, §8(b) के यूनियन अनुचित व्यवहारों में हिंसा या दबाव से कर्मचारियों के अधिकार सीमित करना, नियोक्ता से कर्मचारी के प्रति भेदभाव करवाना, सामूहिक सौदेबाज़ी से इनकार, कुछ द्वितीयक बहिष्कार (secondary boycott) और अधिकार-क्षेत्र विवाद हड़तालें शामिल हैं; केवल नियोक्ता-पक्ष याद करना आधा ही है। चौथा, NLRB की राहत प्रशासनिक प्रक्रिया से मिलती है — रोक आदेश, बहाली और बकाया वेतन (back pay) — और NLRA सामान्यतः निजी क्षतिपूर्ति-वाद का रास्ता नहीं देता; यही बिंदु EEOC से होकर वाद तक जाने वाले Title VII से प्रायः मिलाया जाता है। पाँचवाँ, Title VII (42 U.S.C. § 2000e आदि) में नियोक्ता-आकार की दहलीज़ है: § 2000e(b) में «नियोक्ता» की परिभाषा सिद्धांततः 15 या अधिक कर्मचारियों से जुड़ी है। छठा, California के अंतिम वेतन और itemized wage statement के नियम Labor Code की अन्य धाराओं में बिखरे हैं, इस लेख के दायरे से बाहर; प्रश्न आए तो संबंधित धारा ही देखें। अंत में, § 226.7 का 1 घंटा «प्रत्येक कार्यदिवस, प्रत्येक उल्लंघन-प्रकार» का premium है, प्रति घंटे जमा होने वाली गणना नहीं, और Part 541 में computer employee व highly compensated जैसी अलग श्रेणियाँ भी हैं जिनकी शर्तें EAP की तीन कसौटियों के अलावा अलग से जाँचनी होती हैं।
 ---
 
 声明：个人学习笔记，不构成法律建议。 / Disclaimer: Personal study notes only; not legal advice.
