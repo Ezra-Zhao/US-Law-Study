@@ -1,0 +1,87 @@
+# 美国公共辩护与刑事辩护地图：Gideon 权利、交付体制与加州规则
+
+> 个人学习笔记，不构成法律建议。本文以美国宪法第六、第十四修正案、联邦《刑事司法法》（Criminal Justice Act）与加州《刑法典》第 987 条一带现行文本为准；各县公共辩护机构的受理标准与资助细节差异极大，具体案件以受理法院与指派机构当期规则为准。
+
+## 中文主文
+
+### 一、这张地图要解决什么：请不起律师时，谁站到被告旁边
+
+- 刑事被告请不起律师，国家要不要出钱请一位站到他旁边？美国法对这个问题的回答是分层的：重罪一律要，轻罪看到底关不关人，民事原则上不要。这张地图按三层走：权利的宪法边界画在哪、权利靠什么体制交付（公设辩护人办公室、法院指派律师、合同律师）、权利的「质量线」由谁守。联邦与各州共用宪法底线，交付体制却是一州一个样，加州再自成一套。
+
+### 二、权利的源头：Gideon 立柱，Argersinger 与 Scott 划线
+
+- 第六修正案写明被告有权获得律师帮助（assistance of counsel）。Gideon v. Wainwright, 372 U.S. 335 (1963) 一致判决：这项权利经第十四修正案适用于各州，州对无力自聘律师的重罪被告必须免费指派律师。Gideon 本人手写的那份请愿，换来的是整个州级刑事系统的底线重画。
+- 往轻罪延伸的一步是 Argersinger v. Hamlin, 407 U.S. 25 (1972)：只要判决结果实际判了监禁（actual imprisonment），哪怕是轻罪，没给律师的定罪就不能成立。
+- 线的另一头是 Scott v. Illinois, 440 U.S. 367 (1979)：没有实际判监禁的轻罪，宪法不强制指派律师。补一笔容易被漏的后续：Alabama v. Shelton, 535 U.S. 654 (2002) 认定，缓刑（suspended sentence）将来可能转成实际监禁的，同样属于权利范围，判缓刑时就得给律师。合起来记：权利的分界线不在罪名轻重，在自由是否真的被拿走或悬在头上。
+- 少年那边不要漏：In re Gault, 387 U.S. 1 (1967) 已确立，可能被送进管教机构的少年在裁决程序中有权获得律师，少年法庭不是「没有律师也可以」的地带。
+
+### 三、权利何时启动、覆盖到哪一步
+
+- 启动点：Rothgery v. Gillespie County, 554 U.S. 191 (2008) 确认，律师权在首次出庭（initial appearance，即被带到司法官面前、被告知指控并处理保释的那一步）即已附着（attach），不管检察官当时有没有介入。附着不等于律师当天就到位，各州「附着后多久必须真给律师」的实现程度参差，这正是实务争议最密的地方。
+- 覆盖面：指派律师原则上覆盖审判与第一次上诉（first appeal as of right）；判后的附带攻击（如人身保护令程序）一般不在宪法强制内，死刑等特殊程序多靠州法另行给。认罪协商阶段同样在覆盖之内，见第六节 Frye 与 Lafler。
+- 自己请的与指派的界线：有权选律师的是付得起钱的被告；接受指派的人不能挑律师，但对指派律师有重大正当理由的（利益冲突、彻底失联等），可以向法院提出更换，标准由法院裁量，不是「不喜欢就换」。
+
+### 四、交付体制：三种模型，加州以县公设辩护人为主干
+
+- **公设辩护人办公室（public defender office）**：政府雇员律师专职辩护，大城市与大县的主力。优点是专业化与量，风险是预算与案件量由政府一侧决定，独立性要靠制度设计（任命与预算隔离）来保。美国律师协会《刑事司法标准》与 2002 年《有效辩护十原则》（Ten Principles of a Public Defense Delivery System）把「独立于司法与政治压力」列为第一条，原因在此。
+- **法院指派律师（appointed / panel counsel）**：私人律师名册接案、按小时或按案计酬，中小县与利益冲突案件（同案多名被告不能共用一个办公室）的主力。质量系于名册门槛与费率：费率太低，名册就只剩愿意低价接案的人，这是各地反复出现的结构性问题。
+- **合同律师（contract counsel）**：律所或律师与县按固定总价包案。固定总价的逆向激励最明显，包干之后多做一步都是自己贴钱，采用这一模型的地区要额外盯监督与案件量上限。
+- 加州的主干是县办公设辩护人：各县依《政府法典》第 27700 条起设立公共辩护人办公室；没有设办的县由法院按《刑法典》第 987.2 条指派私人律师。州一级另有州公共辩护人（State Public Defender，《政府法典》第 15400 条起），主业不是日常审判，而是死刑与重罪判后的人身保护等程序。联邦那一轨走《刑事司法法》（18 U.S.C. § 3006A）：联邦法院的无力被告由联邦公共辩护组织或 CJA 名册律师代理，费率与专家费用由联邦司法预算出，与州系统完全分开。
+
+### 五、谁算「请不起」：资格认定与事后追偿
+
+- 宪法只给「无力自聘」（indigent）的被告指派，认定由法院做：看收入、资产、家庭负担与案件预计费用，填财务申报、法官讯问后决定是全额指派还是部分自付。隐瞒财产骗指派的，可能被撤销指派并追责，这一点不要当成可以钻的空子。
+- 加州还有一条容易让人意外的规则：《刑法典》第 987.8 条允许案件终结后，法院经听证认定被告「现在或将来有支付能力」的，命其偿还指派律师费用的全部或一部。也就是说，指派当时免费，不保证永远免费；但法院必须先听证、按支付能力裁定，不能由行政人员直接寄一张账单就算数，更不能因为还不起钱就影响已经给过的辩护本身。
+
+### 六、质量线：Strickland 守底线，认罪协商也算战场
+
+- 给了律师但律师失灵怎么办？Strickland v. Washington, 466 U.S. 668 (1984) 的两要件标准是底线：辩护表现低于客观合理标准（deficient performance），且有合理可能表明没有这失误结果会不同（prejudice）。门槛在实务上极高，多数「律师没做好」的主张倒在第二要件。这条标准是地板不是天花板，行业的质量规范（案件量上限、调查与专家资源、及时会见）才是日常的质量线：2023 年发布的全国公共辩护工作量研究（National Public Defense Workload Study）就指出，沿用 1973 年的旧案件量上限早已跟不上现代案件的取证与数据量，各州正据此下调上限。
+- 战场早就不只在法庭上：九成以上的刑事案件以认罪协商结案。Missouri v. Frye, 566 U.S. 134 (2012) 与 Lafler v. Cooper, 566 U.S. 156 (2012) 确认，有效辩护权覆盖认罪协商，检方给出的有利要约因为律师没传达、或给了明显错误的建议而错失的，同样可能构成无效辩护。Padilla v. Kentucky, 559 U.S. 356 (2010) 再加一条具体义务：被告是移民的，律师必须告知认罪可能带来的递解后果，不告知或告知错误都可能动摇认罪。
+
+### 七、地图外圈：民事没有对等权利
+
+- 这张地图的边界要画清：Gideon 的逻辑只长在刑事（与准刑事的自由剥夺）地带。民事案件没有一般的指派律师权，Lassiter v. Ambrose, 452 U.S. 18 (1981) 只在身体自由面临风险时推定需要律师，Turner v. Rogers, 564 U.S. 431 (2011) 连民事藐视监禁也不自动给律师。具体资源怎么找（法律援助、法院自助中心、有限代理），本仓另有《在美国请不起律师怎么办》一篇专写，不在此重复。
+- 结构性短板也要如实标在地图上：全国多地公共辩护长期预算不足、案件量超载、指派费率偏低，联邦与各州的改革争论（独立辩护委员会、州级注资、案件量标准立法）一直在走。这张地图画的是现行规则，不是说规则运行得很好。
+
+### 八、地图收尾：三句话定位
+
+- 第一，边界：重罪必给（Gideon），实际或悬置的监禁才触发轻罪权利（Argersinger / Scott / Shelton），民事原则上自理。
+- 第二，体制：办公室、名册、合同三种交付模型并存，加州以县公设辩护人为主干、州公共辩护人守判后与死刑线，联邦走 18 U.S.C. § 3006A 的另一轨。
+- 第三，质量：权利在首次出庭附着（Rothgery），质量底线是 Strickland 两要件，认罪协商与移民后果告知已经并入有效辩护的正文（Frye / Lafler / Padilla）。
+
+> 声明：本文为个人学习笔记，不构成法律建议；具体案件请咨询持牌律师。来源：U.S. Const. amends. VI, XIV；Gideon v. Wainwright, 372 U.S. 335 (1963)；Argersinger v. Hamlin, 407 U.S. 25 (1972)；Scott v. Illinois, 440 U.S. 367 (1979)；Alabama v. Shelton, 535 U.S. 654 (2002)；In re Gault, 387 U.S. 1 (1967)；Rothgery v. Gillespie County, 554 U.S. 191 (2008)；Strickland v. Washington, 466 U.S. 668 (1984)；Padilla v. Kentucky, 559 U.S. 356 (2010)；Missouri v. Frye, 566 U.S. 134 (2012)；Lafler v. Cooper, 566 U.S. 156 (2012)；Lassiter v. Ambrose, 452 U.S. 18 (1981)；Turner v. Rogers, 564 U.S. 431 (2011)；18 U.S.C. § 3006A；Cal. Penal Code §§ 987, 987.2, 987.8；Cal. Gov. Code §§ 27700 et seq., 15400 et seq.；ABA Ten Principles of a Public Defense Delivery System (2002)；National Public Defense Workload Study (2023)。
+
+## English
+When a criminal defendant cannot afford a lawyer, American law answers in layers. The Sixth Amendment right to counsel, applied to the states in Gideon v. Wainwright, 372 U.S. 335 (1963), requires free appointed counsel for indigent felony defendants. Argersinger v. Hamlin, 407 U.S. 25 (1972), extends the right to any case — misdemeanor included — where actual imprisonment is imposed; Scott v. Illinois, 440 U.S. 367 (1979), holds the line where no imprisonment is actually imposed, and Alabama v. Shelton, 535 U.S. 654 (2002), adds that a suspended sentence that may later become imprisonment also triggers the right. Juveniles facing commitment have the right too (In re Gault, 387 U.S. 1 (1967)). The dividing line is not the label of the offense but whether liberty is really taken or held in reserve.
+
+The right attaches at the initial appearance (Rothgery v. Gillespie County, 554 U.S. 191 (2008)) and covers trial, the first appeal as of right, and plea bargaining; collateral attacks generally fall outside the constitutional floor. Delivery runs through three models: salaried public defender offices (the backbone in larger jurisdictions, whose independence the ABA's Ten Principles of a Public Defense Delivery System (2002) put first), appointed panel counsel paid by the hour or by the case, and flat-fee contract counsel, whose fixed-price incentives need the closest supervision. California builds county public defender offices under Government Code sections 27700 et seq., with appointment of private counsel under Penal Code section 987.2 where no office exists; the State Public Defender (Gov. Code sections 15400 et seq.) handles mainly capital and post-conviction work. Federal cases run on a separate track under the Criminal Justice Act, 18 U.S.C. section 3006A.
+
+Eligibility turns on indigency as found by the court, and in California Penal Code section 987.8 allows the court, after a hearing at the end of the case, to order repayment by a defendant found able to pay — appointment is free at the front end, not guaranteed free forever. Quality is policed at the floor by Strickland v. Washington, 466 U.S. 668 (1984) — deficient performance plus a reasonable probability of a different result — a demanding test, while workload standards do the daily work (the 2023 National Public Defense Workload Study found the old 1973 caseload ceilings obsolete). Because most cases plead out, effective assistance extends to plea negotiations (Missouri v. Frye, 566 U.S. 134 (2012); Lafler v. Cooper, 566 U.S. 156 (2012)) and to warning a noncitizen client about deportation consequences (Padilla v. Kentucky, 559 U.S. 356 (2010)). There is no general civil counterpart: Lassiter, 452 U.S. 18 (1981), and Turner v. Rogers, 564 U.S. 431 (2011), keep civil appointment exceptional. Personal study notes only; not legal advice.
+
+## Español (traducción de estudio)
+Cuando un acusado penal no puede pagar un abogado, el derecho estadounidense responde por capas. El derecho a la asistencia letrada de la Sexta Enmienda, aplicado a los estados en Gideon v. Wainwright, 372 U.S. 335 (1963), exige abogado gratuito de oficio para el acusado indigente en delitos graves (felony). Argersinger v. Hamlin, 407 U.S. 25 (1972), lo extiende a todo caso —también delitos menores— en que se imponga prisión efectiva; Scott v. Illinois, 440 U.S. 367 (1979), traza el límite cuando no se impone prisión, y Alabama v. Shelton, 535 U.S. 654 (2002), añade que una pena suspendida que luego puede convertirse en prisión también activa el derecho. Los menores que enfrentan internamiento también lo tienen (In re Gault, 387 U.S. 1 (1967)). La línea divisoria no es el nombre del delito, sino si la libertad se pierde de verdad o queda en reserva.
+
+El derecho nace en la primera comparecencia (initial appearance; Rothgery v. Gillespie County, 554 U.S. 191 (2008)) y cubre el juicio, la primera apelación de derecho y la negociación de culpabilidad; los ataques colaterales posteriores quedan, en general, fuera del mínimo constitucional. La prestación corre por tres modelos: defensorías públicas con abogados asalariados (la columna vertebral en las jurisdicciones grandes, cuya independencia encabeza los Diez Principios de la ABA de 2002), abogados de lista designados por el tribunal, pagados por hora o por caso, y abogados por contrato a precio fijo, cuyos incentivos exigen la supervisión más estrecha. California crea defensorías de condado (Gov. Code §§ 27700 y ss.) y, donde no hay oficina, designación de abogados privados (Penal Code § 987.2); el Defensor Público estatal (§§ 15400 y ss.) se ocupa sobre todo de causas capitales y posteriores a la condena. Los casos federales van por otra vía: la Criminal Justice Act, 18 U.S.C. § 3006A.
+
+La elegibilidad depende de la indigencia declarada por el tribunal, y en California el Penal Code § 987.8 permite, tras audiencia al final del caso, ordenar el reembolso a quien resulte capaz de pagar: la designación es gratuita al inicio, no garantizada para siempre. La calidad se vigila en el suelo con Strickland v. Washington, 466 U.S. 668 (1984) —actuación deficiente más probabilidad razonable de un resultado distinto—, una prueba exigente, mientras los estándares de carga de trabajo (el estudio nacional de 2023 declaró obsoletos los topes de 1973) hacen el trabajo diario. Como casi todo se resuelve negociando, la asistencia efectiva cubre la negociación (Missouri v. Frye, 566 U.S. 134 (2012); Lafler v. Cooper, 566 U.S. 156 (2012)) y el deber de advertir al cliente no ciudadano sobre la deportación (Padilla v. Kentucky, 559 U.S. 356 (2010)). En lo civil no hay equivalente general: Lassiter, 452 U.S. 18 (1981), y Turner v. Rogers, 564 U.S. 431 (2011), mantienen la designación civil como excepción. Notas personales de estudio; no constituye asesoría legal.
+
+## 한국어 (초역, 원어민 감수 대기)
+형사 피고인이 변호사 비용을 댈 수 없을 때 미국법의 답은 층위적이다. 수정헌법 제6조의 변호인 조력권은 Gideon v. Wainwright, 372 U.S. 335 (1963)로 주에 적용되어, 빈곤한 중죄 피고인에게 무료 국선 변호를 보장한다. Argersinger v. Hamlin, 407 U.S. 25 (1972)는 실제로 구금이 부과되는 사건(경죄 포함)으로 넓혔고, Scott v. Illinois, 440 U.S. 367 (1979)는 실제 구금이 없으면 선을 그었으며, Alabama v. Shelton, 535 U.S. 654 (2002)는 나중에 구금으로 바뀔 수 있는 집행유예(선고유예형)도 권리를 발동시킨다고 덧붙였다. 시설 수용을 앞둔 소년도 권리가 있다(In re Gault, 387 U.S. 1 (1967)). 경계선은 죄명이 아니라 자유가 실제로 박탈되는가, 또는 유보되어 걸려 있는가에 있다.
+
+권리는 첫 출석(initial appearance) 시점에 부착한다(Rothgery v. Gillespie County, 554 U.S. 191 (2008)). 재판과 당연항소 1회, 유죄 협상까지 덮지만, 판결 후 부수적 공격은 원칙적으로 헌법상 최저선 밖에 있다. 전달 체계는 세 모델이다. 봉급제 국선변호인 사무소(대규모 관할의 주축이며, ABA의 2002년 「공적 변호 전달 체계 10원칙」은 그 독립성을 첫째로 둔다), 시간급·건별로 보수받는 법원 선임 변호사 명부, 그리고 정액 계약 변호사로, 정액제는 인센티브 왜곡이 커서 감독이 가장 촘촘해야 한다. 캘리포니아는 정부법 제27700조 이하로 카운티 국선변호인 사무소를 두고, 사무소가 없는 곳에서는 형법 제987.2조로 사설 변호사를 선임한다. 주 국선변호인(정부법 제15400조 이하)은 주로 사형과 유죄 확정 후 절차를 맡는다. 연방 사건은 형사사법법(18 U.S.C. § 3006A)의 별도 트랙이다.
+
+자격은 법원이 인정하는 빈곤 여부에 달려 있고, 캘리포니아 형법 제987.8조는 사건 종료 후 청문을 거쳐 지급 능력이 인정되는 피고인에게 비용 상환을 명할 수 있게 한다. 선임은 처음에는 무료이지만 영원히 무료라는 보장은 없다. 질의 최저선은 Strickland v. Washington, 466 U.S. 668 (1984)의 2요건(기준 미달의 수행과 결과가 달랐을 합리적 가능성)이 지키고, 일상적인 질은 업무량 기준이 지킨다(2023년 전국 공적 변호 업무량 연구는 1973년의 낡은 상한이 시대에 뒤졌다고 했다). 대부분 사건이 협상으로 끝나므로 유효한 조력은 협상 단계(Missouri v. Frye, 566 U.S. 134 (2012); Lafler v. Cooper, 566 U.S. 156 (2012))와 비시민 의뢰인에 대한 추방 결과 고지 의무(Padilla v. Kentucky, 559 U.S. 356 (2010))까지 미친다. 민사에는 일반적 대응 권리가 없다(Lassiter, 452 U.S. 18 (1981); Turner v. Rogers, 564 U.S. 431 (2011)). 개인 학습 노트이며 법률 자문이 아니다.
+
+## Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+Khi bị cáo hình sự không kham nổi chi phí luật sư, pháp luật Hoa Kỳ trả lời theo từng lớp. Quyền được luật sư trợ giúp của Tu chính án thứ Sáu, được áp dụng cho các bang trong Gideon v. Wainwright, 372 U.S. 335 (1963), đòi hỏi chỉ định luật sư miễn phí cho bị cáo nghèo trong các vụ trọng tội. Argersinger v. Hamlin, 407 U.S. 25 (1972), mở rộng tới mọi vụ — kể cả tội nhẹ — mà bản án thực sự phạt tù; Scott v. Illinois, 440 U.S. 367 (1979), vạch giới hạn khi không có phạt tù thực tế, và Alabama v. Shelton, 535 U.S. 654 (2002), bổ sung rằng án treo có thể sau này chuyển thành tù giam cũng kích hoạt quyền này. Vị thành niên đối mặt việc bị đưa vào cơ sở quản giáo cũng có quyền này (In re Gault, 387 U.S. 1 (1967)). Ranh giới không nằm ở tên tội, mà ở việc tự do có thật sự bị tước hoặc bị treo trên đầu hay không.
+
+Quyền này gắn vào ngay lần trình diện đầu tiên (initial appearance; Rothgery v. Gillespie County, 554 U.S. 191 (2008)) và bao phủ xét xử, lần kháng cáo đương nhiên đầu tiên và thương lượng nhận tội; các tấn công phụ sau phán quyết nói chung nằm ngoài mức tối thiểu hiến pháp. Hệ thống cung cấp chạy theo ba mô hình: văn phòng luật sư công có lương (xương sống ở các khu vực lớn, mà Mười Nguyên tắc năm 2002 của ABA đặt tính độc lập lên hàng đầu), luật sư trong danh sách do tòa chỉ định trả theo giờ hoặc theo vụ, và luật sư hợp đồng trọn gói — mô hình có động cơ méo mó nhất nên cần giám sát chặt nhất. California lập văn phòng luật sư công cấp quận theo Gov. Code §§ 27700 trở đi, nơi không có văn phòng thì chỉ định luật sư tư theo Penal Code § 987.2; Luật sư Công cấp bang (§§ 15400 trở đi) chủ yếu lo các vụ tử hình và sau kết án. Các vụ liên bang đi tuyến riêng theo Đạo luật Tư pháp Hình sự, 18 U.S.C. § 3006A.
+
+Điều kiện dựa trên tình trạng nghèo do tòa xác nhận, và tại California, Penal Code § 987.8 cho phép tòa, sau phiên điều trần khi kết thúc vụ án, ra lệnh hoàn trả đối với bị cáo được xác nhận có khả năng chi trả — việc chỉ định miễn phí lúc đầu, không bảo đảm miễn phí mãi mãi. Chất lượng được giữ ở mức sàn bằng Strickland v. Washington, 466 U.S. 668 (1984) — trợ giúp dưới chuẩn khách quan cộng khả năng hợp lý rằng kết quả đã khác — một chuẩn rất khó đạt, trong khi chuẩn khối lượng công việc làm phần việc hằng ngày (nghiên cứu quốc gia năm 2023 cho rằng trần số vụ năm 1973 đã lỗi thời). Vì hầu hết các vụ kết thúc bằng thương lượng, trợ giúp hiệu quả bao phủ cả giai đoạn thương lượng (Missouri v. Frye, 566 U.S. 134 (2012); Lafler v. Cooper, 566 U.S. 156 (2012)) và nghĩa vụ cảnh báo khách hàng không phải công dân về hậu quả trục xuất (Padilla v. Kentucky, 559 U.S. 356 (2010)). Phía dân sự không có quyền tương đương nói chung (Lassiter, 452 U.S. 18 (1981); Turner v. Rogers, 564 U.S. 431 (2011)). Ghi chú học tập cá nhân, không phải tư vấn pháp lý.
+
+## हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
+जब कोई आपराधिक अभियुक्त वकील का खर्च नहीं उठा सकता, तो अमेरिकी कानून का उत्तर परतदार है। छठे संशोधन का वकील-सहायता अधिकार, जिसे Gideon v. Wainwright, 372 U.S. 335 (1963) ने राज्यों पर लागू किया, निर्धन गंभीर-अपराध (felony) अभियुक्तों के लिए मुफ़्त नियुक्त वकील अनिवार्य करता है। Argersinger v. Hamlin, 407 U.S. 25 (1972) इसे हर उस मामले तक बढ़ाता है — दुष्कर्म सहित — जहाँ वास्तव में कारावास दिया जाए; Scott v. Illinois, 440 U.S. 367 (1979) वहाँ सीमा खींचता है जहाँ वास्तविक कारावास न दिया गया हो, और Alabama v. Shelton, 535 U.S. 654 (2002) जोड़ता है कि निलंबित सज़ा, जो बाद में कारावास बन सकती है, भी अधिकार को सक्रिय करती है। संस्था में भेजे जाने के सामने खड़े किशोरों को भी यह अधिकार है (In re Gault, 387 U.S. 1 (1967))। विभाजन-रेखा अपराध के नाम पर नहीं, इस पर है कि स्वतंत्रता सचमुच छीनी गई है या सिर पर लटकी है।
+
+यह अधिकार पहली उपस्थिति (initial appearance) पर जुड़ जाता है (Rothgery v. Gillespie County, 554 U.S. 191 (2008)) और विचारण, अधिकार-स्वरूप पहली अपील और दोष-स्वीकृति वार्ता को ढकता है; निर्णय के बाद के संपार्श्विक हमले सामान्यतः संवैधानिक न्यूनतम से बाहर हैं। आपूर्ति तीन मॉडलों से चलती है: वेतनभोगी लोक-रक्षक कार्यालय (बड़े क्षेत्राधिकारों की रीढ़, जिनकी स्वतंत्रता को ABA के 2002 के दस सिद्धांत सबसे ऊपर रखते हैं), घंटे या मामले के हिसाब से भुगतान पाने वाले न्यायालय-नियुक्त सूची-वकील, और निश्चित-राशि अनुबंध वकील, जिनके प्रोत्साहन सबसे अधिक निगरानी माँगते हैं। कैलिफ़ोर्निया Gov. Code §§ 27700 आदि के तहत काउंटी लोक-रक्षक कार्यालय बनाता है, और जहाँ कार्यालय नहीं, वहाँ Penal Code § 987.2 के तहत निजी वकील नियुक्त होता है; राज्य लोक-रक्षक (§§ 15400 आदि) मुख्यतः मृत्युदंड और दोषसिद्धि-पश्चात कार्य संभालता है। संघीय मामले आपराधिक न्याय अधिनियम, 18 U.S.C. § 3006A, के अलग मार्ग पर चलते हैं।
+
+पात्रता न्यायालय द्वारा मानी गई निर्धनता पर निर्भर है, और कैलिफ़ोर्निया में Penal Code § 987.8 मामले के अंत में सुनवाई के बाद भुगतान-सक्षम पाए गए अभियुक्त से प्रतिपूर्ति का आदेश दे सकता है — नियुक्ति शुरुआत में मुफ़्त है, हमेशा के लिए मुफ़्त की गारंटी नहीं। गुणवत्ता की निचली रेखा Strickland v. Washington, 466 U.S. 668 (1984) के दो तत्व रखते हैं — मानक से नीचे का प्रदर्शन और भिन्न परिणाम की युक्तियुक्त संभावना — जो एक कठिन परीक्षा है, जबकि कार्यभार मानक रोज़ का काम करते हैं (2023 के राष्ट्रीय अध्ययन ने 1973 की पुरानी सीमा को अप्रचलित पाया)। चूँकि अधिकांश मामले वार्ता से निपटते हैं, प्रभावी सहायता वार्ता चरण (Missouri v. Frye, 566 U.S. 134 (2012); Lafler v. Cooper, 566 U.S. 156 (2012)) और ग़ैर-नागरिक मुवक्किल को निर्वासन परिणामों की चेतावनी (Padilla v. Kentucky, 559 U.S. 356 (2010)) तक फैली है। सिविल पक्ष में कोई सामान्य समकक्ष अधिकार नहीं है (Lassiter, 452 U.S. 18 (1981); Turner v. Rogers, 564 U.S. 431 (2011))। केवल व्यक्तिगत अध्ययन नोट; यह कानूनी सलाह नहीं है।
