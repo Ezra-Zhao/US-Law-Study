@@ -1,0 +1,101 @@
+# 社会保障与公共福利法备考核心：Title II 与 XVI、SSI 与 Medicare、Medicaid 资格及加州规则
+
+> 个人学习笔记，不构成法律建议。本篇为备考向梳理，与本仓《美国社会保障与公共福利法地图》分工：地图篇讲体系结构，本篇只抠考试与实务里最容易丢分的资格要件、数字与程序。条文以《社会保障法》（Social Security Act）现行文本、U.S.C. 与 C.F.R. 为准；金额类数字每年调整，答题以题目给定年份为准。
+
+## 中文主文
+
+### 一、先分清四条线：保险线与家计审查线不要混
+
+《社会保障法》（1935 年）下与个人福利最相关的四编，先按「钱从哪来、资格看什么」分开。Title II（42 U.S.C. §§ 401 起）是老年、遗存与残疾保险（OASDI）：靠工资税供养、靠工作记录取得资格，是「保险」；Title XVI（42 U.S.C. §§ 1381 起）是补充保障收入（SSI）：靠一般财政供养、靠家计审查（means test）取得资格，是「救济」。医疗两条线同理分开：Title XVIII（42 U.S.C. §§ 1395 起）是 Medicare，跟着 Title II 的保险资格走，原则上不查家产；Title XIX（42 U.S.C. §§ 1396 起）是 Medicaid，联邦与州合办、查收入与资产。备考第一步永远是先问：这道题问的是哪一编？四编的资格逻辑两两相对，串线是本板块最常见的失分方式。
+
+### 二、Title II 的门票：insured status 与 quarters of coverage
+
+Title II 的一切给付都以「被保险状态」（insured status）为门票，而被保险状态用「覆盖季度」（quarters of coverage, QC）计量：按年度收入折算，一年最多记 4 个 QC，折算金额每年调整——2025 年每挣 1,810 美元记 1 个 QC（以 SSA 当年公布为准）。
+
+分三种状态记。**完全被保险**（fully insured，42 U.S.C. § 414(a)）：所需 QC 数大致等于从 1951 年或年满 21 岁（取其晚）到年满 62 岁、残疾发生或死亡（取其先）之间经过的年数，最少 6 个、最多 40 个；退休金与遗存给付主要看这一层。**残疾被保险**（disability insured，§ 423(c)(1)；20 C.F.R. § 404.130 一带）：除完全被保险外，还要满足「近期工作」测试——残疾开始前结束的 40 个季度期间内有 20 个 QC（俗称 20/40 规则）；年轻工作者有放宽档，31 岁前残疾的按其年满 21 岁后期间折算，24 岁前残疾的只需在残疾前 12 个季度里有 6 个 QC。**目前被保险**（currently insured）门槛最低，遗存给付中的部分项目（如子女与母亲/父亲给付、一次性死亡给付）只要求死亡前 13 个季度内有 6 个 QC。答题顺序：先算 QC，再对号入座是哪一种状态，最后才看给付种类。
+
+### 三、SSDI 与 SSI 的分界：一张对照表要背下来
+
+同是「残疾给付」，SSDI（Title II 残疾保险）与 SSI（Title XVI）是两套系统，分界点逐项记：
+
+- **资格根基**：SSDI 看 insured status（第二节），不查收入资产；SSI 不看工作记录，查收入与可计入资源（countable resources），个人上限 2,000 美元、夫妻 3,000 美元（42 U.S.C. § 1382(a)(3) 一带），这一数字自 1989 年以来未随通胀调整，是常考的「冻结数字」。
+- **给付额**：SSDI 按本人收入记录算（与缴费工资挂钩）；SSI 是联邦统一基准（federal benefit rate）减可计入收入，2025 年个人每月 967 美元、夫妻 1,450 美元（SSA 公布），州可在此之上加补充（见第八节加州 SSP）。
+- **医疗联动**：SSDI 受益人领取残疾给付满 24 个月后取得 Medicare（见第五节）；SSI 受益人在多数州自动取得 Medicaid（见第六节）。
+- **对象范围**：SSI 还覆盖 65 岁以上老人与盲人，不以残疾为唯一门；SSDI 只给有被保险状态的工作者及其符合条件的家属、遗存者。
+- **并发**：工作记录薄、SSDI 金额低的人可以同时领两边（concurrent），SSI 一侧仍按其家计规则扣减。
+
+一句话记法：SSDI 是「挣来的权利」，SSI 是「查过家底的兜底」。
+
+### 四、残疾的法定定义与五步序贯评估
+
+残疾定义在 Title II 是 42 U.S.C. § 423(d)，SSI 是 § 1382c(a)(3)，措辞实质一致：因可医学确定的身体或精神损伤（medically determinable impairment），不能从事「实质性有偿活动」（substantial gainful activity, SGA），且该损伤已持续或预计持续不少于 12 个月、或预计导致死亡。金额化的 SGA 线每年调整，2025 年为非盲人每月 1,620 美元、法定盲人 2,700 美元（SSA 公布）。
+
+行政审查用五步序贯评估（sequential evaluation），Title II 在 20 C.F.R. § 404.1520，SSI 的平行规则在 § 416.920，任一步得出结论即停：
+
+1. 申请人目前是否在从事 SGA？是，则非残疾，程序终结。
+2. 是否有「严重」（severe）损伤或损伤组合，显著限制从事基本工作活动的能力？无，则非残疾。
+3. 损伤是否达到或等同于《残疾清单》（Listing of Impairments，20 C.F.R. Part 404, Subpart P, Appendix 1）的条目？是，则残疾成立，不再往下。
+4. 结合残余功能能力（residual functional capacity, RFC），申请人还能否从事其过去的相关工作？能，则非残疾。
+5. 结合 RFC 与年龄、教育、工作经验，申请人能否从事国家经济中存在的其他工作？前四步的举证大体在申请人一侧，到第五步，改由行政机关（Commissioner）就「还有其他工作可做」承担举证，这是答题时最常被问的举证责任切换点。
+
+另注意两个程序细节：残疾成立后 Title II 有 5 个月等待期才开始发钱；SSI 无等待期，但发付自申请后起算——两点都常与第三节的分界表一起出题。
+
+### 五、Medicare：Parts A–D 各管一段，资格跟着保险走
+
+Medicare 在 Title XVIII（42 U.S.C. §§ 1395 起），四部分分工要分清：
+
+- **Part A**（医院保险）：住院、熟练护理机构、临终关怀与部分居家医疗。65 岁且本人或配偶有足够 QC（通常 40 个，即约 10 年工作）者免保费取得；QC 不足可按月缴保费买入。
+- **Part B**（医疗保险）：门诊、医生服务与耐用品等，自愿参加、按月缴保费（多数人缴标准额，高收入者有收入相关加额），迟参保可能有长期加罚。
+- **Part C**（Medicare Advantage）：经批准的私人计划替代 A+B 打包给付，常附额外福利，但要受计划的医疗网络约束。
+- **Part D**（处方药）：2003 年《医疗保险处方药、改进与现代化法》（Medicare Modernization Act）增设、2006 年起运行，由私人计划承保处方药，同样自愿参加、迟保有加罚。
+
+资格主线只有一条：65 岁以上且具 Title II 被保险资格（或为被保险人配偶等）者取得 Part A；未满 65 岁者主要靠 SSDI 通道——领取 Title II 残疾给付满 24 个月后自动取得 Medicare（§ 426 一带），终末期肾病（ESRD）另有专门的取得规则。Medicare 不查收入资产，与 Medicaid 的家计审查形成对照，是两编对比题的固定考点。
+
+### 六、Medicaid：联邦出框架、州填细则，财务资格是主战场
+
+Medicaid 在 Title XIX（42 U.S.C. §§ 1396 起）：联邦定最低框架并分担经费，州以「州计划」（state plan，§ 1396a）落地，覆盖人群与财务标准各州不同，这是它与全国统一的 Medicare 最大的结构差异。
+
+备考抓三层。**人群层**：传统强制人群（低收入儿童、孕妇、与 SSI 相连的残疾与老年人等）之外，《平价医疗法案》（ACA）新增扩张人群 § 1396a(a)(10)(A)(i)(VIII)——收入不超过联邦贫困线 138% 的成年人；但 NFIB v. Sebelius, 567 U.S. 519 (2012) 判决扩张不能以抽走全部既有 Medicaid 经费相胁迫，扩张自此成为州的选择题，是否扩张先查州。**财务层**：收入与资源标准按人群类别分轨，ACA 人群主要用调整后总收入（MAGI）口径，老人与残疾人群仍走 SSI 式口径并有各州的资源上限与「花放」（spend-down）等安排，细则以州计划为准。**联动层**：在所谓「1634 州」（依 § 1634 与 SSA 签约的州），领 SSI 即自动取得 Medicaid，无需另行申请——加州即属此类（见第八节）；另一些州要求单独申请或用更严的本州标准，答题写州差异时这是标准例。
+
+### 七、行政上诉四级：reconsideration → ALJ → Appeals Council → 联邦法院
+
+Title II 与 SSI 的不利决定走同一条四级行政上诉链，每级原则上须在收到决定通知后 60 天内提出（期限规则见 20 C.F.R. §§ 404.982、416.1482 一带，逾期须说明正当理由）：
+
+1. **复议**（reconsideration）：由未参与原决定的审查人员重新审查案卷，残疾案可附非正式面谈。
+2. **行政法官听证**（ALJ hearing）：申请人可到场陈述、带证人与代表，法官依据案卷与听证记录重新审查（《社会保障法》§ 405(b) 的听证权）；实务上这一级是翻案率最高的一环。
+3. **上诉委员会复审**（Appeals Council）：复查 ALJ 决定是否符合法规与政策，可维持、修改、撤销或发回；委员会拒绝复审的，ALJ 决定即成为行政机关的最终决定。
+4. **联邦法院司法审查**：依 § 405(g) 向联邦地区法院起诉，前提是已取得「最终决定」（final decision）——即行政救济须先穷尽；法院只审行政记录，审查标准是决定是否有实质证据（substantial evidence）支持、法律适用是否正确，不重新审理事实。
+
+与之并行的另一条线别混：Medicaid 被拒或终止，州须提供公平听证（fair hearing，§ 1396a(a)(3)），这是州一级的程序保障，不走 SSA 的四级链。
+
+### 八、加州叠加：Medi-Cal、CalWORKs 与 SSI/SSP 州补充
+
+加州三件叠加，逐个定位。**Medi-Cal** 是加州的 Medicaid（《福利与机构法典》Welf. & Inst. Code §§ 14000 起）：加州已采 ACA 扩张，138% 口径的低收入成年人纳入；如第六节所述，加州是 1634 州，领 SSI 者自动取得 Medi-Cal。**SSI/SSP**：加州在联邦 SSI 之上加 state supplementary payment（州补充金），联邦与州两笔由 SSA 合并发放、一次申请同时处理，个人实际到手高于 967 美元的联邦基准，具体 SSP 数额按居住安排与类别分档，以 SSA 与加州当期公布为准。**CalWORKs** 是加州承接联邦 TANF（Title IV-A 现金援助）的州计划（Welf. & Inst. Code §§ 11200 起），面向有子女的低收入家庭，由县政府受理与管理，附工作参与要求与时限规则，与无子女成人为主的 SSI/SSDI 不是一回事——题目里出现「有未成年子女的家庭现金援助」先想 CalWORKs，出现「老人、盲人、残疾人兜底」先想 SSI/SSP。
+
+### 九、答题收束与常见失分点
+
+一是先分编再答题：Title II 看工作记录、Title XVI 查家计，Medicare 跟保险、Medicaid 查财务，四线串一条就全盘错。二是 QC 数字要带年份：折算额与 SGA、联邦基准额都逐年调整，无年份的金额答案不完整。三是五步评估背顺序更要背切换点：第三步清单命中即停、第五步举证转到行政机关。四是 24 个月与 5 个月别记反：SSDI 发付等 5 个月，SSDI 转 Medicare 等 24 个月。五是上诉链的前提是穷尽行政救济与 § 405(g) 的最终决定，且法院只做记录审查。六是州题先查州：Medicaid 扩不扩、SSI 联动是哪种州、SSP 有没有，都没有全国统一答案；加州的默认答案是「已扩张、1634 自动联动、有 SSP」。
+
+*声明：个人学习笔记，不构成法律建议。来源：Social Security Act Titles II, IV-A, XVI, XVIII, XIX（42 U.S.C. §§ 401 起、601 起、1381 起、1395 起、1396 起）；42 U.S.C. §§ 414、423(c)、423(d)、426、1382、1382c、405(b)、405(g)、1396a；20 C.F.R. §§ 404.130、404.1520、416.920、404.982；20 C.F.R. Part 404, Subpart P, App. 1；NFIB v. Sebelius, 567 U.S. 519 (2012)；SSA 2025 年公布数（每 QC 1,810 美元、SGA 1,620／2,700 美元、SSI 联邦基准 967／1,450 美元）；Cal. Welf. & Inst. Code §§ 11200 起、14000 起。金额数字以 SSA 与加州当期公布为准。*
+
+---
+
+## English
+
+**Social Security and public benefits exam core: Title II vs. Title XVI, Medicare and Medicaid, and California overlays.** Title II of the Social Security Act (42 U.S.C. §§ 401 et seq.) is contributory insurance (OASDI) earned through work; Title XVI (§§ 1381 et seq.) is the means-tested SSI safety net. Insured status is measured in quarters of coverage (QCs): in 2025 one QC is credited per $1,810 of earnings, up to four per year. Fully insured status (§ 414(a)) generally requires QCs roughly equal to the years after age 21 (or 1951) up to age 62, disability, or death, minimum 6 and maximum 40; disability insured status (§ 423(c)(1); 20 C.F.R. § 404.130) adds a recency test — 20 QCs in the 40 quarters ending when disability begins, with relaxed rules for younger workers. SSDI and SSI diverge: SSDI pays on the earnings record with no means test, while SSI applies countable-resource limits of $2,000 (individual) / $3,000 (couple), a 2025 federal benefit rate of $967 / $1,450, and state supplements. The statutory disability definition (§ 423(d); § 1382c(a)(3)) requires a medically determinable impairment preventing substantial gainful activity (2025 SGA: $1,620/month, $2,700 for the statutorily blind) for at least 12 months or expected to result in death. Adjudication follows the five-step sequential evaluation of 20 C.F.R. § 404.1520 (SSI parallel: § 416.920): current SGA; severe impairment; meeting or equaling the Listing of Impairments (Part 404, Subpart P, App. 1); past relevant work given residual functional capacity; and other work in the national economy — where the burden shifts to the Commissioner. Medicare (Title XVIII, §§ 1395 et seq.) is not means-tested: premium-free Part A at 65 with about 40 QCs (one's own or a spouse's), voluntary premium-based Part B, Part C Medicare Advantage plans, and Part D drug coverage (Medicare Modernization Act of 2003); SSDI beneficiaries qualify after 24 months of entitlement. Medicaid (Title XIX, §§ 1396 et seq.) is a joint federal-state program under state plans (§ 1396a): the ACA expansion group, § 1396a(a)(10)(A)(i)(VIII), covers adults up to 138% of the federal poverty line but became a state option after NFIB v. Sebelius, 567 U.S. 519 (2012); in "1634 states," SSI receipt confers Medicaid automatically. Appeals run reconsideration, ALJ hearing (§ 405(b)), Appeals Council review, and federal-court review under § 405(g) after a final decision, with 60-day deadlines at each step and substantial-evidence review on the administrative record. In California, Medicaid is Medi-Cal (Welf. & Inst. Code §§ 14000 et seq.), a 1634 state with ACA expansion adopted; the state adds an SSP supplement to SSI in a single combined payment administered by SSA; and CalWORKs (§§ 11200 et seq.) is the county-run TANF program for families with children. *Personal study notes only; not legal advice.*
+
+## Español (traducción de estudio, pendiente de revisión nativa)
+
+**Seguridad Social y prestaciones públicas: Título II frente a Título XVI, Medicare y Medicaid, y reglas de California.** El Título II de la Ley de Seguridad Social (42 U.S.C. §§ 401 y ss.) es un seguro contributivo (OASDI) que se gana trabajando; el Título XVI (§§ 1381 y ss.) es la red de seguridad SSI, sujeta a prueba de recursos. La condición de asegurado se mide en quarters of coverage (QC): en 2025 se acredita un QC por cada $1,810 de ingresos, hasta cuatro al año. El asegurado pleno (§ 414(a)) exige, en general, tantos QC como años desde los 21 años (o 1951) hasta los 62, la discapacidad o la muerte, con mínimo de 6 y máximo de 40; el asegurado por discapacidad (§ 423(c)(1); 20 C.F.R. § 404.130) añade una prueba de trabajo reciente: 20 QC en los 40 trimestres que terminan al comenzar la discapacidad, con reglas atenuadas para trabajadores jóvenes. SSDI y SSI divergen: SSDI paga según el historial laboral sin prueba de recursos; SSI aplica límites de recursos computables de $2,000 (persona) / $3,000 (pareja), una tasa federal 2025 de $967 / $1,450 y suplementos estatales. La definición legal de discapacidad (§ 423(d); § 1382c(a)(3)) exige un impedimento médicamente determinable que impida una actividad lucrativa sustancial (SGA 2025: $1,620 al mes; $2,700 para ciegos legales) durante al menos 12 meses o con desenlace mortal esperado. La decisión sigue la evaluación secuencial de cinco pasos de 20 C.F.R. § 404.1520 (paralelo SSI: § 416.920): SGA actual; impedimento grave; cumplir o igualar el Listado de Impedimentos (Parte 404, Subparte P, Ap. 1); trabajo pasado relevante según la capacidad funcional residual; y otro trabajo en la economía nacional, paso en el que la carga pasa al Comisionado. Medicare (Título XVIII, §§ 1395 y ss.) no depende de recursos: Parte A sin prima a los 65 con unos 40 QC (propios o del cónyuge), Parte B voluntaria con prima, Parte C (Medicare Advantage) y Parte D de medicamentos (ley de 2003); los beneficiarios de SSDI acceden tras 24 meses de derecho. Medicaid (Título XIX, §§ 1396 y ss.) es un programa conjunto federal-estatal bajo planes estatales (§ 1396a): el grupo de expansión de la ACA, § 1396a(a)(10)(A)(i)(VIII), cubre adultos hasta el 138 % de la línea federal de pobreza, pero quedó como opción estatal tras NFIB v. Sebelius, 567 U.S. 519 (2012); en los «estados 1634», recibir SSI otorga Medicaid automáticamente. La vía de recurso es reconsideración, audiencia ante un ALJ (§ 405(b)), revisión del Appeals Council y revisión judicial federal bajo § 405(g) tras decisión final, con plazos de 60 días y control de evidencia sustancial sobre el expediente. En California, Medicaid es Medi-Cal (Welf. & Inst. Code §§ 14000 y ss.), estado 1634 con expansión adoptada; el estado añade el suplemento SSP al SSI en un pago único combinado administrado por la SSA; y CalWORKs (§§ 11200 y ss.) es el programa TANF gestionado por los condados para familias con hijos. *Notas personales de estudio; no constituye asesoría legal.*
+
+## 한국어 (초역, 원어민 감수 대기)
+
+**사회보장·공공복지 핵심: Title II와 XVI, Medicare·Medicaid 자격과 캘리포니아 규칙.** 사회보장법 Title II(42 U.S.C. §§ 401 이하)는 근로로 자격을 얻는 기여형 보험(OASDI)이고, Title XVI(§§ 1381 이하)는 자산조사를 거치는 SSI 안전망입니다. 피보험 자격은 quarters of coverage(QC)로 재며, 2025년에는 소득 1,810달러당 1 QC, 연 최대 4개가 인정됩니다. 완전 피보험(§ 414(a))은 대략 21세(또는 1951년) 이후부터 62세·장애·사망까지의 햇수와 같은 QC가 필요하고 최소 6개, 최대 40개입니다. 장애 피보험(§ 423(c)(1); 20 C.F.R. § 404.130)은 여기에 최근 근로 요건을 얹어, 장애 개시로 끝나는 40분기 중 20 QC를 요구하며 젊은 근로자에게는 완화 규정이 있습니다. SSDI와 SSI는 갈립니다. SSDI는 자산조사 없이 근로 기록으로 지급되고, SSI는 산입 자원 한도 개인 2,000달러/부부 3,000달러, 2025년 연방 기준액 967/1,450달러에 주 보충이 붙습니다. 법정 장애 정의(§ 423(d); § 1382c(a)(3))는 의학적으로 확정 가능한 손상으로 substantial gainful activity(SGA, 2025년 월 1,620달러, 법정 맹인은 2,700달러)를 할 수 없고 그 상태가 12개월 이상 지속되거나 사망에 이를 것으로 예상될 것을 요구합니다. 심사는 20 C.F.R. § 404.1520의 5단계 순차 평가(SSI 병행 규정 § 416.920)를 따릅니다. 현재 SGA 여부, 중대한 손상, 장애 목록(Listing of Impairments, Part 404 Subpart P App. 1) 해당 또는 동등 여부, 잔여기능능력(RFC) 기준 과거 관련 업무 수행 가능성, 그리고 국가 경제의 다른 업무 수행 가능성 순이며, 마지막 단계에서는 입증 부담이 행정청장에게 넘어갑니다. Medicare(Title XVIII, §§ 1395 이하)는 자산조사 없는 제도입니다. 65세에 본인 또는 배우자의 약 40 QC로 무보험료 Part A, 보험료를 내는 자발적 Part B, Part C(Medicare Advantage), Part D(처방약, 2003년 법)이며, SSDI 수급자는 수급 24개월 후 자격을 얻습니다. Medicaid(Title XIX, §§ 1396 이하)는 주 계획(§ 1396a)에 따른 연방·주 공동 프로그램입니다. ACA 확장 집단 § 1396a(a)(10)(A)(i)(VIII)은 연방 빈곤선의 138%까지의 성인을 포괄하지만 NFIB v. Sebelius, 567 U.S. 519 (2012) 이후 주의 선택이 되었고, 「1634주」에서는 SSI 수급이 Medicaid로 자동 연결됩니다. 불복은 재심사, ALJ 심리(§ 405(b)), Appeals Council 심사, 최종 결정 후 § 405(g)에 따른 연방 법원 심사의 4단계이며 각 단계 60일 기한과 행정 기록에 대한 substantial evidence 심사가 적용됩니다. 캘리포니아에서 Medicaid는 Medi-Cal(Welf. & Inst. Code §§ 14000 이하)이고 1634주로서 확장을 채택했습니다. 주는 SSI에 SSP 보충을 더해 SSA가 합산 지급하고, CalWORKs(§§ 11200 이하)는 자녀 있는 가정을 위한 카운티 운영 TANF입니다. *개인 학습 노트이며 법률 자문이 아닙니다.*
+
+## Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+**Cốt lõi an sinh xã hội và phúc lợi công: Title II và XVI, điều kiện Medicare, Medicaid và quy định California.** Title II của Đạo luật An sinh Xã hội (42 U.S.C. §§ 401 trở đi) là bảo hiểm đóng góp (OASDI) đạt được qua lao động; Title XVI (§§ 1381 trở đi) là lưới an toàn SSI có xét điều kiện kinh tế. Tư cách được bảo hiểm đo bằng quarters of coverage (QC): năm 2025, mỗi $1,810 thu nhập được 1 QC, tối đa bốn QC mỗi năm. Được bảo hiểm đầy đủ (§ 414(a)) thường cần số QC xấp xỉ số năm từ sau 21 tuổi (hoặc 1951) đến 62 tuổi, khuyết tật hoặc qua đời, tối thiểu 6 và tối đa 40; tư cách bảo hiểm khuyết tật (§ 423(c)(1); 20 C.F.R. § 404.130) thêm điều kiện lao động gần đây — 20 QC trong 40 quý kết thúc khi khuyết tật bắt đầu, có nới lỏng cho lao động trẻ. SSDI và SSI khác nhau: SSDI chi trả theo hồ sơ thu nhập, không xét tài sản; SSI áp giới hạn tài nguyên tính được $2,000 (cá nhân) / $3,000 (vợ chồng), mức liên bang 2025 là $967 / $1,450, cộng phần bổ sung của bang. Định nghĩa khuyết tật theo luật (§ 423(d); § 1382c(a)(3)) đòi hỏi một tổn thương xác định được về y khoa khiến không thể làm substantial gainful activity (SGA năm 2025: $1,620 mỗi tháng; $2,700 với người mù theo luật định) trong ít nhất 12 tháng hoặc dự kiến dẫn đến tử vong. Việc xét duyệt theo đánh giá tuần tự năm bước tại 20 C.F.R. § 404.1520 (quy định song song của SSI: § 416.920): SGA hiện tại; tổn thương nghiêm trọng; đáp ứng hoặc ngang bằng Danh mục Tổn thương (Part 404, Subpart P, App. 1); công việc liên quan trước đây theo năng lực chức năng còn lại (RFC); và công việc khác trong nền kinh tế quốc dân — bước mà gánh nặng chứng minh chuyển sang phía Ủy viên. Medicare (Title XVIII, §§ 1395 trở đi) không xét tài sản: Part A miễn phí bảo hiểm ở tuổi 65 với khoảng 40 QC (của bản thân hoặc vợ/chồng), Part B tự nguyện có phí, Part C (Medicare Advantage) và Part D thuốc kê đơn (đạo luật 2003); người nhận SSDI đủ điều kiện sau 24 tháng hưởng quyền lợi. Medicaid (Title XIX, §§ 1396 trở đi) là chương trình chung liên bang - bang theo kế hoạch bang (§ 1396a): nhóm mở rộng ACA, § 1396a(a)(10)(A)(i)(VIII), bao phủ người trưởng thành tới 138% chuẩn nghèo liên bang nhưng đã thành lựa chọn của bang sau NFIB v. Sebelius, 567 U.S. 519 (2012); tại các “bang 1634”, nhận SSI là tự động có Medicaid. Khiếu nại đi bốn cấp: xét lại (reconsideration), điều trần trước ALJ (§ 405(b)), Hội đồng Phúc thẩm (Appeals Council) và tòa liên bang theo § 405(g) sau quyết định cuối cùng, với hạn 60 ngày mỗi cấp và chuẩn rà soát substantial evidence trên hồ sơ hành chính. Ở California, Medicaid là Medi-Cal (Welf. & Inst. Code §§ 14000 trở đi), thuộc bang 1634 và đã áp dụng mở rộng; bang cộng thêm khoản bổ sung SSP vào SSI trong một khoản chi trả gộp do SSA quản lý; CalWORKs (§§ 11200 trở đi) là chương trình TANF do quận vận hành cho gia đình có trẻ em. *Ghi chú học tập cá nhân, không phải tư vấn pháp lý.*
+
+## हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+**सामाजिक सुरक्षा और लोक कल्याण के मूल बिंदु: Title II बनाम XVI, Medicare व Medicaid पात्रता और California नियम।** Social Security Act का Title II (42 U.S.C. §§ 401 आगे) कार्य से अर्जित अंशदायी बीमा (OASDI) है; Title XVI (§§ 1381 आगे) साधन-परख वाली SSI सुरक्षा-जाल व्यवस्था है। बीमित स्थिति quarters of coverage (QC) से मापी जाती है: 2025 में प्रत्येक $1,810 आय पर 1 QC, प्रति वर्ष अधिकतम चार। पूर्ण बीमित स्थिति (§ 414(a)) के लिए सामान्यतः 21 वर्ष की आयु (या 1951) के बाद से 62 वर्ष, दिव्यांगता या मृत्यु तक के वर्षों के बराबर QC चाहिए, न्यूनतम 6 और अधिकतम 40; दिव्यांगता-बीमित स्थिति (§ 423(c)(1); 20 C.F.R. § 404.130) में हालिया कार्य की शर्त जुड़ती है — दिव्यांगता शुरू होने पर समाप्त होने वाले 40 तिमाहियों में 20 QC, युवा श्रमिकों के लिए छूट सहित। SSDI और SSI अलग हैं: SSDI बिना साधन-परख के आय-अभिलेख पर भुगतान करता है; SSI में countable resources की सीमा $2,000 (व्यक्ति) / $3,000 (दंपति), 2025 संघीय दर $967 / $1,450 और राज्य पूरक लागू होते हैं। वैधानिक दिव्यांगता परिभाषा (§ 423(d); § 1382c(a)(3)) चिकित्सकीय रूप से निर्धारित क्षति से substantial gainful activity (2025 SGA: $1,620 प्रति माह; वैधानिक अंधों के लिए $2,700) में असमर्थता माँगती है, जो कम से कम 12 माह चले या मृत्यु में परिणत होने की संभावना हो। निर्णय 20 C.F.R. § 404.1520 के पाँच-चरणीय क्रमिक मूल्यांकन (SSI समानांतर: § 416.920) से होता है: वर्तमान SGA; गंभीर क्षति; Impairments की सूची (Part 404, Subpart P, App. 1) को पूरा या उसके समतुल्य होना; अवशिष्ट कार्यक्षमता (RFC) के आधार पर पूर्व संबंधित कार्य; और राष्ट्रीय अर्थव्यवस्था में अन्य कार्य — जहाँ प्रमाण-भार Commissioner पर चला जाता है। Medicare (Title XVIII, §§ 1395 आगे) साधन-परख रहित है: 65 वर्ष पर स्वयं या जीवनसाथी के लगभग 40 QC से प्रीमियम-मुक्त Part A, प्रीमियम-आधारित स्वैच्छिक Part B, Part C (Medicare Advantage) और Part D दवा कवरेज (2003 का कानून); SSDI लाभार्थी 24 माह की पात्रता के बाद योग्य होते हैं। Medicaid (Title XIX, §§ 1396 आगे) राज्य योजनाओं (§ 1396a) के तहत संघ-राज्य संयुक्त कार्यक्रम है: ACA विस्तार समूह, § 1396a(a)(10)(A)(i)(VIII), संघीय गरीबी रेखा के 138% तक के वयस्कों को कवर करता है, किंतु NFIB v. Sebelius, 567 U.S. 519 (2012) के बाद यह राज्यों का विकल्प बन गया; “1634 राज्यों” में SSI पाते ही Medicaid स्वतः मिलता है। अपील चार चरणों में चलती है: reconsideration, ALJ सुनवाई (§ 405(b)), Appeals Council समीक्षा और अंतिम निर्णय के बाद § 405(g) के तहत संघीय न्यायालय की समीक्षा, प्रत्येक चरण में 60 दिन की सीमा और प्रशासनिक अभिलेख पर substantial evidence मानक। California में Medicaid Medi-Cal है (Welf. & Inst. Code §§ 14000 आगे), यह 1634 राज्य है और विस्तार अपना चुका है; राज्य SSI पर SSP पूरक जोड़ता है जो SSA द्वारा एक संयुक्त भुगतान में मिलता है; CalWORKs (§§ 11200 आगे) बच्चों वाले परिवारों के लिए काउंटी-संचालित TANF है। *व्यक्तिगत अध्ययन नोट; कानूनी सलाह नहीं।*
