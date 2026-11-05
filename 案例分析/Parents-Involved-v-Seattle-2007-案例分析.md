@@ -35,3 +35,32 @@ Parents Involved, 551 U.S. 701 (2007), bác bỏ hai kế hoạch hội nhập t
 
 ## हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
 Parents Involved, 551 U.S. 701 (2007) ने K-12 के दो स्वैच्छिक एकीकरण कार्यक्रमों को असंवैधानिक ठहराया — सिएटल का नस्लीय टाईब्रेकर और जेफ़रसन काउंटी (लुइसविले) की 15–50% नामांकन सीमा। मुख्य न्यायाधीश Roberts के सापेक्ष बहुमत ने कठोर समीक्षा लगाई: उपचारात्मक हित मौजूद नहीं था (लुइसविले का आदेश 2000 में unitary status के बाद समाप्त हो चुका था), «नस्लीय संतुलन» स्वयं बाध्यकारी हित नहीं है, और Grutter, 539 U.S. 306 (2003) का विविधता-तर्क यांत्रिक K-12 आवंटन पर लागू नहीं होता। Kennedy की सहमति नियंत्रक मानी जाती है: विविधता और नस्लीय अलगाव से बचाव बाध्यकारी हित हो सकते हैं, और व्यक्ति-वर्गीकरण रहित साधन (विद्यालय-स्थल, क्षेत्र, लक्षित प्रचार) स्वीकार्य हैं, पर किसी छात्र को उसकी नस्ल से आवंटित करना नहीं। Breyer ने Brown, 347 U.S. 483 (1954) के आधार पर असहमति दी। कैलिफ़ोर्निया में Proposition 209 और कठोर है।
+
+
+---
+
+## 补译增量（2026-11-04 本轮）
+
+### 한국어 (초역, 원어민 감수 대기)
+
+보충 세부 1 — 협소한 맞춤(narrow tailoring)이 실패한 구체적 이유: 두 계획 모두 인종을 사실상 결정적이거나 할당량에 가까운 요소로 작동시켰고, 거주지·소득·추첨 가중 같은 비인종적 대안을 충분히 검토하지 않았다. 엄격심사는 목적의 긴절함만으로 통과되지 않으며, 덜 침해적인 수단을 진지하게 살폈는지가 별도의 문턱이라는 점이 본문의 논증 순서이다.
+
+보충 세부 2 — 반대의견의 두 목소리: Breyer의 반대의견은 거의 80쪽에 달하며 Brown, 347 U.S. 483 (1954)의 약속과 지방의 민주적 결정을 앞세워 자발적 통합계획에 심사상 여지를 달라고 요구했다. Stevens는 별도 반대의견에서 다수가 Brown의 유산을 다시 썼다고 비판했다. 상대다수의견의 결론만 외우면 이 사건이 왜 지금도 논쟁의 중심인지 놓치게 된다.
+
+보충 세부 3 — 캘리포니아에서의 분석 순서와 2023년 이후의 자리: 캘리포니아에서는 주헌법 제I조 § 31(1996년 Prop 209)이 연방 수정헌법 제14조보다 엄격하므로, 먼저 § 31로 보고 그다음에 Parents Involved를 본다. 샌프란시스코식 추첨에 사회경제적 가중을 얹는 방식이 이 순서에서 살아남는 설계이다. 또 Students for Fair Admissions v. Harvard, 600 U.S. 181 (2023)은 대학 입시의 인종 우대를 다룬 사건으로, Kennedy 동의의견이 남긴 「개인 분류 없는 수단」의 공간에는 손대지 않았다. 두 사건의 관할 구역을 섞지 않는 것이 본문이 강조하는 독법이다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+Chi tiết bổ sung 1 — vì sao yêu cầu “may đo hẹp” (narrow tailoring) không qua được: cả hai kế hoạch đều để chủng tộc vận hành như yếu tố gần như quyết định hoặc mang tính hạn ngạch, trong khi chưa cân nhắc nghiêm túc các phương án không dựa vào chủng tộc như nơi cư trú, thu nhập hay trọng số xổ số. Xét xử nghiêm ngặt không chỉ hỏi mục đích có cấp thiết không, mà còn hỏi riêng một cửa nữa: học khu đã thật sự xem xét các phương tiện ít xâm phạm hơn chưa.
+
+Chi tiết bổ sung 2 — hai giọng trong phe phản đối: ý kiến của Thẩm phán Breyer dài gần 80 trang, dựa vào cam kết của Brown, 347 U.S. 483 (1954), và quyết định dân chủ ở địa phương để xin khoảng dung sai cho các kế hoạch hội nhập tự nguyện; Thẩm phán Stevens viết phản đối riêng, cáo buộc đa số đã viết lại di sản của Brown. Chỉ thuộc kết luận của phe đa số tương đối thì sẽ bỏ mất lý do vụ án này đến nay vẫn là tâm điểm tranh luận.
+
+Chi tiết bổ sung 3 — thứ tự phân tích ở California và vị trí sau năm 2023: tại California, Hiến pháp bang, Điều I, mục 31 (Proposition 209 năm 1996) nghiêm hơn Tu chính án thứ Mười bốn, nên phải xét mục 31 trước rồi mới tới Parents Involved; kiểu xổ số kèm trọng số kinh tế - xã hội như ở San Francisco là thiết kế sống được trong thứ tự đó. Ngoài ra, Students for Fair Admissions v. Harvard, 600 U.S. 181 (2023), xử lý ưu tiên chủng tộc trong tuyển sinh đại học và không hề chạm tới khoảng không gian “phương tiện không phân loại cá nhân” mà ý kiến đồng tình của Kennedy để lại — không được trộn hai khu vực phán quyết này với nhau.
+
+### हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+पूरक विवरण 1 — narrow tailoring (संकीर्ण अनुरूपता) क्यों विफल हुई, इसका ठोस कारण: दोनों योजनाओं में नस्ल वस्तुतः निर्णायक या कोटा-जैसा कारक बन गई थी, और ज़िलों ने निवास, आय या लॉटरी-भार जैसे गैर-नस्लीय विकल्पों पर पर्याप्त विचार नहीं किया था। कठोर समीक्षा केवल उद्देश्य की बाध्यकारिता से पास नहीं होती; कम हस्तक्षेप वाले साधनों को गंभीरता से परखा गया या नहीं, यह अलग द्वार है।
+
+पूरक विवरण 2 — असहमति की दो आवाज़ें: न्यायमूर्ति Breyer की असहमति लगभग 80 पृष्ठ लंबी थी और Brown, 347 U.S. 483 (1954) के वादे तथा स्थानीय लोकतांत्रिक निर्णय के आधार पर स्वैच्छिक एकीकरण योजनाओं के लिए समीक्षा में गुंजाइश माँगती थी; न्यायमूर्ति Stevens ने अलग असहमति में आरोप लगाया कि बहुमत ने Brown की विरासत को फिर से लिख दिया। केवल सापेक्ष बहुमत का निष्कर्ष रटने से यह समझ नहीं आएगा कि यह मामला आज भी विवाद के केंद्र में क्यों है।
+
+पूरक विवरण 3 — California में विश्लेषण का क्रम और 2023 के बाद की स्थिति: California में राज्य संविधान अनुच्छेद I, धारा 31 (1996 का Proposition 209) चौदहवें संशोधन से अधिक कठोर है, इसलिए पहले धारा 31 देखी जाती है, फिर Parents Involved; San Francisco जैसी लॉटरी में सामाजिक-आर्थिक भार जोड़ने वाली व्यवस्था इसी क्रम में टिकती है। साथ ही Students for Fair Admissions v. Harvard, 600 U.S. 181 (2023) विश्वविद्यालय प्रवेश में नस्लीय वरीयता का मामला था और उसने Kennedy की सहमति द्वारा छोड़े गए "व्यक्ति-वर्गीकरण रहित साधनों" के क्षेत्र को छुआ ही नहीं — दोनों मामलों के क्षेत्र मिलाना नहीं चाहिए।
