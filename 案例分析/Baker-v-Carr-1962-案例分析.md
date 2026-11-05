@@ -68,3 +68,19 @@ Baker v. Carr, 369 U.S. 186 (1962)। Tennessee के संविधान म
 पूरक 2: Colegrove से भेद भी परीक्षा बिंदु है। Colegrove संघीय प्रतिनिधि सभा की सीटों के बँटवारे का विवाद था, जबकि यह मामला यह दावा था कि राज्य विधानमंडल के जिले समान संरक्षण खंड का उल्लंघन करते हैं — दोनों की प्रकृति भिन्न है। और नस्ल के आधार पर की गई gerrymandering से संबंधित Gomillion v. Lightfoot, 364 U.S. 339 (1960) पहले ही दिखा चुका था कि जिला-संबंधी मामले न्यायोचित हो सकते हैं, इसलिए यह प्रतिपादन कि 'हर जिला-प्रश्न राजनीतिक प्रश्न है' टिकता नहीं।
 
 पूरक 3: न्यायमूर्ति Frankfurter की असहमति में न्यायमूर्ति Harlan भी शामिल हुए; उसका सार था कि ऐसी समस्याएँ न्यायालय के बजाय मतदाताओं और राजनीतिक प्रक्रिया द्वारा सुधारी जानी चाहिए ('राजनीतिक झाड़ी' पद स्वयं Colegrove में Frankfurter के मत से आया है)। मामले को वापस भेजे जाने के बाद Tennessee ने वास्तव में अपने जिले पुनः बनाए और मामला राज्य के समायोजन से समाप्त हुआ। अंत में सीमा स्पष्ट रखें: इस निर्णय ने केवल इतना तय किया कि सुनवाई 'संभव' है; Tennessee के मानचित्र को असंवैधानिक घोषित नहीं किया, न ही 'एक व्यक्ति, एक वोट' का सूत्र दिया।
+
+---
+
+## 补译增量（2026-11-04 本轮）
+
+### 한국어 (초역, 원어민 감수 대기)
+
+보충 세부: 이 판결은 1962년 3월 26일 6대 2로 선고됐고 Brennan 대법관이 다수 의견을 썼습니다. 테네시주는 주 헌법이 10년마다 인구에 따라 선거구를 다시 그리라고 했는데도 1901년 이후 60년간 손대지 않아, 도시 유권자 한 표의 무게가 농촌 유권자보다 훨씬 가벼워졌습니다. 다수 의견이 본안 판단보다 먼저 확정한 것은 심리 가능성(justiciability)뿐입니다. 테네시의 구획이 실제로 위헌이라고 선언하지 않았고, «한 사람 한 표» 공식도 내놓지 않았습니다. 그 실체 기준은 2년 뒤 Reynolds v. Sims, 377 U.S. 533 (1964)에서 나왔습니다. Frankfurter 대법관의 반대 의견(Harlan 합류)은 법원이 «정치의 수렁(political thicket)»에 발을 들이는 셈이라고 경고한 사법 자제론의 고전으로 읽힙니다. 파기환송 뒤 테네시주는 선거구를 다시 그렸고 사건은 주 측 조정으로 마무리됐습니다. 시험 대비로는 Colegrove(불개입), Baker(심리 가능성), Reynolds(실체 기준) 세 사건을 한 묶음으로 외우는 것이 핵심입니다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+Chi tiết bổ sung: phán quyết được tuyên ngày 26 tháng 3 năm 1962 với tỷ lệ 6–2, do Thẩm phán Brennan viết ý kiến đa số. Hiến pháp bang Tennessee yêu cầu vẽ lại khu vực bầu cử cơ quan lập pháp bang mười năm một lần theo dân số, nhưng từ năm 1901 bang đã không vẽ lại trong suốt sáu mươi năm, khiến lá phiếu của cử tri thành thị nhẹ hơn nhiều so với cử tri nông thôn. Ý kiến đa số chỉ quyết định tính có thể xét xử (justiciability) trước, chứ chưa hề tuyên bố bản đồ của Tennessee vi hiến và cũng chưa đưa ra công thức “một người, một phiếu” — tiêu chuẩn thực chất đó đến hai năm sau mới xuất hiện trong Reynolds v. Sims, 377 U.S. 533 (1964). Ý kiến phản đối của Thẩm phán Frankfurter (Thẩm phán Harlan tham gia) cảnh báo tòa án đang bước vào “bụi rậm chính trị” (political thicket) và trở thành văn bản kinh điển của trường phái tự hạn chế tư pháp. Sau khi vụ án bị gửi trả, Tennessee đã vẽ lại khu vực bầu cử và vụ việc kết thúc bằng điều chỉnh từ phía bang. Khi ôn thi, hãy nhớ bộ ba Colegrove (không can thiệp), Baker (có thể xét xử), Reynolds (tiêu chuẩn thực chất) như một nhóm.
+
+### हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+पूरक विवरण: यह निर्णय 26 मार्च 1962 को 6–2 से आया और बहुमत राय न्यायमूर्ति Brennan ने लिखी। Tennessee के संविधान में हर दस वर्ष जनसंख्या के अनुसार राज्य विधानमंडल के ज़िले फिर से बनाने का नियम था, फिर भी 1901 के बाद साठ वर्षों तक कोई पुनःसीमांकन नहीं हुआ, जिससे शहरी मतदाता का वोट ग्रामीण मतदाता के वोट से कहीं हल्का हो गया। बहुमत ने पहले केवल न्याययोग्यता (justiciability) तय की — Tennessee के नक्शे को असंवैधानिक घोषित नहीं किया और “एक व्यक्ति, एक वोट” का सूत्र भी नहीं दिया; वह वास्तविक मानक दो वर्ष बाद Reynolds v. Sims, 377 U.S. 533 (1964) में आया। न्यायमूर्ति Frankfurter की असहमति (जिसमें Harlan शामिल हुए) ने चेताया कि न्यायालय “political thicket” में प्रवेश कर रहा है, और यह न्यायिक संयम की क्लासिक अभिव्यक्ति मानी जाती है। मामले के लौटने के बाद Tennessee ने ज़िले फिर से बनाए और मामला राज्य के समायोजन से समाप्त हुआ। परीक्षा के लिए Colegrove (अहस्तक्षेप), Baker (न्याययोग्यता), Reynolds (वास्तविक मानक) — इस त्रिक को एक समूह में याद रखें।
