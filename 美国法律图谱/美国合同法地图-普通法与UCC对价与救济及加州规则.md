@@ -114,6 +114,8 @@
 
 ---
 
+보충 세부: 보통법에서는 승낙이 제안과 거울상(mirror image)이어야 하지만, UCC § 2-207은 양식 전쟁(battle of the forms)에서 다른 추가 조건이 있어도 계약 성립을 인정하는 방향으로 다르게 처리합니다. 대가 요건의 대표적 예외가 약속적 금반언(promissory estoppel)으로, 신뢰 손해 범위에서 약속이 강제될 수 있습니다. 사기방지법상 UCC § 2-201은 500달러 이상 물품 매매에 서면을 요구하고, 캘리포니아는 Cal. Civ. Code § 1624에 자체 서면 요구 목록을 둡니다.
+
 ## Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
 
 **Hai hệ quy tắc.** Hoa Kỳ không có bộ luật hợp đồng liên bang: dịch vụ, bất động sản và lao động theo thông luật của bang (Restatement (Second) of Contracts); mua bán hàng hóa theo Điều 2 của UCC. Hợp đồng hỗn hợp được phân loại bằng phép thử mục đích chủ yếu.
@@ -132,6 +134,8 @@
 
 ---
 
+Chi tiết bổ sung: theo thông luật, chấp nhận phải là hình ảnh gương (mirror image) của đề nghị, nhưng UCC § 2-207 xử lý khác trong «cuộc chiến biểu mẫu» (battle of the forms), vẫn công nhận hợp đồng dù có điều khoản thêm khác biệt. Ngoại lệ tiêu biểu về đối giá (consideration) là promissory estoppel, theo đó lời hứa có thể bị cưỡng chế trong phạm vi thiệt hại do tin cậy. Về hình thức, UCC § 2-201 đòi hỏi văn bản cho mua bán hàng hóa từ 500 đô la trở lên, và California có danh sách yêu cầu văn bản riêng tại Cal. Civ. Code § 1624.
+
 ## हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
 
 **दो पटरियाँ।** अमेरिका में कोई संघीय अनुबंध संहिता नहीं है: सेवाएँ, अचल संपत्ति और रोज़गार राज्य सामान्य विधि (Restatement (Second) of Contracts) से, और माल की बिक्री UCC अनुच्छेद 2 से चलती है। मिश्रित अनुबंधों पर प्रमुख-उद्देश्य परीक्षण लागू होता है।
@@ -147,3 +151,5 @@
 **उपाय।** मूल नियम अपेक्षा-क्षतिपूर्ति है (*Hawkins v. McGee*, 84 N.H. 114 (1929)), जो अनुबंध के समय पूर्वानुमेय हानि तक सीमित है (*Hadley v. Baxendale* (1854))। हानि घटाने का कर्तव्य, UCC § 2-712 के तहत प्रतिस्थापन खरीद, युक्तिसंगत अनुमान होने पर ही वैध निर्धारित क्षतिपूर्ति (दंडात्मक अमान्य; Cal. Civ. Code § 1671), और धन अपर्याप्त होने पर ही विशिष्ट पालन। कैलिफ़ोर्निया में परिसीमा: लिखित अनुबंध 4 वर्ष (CCP § 337), मौखिक 2 वर्ष (§ 339)। प्रतिस्पर्धा-निषेध शर्तें Bus. & Prof. Code § 16600 के तहत सिद्धांततः अमान्य हैं।
 
 *केवल अध्ययन नोट; कानूनी सलाह नहीं। (प्रारंभिक अनुवाद, समीक्षा लंबित)*
+पूरक विवरण: सामान्य विधि में स्वीकृति प्रस्ताव की दर्पण छवि (mirror image) होनी चाहिए, किंतु UCC § 2-207 प्रपत्रों के युद्ध (battle of the forms) में भिन्न अतिरिक्त शर्तों के बावजूद अनुबंध मान्य करता है। प्रतिफल अपेक्षा का प्रमुख अपवाद promissory estoppel है, जिसमें भरोसे से हुई हानि की सीमा तक वादा लागू हो सकता है। रूप अपेक्षा में UCC § 2-201 के अनुसार 500 डॉलर या अधिक के माल विक्रय के लिए लिखित आवश्यक है, और कैलिफ़ोर्निया की अपनी सूची Cal. Civ. Code § 1624 में है।
+

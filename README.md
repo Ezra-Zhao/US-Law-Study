@@ -349,6 +349,10 @@
 - 2026-11-04 补译（晚间轮续）：[知识产权备考核心：专利、商标、著作权与商业秘密](法律备考/知识产权备考核心-专利商标著作权与商业秘密.md) 韩／越／印三语各补细节增量至与中文主文对齐（外观设计专利授权起 15 年、Sleekcraft 八因素、显著性光谱与三年不使用推定放弃、第 106 条权利束与第 501 条接触加实质相似、第 302(c) 条 95／120 年、第 411／412 条登记效果、加州不采不可避免披露），diff 纯增量原段未删。
 - 2026-11-04 补译（本轮）：[Tinker v. Des Moines, 393 U.S. 503 (1969) 案例分析](案例分析/Tinker-v-Des-Moines-1969-案例分析.md) 与 [Cohen v. California, 403 U.S. 15 (1971) 案例分析](案例分析/Cohen-v-California-1971-案例分析.md) 两篇韩／越／印三语各补细节增量至与中文主文对齐（Tinker 篇补 7 比 2 与 Fortas 执笔、13／15／16 岁三名学生与 1965-12-16 日期、地区法院驳回与第八巡回均分维持、undifferentiated fear 不足与 materially disrupt／invasion 双支、Burnside 与 Blackwell 对照对、Black 与 Harlan 两异议、Fraser／Hazelwood／Morse／Mahanoy 后续四边界与加州 Educ. Code §§ 48907／48950；Cohen 篇补 403 U.S. 15 的 5 比 4 与 Harlan 执笔、1968-04-26 事实与 Penal Code § 415 的 30 天刑、加州上诉解释与加州最高法院 4 比 3 拒审、非淫秽非 fighting words（Chaplinsky, 315 U.S. 568）非煽动的逐项排除与 avert their eyes、emotive function 与 one man's vulgarity is another's lyric、Pacifica 的媒介保留、Blackmun 异议与 In re Bushman, 1 Cal.3d 767 的回送退路、Brandenburg 考场四步），增量经 OVH 抽审 PASS 无事实硬伤，diff 纯增量原段未删。
 
+- [在美国申请公共福利被拒或被终止怎么办：公平听证、申诉期限与加州规则](常用法律常识/公共福利被拒或终止怎么办-公平听证申诉期限与加州规则.md) —— SNAP 走 7 C.F.R. § 273.15、Medicaid 走 42 C.F.R. §§ 431.220 起、SSI 走 SSA 复议与 ALJ；核心是 aid pending appeal（生效前提听证保原待遇）；加州 CDSS 州听证处与 Cal. Welf. & Inst. Code § 10950 起。（六语对照）
+- [美国收养与儿童福利法地图：州收养、ICPC、ASFA 与加州规则](美国法律图谱/美国收养与儿童福利法地图-州收养ICPC与ASFA及加州规则.md) —— 收养是州法、四条通道（亲属继亲／寄养转收养／独立／国际）；联邦接口为 ICPC 跨州批准（加州 Fam. Code §§ 7900 起）与 ASFA 的 15/22 个月时钟（42 U.S.C. § 675(5)(E)）及海牙公约与 42 U.S.C. §§ 14901 起；加州 §§ 8500 起与 §§ 9000 起。（六语对照）
+- 2026-11-05 补译：[美国非营利与慈善组织法地图](美国法律图谱/美国非营利与慈善组织法地图-联邦免税州募捐监管与加州规则.md) 与 [美国合同法地图](美国法律图谱/美国合同法地图-普通法与UCC对价与救济及加州规则.md) 两篇韩／越／印三语各补细节增量至与中文主文对齐（非营利篇补 1023-EZ、三年不报自动撤销、990-T 的 1,000 美元门槛、加州 RRF-1 与 FTB 分开办；合同篇补镜像规则与 UCC § 2-207 格式之争、promissory estoppel、§ 2-201 的 500 美元与加州 Civ. Code § 1624），增量经 OVH 抽审无事实指控，diff 纯增量原段未删。
+
 ## 关于西语版
 
 西班牙语版本为学习译稿（study translation），由作者为语言学习目的译出，待母语校对（pending native review）。法律术语的准确表述请以英文原版和官方文本为准。

@@ -1,0 +1,33 @@
+# 美国收养与儿童福利法地图：州收养、ICPC、ASFA 与加州规则
+
+## 中文主文
+
+先钉格局：美国没有联邦统一收养法。收养是州法事项，谁能收养、同意如何取得、收养何时终局，都由各州家庭法或遗嘱认证法规定；联邦只在三个接口介入——跨州安置、寄养儿童的时限与资金、以及跨国收养的条约合规。这张地图按「四条收养通道＋两条联邦接口＋加州加层」读。
+
+四条通道：一、亲属与继亲收养（stepparent/relative adoption），程序最简，多数州免家庭调查或简化调查；二、经机构的寄养转收养（foster-to-adopt），儿童先在寄养体系内、父母权利终止（TPR）后转收养；三、独立收养（independent adoption），不经机构、由律师撮合，州法对生母费用支付限制最严的一条；四、国际收养，美国是 1993 年《海牙跨国收养公约》缔约国，联邦层面由国务院主管、收养服务机构须经认证，并适用《跨国收养法》（Intercountry Adoption Act of 2000, 42 U.S.C. §§ 14901 起）。
+
+第一条联邦接口是 ICPC（Interstate Compact on the Placement of Children）：儿童跨州安置——寄养、待收养安置都算——须经送出州与接收州双方紧凑型行政官批准后才能移动，加州文本在 Cal. Fam. Code §§ 7900 起。私自跨州接孩子是新手最常见的硬伤。第二条接口是 ASFA（Adoption and Safe Families Act of 1997, Pub. L. 105-89）：给寄养设时钟——儿童在最近 22 个月中有 15 个月在寄养中的，州原则上须启动终止父母权利程序（42 U.S.C. § 675(5)(E)），并配套收养补贴与 Title IV-E 资金。同意与撤销是州法核心：生父母同意的生效与撤销窗口各州差异极大，有的州同意后不可撤销、有的给数天反悔期；成年被收养人寻根与出生证明开放程度也按州分三档。
+
+加州加层：收养规定在 Cal. Fam. Code §§ 8500 起（机构与独立收养）与 §§ 9000 起（继亲收养）；独立收养须经县社会服务或 CDSS 调查，生母合理费用须经法院审查；收养终局后可申请新出生证明，原证明封存。寄养与收养补贴走 Adoption Assistance Program（AAP），与联邦 Title IV-E 衔接。
+
+声明：本文为个人学习笔记，不构成法律建议。
+
+## English
+
+There is no single federal adoption code in the United States: adoption is state law, and federal law intervenes at only three interfaces — interstate placement, foster-care timelines and funding, and treaty compliance for intercountry cases. The four channels are relative and stepparent adoption, foster-to-adopt after termination of parental rights, independent adoption arranged through attorneys, and intercountry adoption under the 1993 Hague Convention and the Intercountry Adoption Act of 2000 (42 U.S.C. §§ 14901 et seq.). The Interstate Compact on the Placement of Children (ICPC) requires approval from both the sending and receiving states before a child is moved across state lines; California's text is at Cal. Fam. Code §§ 7900 et seq. The Adoption and Safe Families Act of 1997 sets the foster-care clock: when a child has been in care for 15 of the most recent 22 months, the state must generally move to terminate parental rights (42 U.S.C. § 675(5)(E)). Consent and revocation windows, and access to original birth certificates, vary widely by state. California adoption law sits in Cal. Fam. Code §§ 8500 et seq. and §§ 9000 et seq., with adoption assistance linked to federal Title IV-E. Personal study notes only; not legal advice.
+
+## Español
+
+En Estados Unidos no existe un código federal único de adopción: la adopción es materia estatal y la ley federal solo interviene en tres interfaces — el traslado interestatal, los plazos y el financiamiento del cuidado temporal, y el cumplimiento del tratado en casos internacionales. Los cuatro canales son la adopción por parientes y padrastros, la conversión de acogida en adopción tras la terminación de la patria potestad, la adopción independiente gestionada por abogados, y la adopción internacional bajo el Convenio de La Haya de 1993 y la Intercountry Adoption Act de 2000 (42 U.S.C. §§ 14901 y ss.). El Pacto Interestatal sobre Colocación de Menores (ICPC) exige aprobación del estado que envía y del que recibe antes de trasladar al menor; el texto californiano está en Cal. Fam. Code §§ 7900 y ss. La Adoption and Safe Families Act de 1997 fija el reloj de la acogida: si el menor ha estado 15 de los últimos 22 meses en acogida, el estado por lo general debe iniciar la terminación de la patria potestad (42 U.S.C. § 675(5)(E)). El consentimiento, su revocación y el acceso al acta de nacimiento original varían mucho por estado. En California rigen Cal. Fam. Code §§ 8500 y ss. y §§ 9000 y ss. Notas personales de estudio; no es asesoría legal.
+
+## 한국어（初译待校）
+
+미국에는 연방 단일 입양법이 없습니다. 입양은 주법 사항이고, 연방은 주 간 배치, 위탁 보호 기간과 자금, 국제입양 조약 준수라는 세 접점에서만 개입합니다. 네 경로는 친족·계부모 입양, 친권 종료 후 위탁에서 입양으로의 전환, 변호사를 통한 독립 입양, 그리고 1993년 헤이그 협약과 2000년 국제입양법(42 U.S.C. §§ 14901 이하)에 따른 국제입양입니다. 아동 배치 주간 협약(ICPC)은 아동을 주 경계 너머로 이동하기 전에 송출 주와 접수 주 양쪽의 승인을 요구하며, 캘리포니아 조문은 Cal. Fam. Code §§ 7900 이하입니다. 1997년 입양·안전가족법(ASFA)은 위탁 시계를 정합니다. 최근 22개월 중 15개월을 위탁 보호에 있으면 주는 원칙적으로 친권 종료 절차를 시작해야 합니다(42 U.S.C. § 675(5)(E)). 동의와 철회 기간, 원본 출생증명서 접근은 주마다 크게 다릅니다. 캘리포니아 입양법은 Cal. Fam. Code §§ 8500 이하와 §§ 9000 이하에 있습니다. 개인 학습 노트이며 법률 자문이 아닙니다.
+
+## Tiếng Việt（初译待校）
+
+Hoa Kỳ không có một bộ luật nhận con nuôi liên bang thống nhất: nhận con nuôi thuộc luật tiểu bang, và luật liên bang chỉ can thiệp ở ba điểm nối — đưa trẻ qua ranh giới tiểu bang, thời hạn và kinh phí của hệ thống nuôi dưỡng tạm, và tuân thủ điều ước trong nhận con nuôi quốc tế. Bốn kênh là nhận con nuôi bởi họ hàng và cha/mẹ kế, chuyển từ nuôi dưỡng tạm sang nhận con nuôi sau khi chấm dứt quyền làm cha mẹ, nhận con nuôi độc lập qua luật sư, và nhận con nuôi quốc tế theo Công ước La Hay 1993 cùng Đạo luật Nhận con nuôi Quốc tế 2000 (42 U.S.C. §§ 14901 trở đi). Hiệp ước Liên tiểu bang về Bố trí Trẻ em (ICPC) đòi hỏi cả bang gửi và bang nhận phê duyệt trước khi di chuyển trẻ; văn bản California tại Cal. Fam. Code §§ 7900 trở đi. Đạo luật ASFA 1997 đặt đồng hồ cho nuôi dưỡng tạm: trẻ ở trong hệ thống 15 trên 22 tháng gần nhất thì bang thường phải khởi động thủ tục chấm dứt quyền làm cha mẹ (42 U.S.C. § 675(5)(E)). Thời hạn đồng ý và rút lại, cùng quyền tiếp cận giấy khai sinh gốc, khác nhau lớn theo bang. Luật California nằm ở Cal. Fam. Code §§ 8500 trở đi và §§ 9000 trở đi. Ghi chú học tập cá nhân, không phải tư vấn pháp lý.
+
+## हिन्दी（初译待校）
+
+संयुक्त राज्य में कोई एकल संघीय दत्तक ग्रहण संहिता नहीं है: दत्तक ग्रहण राज्य विधि का विषय है, और संघीय विधि केवल तीन बिंदुओं पर हस्तक्षेप करता है — अंतर-राज्यीय स्थापना, पालन-पोषण देखभाल की समय-सीमा व वित्त, और अंतरराष्ट्रीय मामलों में संधि अनुपालन। चार मार्ग हैं: रिश्तेदार व सौतेले माता-पिता द्वारा दत्तक ग्रहण, माता-पिता अधिकार समाप्ति के बाद पालन-पोषण से दत्तक ग्रहण में परिवर्तन, वकीलों के माध्यम से स्वतंत्र दत्तक ग्रहण, और 1993 हेग अभिसमय तथा Intercountry Adoption Act 2000 (42 U.S.C. §§ 14901 आदि) के तहत अंतरराष्ट्रीय दत्तक ग्रहण। बच्चों की स्थापना पर अंतर-राज्यीय संधि (ICPC) के अनुसार बच्चे को राज्य सीमा पार ले जाने से पहले भेजने वाले और प्राप्त करने वाले दोनों राज्यों की स्वीकृति आवश्यक है; कैलिफ़ोर्निया पाठ Cal. Fam. Code §§ 7900 आदि में है। ASFA 1997 पालन-पोषण घड़ी तय करता है: यदि बच्चा पिछले 22 महीनों में से 15 महीने देखभाल में रहा हो तो राज्य को सामान्यतः माता-पिता अधिकार समाप्ति की कार्यवाही शुरू करनी होती है (42 U.S.C. § 675(5)(E))। सहमति व उसकी वापसी की अवधि और मूल जन्म प्रमाणपत्र तक पहुँच राज्यों में बहुत भिन्न है। कैलिफ़ोर्निया विधि Cal. Fam. Code §§ 8500 आदि व §§ 9000 आदि में है। यह व्यक्तिगत अध्ययन नोट है, विधिक सलाह नहीं।
