@@ -1,0 +1,81 @@
+# Strickland v. Washington, 466 U.S. 668 (1984) 案例分析：律师要「有效」，门槛在哪里
+
+> 本篇是 Gideon v. Wainwright (1963) 的下篇：Gideon 解决「有没有律师」，Strickland 解决「律师烂到什么程度才翻案」。个人学习笔记，不构成法律建议。
+
+## 中文主文
+
+### 一、案件事实：认了三条人命之后，争的是量刑
+
+1976 年 9 月，David Washington 在佛罗里达州十天之内接连作案，其中包括三起残忍的刺杀谋杀，还有折磨、绑架、重伤与未遂谋杀。同伙被捕后他投案自首，并主动供述了其中一起。州方以绑架与谋杀起诉，法院给他指派了一位经验丰富的刑事律师。
+
+审前阶段有三件事都是他违背律师建议做的：他又供认了另外两起谋杀；放弃陪审团审判；对包括三项死刑谋杀在内的全部指控认罪。认罪答辩中他对法官说，自己虽有一串盗窃，但没有重大前科，作案时因养不起家而承受极大压力，并表示愿意承担责任——审判法官回应说，他很尊重愿意站出来认责的人。
+
+量刑听证的准备是本案的争点所在。律师和他谈过背景，电话联系过他的妻子与母亲，但没有找品格证人，没有申请精神鉴定（谈话中看不出精神问题），也没有申请量刑前报告——因为报告会写进他的犯罪记录，正好拆掉「没有重大前科」这个说法。律师的打法是押注认罪答辩里的那套说辞：悔罪、认责、无重大前科、极端情绪压力，既避免州方交叉盘问他，也避免州方拿出自己的精神鉴定。审判法官最终就三起谋杀逐项认定多项加重情节、没有（或只有一项分量很轻的）减轻情节，三项谋杀全部判死刑。佛州最高法院维持（Washington v. State, 362 So.2d 658 (Fla. 1978)）。
+
+此后他两线申诉都败了：州法院的附随后救济被驳回，联邦地区法院的人身保护令申请经证据听证后也被驳回——地区法院认为律师在调查减刑证据上确有判断错误，但对刑罚没有造成损害。联邦第十一巡回上诉法院全体法官审理后推翻了这一结论，提出第六修正案要求「结合全部情况的合理有效协助」，并给出审查律师调查义务与损害的标准后发回重审（693 F.2d 1243）。州方上诉，最高法院受理。
+
+### 二、争点
+
+第六修正案的律师帮助权，是否包含「有效」协助的要求；若包含，用什么标准判断律师无效到足以撤销定罪或死刑判决。
+
+### 三、判决：两要件，缺一不可（O'Connor 法官执笔）
+
+最高法院推翻第十一巡回的判决，维持驳回救济。理由先立总纲：律师帮助权的基准，是律师的行为是否破坏了对抗制的正常运转、使审判结果不再可信；律师在场旁听不算履行，权利的内容是「有效的」协助。判断无效协助，被告必须同时证明两件事：
+
+- **要件一：表现欠缺 (deficient performance)**。律师的表现低于客观合理性标准，错误严重到不再是第六修正案所说的「律师」。审查时法院必须高度克制事后之明：重构当时的处境、站在律师当时的视角评估，并作一个强推定——律师的行为属于合理专业协助的宽广范围之内。策略选择只要在当时有合理依据，就几乎立于不败之地。
+- **要件二：损害 (prejudice)**。律师的错误严重到剥夺了被告获得公正审判的机会，具体化为一句话：存在合理可能性 (reasonable probability)，若没有律师的非专业错误，程序结果会有所不同；「合理可能性」指足以动摇对结果信心的可能性。评估时要看摆在法官或陪审团面前的全部证据。
+
+操作上还有三点：法院不必按顺序审——若损害明显不足，可以直接以要件二驳回，不必先评律师表现；两要件适用于审判与死刑量刑程序，也适用于联邦附随审查；州法院关于「有效」的结论是法律与事实的混合问题，联邦法院不受其约束性事实认定逻辑的完全捆绑。
+
+就本案事实套用：律师的量刑策略在当时并非不合理（避开量刑前报告与精神鉴定各有明确的战术理由），要件一不成立；退一步说，就算表现有缺，面对压倒性的加重情节，补充品格与精神证据也不存在改变结果的合理可能性，要件二同样不成立。Marshall 法官异议：他坚持死刑在任何情况下都违宪，仅此一点就应撤销刑罚。
+
+### 四、为什么门槛这么高：判决背后的三笔账
+
+- **终局性**：定罪一旦生效，国家与被害人对结果的信赖、重审的成本，都要求翻案理由足够硬。
+- **对抗制的自我定位**：法院审查的是「程序是否还值得信赖」，不是给律师打绩效分；个别错误若没污染结果，救济的就不是宪法问题。
+- **可操作性**：统一的两要件标准取代各巡回法院五花八门的检验（第十一巡回的「合理有效协助」加细则正是被纠正的对象），让下级法院有一把共同的尺。
+
+代价同样写在纸面上：Strickland 之后，无效协助成了刑事上诉里提得最多、赢得最少的诉由之一——大多数申诉死在要件二，死刑案里尤其明显。
+
+### 五、后续发展：标准没动，边界一直在修
+
+- **同日搭档**：United States v. Cronic, 466 U.S. 648 (1984) 与本案同日宣判，划出免证损害的窄例外——律师在关键阶段整体缺位或完全未做对抗检验时，推定存在损害。
+- **认罪协商适用**：Hill v. Lockhart, 474 U.S. 52 (1985) 把两要件搬进认罪场景，损害具体化为「有合理可能性被告就不会认罪、会坚持审判」；Padilla v. Kentucky, 559 U.S. 356 (2010) 确认律师对认罪的递解后果负有告知义务；Missouri v. Frye, 566 U.S. 134 (2012) 与 Lafler v. Cooper, 566 U.S. 156 (2012) 把有效协助延伸到辩诉交易的全过程（错过有利要约、因错误建议拒约后被判更重，都可能构成无效协助）。
+- **死刑减刑调查的牙齿**：Wiggins v. Smith, 539 U.S. 510 (2003) 与 Rompilla v. Beard, 545 U.S. 374 (2005) 认定，律师对减刑证据的调查半途而废可以同时满足两要件——与本案事实对照看，差别在被放弃的调查是否真能挖出有分量的材料。
+- **人身保护令的双重尊重**：1996 年 AEDPA 之后，联邦法院审查州法院已裁决的 Strickland 申诉时，要同时给州法院判断与 Strickland 本身的宽泛标准两层尊重，Harrington v. Richter, 562 U.S. 86 (2011) 把这道门槛说得很直白：公平心智的法官们可能意见不一的，就不算「不合理地适用」联邦法。
+
+### 六、与 Gideon 的承接关系
+
+把三步连起来读：Powell v. Alabama, 287 U.S. 45 (1932) 先在州死刑案里认出指派律师的正当程序根基；Gideon v. Wainwright, 372 U.S. 335 (1963) 把第六修正案律师权经第十四修正案压到各州重罪案件，后经 Argersinger v. Hamlin, 407 U.S. 25 (1972) 扩到可实际判处监禁的轻罪；Strickland 再回答「指派或聘请来的律师要达到什么水准」。顺序不能反：先有「有没有」，再谈「好不好」；而「好不好」的尺，刻意定得离「最优」很远、离「失灵」很近。
+
+### 七、答题收束
+
+写无效协助，先分清攻击的是哪一段程序（审判、量刑、认罪协商、上诉），再逐要件走：要件一回到行为当时、避开后见之明，并先查有无 Cronic 式推定损害例外；要件二把缺失的证据或错误建议放回全部证据里称分量。最常见的失分是只骂律师不用功、不证结果会变——那在 Strickland 的尺下等于只做了一半题。
+
+### 参考依据
+
+Strickland v. Washington, 466 U.S. 668 (1984)（判决原文与 syllabus，Cornell LII）；United States v. Cronic, 466 U.S. 648 (1984)；Hill v. Lockhart, 474 U.S. 52 (1985)；Wiggins v. Smith, 539 U.S. 510 (2003)；Rompilla v. Beard, 545 U.S. 374 (2005)；Padilla v. Kentucky, 559 U.S. 356 (2010)；Harrington v. Richter, 562 U.S. 86 (2011)；Missouri v. Frye, 566 U.S. 134 (2012)；Lafler v. Cooper, 566 U.S. 156 (2012)；Gideon v. Wainwright, 372 U.S. 335 (1963)。
+
+*声明：个人学习笔记，不构成法律建议。具体案件请咨询执业律师。*
+
+---
+
+## English
+
+**Strickland v. Washington, 466 U.S. 668 (1984).** David Washington pleaded guilty in Florida to all charges, including three capital murders committed in a ten-day spree in September 1976, acting against counsel's advice — as he had in confessing to the other two murders and waiving a jury. At sentencing, counsel built the mitigation case on the plea colloquy itself: remorse, acceptance of responsibility, no significant prior record, extreme stress. He deliberately did not request a presentence report (it would have aired Washington's criminal history), sought no psychiatric examination, and called no character witnesses. The judge found numerous aggravating and no meaningful mitigating circumstances and imposed death on each count; the Florida Supreme Court affirmed (362 So.2d 658 (Fla. 1978)). State collateral relief and federal habeas both failed — the district court found errors of judgment but no prejudice — until the Eleventh Circuit, en banc, reversed under a "reasonably effective assistance" standard (693 F.2d 1243). The Supreme Court, per O'Connor, reversed. The Sixth Amendment right to counsel is a right to *effective* assistance, benchmarked by whether counsel's conduct so undermined the adversarial process that the result is unreliable. A defendant must prove both (1) **deficient performance** — representation falling below an objective standard of reasonableness, judged from counsel's perspective at the time, under a strong presumption that conduct lies within the wide range of reasonable professional assistance (466 U.S. at 687–689); and (2) **prejudice** — a reasonable probability that, but for the errors, the result would have been different, a probability sufficient to undermine confidence in the outcome (at 694). Courts may dispose of a claim on prejudice without grading performance. On the facts, neither prong was met: the sentencing strategy was reasonable, and against the overwhelming aggravators there was no reasonable probability that more mitigation evidence would have changed the sentence. Justice Marshall dissented on his categorical view that the death penalty is unconstitutional. The framework's edges were later worked out in Cronic, 466 U.S. 648 (1984) (presumed prejudice where counsel entirely fails to subject the prosecution to adversarial testing), Hill v. Lockhart, 474 U.S. 52 (1985) (pleas), Wiggins, 539 U.S. 510 (2003), and Rompilla, 545 U.S. 374 (2005) (capital mitigation investigations that did satisfy both prongs), Padilla, 559 U.S. 356 (2010), Frye and Lafler (2012) (plea bargaining), and, on habeas, the "doubly deferential" review of Harrington v. Richter, 562 U.S. 86 (2011). Read after Gideon v. Wainwright, 372 U.S. 335 (1963): Gideon guarantees that counsel be provided; Strickland sets the deliberately demanding floor for what counts as counsel at all. *Personal study notes; not legal advice.*
+
+## Español (traducción de estudio, pendiente de revisión nativa)
+
+**Strickland v. Washington, 466 U.S. 668 (1984).** David Washington se declaró culpable en Florida de todos los cargos, incluidos tres asesinatos capitales cometidos en diez días de septiembre de 1976, contra el consejo de su abogado — como ya había hecho al confesar los otros dos asesinatos y renunciar al jurado. En la fase de pena, el abogado apoyó la atenuación en la propia audiencia de culpabilidad: arrepentimiento, asunción de responsabilidad, ausencia de antecedentes relevantes y estrés extremo; deliberadamente no pidió el informe presentencial (que habría mostrado su historial), ni peritaje psiquiátrico, ni testigos de carácter. El juez halló numerosas agravantes y ninguna atenuante de peso e impuso la pena de muerte en cada cargo; la Corte Suprema de Florida confirmó (362 So.2d 658 (Fla. 1978)). Los recursos estatales y el habeas federal fracasaron — el tribunal de distrito vio errores de juicio pero no perjuicio — hasta que el Undécimo Circuito, en pleno, revocó con un estándar de «asistencia razonablemente eficaz» (693 F.2d 1243). La Corte Suprema, con ponencia de O'Connor, revocó a su vez. El derecho a abogado de la Sexta Enmienda es derecho a asistencia *eficaz*: el parámetro es si la conducta del letrado socavó el proceso contradictorio al punto de hacer el resultado no confiable. El acusado debe probar dos cosas: (1) **actuación deficiente**, por debajo de un estándar objetivo de razonabilidad, juzgada desde la perspectiva del abogado en su momento y bajo una fuerte presunción de profesionalidad (466 U.S. 687–689); y (2) **perjuicio**: una probabilidad razonable de que, sin los errores, el resultado habría sido distinto, suficiente para socavar la confianza en él (466 U.S. 694). El tribunal puede resolver por el perjuicio sin calificar la actuación. En el caso, ninguno de los dos requisitos se cumplió: la estrategia fue razonable y, frente a las agravantes abrumadoras, no había probabilidad razonable de otro resultado. El juez Marshall disintió por su posición de que la pena de muerte es siempre inconstitucional. Los bordes del test se precisaron después: Cronic, 466 U.S. 648 (1984) (perjuicio presumido si no hay contraste contradictorio); Hill v. Lockhart, 474 U.S. 52 (1985) (declaraciones de culpabilidad); Wiggins, 539 U.S. 510 (2003) y Rompilla, 545 U.S. 374 (2005) (investigación de atenuantes en casos capitales que sí superó el test); Padilla, 559 U.S. 356 (2010); Frye y Lafler (2012) (negociación de culpabilidad); y en habeas, la doble deferencia de Harrington v. Richter, 562 U.S. 86 (2011). Tras Gideon, 372 U.S. 335 (1963), que garantiza *que haya* abogado, Strickland fija el exigente piso de *qué cuenta* como abogado. *Notas personales de estudio; no constituye asesoría legal.*
+
+## 한국어 (초역, 원어민 감수 대기)
+
+**Strickland v. Washington, 466 U.S. 668 (1984).** David Washington은 1976년 9월 열흘간 세 건의 살인을 포함한 범죄를 저지른 뒤, 변호인의 조언에 반해 나머지 두 살인의 자백, 배심 포기, 세 건의 사형 대상 살인을 포함한 전 혐의에 대한 유죄 인정을 스스로 선택했습니다. 양형 단계에서 변호인은 인정신문 자체를 감경 전략으로 삼았습니다. 후회와 책임 수용, 중대한 전과 없음, 극심한 스트레스였습니다. 양형 전 보고서는 그의 범죄 경력을 드러낼 것이어서 의도적으로 신청하지 않았고, 정신 감정도 구하지 않았으며, 인격 증인도 부르지 않았습니다. 재판부는 다수의 가중 사유와 의미 있는 감경 사유 없음을 인정해 각 살인 건마다 사형을 선고했고, 플로리다 대법원이 유지했습니다(362 So.2d 658 (Fla. 1978)). 주 법원의 부수 구제와 연방 인신보호 신청은 모두 기각되었습니다. 지방법원은 판단 오류는 있었으나 불이익은 없었다고 보았습니다. 그러나 제11순회 전원합의체가 「합리적으로 효과적인 조력」 기준으로 이를 뒤집자(693 F.2d 1243), 연방대법원이 O'Connor 대법관의 의견으로 다시 뒤집었습니다. 수정헌법 제6조의 변호인 권리는 *효과적인* 조력에 대한 권리이며, 기준은 변호인의 행위가 대립 당사자 구조를 무너뜨려 결과를 신뢰할 수 없게 했는가입니다. 피고인은 두 가지를 모두 증명해야 합니다. (1) **결함 있는 수행** — 당시 변호인의 관점에서 판단하고 합리적인 전문 조력의 넓은 범위에 든다는 강한 추정을 받는, 객관적 합리성 기준에 못 미치는 수행(466 U.S. 687–689). (2) **불이익** — 오류가 없었더라면 결과가 달라졌을 합리적 가능성, 즉 결과에 대한 신뢰를 흔들 정도의 가능성(466 U.S. 694). 법원은 수행을 평가하지 않고 불이익 부족만으로 청구를 기각할 수도 있습니다. 본건에서는 전략이 합리적이었고 압도적인 가중 사유 앞에서는 두 요건 모두 충족되지 않았습니다. Marshall 대법관은 사형 자체가 위헌이라는 입장에서 반대했습니다. 이후 경계는 Cronic, 466 U.S. 648 (1984)(대립적 검증이 전무하면 불이익 추정), Hill v. Lockhart, 474 U.S. 52 (1985)(유죄 인정), Wiggins, 539 U.S. 510 (2003)와 Rompilla, 545 U.S. 374 (2005)(두 요건을 충족한 사형 감경 조사 부족), Padilla, 559 U.S. 356 (2010), Frye와 Lafler (2012)(유죄 협상), 그리고 인신보호에서의 이중 존중을 말한 Harrington v. Richter, 562 U.S. 86 (2011)로 다듬어졌습니다. Gideon, 372 U.S. 335 (1963)가 변호인의 *존재*를 보장한다면, Strickland는 무엇이 변호인으로 *계산되는지*의 까다로운 하한을 정합니다. *개인 학습 노트이며 법률 자문이 아닙니다.*
+
+## Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+**Strickland v. Washington, 466 U.S. 668 (1984).** David Washington nhận tội tại Florida đối với mọi cáo buộc, gồm ba vụ giết người có thể bị tử hình trong mười ngày tháng 9 năm 1976, bất chấp lời khuyên của luật sư — như trước đó ông đã tự thú hai vụ giết còn lại và từ bỏ bồi thẩm đoàn. Ở giai đoạn tuyên án, luật sư xây dựng phần giảm nhẹ ngay trên buổi nhận tội: ăn năn, nhận trách nhiệm, không có tiền án đáng kể, căng thẳng cực độ; luật sư cố ý không yêu cầu báo cáo tiền tuyên án (vì nó sẽ phơi bày lịch sử phạm tội của ông), không xin giám định tâm thần và không gọi nhân chứng về nhân thân. Thẩm phán xác định nhiều tình tiết tăng nặng và không có tình tiết giảm nhẹ đáng kể nào, tuyên tử hình cho từng vụ; Tòa Tối cao Florida giữ nguyên (362 So.2d 658 (Fla. 1978)). Các thủ tục xin cứu xét lại ở cấp bang và habeas liên bang đều bị bác — tòa quận thấy có sai sót đánh giá nhưng không có thiệt hại — cho đến khi Tòa Phúc thẩm Khu vực 11, họp toàn thể, lật lại theo chuẩn «hỗ trợ hợp lý hiệu quả» (693 F.2d 1243). Tòa Tối cao liên bang, theo ý kiến của Thẩm phán O'Connor, lại lật ngược. Quyền có luật sư theo Tu chính án thứ Sáu là quyền được hỗ trợ *hiệu quả*, với thước đo là liệu hành vi của luật sư có phá vỡ quá trình tranh tụng đến mức kết quả không còn đáng tin hay không. Bị cáo phải chứng minh cả hai: (1) **thực hiện thiếu sót** — dưới chuẩn khách quan về tính hợp lý, xét theo góc nhìn của luật sư tại thời điểm đó và với giả định mạnh rằng hành vi nằm trong phạm vi hỗ trợ chuyên môn hợp lý (466 U.S. 687–689); và (2) **thiệt hại** — một khả năng hợp lý rằng nếu không có các sai sót thì kết quả đã khác, đủ để làm lung lay niềm tin vào kết quả (466 U.S. 694). Tòa có thể bác đơn chỉ vì thiếu thiệt hại mà không cần chấm điểm phần thực hiện. Trong vụ này, cả hai yếu tố đều không đạt: chiến lược tuyên án là hợp lý, và trước các tình tiết tăng nặng áp đảo, không có khả năng hợp lý nào cho một kết quả khác. Thẩm phán Marshall phản đối vì quan điểm án tử hình luôn vi hiến. Các ranh giới sau đó được làm rõ bởi Cronic, 466 U.S. 648 (1984) (suy đoán thiệt hại khi hoàn toàn thiếu kiểm chứng tranh tụng), Hill v. Lockhart, 474 U.S. 52 (1985) (nhận tội), Wiggins, 539 U.S. 510 (2003) và Rompilla, 545 U.S. 374 (2005) (điều tra giảm nhẹ trong án tử hình đã đạt cả hai yếu tố), Padilla, 559 U.S. 356 (2010), Frye và Lafler (2012) (thương lượng nhận tội), và trong habeas là sự tôn trọng hai lớp của Harrington v. Richter, 562 U.S. 86 (2011). Sau Gideon, 372 U.S. 335 (1963) — bảo đảm *có* luật sư — Strickland đặt ra mức sàn khắt khe cho việc *thế nào mới tính là* luật sư. *Ghi chú học tập cá nhân, không phải tư vấn pháp lý.*
+
+## हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+**Strickland v. Washington, 466 U.S. 668 (1984)।** David Washington ने सितंबर 1976 के दस दिनों में तीन मृत्युदंड-योग्य हत्याओं समेत सभी आरोपों में, वकील की सलाह के विरुद्ध, Florida में दोष स्वीकार किया — इससे पहले वह बाकी दो हत्याएँ भी कबूल चुका था और जूरी छोड़ चुका था। सज़ा के चरण में वकील ने दोष-स्वीकृति की सुनवाई को ही हल्का करने का आधार बनाया: पछतावा, ज़िम्मेदारी की स्वीकृति, कोई महत्वपूर्ण पूर्व अभिलेख नहीं, अत्यधिक तनाव। उसने जानबूझकर पूर्व-सज़ा रिपोर्ट नहीं माँगी (वह उसका आपराधिक इतिहास दिखा देती), कोई मनोचिकित्सीय जाँच नहीं कराई और कोई चरित्र-गवाह नहीं बुलाया। न्यायाधीश ने अनेक गंभीर परिस्थितियाँ और कोई सार्थक हल्की परिस्थिति न पाकर प्रत्येक हत्या पर मृत्युदंड दिया; Florida सर्वोच्च न्यायालय ने बनाए रखा (362 So.2d 658 (Fla. 1978))। राज्य संपार्श्विक राहत और संघीय habeas दोनों असफल रहे — ज़िला न्यायालय को निर्णय-त्रुटियाँ मिलीं पर प्रतिकूल प्रभाव नहीं — जब तक कि Eleventh Circuit ने पूर्ण पीठ में «युक्तिसंगत प्रभावी सहायता» मानक से उलट नहीं दिया (693 F.2d 1243)। सर्वोच्च न्यायालय ने न्यायाधीश O'Connor के मत से पुनः उलट दिया। छठे संशोधन का वकील-अधिकार *प्रभावी* सहायता का अधिकार है; कसौटी यह है कि क्या वकील के आचरण ने प्रतिवादी प्रक्रिया को इतना कमज़ोर किया कि परिणाम अविश्वसनीय हो जाए। प्रतिवादी को दोनों बातें सिद्ध करनी होंगी: (1) **त्रुटिपूर्ण प्रदर्शन** — युक्तिसंगतता के वस्तुनिष्ठ मानक से नीचे, उस समय के वकील के दृष्टिकोण से आँका गया, और इस मज़बूत अनुमान के साथ कि आचरण युक्तिसंगत व्यावसायिक सहायता की विस्तृत सीमा में आता है (466 U.S. 687–689); और (2) **प्रतिकूल प्रभाव** — युक्तिसंगत संभावना कि त्रुटियों के बिना परिणाम भिन्न होता, इतनी कि परिणाम में विश्वास डगमगा जाए (466 U.S. 694)। न्यायालय प्रदर्शन का मूल्यांकन किए बिना केवल प्रतिकूल प्रभाव की कमी पर दावा ख़ारिज कर सकता है। इस मामले में दोनों शर्तें पूरी नहीं हुईं: सज़ा-रणनीति युक्तिसंगत थी और भारी गंभीर परिस्थितियों के सामने भिन्न परिणाम की कोई युक्तिसंगत संभावना नहीं थी। न्यायाधीश Marshall ने इस आधार पर असहमति दी कि मृत्युदंड हर स्थिति में असंवैधानिक है। बाद की सीमाएँ: Cronic, 466 U.S. 648 (1984) (प्रतिवादी परीक्षण पूर्णतः अनुपस्थित हो तो प्रतिकूल प्रभाव अनुमानित), Hill v. Lockhart, 474 U.S. 52 (1985) (दोष-स्वीकृति), Wiggins, 539 U.S. 510 (2003) व Rompilla, 545 U.S. 374 (2005) (मृत्युदंड में हल्की परिस्थितियों की अधूरी जाँच जो दोनों शर्तें पूरी करती थी), Padilla, 559 U.S. 356 (2010), Frye व Lafler (2012) (दोष-सौदेबाज़ी), और habeas में Harrington v. Richter, 562 U.S. 86 (2011) की दोहरी सम्मान-भावना। Gideon, 372 U.S. 335 (1963) वकील की *उपलब्धता* सुनिश्चित करता है; Strickland यह कठिन न्यूनतम तय करता है कि *क्या* वकील माना जाएगा। *व्यक्तिगत अध्ययन नोट; कानूनी सलाह नहीं।*

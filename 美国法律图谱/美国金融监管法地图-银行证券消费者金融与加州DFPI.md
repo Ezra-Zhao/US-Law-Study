@@ -117,3 +117,32 @@ Regulation hành vi chủ yếu thuộc **CFPB** (Title X, 12 U.S.C. §§ 5301 t
 **कैलिफ़ोर्निया परत।** 2020 में AB 1864 ने पुराने DBO को **DFPI** बनाया और **California Consumer Financial Protection Law (Fin. Code §§ 90000 आगे), 1 जनवरी 2021 से प्रभावी**, लागू किया — एक 'कैलिफ़ोर्निया CFPB' जो राज्य-स्तरीय दुरुपयोग प्रतिबंध तथा पंजीकरण व प्रवर्तन उपकरण पहले से बाहर रही उपभोक्ता वित्तीय सेवाओं तक बढ़ाता है, जबकि चार्टर्ड बैंकों का विवेक पर्यवेक्षण और पुरानी लाइसेंस व्यवस्थाएँ (धन हस्तांतरण, California Financing Law) समानांतर चलती रहती हैं।
 
 > व्यक्तिगत अध्ययन नोट; कानूनी सलाह नहीं। (प्रारम्भिक अनुवाद, समीक्षा अपेक्षित)
+
+
+---
+
+## 补译增量（2026-11-05 本轮）
+
+### 한국어 (초역, 원어민 감수 대기)
+
+보충 세부 1 — 면허 없는 자의 우회로와 집행 사다리: 본문 제2·3절에 따르면 면허 없이 예금을 받거나 bank라고 칭할 수 없기 때문에, 그림자 은행과 핀테크는 인가 은행과 제휴하는 partner bank 모델로 우회하며, 그 규제 책임 배분이 최근 집행의 주전장입니다. 건전성 집행은 양해각서에서 영업정지 명령과 접수(receivership)에 이르는 단계적 사다리로 올라가고, CAMELS 평가는 자본, 자산 건전성, 경영, 수익, 유동성, 시장위험 민감도의 여섯 항목입니다.
+
+보충 세부 2 — 볼커 룰의 커버드 펀드와 CTA의 보고 의무: 본문 제4·6절에 따르면 볼커 룰이 금지하는 covered fund는 주로 헤지펀드와 사모펀드를 가리키며, 시장조성·헤지·인수는 고객 서비스형 활동으로 예외가 있으나 준수 증거를 남겨야 합니다. 자금세탁 쪽에서는 2024년부터 다수의 소규모 회사가 회사투명법(Corporate Transparency Act)에 따라 FinCEN에 수익적 소유자 정보를 신고해야 하지만, 신고 범위와 집행 상태는 변동이 잦으므로 인용 전에 FinCEN의 당기 기준을 확인해야 합니다.
+
+보충 세부 3 — 캘리포니아의 기존 면허 병행과 독해 요령: 본문 제7·8절에 따르면 송금(Money Transmission Act), 에스크로, 급여일 대출, 캘리포니아 금융법(CFL)의 면허 체계는 DFPI 체제에서도 그대로 병행합니다. 핀테크가 캘리포니아에 진출할 때는 연방 층을 논하기 전에 제품이 어느 면허 지도에 떨어지는지부터 확인해야 합니다. 독해 요령은 세 가지 질문입니다. 누가 인가하는가, 보험이 되는가, 소비자를 속였는가 — 인가가 건전성 감독자를, 보험이 FDIC의 경계를, 행위가 CFPB와 주법을 정합니다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+Chi tiết bổ sung 1 — lối vòng của kẻ không có giấy phép và thang thực thi: theo mục hai và ba của bản chính, vì không có giấy phép thì không được nhận tiền gửi hay tự xưng là bank, ngân hàng bóng và fintech thường đi vòng qua mô hình ngân hàng đối tác (partner bank), và cách phân chia trách nhiệm quản lý trong mô hình này là chiến trường thực thi gần đây. Thực thi an toàn đi theo thang từng bậc từ biên bản ghi nhớ tới lệnh ngừng hoạt động và tiếp quản; xếp hạng CAMELS gồm sáu thành phần: vốn, chất lượng tài sản, quản trị, lợi nhuận, thanh khoản và độ nhạy với rủi ro thị trường.
+
+Chi tiết bổ sung 2 — quỹ bị bao phủ của quy tắc Volcker và nghĩa vụ báo cáo của CTA: theo mục bốn và sáu của bản chính, covered fund mà quy tắc Volcker cấm chủ yếu là quỹ phòng hộ và quỹ cổ phần tư nhân; tạo lập thị trường, phòng ngừa rủi ro và bảo lãnh phát hành được miễn vì là hoạt động phục vụ khách hàng nhưng phải lưu chứng cứ tuân thủ. Về chống rửa tiền, từ 2024 phần lớn công ty nhỏ phải báo cáo thông tin chủ sở hữu hưởng lợi cho FinCEN theo Corporate Transparency Act, song phạm vi báo cáo và tình trạng thực thi thay đổi thường xuyên, nên trước khi trích dẫn phải kiểm tra khẩu hiệu hiện hành của FinCEN.
+
+Chi tiết bổ sung 3 — các giấy phép cũ của California vẫn song hành, và mẹo đọc bản đồ: theo mục bảy và tám của bản chính, các hệ thống giấy phép chuyển tiền (Money Transmission Act), ký quỹ (escrow), vay ngày lương và California Financing Law vẫn vận hành song song dưới thời DFPI. Fintech vào California phải xem sản phẩm của mình rơi vào bản đồ giấy phép nào trước khi bàn tầng liên bang. Mẹo đọc là ba câu hỏi: ai cấp phép, có được bảo hiểm không, có lừa người tiêu dùng không — giấy phép định cơ quan giám sát an toàn, bảo hiểm định ranh giới FDIC, hành vi định CFPB và luật bang.
+
+### हिन्दी (प्रारम्भिक अनुवाद, समीक्षा अपेक्षित)
+
+पूरक विवरण 1 — बिना लाइसेंस वालों का चक्कर और प्रवर्तन सीढ़ी: मुख्य पाठ के खंड दो व तीन के अनुसार, बिना लाइसेंस न जमा लिया जा सकता है न खुद को bank कहा जा सकता है, इसलिए छाया बैंक और फिनटेक अक्सर भागीदार बैंक (partner bank) मॉडल से रास्ता बनाते हैं, और उसमें नियामकीय ज़िम्मेदारी का बँटवारा हालिया प्रवर्तन का मुख्य मैदान है। विवेकपूर्ण प्रवर्तन समझौता-ज्ञापन से शुरू होकर निषेध-आदेश और अधिग्रहण तक चढ़ने वाली सीढ़ी है; CAMELS मूल्यांकन के छह अंग हैं — पूँजी, परिसंपत्ति गुणवत्ता, प्रबंधन, आय, तरलता और बाज़ार जोखिम के प्रति संवेदनशीलता।
+
+पूरक विवरण 2 — Volcker Rule के covered fund और CTA की रिपोर्टिंग: मुख्य पाठ के खंड चार व छह के अनुसार Volcker Rule जिन covered fund पर रोक लगाता है वे मुख्यतः hedge fund और private equity fund हैं; बाज़ार-निर्माण, हेजिंग और अंडरराइटिंग ग्राहक-सेवा गतिविधियों के रूप में छूट पाते हैं पर अनुपालन साक्ष्य रखना होता है। धन-शोधन पक्ष में 2024 से अधिकांश छोटी कंपनियों को Corporate Transparency Act के तहत FinCEN को लाभार्थी स्वामी की जानकारी देनी होती है, किंतु रिपोर्टिंग का दायरा और प्रवर्तन स्थिति बार-बार बदलती है, इसलिए उद्धरण से पहले FinCEN की वर्तमान स्थिति ज़रूर जाँचें।
+
+पूरक विवरण 3 — California की पुरानी लाइसेंस-व्यवस्थाएँ समानांतर, और नक्शा पढ़ने की तरकीब: मुख्य पाठ के खंड सात व आठ के अनुसार धन हस्तांतरण (Money Transmission Act), escrow, payday loan और California Financing Law की लाइसेंस व्यवस्थाएँ DFPI युग में भी समानांतर चलती रहती हैं। California में उतरने वाली फिनटेक को संघीय परत पर चर्चा से पहले यह देखना चाहिए कि उसका उत्पाद किस लाइसेंस-नक्शे पर गिरता है। पढ़ने की तरकीब तीन प्रश्न हैं: कौन लाइसेंस देता है, बीमा है या नहीं, और उपभोक्ता को ठगा गया या नहीं — लाइसेंस विवेक पर्यवेक्षक तय करता है, बीमा FDIC की सीमा, और आचरण CFPB व राज्य कानून तय करता है।
