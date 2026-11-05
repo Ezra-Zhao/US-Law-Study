@@ -323,6 +323,10 @@
 - [美国住房金融与抵押贷款法地图：联邦住房计划、GSE 与加州规则](美国法律图谱/美国住房金融与抵押贷款法地图-联邦住房计划GSE与加州规则.md) —— 只讲钱进房子：贷款多被卖给 Fannie Mae/Freddie Mac 或进 Ginnie Mae 证券、servicer 收款；联邦三线为 FHA（National Housing Act 保险、MIP）、VA（38 U.S.C. ch. 37 担保）与 USDA Section 502；GSE 经 HERA 2008 由 FHFA 接管至今，conforming 上限外为 jumbo；借款人保护三组为 15 U.S.C. § 1639c 偿债能力与 Reg Z 12 C.F.R. § 1026.43 的 QM（价格口径）、TRID 双表披露与 ECOA 15 U.S.C. § 1691 公平放贷；服务商 Reg X § 1024.41 损失减免评估与双轨限制叠加加州 HBOR；加州持牌走 DFPI 的 Fin. Code § 50000 起或 DRE，先查 NMLS。（六语对照）
 - 2026-11-04 补译：[Baker v. Carr, 369 U.S. 186 (1962) 案例分析](案例分析/Baker-v-Carr-1962-案例分析.md) 与 [Schenck v. United States, 249 U.S. 47 (1919) 案例分析](案例分析/Schenck-v-United-States-1919-案例分析.md) 两篇韩／越／印三语各补细节增量至与中文主文对齐（Baker 篇补 6 比 2 与 Brennan 多数只判可诉性、Reynolds 两年后才立实体标准与 Frankfurter 政治丛林异议及发回后重划；Schenck 篇补 15,000 份传单与 1917 年间谍法及和平时期对照和 Abrams 异议的自我修正），diff 纯增量原段未删。
 
+- [刑后救济与记录清除备考核心：人身保护令、赦免、假释与记录封存及加州规则](法律备考/刑后救济与记录清除备考核心-人身保护令赦免假释与封存及加州规则.md) —— 四条线先分清：直接上诉、人身保护（州囚犯 28 U.S.C. 第 2254 条／联邦囚犯第 2255 条）、行政宽宥与记录清除；AEDPA 闸门逐项拆——穷尽州救济、第 2244(d) 条一年时效、第 2254(d) 条双重尊重、程序缺席与 Schlup, 513 U.S. 298 的实际无辜门槛、第二或连续申请禁令；宽宥写明联邦第二条与加州宪法第五条第八款的双重罪建议规则，假释撤销走 Morrissey, 408 U.S. 471 与 Gagnon 的正当程序；加州记录工具按 Penal Code 第 1203.4 条驳回、第 1170.18 条 Prop 47 改判与第 851.93、1203.425 条自动救济分工，并单列州封存无移民与联邦效果。（六语对照）
+- [United States v. Jones, 565 U.S. 400 (2012) 案例分析](案例分析/United-States-v-Jones-2012-案例分析.md) —— GPS 超期超域安装并追踪 28 天、两千多页数据：结论 9 比 0 撤销定罪、推理 5 比 4 分裂；Scalia 多数意见立财产进路——Katz, 389 U.S. 347 的隐私期待测试是加在财产测试之上而非取代，为获取信息物理侵入财物即为搜查；Alito 四人协同以长期监控答 Katz、Sotomayor 枢纽协同质疑第三方原则前提，后续由 Jardines, 569 U.S. 1 与 Carpenter, 585 U.S. 296 两线兑现，加州以 CalECPA（Penal Code 第 1546 条起）立法划线。（六语对照）
+- 2026-11-04 补译：[Bostock v. Clayton County, 590 U.S. 644 (2020) 案例分析](案例分析/Bostock-v-Clayton-County-2020-案例分析.md) 韩／越／印三语各补细节增量至与中文主文对齐（补 6 比 3 与 Gorsuch 执笔及 Zarda、Harris 两案合并审理、三名原告遭遇、but-for 因果与换性别思想实验、Alito 与 Kavanaugh 两异议、浴室与宗教豁免的明示保留、Title VII 的 15 人门槛与 FEHA 的 5 人门槛对照），diff 纯增量原段未删。
+
 ## 关于西语版
 
 西班牙语版本为学习译稿（study translation），由作者为语言学习目的译出，待母语校对（pending native review）。法律术语的准确表述请以英文原版和官方文本为准。
