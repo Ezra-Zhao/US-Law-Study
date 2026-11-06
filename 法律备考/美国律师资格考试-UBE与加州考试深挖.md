@@ -321,3 +321,17 @@ Phân bổ nguồn lực theo trọng số: MBE chiếm 50% nhưng số câu c�
 *한국어·베트남어·힌디어 본문은 학습용 초역으로, 원어민 감수를 기다리고 있습니다.*
 *Bản tiếng Hàn, tiếng Việt và tiếng Hindi là bản dịch học tập, đang chờ người bản ngữ hiệu đính.*
 *कोरियाई, वियतनामी और हिंदी पाठ अध्ययन अनुवाद हैं; मूल-भाषी समीक्षा लंबित है।*
+
+## 补记（2026-11-06 补译增量：UBE 分数转移与 MPRE 分数线）
+
+### 中文
+UBE 分数可转移不等于自动录取：多数 UBE 法域要求分数在考后 2 至 5 年内申请转移（各州不同），且仍须单独通过该州的品行审查（character and fitness）并达到该州 MPRE 合格线——MPRE 各州合格线并不一致，常见区间为 75 至 86 分。加州不是 UBE 法域，加州分数（合格线 1390）不能按 UBE 规则转移到他州，反向亦然。
+
+### 한국어 (초역)
+UBE 점수 이전은 자동 합격이 아닙니다. 대부분의 UBE 관할은 시험 후 2~5년 내 이전 신청을 요구하고, 해당 주의 인성 심사(character and fitness)와 MPRE 합격선을 별도로 충족해야 합니다. MPRE 합격선은 주마다 달라 보통 75~86점 구간입니다. 캘리포니아는 UBE 주가 아니므로 1390점 합격선인 캘리포니아 점수는 UBE 방식으로 타주에 이전할 수 없습니다.
+
+### Tiếng Việt (bản dịch sơ bộ)
+Điểm UBE chuyển được không đồng nghĩa được nhận tự động: hầu hết các bang UBE yêu cầu nộp đơn chuyển điểm trong 2–5 năm sau kỳ thi, đồng thời vẫn phải qua thẩm tra tư cách (character and fitness) và đạt điểm MPRE của bang đó — điểm chuẩn MPRE khác nhau giữa các bang, thường 75–86. California không thuộc UBE nên điểm California (chuẩn 1390) không chuyển theo cơ chế UBE được.
+
+### हिन्दी (प्रारंभिक अनुवाद)
+UBE अंक स्थानांतरित होना स्वतः प्रवेश नहीं है: अधिकांश UBE क्षेत्राधिकार परीक्षा के 2–5 वर्षों के भीतर स्थानांतरण आवेदन माँगते हैं, और उस राज्य की चरित्र-योग्यता जाँच (character and fitness) तथा MPRE उत्तीर्णांक अलग से पूरा करना होता है — MPRE उत्तीर्णांक राज्यों में भिन्न है, सामान्यतः 75–86। कैलिफ़ोर्निया UBE राज्य नहीं है, इसलिए उसके 1390 उत्तीर्णांक वाले अंक UBE नियम से अन्य राज्यों में स्थानांतरित नहीं होते।
