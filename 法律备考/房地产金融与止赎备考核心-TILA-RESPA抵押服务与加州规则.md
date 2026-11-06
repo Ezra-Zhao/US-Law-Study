@@ -82,6 +82,26 @@ Bốn cái bẫy thường gặp. (1) Quy tắc 120 ngày đếm thời gian qu�
 ### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
 चार प्रिय जाल। (1) 120-दिन नियम बकाया के दिन गिनता है, सूचनाओं के नहीं: Regulation X § 1024.41(f)(1) सेवा-प्रदाता को फौजदारी शुरू करने हेतु आवश्यक पहली सूचना या दाखिला तब तक रोकता है जब तक बकाया 120 दिन से अधिक न हो; संकीर्ण अपवाद (अधीनस्थ ग्रहणाधिकार, due-on-sale उल्लंघन) अलग याद करें। (2) दोहरी-कार्यवाही रोक केवल «पूर्ण» आवेदन पर लागू होती है: § 1024.41(b) के तहत पूर्णता सेवा-प्रदाता लिखित में पुष्ट करता है, इसलिए उधारकर्ता का पहला काम पूर्ण पैकेज जमा कर प्रमाण रखना है। (3) कमी-निर्णय राज्य-कानून और ऋण-प्रकार पर निर्भर है: कैलिफ़ोर्निया § 580b (क्रय-मूल्य) और § 580d (गैर-न्यायिक बिक्री के बाद) अपने क्षेत्रों में ढाल हैं, किंतु सामान्य न्यायिक फौजदारी में कमी-निर्णय फिर भी आ सकता है — सामान्यीकरण न करें। (4) दिवालियापन स्वतः रोक दोनों रास्ते जमा देती है: 11 U.S.C. § 362(a) याचिका दाखिल होते ही फौजदारी रोकता है, और सेवा-प्रदाता को आगे बढ़ने से पहले रोक-राहत लेनी होती है — यह संघीय द्वार अक्सर Regulation X के साथ एक ही प्रश्न में आता है। (प्रारंभिक अनुवाद·待校)
 
+## 补译增量（2026-11-06 本轮）
+
+### 한국어 (초역, 원어민 감수 대기)
+
+보충 세부 1 — 공시 두 장의 시점과 RESPA 층: 본문 첫째 절에 따르면 연방 규칙은 세 층으로 나뉜다. 공시 층에서는 Regulation Z § 1026.19(e)가 Loan Estimate를 신청 접수 후 3영업일 이내에 교부하게 하고, Closing Disclosure는 원칙적으로 마감(closing) 3영업일 전까지 차입자에게 도달해야 한다. 정산·에스크로 층에서는 RESPA(12 U.S.C. § 2601 이하)와 Regulation X가 정산 서비스를 규율하고, § 2607이 리베이트(kickback)를 금지하며, 에스크로 계정의 완충(cushion) 한도를 둔다. 답안은 먼저 어느 층에서 문제가 생겼는지 정한 뒤 해당 조문을 찾아야 한다.
+
+보충 세부 2 — 캘리포니아 비사법 압류의 골격과 차입자 보호벽: 본문 셋째 절에 따르면 캘리포니아 압류는 민법전 §§ 2920 이하의 비사법 절차가 본선이다. 수탁자가 채무불이행 통지(Notice of Default, § 2923.3 부근)를 등록·송달하면 차입자는 미납분을 갚아 대출을 원상회복시키는 보정 기간에 들어가고, 보정 기간이 지나면 수탁자 매각 통지(Notice of Trustee's Sale)를 최소 20일 전에 발해야 하며(§ 2924f의 공고·게시 기준), 경매 후 상환권은 보통 없다. 2013년 시행된 캘리포니아 주택소유자 권리장전(민법전 §§ 2923.4–2923.7, 2924.9–2924.12 등)은 자가 거주 차입자에게 이중 진행 금지(완전한 손실완화 신청이 접수된 뒤에는 매각 통지 등록이나 경매 진행 불가), 단일 연락 창구(single point of contact), 채무불이행 통지 전의 성실한 연락 의무(§ 2923.55)를 더한다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+Chi tiết bổ sung 1 — thời điểm của hai biểu công bố và tầng RESPA: theo phần đầu của bản chính, quy tắc liên bang chia ba tầng. Ở tầng công bố, Regulation Z § 1026.19(e) yêu cầu giao Loan Estimate trong ba ngày làm việc kể từ khi nhận đơn, và Closing Disclosure về nguyên tắc phải đến tay người vay ba ngày làm việc trước ngày chốt giao dịch. Ở tầng quyết toán và ký quỹ, RESPA (12 U.S.C. § 2601 trở đi) cùng Regulation X điều chỉnh dịch vụ quyết toán, § 2607 cấm tiền hoa hồng ngầm (kickback) và đặt trần đệm cho tài khoản ký quỹ. Khi làm bài, trước hết xác định vấn đề nằm ở tầng nào rồi mới tìm điều khoản tương ứng.
+
+Chi tiết bổ sung 2 — khung tịch thu phi tư pháp của California và hàng rào bảo vệ người vay: theo phần ba của bản chính, tịch thu ở California chủ yếu là phi tư pháp theo Civil Code §§ 2920 trở đi. Bên được ủy thác ghi và tống đạt Thông báo vỡ nợ (Notice of Default, quanh § 2923.3), người vay bước vào thời kỳ khắc phục để trả phần còn thiếu và khôi phục khoản vay; sau thời kỳ đó, Thông báo bán của bên ủy thác (Notice of Trustee's Sale) phải phát trước ít nhất 20 ngày (§ 2924f về niêm yết và công bố), và thường không có quyền chuộc lại sau đấu giá. Đạo luật Quyền của chủ nhà California có hiệu lực năm 2013 (Civil Code §§ 2923.4–2923.7, 2924.9–2924.12 và các điều liên quan) cộng thêm cho người vay ở nhà của mình: cấm hai đường song song (sau khi đơn giảm thiểu tổn thất đầy đủ đã nộp thì không được ghi thông báo bán hay đẩy đấu giá), một đầu mối liên lạc duy nhất (single point of contact), và nghĩa vụ liên lạc tận tâm trước thông báo vỡ nợ (§ 2923.55).
+
+### हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+पूरक विवरण 1 — दो प्रकटीकरण-पत्रों का समय और RESPA परत: मुख्य पाठ के पहले खंड के अनुसार संघीय नियम तीन परतों में बँटे हैं। प्रकटीकरण परत में Regulation Z § 1026.19(e) Loan Estimate को आवेदन मिलने के तीन कार्यदिवसों के भीतर देने को कहता है, और Closing Disclosure सिद्धांततः समापन (closing) से तीन कार्यदिवस पहले उधारकर्ता तक पहुँचना चाहिए। निपटान व एस्क्रो परत में RESPA (12 U.S.C. § 2601 आगे) और Regulation X निपटान सेवाओं को नियंत्रित करते हैं, § 2607 kickback पर रोक लगाता है और एस्क्रो खाते के कुशन की सीमा तय करता है। उत्तर लिखते समय पहले यह तय करें कि समस्या किस परत की है, फिर वही धारा खोजें।
+
+पूरक विवरण 2 — California गैर-न्यायिक फौजदारी का ढाँचा और उधारकर्ता की सुरक्षा-दीवार: मुख्य पाठ के तीसरे खंड के अनुसार California में फौजदारी की मुख्य धारा Civil Code §§ 2920 आगे की गैर-न्यायिक प्रक्रिया है। न्यासी चूक-सूचना (Notice of Default, § 2923.3 के आसपास) दर्ज व तामील करता है, उधारकर्ता बकाया चुकाकर ऋण बहाल करने की सुधार-अवधि में जाता है; उसके बाद न्यासी-बिक्री सूचना (Notice of Trustee's Sale) कम से कम 20 दिन पहले देनी होती है (§ 2924f के प्रकाशन व चिपकाने के नियम) और नीलामी के बाद सामान्यतः मोचन-अधिकार नहीं होता। 2013 से लागू California Homeowner Bill of Rights (Civil Code §§ 2923.4–2923.7, 2924.9–2924.12 आदि) स्वयं-निवासी उधारकर्ताओं को अतिरिक्त सुरक्षा देता है: दोहरी कार्यवाही पर रोक (पूर्ण हानि-शमन आवेदन के बाद बिक्री-सूचना दर्ज या नीलामी आगे नहीं), एकल संपर्क-बिंदु (single point of contact), और चूक-सूचना से पहले उचित-संपर्क का कर्तव्य (§ 2923.55)।
+
 ## 参考依据
 
 - Truth in Lending Act, 15 U.S.C. § 1601 起；Regulation Z, 12 C.F.R. Part 1026（§ 1026.19(e) 披露时点）
