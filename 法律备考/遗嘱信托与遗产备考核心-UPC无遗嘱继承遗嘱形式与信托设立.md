@@ -144,18 +144,21 @@ Un testamento anterior al matrimonio o a un nacimiento no se actualiza solo. Par
 
 ---
 
+보충: 상속 포기는 § 2-1105를 본다. 적격한 포기(disclaimer)를 한 상속인(일반적으로 피상속인 사망 후 9개월 이내에 해야 한다)은 피상속인보다 먼저 사망한 것으로 취급되며, 재산은 포기자를 건너뛰어 다음 순위자에게 넘어간다.
 ### Tiếng Việt（初译待校）
 
 Di chúc lập trước hôn nhân hay trước khi có con không tự cập nhật; các quy tắc về người bị bỏ sót lấp chỗ trống. Với vợ/chồng bị bỏ sót (omitted spouse), Điều 2-301 UPC cho người kết hôn sau khi lập di chúc một phần như thừa kế không di chúc, chỉ lấy từ phần không để lại cho con sinh trước hôn nhân, trừ khi di chúc lập với dự liệu hôn nhân, minh thị bỏ sót, hoặc người lập đã lo liệu ngoài di chúc thay thế. Với con bị bỏ sót (omitted children), Điều 2-302 cho người con sinh ra hoặc được nhận nuôi sau khi lập một phần như không di chúc nếu lúc lập người lập chưa có con, với ngoại lệ như để lại gần như toàn bộ cho cha/mẹ còn lại; nếu lúc lập đã có con và đã để lại cho chúng, phần của con bị bỏ sót là phần giới hạn tính theo phần của các con kia. Cả hai quy tắc đều nhường cho ý định đã thể hiện. Quy tắc kẻ sát nhân (slayer rule), Điều 2-803, tước mọi quyền lợi của người giết người chết một cách trọng tội và cố ý (feloniously and intentionally kills), coi người này như đã chết trước; không cần bản án hình sự, chỉ cần preponderance dân sự. Chết đồng thời do Uniform Simultaneous Death Act và quy tắc 120 giờ của Điều 2-104 xử lý, với bằng chứng rõ ràng và thuyết phục. Việc từ chối nhận (disclaimer) theo Điều 2-1105, thường trong vòng chín tháng kể từ ngày chết, khiến người từ chối bị coi như đã chết trước.（初译待校）
 
 ---
 
+Bổ sung: việc từ chối nhận thừa kế xem § 2-1105 — người thừa kế thực hiện việc từ chối hợp lệ (disclaimer, thường phải trong vòng chín tháng sau khi người để lại di sản qua đời) được coi như đã chết trước người để lại di sản, và tài sản bỏ qua người từ chối để chuyển cho người ở hàng tiếp theo.
 ### हिन्दी（初译待校）
 
 विवाह या जन्म से पहले बनी वसीयत अपने आप अद्यतित नहीं होती; छूटे हुए परिवार के नियम यह खाली जगह भरते हैं। छूटे जीवनसाथी (omitted spouse) के लिए UPC धारा 2-301 निष्पादन के बाद विवाह करने वाले जीवनसाथी को निर्वसीयती जैसा हिस्सा देती है, जो केवल उस भाग से लिया जाता है जो विवाह-पूर्व जन्मे बच्चों को न दिया गया हो — सिवाय विवाह की अपेक्षा में बनी वसीयत, स्पष्ट छूट, या वसीयत के बाहर स्थानापन्न प्रबंध के। छूटे बच्चों (omitted children) के लिए धारा 2-302 निष्पादन के बाद जन्मे या गोद लिए बच्चे को निर्वसीयती हिस्सा देती है, यदि निष्पादन के समय कोई बच्चा नहीं था; लगभग सब कुछ दूसरे माता-पिता को छोड़ना जैसा अपवाद लागू होता है। यदि बच्चे पहले से थे और उन्हें दिया गया था, तो छूटे बच्चे का हिस्सा उन्हीं के प्रावधानों पर आधारित सीमित हिस्सा होता है। हत्यारा नियम (slayer rule), धारा 2-803, मृतक की घोर आपराधिक और जानबूझकर हत्या (feloniously and intentionally kills) करने वाले के सभी लाभ छीन लेता है और उसे पहले मरा माना जाता है; आपराधिक दोषसिद्धि आवश्यक नहीं, दीवानी प्राबल्य (preponderance) पर्याप्त है। एक साथ मृत्यु का निपटान Uniform Simultaneous Death Act और धारा 2-104 के 120 घंटे के नियम से होता है, जिसमें अतिरिक्त जीवित रहना स्पष्ट और विश्वसनीय साक्ष्य से साबित करना होगा। अंत में, धारा 2-1105 का त्याग (disclaimer), सामान्यतः मृत्यु के नौ महीने के भीतर, त्यागी को पहले मरा मानने का प्रभाव देता है। (प्रारंभिक अनुवाद — 初译待校)
 
 ---
 
+पूरक: उत्तराधिकार का परित्याग § 2-1105 में देखें — वैध परित्याग (disclaimer, सामान्यतः मृतक की मृत्यु के बाद नौ महीने के भीतर) करने वाला उत्तराधिकारी मृतक से पहले मरा हुआ माना जाता है, और संपत्ति उसे छोड़कर अगले क्रम के व्यक्ति को जाती है।
 ## 五、信托设立与类型：生前信托、遗嘱信托与挥霍信托
 
 ### 中文（主文）
@@ -182,18 +185,21 @@ Un fideicomiso (trust) exige un constituyente (settlor) capaz y con intención d
 
 ---
 
+보충: § 502의 낭비방지(spendthrift) 제한에도 예외가 있다. UTC § 503에 따라, 부양 판결을 가진 수익자의 자녀·배우자·전 배우자, 수익자에게 생활필수품을 제공한 채권자, 그리고 연방과 주의 조세 채권은 이 제한을 뚫고 수익 지분에 닿을 수 있다.
 ### Tiếng Việt（初译待校）
 
 Một quỹ tín thác (trust) cần người lập (settlor) có năng lực và ý định lập, người thụ hưởng xác định (trừ ngoại lệ như tín thác từ thiện), mục đích hợp pháp và người được ủy thác (trustee) mang nghĩa vụ ủy thác; tín thác khi còn sống chỉ chi phối tài sản đã thực sự chuyển vào nó (funding). Dạng hay thi nhất là tín thác sống có thể hủy bỏ (revocable living trust): có thể sửa hoặc hủy khi còn sống, trở thành không thể hủy khi người lập chết, và lợi ích chính là tránh thủ tục chứng thực di chúc (probate), nhưng thường không tiết kiệm thuế và không che chắn tài sản trước chủ nợ của chính người lập. Tín thác theo di chúc (testamentary trust) được lập trong di chúc, chỉ có hiệu lực qua probate và chịu giám sát của tòa án. Điều khoản chống phung phí (spendthrift) được Điều 502 UTC công nhận, nhưng Điều 503 cho phép một số chủ nợ chạm tới quyền lợi bất chấp điều khoản: con, vợ/chồng hoặc vợ/chồng cũ có phán quyết cấp dưỡng, chủ nợ đã cung cấp nhu yếu phẩm, và các khoản thuế liên bang, tiểu bang. Tín thác từ thiện có thể tồn tại vô hạn, và khi mục đích trở nên không thể thực hiện, Điều 413 UTC (cy pres) cho phép tòa án chuyển tài sản sang mục đích gần nhất có thể. Ba mốc California: Điều 15200 liệt kê các phương thức lập tín thác; Điều 15401–15402 quy định hủy bỏ và sửa đổi, theo phương thức trong văn kiện hoặc bằng văn bản ký và giao cho trustee; Điều 16061.7 buộc trustee thông báo cho người thụ hưởng và người thừa kế trong 60 ngày khi tín thác trở nên không thể hủy do người lập chết, mở ra thời hạn 120 ngày để tranh chấp.（初译待校）
 
 ---
 
+Bổ sung: hạn chế phung phí (spendthrift) của § 502 vẫn có ngoại lệ — theo UTC § 503, con, vợ/chồng hoặc vợ/chồng cũ của người thụ hưởng có bản án cấp dưỡng, chủ nợ đã cung cấp nhu yếu phẩm cho người thụ hưởng, và các khoản thu thuế của liên bang và tiểu bang đều có thể xuyên qua hạn chế này để chạm tới phần lợi ích của người thụ hưởng.
 ### हिन्दी（初译待校）
 
 न्यास (trust) के लिए आवश्यक है: सक्षम स्थापक (settlor) और स्थापना का आशय, निश्चित लाभार्थी (धर्मार्थ न्यास जैसे अपवादों को छोड़कर), वैध उद्देश्य, और न्यासी (trustee) पर विश्वस्त कर्तव्य; जीवित न्यास केवल उसी संपत्ति को नियंत्रित करता है जो वास्तव में उसमें अंतरित की गई हो (funding)। सबसे अधिक परीक्षित रूप प्रतिसंहरणीय जीवित न्यास (revocable living trust) है: जीवनकाल में बदला या निरस्त किया जा सकता है, मृत्यु पर अप्रतिसंहरणीय हो जाता है, और मुख्य लाभ प्रोबेट (probate) से बचना है — किंतु सामान्यतः इससे कर नहीं बचता और यह स्थापक के अपने ऋणदाताओं से संपत्ति नहीं बचाता। वसीयती न्यास (testamentary trust) वसीयत में बनता है, प्रोबेट से ही प्रभावी होता है और न्यायालय की निगरानी में रहता है। व्यय-रोक खंड (spendthrift) को UTC धारा 502 मान्यता देती है, किंतु धारा 503 कुछ दावेदारों को रोक के बावजूद लाभार्थी के हित तक पहुँचने देती है: भरण-पोषण निर्णय धारण करने वाला बच्चा, जीवनसाथी या पूर्व जीवनसाथी, आवश्यक वस्तुएँ देने वाला लेनदार, और संघीय व राज्य कर दावे। धर्मार्थ न्यास अनिश्चित काल तक चल सकता है, और उद्देश्य असंभव हो जाने पर UTC धारा 413 (cy pres) न्यायालय को संपत्ति यथासंभव निकटतम धर्मार्थ उद्देश्य में लगाने देती है। California के तीन बिंदु: Probate Code धारा 15200 स्थापना की विधियाँ गिनाती है; धाराएँ 15401–15402 निरसन और परिवर्तन को नियंत्रित करती हैं — दस्तावेज़ में बताई विधि से या हस्ताक्षरित लिखित दस्तावेज़ न्यासी को सौंपकर; और धारा 16061.7 न्यासी को बाध्य करती है कि मृत्यु से न्यास अप्रतिसंहरणीय होने पर वह 60 दिनों के भीतर लाभार्थियों और उत्तराधिकारियों को सूचित करे, जिससे 120 दिनों की चुनौती अवधि शुरू होती है। (प्रारंभिक अनुवाद — 初译待校)
 
 ---
 
+पूरक: § 502 के अपव्यय-रोधी (spendthrift) प्रतिबंध के भी अपवाद हैं — UTC § 503 के अनुसार, भरण-पोषण निर्णय वाले लाभार्थी के बच्चे, पति/पत्नी या पूर्व पति/पत्नी, लाभार्थी को आवश्यक वस्तुएँ देने वाले लेनदार, तथा संघीय और राज्य कर दावे इस प्रतिबंध को भेदकर लाभार्थी के हित तक पहुँच सकते हैं।
 ## 六、反未来利益规则（RAP）：普通法 21 年与 USRAP 90 年
 
 ### 中文（主文）
