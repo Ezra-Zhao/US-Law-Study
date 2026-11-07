@@ -57,6 +57,10 @@ Wesberry v. Sanders, 376 U.S. 1 (1964)는 1964년 2월 17일 6대 3으로 선고
 
 자매 판결과의 구분이 핵심이다. Reynolds v. Sims, 377 U.S. 533 (1964)는 넉 달 뒤에 선고되어 **주 의회** 선거구를 수정헌법 제14조의 평등보호 조항으로 규율하고, Wesberry는 **연방 하원** 선거구를 제I조로 규율한다. 두 근거를 바꿔 쓰면 고전적인 감점 사유다. 두 판결 모두 Baker v. Carr, 369 U.S. 186 (1962)가 연 사법심사 가능성의 문 안에 서 있다. 연방 하원 노선은 이후 Kirkpatrick v. Preisler, 394 U.S. 526 (1969)와 Karcher v. Daggett, 462 U.S. 725 (1983)로 더 엄격해져 작은 인구 편차에도 정당화를 요구하게 되었다. Wesberry는 상원과 선거인단에는 닿지 않으며, 정당 게리맨더링은 Rucho v. Common Cause, 588 U.S. 684 (2019)에서 연방 법원의 심사 대상이 아니라고 정리되었다. 캘리포니아의 연방 하원 선거구도 같은 연방 기준을 받으며, 획정 주체는 독립 시민 선거구재획정위원회다(Cal. Const. art. XXI).
 
+세부 보충: Harlan 반대의견의 뼈대는 제I조 제4항이었다——선거의 시간·장소·방식은 주 의회에 맡겨졌고 제정 역사에서도 선거구별 인구 동등 요구를 찾을 수 없다는 것이다. 다수의견은 제4항이 주는 것은 선거 절차의 권한일 뿐, 거주지에 따라 한 표의 가치를 깎을 권한이 아니라고 답했다.
+
+세부 보충: 캘리포니아의 획정 주체는 독립 시민 선거구재획정위원회로, 2008년 제11호 주민발의(Prop 11)가 주 선거구를, 2010년 제20호 주민발의(Prop 20)가 연방 하원 선거구까지 위원회에 넘겼고, 근거는 캘리포니아 헌법 제XXI조이며 이 조문은 선거구 인구가 합리적으로 근접하게 동등할 것을 앞순위의 획정 기준으로 둔다.
+
 *개인 학습 노트이며 법률 자문이 아니다. (초역, 원어민 감수 대기)*
 
 ## Tiếng Việt（初译待校）
@@ -65,6 +69,10 @@ Wesberry v. Sanders, 376 U.S. 1 (1964), phán quyết ngày 17/2/1964 với tỉ
 
 Điểm then chốt là phân biệt với án lệ chị em: Reynolds v. Sims, 377 U.S. 533 (1964), tuyên bốn tháng sau, điều chỉnh khu vực bầu cử **nghị viện bang** bằng Điều khoản Bảo vệ Bình đẳng của Tu chính án 14, còn Wesberry điều chỉnh khu vực **Hạ viện liên bang** bằng Điều I; hoán đổi hai căn cứ này là lỗi kinh điển khi làm bài. Cả hai đều đứng trong cánh cửa tư pháp mà Baker v. Carr, 369 U.S. 186 (1962) đã mở. Tuyến Hạ viện về sau càng siết chặt trong Kirkpatrick v. Preisler, 394 U.S. 526 (1969) và Karcher v. Daggett, 462 U.S. 725 (1983), đòi hỏi bang phải biện minh cho cả những sai lệch dân số nhỏ. Wesberry không chạm tới Thượng viện hay Cử tri đoàn, vốn là sắp xếp ghi thẳng trong cấu trúc Hiến pháp, và cũng không xử lý gerrymandering đảng phái, vốn bị coi là không thể xét xử tại tòa liên bang trong Rucho v. Common Cause, 588 U.S. 684 (2019). Tại California, các khu vực Hạ viện cũng chịu cùng chuẩn liên bang này và do Ủy ban Tái phân chia độc lập của công dân vẽ lại (Hiến pháp California, Điều XXI).
 
+Chi tiết bổ sung: xương sống của ý kiến phản đối của Harlan là Điều I, Khoản 4 —— thời gian, địa điểm và cách thức bầu cử được giao cho nghị viện bang, và lịch sử lập hiến cũng không tìm thấy yêu cầu dân số bằng nhau theo từng khu vực. Đa số đáp lại rằng Khoản 4 chỉ trao quyền về thủ tục bầu cử, chứ không trao quyền giảm giá trị lá phiếu theo nơi cư trú.
+
+Chi tiết bổ sung: tại California, cơ quan vẽ lại khu vực là Ủy ban Tái phân chia độc lập của công dân: Đề xuất 11 năm 2008 (Prop 11) giao các khu vực cấp bang, Đề xuất 20 năm 2010 (Prop 20) giao tiếp cả khu vực Hạ viện liên bang cho ủy ban, căn cứ là Điều XXI Hiến pháp California, điều này đặt yêu cầu dân số các khu vực gần bằng nhau một cách hợp lý ở vị trí tiêu chuẩn ưu tiên cao.
+
 *Ghi chú học tập cá nhân; không phải tư vấn pháp lý. (Bản dịch sơ bộ, chờ hiệu đính)*
 
 ## हिन्दी（初译待校）
@@ -72,5 +80,9 @@ Wesberry v. Sanders, 376 U.S. 1 (1964), phán quyết ngày 17/2/1964 với tỉ
 Wesberry v. Sanders, 376 U.S. 1 (1964) का निर्णय 17 फ़रवरी 1964 को 6–3 से हुआ; बहुमत मत न्यायमूर्ति Black ने लिखा और न्यायमूर्ति Harlan ने असहमति दर्ज की (Stewart और Clark साथ थे)। जॉर्जिया का कांग्रेस-क्षेत्र मानचित्र 1931 के क़ानून पर अटका था: पाँचवें क्षेत्र में 823,680 लोग थे जबकि नौवें में मात्र 272,154, अर्थात् सबसे छोटे क्षेत्र का एक मत सबसे बड़े क्षेत्र के लगभग तीन मतों के बराबर था। न्यायालय ने अनुच्छेद I, § 2 — जिसके अनुसार प्रतिनिधि «विभिन्न राज्यों की जनता द्वारा चुने जाते हैं» — के आधार पर इस मानचित्र को असंवैधानिक ठहराया। मानदंड वाक्य यथावत याद रखना चाहिए: «**जहाँ तक व्यवहार्य हो, कांग्रेस चुनाव में एक व्यक्ति का मत दूसरे के मत जितना ही मूल्यवान होना चाहिए**» ("as nearly as is practicable one man's vote in a congressional election is to be worth as much as another's")। राज्य को सद्भाव से क्षेत्रों की जनसंख्या यथासंभव समान रखने का प्रयास करना होगा; तीन-गुणा अंतर इस कसौटी पर स्पष्ट रूप से असफल है।
 
 अपनी सहोदर निर्णय से भेद ही मुख्य बिंदु है: Reynolds v. Sims, 377 U.S. 533 (1964), जो चार महीने बाद आया, **राज्य विधानमंडल** क्षेत्रों को चौदहवें संशोधन के समान संरक्षण खंड से नियंत्रित करता है, जबकि Wesberry **कांग्रेस** क्षेत्रों को अनुच्छेद I से; दोनों आधारों की अदला-बदली परीक्षा की क्लासिक भूल है। दोनों निर्णय Baker v. Carr, 369 U.S. 186 (1962) द्वारा खोले गए न्यायोचितता के द्वार के भीतर खड़े हैं। कांग्रेस-क्षेत्र रेखा बाद में Kirkpatrick v. Preisler, 394 U.S. 526 (1969) और Karcher v. Daggett, 462 U.S. 725 (1983) से और कड़ी हुई, जहाँ छोटे जनसंख्या विचलनों का भी औचित्य माँगा गया। Wesberry सीनेट या निर्वाचक मंडल को नहीं छूता, क्योंकि उनकी समानता स्वयं संवैधानिक ढाँचे में लिखी है, और न ही वह दलीय परिसीमन-चालाकी (gerrymandering) को, जिसे Rucho v. Common Cause, 588 U.S. 684 (2019) में संघीय न्यायालय के लिए अयोग्य ठहराया गया। California के कांग्रेस क्षेत्र भी इसी संघीय मानदंड के अधीन स्वतंत्र नागरिक पुनःपरिसीमन आयोग द्वारा बनाए जाते हैं (Cal. Const. art. XXI)।
+
+विवरण-वृद्धि: Harlan के असहमति-मत की रीढ़ अनुच्छेद I, धारा 4 थी —— चुनावों का समय, स्थान व तरीका राज्य विधानमंडलों को सौंपा गया है, और संविधान-निर्माण इतिहास में भी प्रति-क्षेत्र जनसंख्या-समानता की कोई माँग नहीं मिलती। बहुमत ने उत्तर दिया कि धारा 4 चुनाव-प्रक्रिया का अधिकार देती है, निवास के आधार पर मत का मूल्य घटाने का अधिकार नहीं।
+
+विवरण-वृद्धि: California में परिसीमन का कार्य स्वतंत्र नागरिक पुनःपरिसीमन आयोग करता है: 2008 के प्रस्ताव 11 (Prop 11) ने राज्य-स्तरीय क्षेत्र और 2010 के प्रस्ताव 20 (Prop 20) ने कांग्रेस क्षेत्र भी आयोग को सौंपे; आधार California संविधान का अनुच्छेद XXI है, जो क्षेत्रों की जनसंख्या का यथोचित रूप से निकट-समान होना उच्च-प्राथमिकता मानदंडों में रखता है।
 
 *व्यक्तिगत अध्ययन नोट; कानूनी सलाह नहीं। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)*
