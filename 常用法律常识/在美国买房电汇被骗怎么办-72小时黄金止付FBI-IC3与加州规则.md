@@ -62,6 +62,10 @@
 
 **돈을 잃은 뒤.** 메일함이 뚫린 에스크로나 브로커의 과실 책임이 문제될 수 있고(캘리포니아 에스크로는 Financial Code § 17000 이하로 규제), 소유권 보험은 잘못 보낸 송금을 보장하지 않으며, 전신송금 분쟁은 UCC 제4A편, 개인 도난 손실 공제는 2018–2025년 § 165(h)(5)로 원칙적으로 중단됩니다. 예방: 처음부터 에스크로의 실제 전화번호를 저장하고, 그 번호로 전화해 계좌 끝 네 자리를 구두로 확인하며, 지시는 암호화 포털로만 받고, 이메일에 이중 인증을 켜세요. *학습 노트이며 법률 자문이 아닙니다.*
 
+보험 쪽의 경계도 분명히 해 둘 필요가 있습니다. 소유자 권리보험(owner's policy)이 보장하지 않는다고 해서 모든 보험이 닫힌 것은 아니고, 일부 신형 송금사기 특약(wire fraud endorsement)이나 브로커 측의 사이버 책임보험(cyber liability)이 보장할 수 있는 경우가 있어, 담보 여부를 전제하지 말고 약관을 확인해야 합니다. 은행 쪽에서는 UCC 제4A편상 은행이 고객의 지시와 다르게 집행했거나 수취 은행이 명백한 위험 신호를 무시한 경우에만 다툼이 생기고, 본인이 사기꾼의 지시에 따라 송금한 경우에는 은행이 원칙적으로 책임지지 않습니다. 다만 회수와 동결에 대한 협조는 서면 기록을 남기며 계속 요구해야 합니다.
+
+캘리포니아에서는 신고를 두 갈래로 병행할 수 있습니다. 면허 있는 에스크로에 대해서는 금융보호혁신부(DFPI)에, 브로커에 대해서는 부동산국(DRE)에 각각 민원을 넣는 것으로, 두 트랙은 서로 충돌하지 않습니다. 자기 브로커의 메일함이 해킹당한 것으로 의심되면 그 회사에 사이버 사건 대응(cyber incident response) 개시를 요구하십시오. 이는 본인을 지키는 일인 동시에 다른 고객들의 피해를 막는 일이기도 합니다.
+
 ## Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
 
 **Lừa đảo chuyển khoản tiền cọc/mua nhà — quy tắc 72 giờ.** Đây là biến thể xâm phạm email doanh nghiệp (BEC): kẻ gian giả mạo hoặc chiếm hộp thư của công ty ký quỹ (escrow), môi giới hay công ty title rồi gửi "chỉ dẫn chuyển tiền mới" vào phút chót. Dấu hiệu cứng: công ty escrow thật hầu như không bao giờ đổi tài khoản nhận qua email trước ngày closing; tên miền giả chỉ khác một ký tự; càng giục "gửi ngay hôm nay, đừng gọi điện" càng đáng ngờ.
@@ -70,6 +74,10 @@
 
 **Nếu mất tiền.** Trách nhiệm có thể thuộc về escrow/môi giới nếu hộp thư của họ bị xâm nhập (escrow tại California chịu sự điều chỉnh của Financial Code § 17000 trở đi); bảo hiểm title **không** bồi thường tiền bạn tự chuyển nhầm tài khoản; tranh chấp wire theo Điều 4A UCC; khấu trừ thiệt hại do trộm cắp cá nhân nhìn chung bị đình chỉ 2018–2025 theo § 165(h)(5). Phòng tránh: lưu số điện thoại thật của escrow ngay từ đầu, gọi số đó để xác nhận bằng lời bốn số cuối tài khoản, chỉ nhận chỉ dẫn qua cổng mã hóa, bật xác thực hai lớp cho email. *Ghi chú học tập, không phải tư vấn pháp lý.*
 
+Ranh giới bảo hiểm cũng cần nói rõ: việc bảo hiểm quyền sở hữu của chủ nhà (owner's policy) không bồi thường không có nghĩa là mọi bảo hiểm đều đóng — một số điều khoản bổ sung mới về lừa đảo chuyển khoản (wire fraud endorsement) hoặc bảo hiểm trách nhiệm mạng (cyber liability) của bên môi giới có thể bồi thường, nên phải kiểm tra hợp đồng thay vì mặc định là không có. Phía ngân hàng, theo Điều 4A UCC, tranh chấp chỉ nảy sinh khi ngân hàng thực hiện lệnh khác với chỉ dẫn của khách hàng hoặc ngân hàng nhận phớt lờ dấu hiệu nguy hiểm rõ ràng; còn khi chính bạn chuyển tiền theo chỉ dẫn của kẻ lừa đảo, ngân hàng về nguyên tắc không chịu trách nhiệm — tuy nhiên vẫn phải tiếp tục yêu cầu phối hợp thu hồi và đóng băng, và lưu lại bằng văn bản.
+
+Tại California, khiếu nại có thể đi hai đường song song mà không xung đột: khiếu nại công ty escrow có giấy phép lên DFPI (Department of Financial Protection and Innovation), và khiếu nại môi giới lên DRE (Department of Real Estate). Nếu nghi ngờ hộp thư của chính môi giới của bạn bị xâm nhập, hãy yêu cầu công ty của họ khởi động ứng phó sự cố mạng (cyber incident response) — việc này vừa bảo vệ bạn, vừa ngăn thiệt hại cho các khách hàng khác.
+
 ## हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
 
 **क्लोज़िंग वायर धोखाधड़ी — 72 घंटे का नियम।** यह बिज़नेस ईमेल समझौते (BEC) का रूप है: अपराधी एस्क्रो, ब्रोकर या टाइटल कंपनी के मेलबॉक्स की नकल या हैक करके अंतिम समय पर "बदले हुए वायर निर्देश" भेजते हैं। पक्के संकेत: असली एस्क्रो कंपनी क्लोज़िंग से पहले ईमेल से प्राप्तकर्ता खाता लगभग कभी नहीं बदलती; नकली डोमेन में एक अक्षर का अंतर होता है; "आज ही भेजो, फोन मत करो" वाली जल्दबाज़ी खुद चेतावनी है।
@@ -77,3 +85,7 @@
 **पहले घंटे।** (1) कार्ड पर दिए नंबर से बैंक को फोन करें — वायर रिकॉल का अनुरोध करें और प्राप्तकर्ता बैंक से धन फ्रीज़ करने को कहें; वायर में चार्जबैक नहीं होता। (2) तुरंत ic3.gov पर शिकायत करें: FBI IC3 की Recovery Asset Team बैंकों के साथ Financial Fraud Kill Chain चलाती है, और ट्रांसफर के 72 घंटे के भीतर की शिकायतों में फ्रीज़ की संभावना स्पष्ट रूप से अधिक रहती है — यह स्वर्णिम खिड़की है, गारंटी नहीं। (3) स्थानीय पुलिस में रिपोर्ट दर्ज करें। (4) अलग से सहेजे नंबरों से एस्क्रो और एजेंट को फोन कर क्लोज़िंग रोकें और ईमेल हेडर सुरक्षित रखें। गणना: सोमवार 10:00 भेजा, 10:20 पता चला — उसी दिन कार्रवाई घंटा शून्य है; गुरुवार 10:00 तक प्रतीक्षा में पूरे 72 घंटे खत्म।
 
 **धन चला गया तो।** यदि एस्क्रो या ब्रोकरेज का मेलबॉक्स भेदा गया हो तो उसकी लापरवाही का प्रश्न उठ सकता है (कैलिफोर्निया एस्क्रो Financial Code § 17000 और आगे से विनियमित); टाइटल ओनर पॉलिसी गलत खाते में भेजे धन को कवर **नहीं** करती; वायर विवाद UCC Article 4A से चलते हैं; व्यक्तिगत चोरी-हानि कटौती 2018–2025 के लिए § 165(h)(5) से सामान्यतः निलंबित है। रोकथाम: शुरू से एस्क्रो का असली फोन नंबर सहेजें, उसी नंबर पर फोन कर खाते के अंतिम चार अंक मौखिक रूप से सत्यापित करें, निर्देश केवल एन्क्रिप्टेड पोर्टल से लें, ईमेल पर MFA लगाएँ। *केवल अध्ययन नोट, कानूनी सलाह नहीं।*
+
+बीमा की सीमा भी स्पष्ट करनी चाहिए: title owner's policy का कवर न करना यह नहीं कहता कि हर बीमा बंद है — कुछ नई wire fraud endorsement या ब्रोकर की cyber liability policy कवर कर सकती है, इसलिए मानकर न चलें, policy की शर्तें जाँचें। बैंक पक्ष में, UCC Article 4A के तहत विवाद तभी बनता है जब बैंक ने ग्राहक के निर्देश से अलग निष्पादन किया हो या प्राप्तकर्ता बैंक ने स्पष्ट red flag अनदेखा किया हो; जब आप स्वयं ठग के निर्देश पर धन भेजते हैं तो बैंक सामान्यतः उत्तरदायी नहीं होता — फिर भी recall और freeze में सहयोग की माँग लिखित अभिलेख के साथ जारी रखनी चाहिए।
+
+California में शिकायत दो समानांतर मार्गों से हो सकती है और दोनों में टकराव नहीं है: लाइसेंसी escrow के विरुद्ध DFPI (Department of Financial Protection and Innovation) को और ब्रोकर के विरुद्ध DRE (Department of Real Estate) को। यदि संदेह हो कि आपके अपने ब्रोकर का मेलबॉक्स हैक हुआ है, तो उसकी firm से cyber incident response शुरू करने की माँग करें — यह आपकी अपनी सुरक्षा भी है और अन्य ग्राहकों की हानि रोकना भी।
