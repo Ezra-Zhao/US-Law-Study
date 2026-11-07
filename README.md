@@ -452,3 +452,8 @@ MIT © 2026 Guangyi Zhao
 - [Trump v. Hawaii, 585 U.S. 667 (2018) 案例分析](案例分析/Trump-v-Hawaii-2018-案例分析.md) —— 第 9645 号公告入境限制：§ 212(f) 宽授权压过 § 1152(a)(1)(A) 不歧视条款、政教分离条款的合理基础审查、Korematsu 被明文否定与两份异议。（六语对照）
 - [在美国签了强制仲裁协议怎么办：FAA 集体诉讼放弃与加州规则](常用法律常识/在美国签了强制仲裁协议怎么办-FAA集体诉讼放弃与加州规则.md) —— Concepcion／Epic Systems 强推线、§ 1 运输工人与 § 402 性骚扰豁免、Armendariz 不公平审查与 PAGA 在 Adolph 后的剩余空间、opt-out 窗口优先。（六语对照）
 - 补译增量：[Strickland v. Washington 案例分析](案例分析/Strickland-v-Washington-1984-案例分析.md) 与 [博彩法备考核心](法律备考/博彩法备考核心-IGRA分级WireAct与UIGEA及加州规则.md) 韩／越／印三语各补细节增量（Strickland 补两要件可不按序审、Cronic 推定损害例外与 AEDPA 双重尊重；博彩法补 Rosen 的 Wire Act 体育限定与 § 4401 消费税两档），diff 纯增量删 0 行。
+
+## 本轮新增（2026-11-06 18:55 轮）
+- [Smith v. Maryland（1979）案例分析](案例分析/Smith-v-Maryland-1979-案例分析.md) —— 442 U.S. 735，笔录器只记拨出号码不记内容：沿 Katz 两层检验与 Miller, 425 U.S. 435 (1976) 的「承担风险」立第三方原则，Stewart 与 Marshall 两份异议预告智能手机时代争论；后文补 Pen Register Act（18 U.S.C. §§ 3121–3127）的法院命令门槛与 Carpenter, 585 U.S. 296 (2018) 对七天以上基站位置记录的收窄，加州落点为 CalECPA（Penal Code § 1546 起）。（六语对照）
+- [在美国遇到虚假广告与诱饵定价怎么办：FTC 与加州 17500 及 CLRA 规则](常用法律常识/在美国遇到虚假广告与诱饵定价怎么办-FTC与加州17500及CLRA规则.md) —— 联邦层 FTC 法第 5 条（15 U.S.C. § 45(a)）加诱饵指南 16 C.F.R. Part 238 与比价指南 Part 233，并点明第 5 条无私人诉权；加州层 § 17500 与 UCL § 17200 及 CLRA § 1770(a)(9) 诱饵／(a)(13) 假降价、§ 1782(a) 起诉前 30 天通知与小额法庭 10,000 美元上限（CCP § 116.221），附当场留证、雨票、chargeback 与双线投诉清单。（六语对照）
+- 补译增量：[Graham v. Connor 案例分析](案例分析/Graham-v-Connor-1989-案例分析.md) 与 [Lawrence v. Texas 案例分析](案例分析/Lawrence-v-Texas-2003-案例分析.md) 韩／越／印三语各补 2 项细节增量（Graham 补 Scott／Plumhoff 后续框架与糖尿病等嫌疑人自身状况「现场可得而知才进入分析」的定位；Lawrence 补同性禁令的二十世纪产物与少执行私人行为的历史两点及 O'Connor 协同意见只走平等保护的窄路径与未点名审查标准的方法论争论），diff 纯增量删 0 行。
