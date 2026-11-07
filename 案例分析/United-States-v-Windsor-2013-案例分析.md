@@ -109,3 +109,23 @@ United States v. Windsor, 570 U.S. 744 (2013)；Defense of Marriage Act § 3（�
 - **परिणाम।** Obergefell v. Hodges (2015) ने राज्य-स्तरीय विवाह-अधिकार सुलझाया, और 2022 का विवाह-सम्मान अधिनियम (Pub. L. 117-228) ने DOMA के अवशेष निरस्त किए और वैध विवाहों को मान्यता देने का दायित्व संहिताबद्ध किया। परीक्षा-सूत्र: स्रोत पाँचवाँ संशोधन, तर्क अपमान और समानता, दायरा केवल संघीय परिभाषा तक।
 
 *व्यक्तिगत अध्ययन नोट; कानूनी सलाह नहीं।*
+
+## 补译增量 · 한국어 / Tiếng Việt / हिन्दी（细节对齐 · 2026-11-07）
+
+### 한국어 보충 (초역, 원어민 감수 대기)
+
+앞서 번역에서 압축되어 있던 중국어 본문의 세부 사항 두 가지를 보충합니다. 첫째, 26 U.S.C. § 2056(a)의 배우자 공제(unlimited marital deduction)의 작동 방식입니다. 이 공제는 부부 사이에서는 먼저 세금을 매기지 않게 해 주는 통로로, 과세는 생존 배우자가 사망할 때까지 미뤄집니다. Windsor가 이 공제를 받지 못한 것은 세율표의 문제가 아니라 DOMA 제3조의 정의 때문이었습니다. 그리고 제3조는 어느 한 프로그램 안에서의 정책 선택이 아니었습니다. 상속세, 사회보장, 연방 공무원 복지, 이민 등 천 개가 넘는 연방 법령과 규정에 걸쳐, 주가 인정한 한 부류의 결혼 전체를 한꺼번에 인정하지 않은 것이며, 이 이례적인 넓이가 다수의견이 연방 측에 무거운 이유 제시를 요구한 배경이 됐습니다.
+
+둘째, 후속 두 단계의 정확한 좌표입니다. Obergefell v. Hodges, 576 U.S. 644 (2015)는 수정헌법 제14조의 적법절차와 평등보호를 근거로, 주가 동성 커플의 결혼을 허용하고 타주에서 성립한 결혼을 인정해야 한다고 했습니다. 역할 분담으로 정리하면 Windsor는 연방이 인정하는가의 문제, Obergefell은 주가 허용하는가의 문제입니다. 2022년 《결혼존중법》(Pub. L. 117-228)의 인정 의무는 결혼이 성립한 곳(체결지)의 효력을 기준으로 하며, 성별·인종·민족 등을 이유로 타주의 유효한 결혼을 거부할 수 없게 합니다. 이 법의 기능은 보험입니다. 판례의 방향이 나중에 바뀌더라도 인정 의무가 성문법으로 남아 있게 하는 것입니다. (초역, 원어민 감수 대기)
+
+### Bổ sung Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+Phần này bổ sung hai chi tiết trong văn bản chính tiếng Trung đã bị nén trong bản dịch phía trên. Thứ nhất, cơ chế vận hành của khoản trừ cho vợ/chồng theo 26 U.S.C. § 2056(a) (unlimited marital deduction): đây là cơ chế cho phép tài sản chuyển giữa vợ chồng mà trước mắt không bị đánh thuế, việc đánh thuế hoãn lại cho tới khi người vợ/chồng còn sống qua đời. Việc Windsor bị từ chối khoản trừ này không phải vì biểu thuế, mà vì định nghĩa trong Điều 3 của DOMA. Và Điều 3 không phải là lựa chọn chính sách trong một chương trình cụ thể nào: nó từ chối công nhận toàn bộ một loại hôn nhân mà các bang đã công nhận, trên hơn một nghìn đạo luật và quy định liên bang — thuế di sản, an sinh xã hội, phúc lợi nhân viên liên bang, di trú — và chính bề rộng chưa từng có đó là bối cảnh khiến ý kiến đa số đòi hỏi phía liên bang phải đưa ra lý do đủ sức nặng.
+
+Thứ hai, tọa độ chính xác của hai bước tiếp theo. Obergefell v. Hodges, 576 U.S. 644 (2015) dựa trên thủ tục hợp lệ và bảo vệ bình đẳng của Tu chính án thứ Mười bốn, phán rằng các bang phải cho phép các cặp đồng giới kết hôn và phải công nhận hôn nhân thành lập ở bang khác. Phân chia vai trò: Windsor quản việc liên bang có công nhận hay không, Obergefell quản việc bang có cho kết hôn hay không. Nghĩa vụ công nhận trong Đạo luật Tôn trọng Hôn nhân 2022 (Pub. L. 117-228) lấy hiệu lực tại nơi kết hôn được cử hành (nơi 체결 hôn) làm chuẩn, và cấm từ chối công nhận một cuộc hôn nhân hợp lệ của bang khác vì lý do giới tính, chủng tộc, dân tộc. Chức năng của đạo luật này là bảo hiểm: dù hướng phán quyết sau này có thay đổi, nghĩa vụ công nhận vẫn còn nền tảng luật định. (Bản dịch sơ bộ, chờ hiệu đính)
+
+### हिन्दी पूरक (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+यह खंड चीनी मूल पाठ के दो विवरण पूरे करता है जो ऊपर के अनुवाद में संक्षिप्त रह गए थे। पहला, 26 U.S.C. § 2056(a) की वैवाहिक कटौती (unlimited marital deduction) की क्रियाविधि: यह वह रास्ता है जिससे पति-पत्नी के बीच संपत्ति फ़िलहाल बिना कर के जाती है, और कर जीवित पति/पत्नी की मृत्यु तक टल जाता है। Windsor को यह कटौती कर-दर की वजह से नहीं, DOMA की धारा 3 की परिभाषा की वजह से मिली नहीं। और धारा 3 किसी एक कार्यक्रम के भीतर का नीतिगत चुनाव नहीं थी: उसने संपत्ति कर, सामाजिक सुरक्षा, संघीय कर्मचारी लाभ, आव्रजन समेत हज़ार से अधिक संघीय कानूनों और नियमों में राज्यों द्वारा मान्यता-प्राप्त विवाहों की एक पूरी श्रेणी को एक साथ मानने से इनकार कर दिया था, और यही अभूतपूर्व चौड़ाई वह पृष्ठभूमि थी जिससे बहुमत ने संघीय पक्ष से भारी कारण माँगा।
+
+दूसरा, बाद के दो कदमों के ठीक निर्देशांक। Obergefell v. Hodges, 576 U.S. 644 (2015) ने चौदहवें संशोधन के उचित प्रक्रिया और समान संरक्षण के आधार पर कहा कि राज्यों को समलैंगिक जोड़ों को विवाह की अनुमति देनी होगी और दूसरे राज्यों में हुए ऐसे विवाहों को मान्यता देनी होगी। भूमिका-विभाजन से याद रखें: Windsor का प्रश्न था कि संघ माने या नहीं, Obergefell का प्रश्न था कि राज्य विवाह करने दे या नहीं। 2022 के विवाह-सम्मान अधिनियम (Pub. L. 117-228) की मान्यता-बाध्यता विवाह के संपन्न होने के स्थान (celebration) की वैधता को मानक बनाती है, और लिंग, नस्ल, जातीयता जैसे आधारों पर दूसरे राज्य के वैध विवाह को मानने से इनकार करना रोकती है। इस कानून का कार्य बीमा का है: यदि आगे न्यायिक रुझान बदले भी, तो मान्यता का दायित्व वैधानिक आधार पर टिका रहेगा। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
