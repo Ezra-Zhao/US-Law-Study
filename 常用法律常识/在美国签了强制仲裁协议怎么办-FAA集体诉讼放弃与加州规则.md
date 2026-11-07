@@ -54,12 +54,26 @@ Una cláusula de arbitraje obligatorio suele combinar tres elementos: el traslad
 
 강제중재 조항은 보통 세 가지를 묶는다. 분쟁을 법원이 아닌 민간 중재기관(AAA, JAMS)으로 보내는 것, 배심재판을 포기하는 것, 그리고 경제적으로 가장 큰 집단소송 포기이다. 먼저 탈퇴(opt-out) 기간이 있는지, 조항의 범위, 관리 기관과 비용 부담을 확인해야 한다. 연방 기준은 FAA § 2(9 U.S.C. § 2)이며 대법원은 Concepcion, 563 U.S. 333 (2011), Italian Colors, 570 U.S. 228 (2013), Epic Systems, 584 U.S. 497 (2018), Lamps Plus, 587 U.S. 176 (2019)으로 집행 우위 노선을 굳혔다. 단단한 예외도 남아 있다. 운송 노동자 면제(New Prime, 586 U.S. 105; Saxon, 596 U.S. 450), 성폭행·성희롱 분쟁에서 청구인이 중재를 거부할 수 있게 한 2022년 법률(9 U.S.C. § 402), 그리고 사적 조항이 막을 수 없는 정부 기관의 집행이다. 캘리포니아에서는 Armendariz와 Sonic-Calabasas 틀의 불공정성 심사가 일반 계약 항변으로 살아 있고, 임금 사건에서는 Viking River, 596 U.S. 639 (2022)와 Adolph v. Uber, 14 Cal.5th 1104 (2023)를 함께 봐야 한다.
 
+
+덧붙이면, 계약서에 '중재'라는 단어가 없다고 해서 중재 합의가 없는 것은 아닙니다. 중개계좌의 Regulation BI 문서, 신용카드의 조건 변경 통지(change-in-terms), 클릭랩(clickwrap) 온라인 약관도 중재를 포함할 수 있고, 판단 기준은 본인의 주관적 인상이 아니라 계약 해석입니다. 비용 면에서는 소비자와 고용 중재에서 캘리포니아 법과 주요 기관 규칙이 보통 기업 측에 중재인 비용의 대부분을 부담하게 합니다. 예를 들어 AAA 고용 규칙에서는 직원이 제한된 신청 수수료만 부담하므로, 높은 중재 비용을 개인에게 전가하는 약관 자체가 불공정성 심사의 소재가 됩니다.
+
+또 하나 주의할 점은 법원의 처리 방식입니다. 법원은 불공정한 조항을 분리(sever)한 뒤 나머지를 근거로 중재를 명하는 경우가 많으므로, 일부 조항이 불공하다는 사정만으로 곧바로 법원 소송으로 돌아간다고 단정할 수 없습니다.
+
 ## Tiếng Việt (bản dịch sơ bộ · 初译待校)
 
 Điều khoản trọng tài bắt buộc thường gồm ba phần: chuyển tranh chấp từ tòa án sang tổ chức trọng tài tư nhân (AAA, JAMS), từ bỏ xét xử bồi thẩm, và quan trọng nhất là từ bỏ kiện tập thể. Trước hết hãy kiểm tra thời hạn rút lui (opt-out, thường 30-60 ngày trong hợp đồng tiêu dùng), phạm vi điều khoản, tổ chức quản lý và phân bổ chi phí. Nền tảng liên bang là FAA § 2 (9 U.S.C. § 2), với đường lối ủng hộ thi hành mạnh mẽ: Concepcion, 563 U.S. 333 (2011), Italian Colors, 570 U.S. 228 (2013), Epic Systems, 584 U.S. 497 (2018) và Lamps Plus, 587 U.S. 176 (2019). Các ngoại lệ cứng vẫn tồn tại: miễn trừ cho lao động vận tải tại § 1 (New Prime, 586 U.S. 105; Saxon, 596 U.S. 450), đạo luật 2022 cho phép người khiếu nại không áp dụng trọng tài trong tranh chấp tấn công hoặc quấy rối tình dục (9 U.S.C. § 402), và hoạt động thực thi của cơ quan nhà nước mà điều khoản tư nhân không thể chặn. Tại California, khung xét tính bất công Armendariz và Sonic-Calabasas vẫn còn qua các biện hộ hợp đồng chung, và vụ lương phải đọc Viking River, 596 U.S. 639 (2022) cùng Adolph v. Uber, 14 Cal.5th 1104 (2023) về tư cách kiện đại diện PAGA.
+
+
+Cần nói thêm rằng hợp đồng không ghi chữ trọng tài không có nghĩa là không có thỏa thuận trọng tài. Tài liệu Regulation BI của tài khoản môi giới, thông báo thay đổi điều khoản (change-in-terms) của thẻ tín dụng và điều khoản trực tuyến dạng clickwrap đều có thể đưa trọng tài vào, và tiêu chuẩn xét là giải thích hợp đồng chứ không phải ấn tượng chủ quan của bạn. Về chi phí, trong trọng tài tiêu dùng và lao động, luật California cùng quy tắc của các tổ chức lớn thường yêu cầu phía doanh nghiệp gánh phần lớn phí trọng tài viên; ví dụ theo quy tắc lao động của AAA, người lao động chỉ nộp một khoản phí nộp đơn hạn chế, vì vậy điều khoản đẩy chi phí trọng tài cao sang cá nhân tự nó đã là cứ liệu để xét tính bất công.
+
+Một điểm nữa là cách tòa xử lý: tòa thường tách (sever) điều khoản bất công ra rồi vẫn ra lệnh trọng tài dựa trên phần còn lại, nên việc một số điều khoản bị coi là bất công không nhất thiết có nghĩa là vụ việc sẽ quay lại tòa án.
 
 ## हिन्दी (प्रारंभिक अनुवाद · 初译待校)
 
 अनिवार्य मध्यस्थता खंड आमतौर पर तीन बातें जोड़ता है: विवाद अदालत से निजी मंच (AAA, JAMS) में चला जाता है, जूरी सुनवाई छूट जाती है, और सबसे महत्वपूर्ण, सामूहिक मुकदमे का अधिकार छूट जाता है। सबसे पहले opt-out अवधि (उपभोक्ता अनुबंधों में अक्सर 30-60 दिन), खंड का दायरा, प्रशासक संस्था और लागत-विभाजन देखें। संघीय आधार FAA § 2 (9 U.S.C. § 2) है और सर्वोच्च न्यायालय की लाइन प्रवर्तन के पक्ष में मज़बूत है: Concepcion, 563 U.S. 333 (2011), Italian Colors, 570 U.S. 228 (2013), Epic Systems, 584 U.S. 497 (2018), Lamps Plus, 587 U.S. 176 (2019)। ठोस अपवाद बचे हैं: § 1 का परिवहन-श्रमिक अपवाद (New Prime, 586 U.S. 105; Saxon, 596 U.S. 450), 2022 का कानून जो यौन हमले व उत्पीड़न विवादों में दावेदार को मध्यस्थता न अपनाने का विकल्प देता है (9 U.S.C. § 402), और सरकारी प्रवर्तन, जिसे निजी खंड नहीं रोक सकता। कैलिफ़ोर्निया में Armendariz और Sonic-Calabasas का अनुचितता (unconscionability) ढांचा सामान्य अनुबंध बचाव के रूप में जीवित है, और वेतन मामलों में Viking River, 596 U.S. 639 (2022) के साथ Adolph v. Uber, 14 Cal.5th 1104 (2023) पढ़ना ज़रूरी है।
 
+
+यह भी जोड़ना चाहिए कि अनुबंध में 'मध्यस्थता' शब्द न लिखा हो तो इसका अर्थ यह नहीं कि मध्यस्थता समझौता है ही नहीं। ब्रोकरेज खाते के Regulation BI दस्तावेज़, क्रेडिट कार्ड के change-in-terms नोटिस और clickwrap ऑनलाइन शर्तें भी मध्यस्थता को शामिल कर सकती हैं, और निर्णय का मानदंड आपका व्यक्तिपरक धारणा नहीं बल्कि अनुबंध की व्याख्या है। लागत के मोर्चे पर, उपभोक्ता व रोज़गार मध्यस्थता में California कानून और प्रमुख संस्थाओं के नियम आमतौर पर मध्यस्थ शुल्क का बड़ा हिस्सा कंपनी पर डालते हैं; उदाहरण के लिए AAA के रोज़गार नियमों में कर्मचारी केवल सीमित दाखिला शुल्क देता है, इसलिए उच्च मध्यस्थता लागत व्यक्ति पर डालने वाला खंड स्वयं अनुचितता समीक्षा की सामग्री बन जाता है।
+
+एक और ध्यान देने योग्य बात अदालत का तरीका है: अदालतें अक्सर अनुचित खंडों को अलग (sever) करके शेष के आधार पर मध्यस्थता का आदेश देती हैं, इसलिए कुछ खंडों का अनुचित होना अपने आप में यह नहीं कहता कि मामला अदालत में लौट जाएगा।
 *声明：本文为个人学习笔记，不构成法律、税务或医疗建议。*
