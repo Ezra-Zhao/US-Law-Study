@@ -64,3 +64,26 @@ Chi tiết bổ sung 3 — thứ tự phân tích ở California và vị trí s
 पूरक विवरण 2 — असहमति की दो आवाज़ें: न्यायमूर्ति Breyer की असहमति लगभग 80 पृष्ठ लंबी थी और Brown, 347 U.S. 483 (1954) के वादे तथा स्थानीय लोकतांत्रिक निर्णय के आधार पर स्वैच्छिक एकीकरण योजनाओं के लिए समीक्षा में गुंजाइश माँगती थी; न्यायमूर्ति Stevens ने अलग असहमति में आरोप लगाया कि बहुमत ने Brown की विरासत को फिर से लिख दिया। केवल सापेक्ष बहुमत का निष्कर्ष रटने से यह समझ नहीं आएगा कि यह मामला आज भी विवाद के केंद्र में क्यों है।
 
 पूरक विवरण 3 — California में विश्लेषण का क्रम और 2023 के बाद की स्थिति: California में राज्य संविधान अनुच्छेद I, धारा 31 (1996 का Proposition 209) चौदहवें संशोधन से अधिक कठोर है, इसलिए पहले धारा 31 देखी जाती है, फिर Parents Involved; San Francisco जैसी लॉटरी में सामाजिक-आर्थिक भार जोड़ने वाली व्यवस्था इसी क्रम में टिकती है। साथ ही Students for Fair Admissions v. Harvard, 600 U.S. 181 (2023) विश्वविद्यालय प्रवेश में नस्लीय वरीयता का मामला था और उसने Kennedy की सहमति द्वारा छोड़े गए "व्यक्ति-वर्गीकरण रहित साधनों" के क्षेत्र को छुआ ही नहीं — दोनों मामलों के क्षेत्र मिलाना नहीं चाहिए।
+
+
+---
+
+## 补译增量（2026-11-06 本轮）
+
+### 한국어 (초역, 원어민 감수 대기)
+
+보충 세부 4 — Roberts의 명문장: 상대다수의견은 「인종에 기초한 차별을 멈추는 방법은 인종에 기초한 차별을 멈추는 것이다」(The way to stop discrimination on the basis of race is to stop discriminating on the basis of race.)라는 한 문장으로 논지를 압축했다. 이 문장은 구제 목적이 없는 자발적 계획에서 개인별 인종 분류 자체가 곧 문제라는 상대다수의 색맹(colorblind) 쪽 독법을 대표하며, 반대의견과 이후 논쟁이 가장 자주 겨냥하는 대목이기도 하다.
+
+보충 세부 5 — Grutter가 이전되지 않는 이유의 뿌리: Grutter v. Bollinger, 539 U.S. 306 (2003)이 인정한 다양성 이익은 대학의 학문적 자유와, 인종을 여러 요소 중 하나로만 보는 개별화된 전체 평가(holistic review)에 뿌리를 두고 있었다. 고등교육의 그 전제가 초·중등 공립학교의 기계적 배정에는 없으므로 다양성 논거를 그대로 옮길 수 없다는 것이 본문의 구별이다. 같은 «다양성»이라는 단어라도 제도가 다르면 헌법 평가가 달라진다는 점을 놓치면 이 판결의 핵심을 놓친다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+Chi tiết bổ sung 4 — câu văn nổi tiếng của Chánh án Roberts: ý kiến đa số tương đối gói gọn lập luận trong một câu — «Cách để chấm dứt phân biệt đối xử dựa trên chủng tộc là ngừng phân biệt đối xử dựa trên chủng tộc» (The way to stop discrimination on the basis of race is to stop discriminating on the basis of race.). Câu này đại diện cho cách đọc «mù màu» của phe đa số tương đối: khi không có mục đích khắc phục, việc phân loại từng cá nhân theo chủng tộc tự nó đã là vấn đề, và đây cũng là đoạn bị phe phản đối cùng các tranh luận sau này nhắm tới nhiều nhất.
+
+Chi tiết bổ sung 5 — gốc rễ khiến lý lẽ Grutter không chuyển sang được: lợi ích đa dạng mà Grutter v. Bollinger, 539 U.S. 306 (2003), công nhận bắt rễ từ tự do học thuật của trường đại học và cách xét tuyển tổng thể, cá thể hóa, trong đó chủng tộc chỉ là một yếu tố trong nhiều yếu tố. Tiền đề đó không tồn tại trong cơ chế phân chỗ máy móc ở trường công K-12, nên không thể bê nguyên lý lẽ đa dạng sang; cùng một chữ «đa dạng» nhưng khác thiết chế thì đánh giá hiến pháp cũng khác — bỏ qua điểm này là bỏ qua trọng tâm của phán quyết.
+
+### हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+पूरक विवरण 4 — मुख्य न्यायाधीश Roberts का प्रसिद्ध वाक्य: सापेक्ष बहुमत ने अपना तर्क एक वाक्य में समेटा — «नस्ल के आधार पर भेदभाव रोकने का तरीका है, नस्ल के आधार पर भेदभाव करना बंद कर देना» (The way to stop discrimination on the basis of race is to stop discriminating on the basis of race.)। यह वाक्य सापेक्ष बहुमत की «वर्ण-अंध» पढ़त को दर्शाता है: उपचारात्मक उद्देश्य न हो तो व्यक्ति-वार नस्लीय वर्गीकरण स्वयं ही समस्या है, और यही वह अंश है जिस पर असहमति और बाद की बहसें सबसे अधिक निशाना साधती हैं।
+
+पूरक विवरण 5 — Grutter का तर्क क्यों स्थानांतरित नहीं होता, इसकी जड़: Grutter v. Bollinger, 539 U.S. 306 (2003) ने जिस विविधता-हित को मान्यता दी वह विश्वविद्यालय की शैक्षणिक स्वतंत्रता और व्यक्तिगत, समग्र मूल्यांकन (holistic review) में निहित था, जहाँ नस्ल कई कारकों में से केवल एक होती है। सार्वजनिक K-12 की यांत्रिक आवंटन-व्यवस्था में वह पूर्वधारणा मौजूद नहीं, इसलिए विविधता-तर्क वैसा का वैसा नहीं ले जाया जा सकता; एक ही शब्द «विविधता» अलग संस्था में अलग संवैधानिक मूल्यांकन पाता है — यही इस निर्णय का केंद्र है।
