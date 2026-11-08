@@ -26,10 +26,24 @@ Una citación (subpoena) no es una demanda, pero ignorarla puede acarrear desaca
 
 소환장(subpoena)은 소장이 아니지만 무시하면 법정모욕의 위험이 있습니다. 연방 민사 소환장은 연방민사소송규칙 Rule 45가 규율합니다. 문서 제출 소환장에 대한 이의는 이행일과 송달 후 14일 중 더 이른 시점까지 서면으로 제기해야 합니다(Rule 45(d)(2)(B)). 수령 즉시 자료 보존 의무가 발생하며, 관련 자료를 삭제하면 증거인멸(spoliation)이 될 수 있습니다. 특권·과도한 부담·관련성 문제는 이의신청이나 보호명령으로 다뤄야 합니다. 캘리포니아 주법원은 Code Civ. Proc. §§ 1985–1997, 소비자 기록은 § 1985.3을 참고하십시오. 개인 학습 노트입니다.
 
+
+보충: 소환장은 세 종류로 나뉩니다. 출석해 증언하라는 소환장(subpoena ad testificandum), 문서·물증을 내라는 소환장(subpoena duces tecum), 그리고 연방 민사 사건에서는 Rule 45로 통일해 처리합니다. 받은 뒤 첫 단계는 발행 법원, 사건번호, 요구 사항, 출석 또는 제출의 시간과 장소, 발행인을 확인하는 것입니다.
+
+보충: Rule 45(d)(3)은 소환장을 취소하거나 변경해야 하는 경우(답변할 합리적 시간을 주지 않은 경우, 특권 사항의 공개를 요구하고 예외가 없는 경우)와 법원이 재량으로 취소할 수 있는 경우(영업비밀 등)를 나눠 적습니다. 당사자가 아닌 제3자가 받은 소환장에 대한 보호는 통상 더 강하고, 캘리포니아 형사 소환장은 Penal Code § 1326 이하를 봅니다.
+
 ## Tiếng Việt（初译待校）
 
 Trát đòi hầu tòa (subpoena) không phải đơn kiện, nhưng phớt lờ có thể bị coi là khinh thường tòa. Ở cấp liên bang dân sự, Rule 45 điều chỉnh: phản đối trát yêu cầu nộp tài liệu phải gửi trước ngày phải tuân thủ hoặc trong 14 ngày kể từ khi tống đạt, tùy thời điểm nào sớm hơn (Rule 45(d)(2)(B)). Nhận trát là phát sinh nghĩa vụ bảo quản tài liệu; xóa tài liệu liên quan có thể bị coi là hủy chứng cứ. Đặc quyền, gánh nặng quá mức và tính liên quan cần được nêu bằng văn bản phản đối hoặc lệnh bảo vệ. California áp dụng Code Civ. Proc. §§ 1985–1997 và § 1985.3 cho hồ sơ người tiêu dùng. Ghi chú học tập, không phải tư vấn pháp lý.
 
+
+Bổ sung: trát có ba loại — trát yêu cầu ra trình diện làm chứng (subpoena ad testificandum), trát yêu cầu nộp tài liệu hay vật chứng (subpoena duces tecum), và trong vụ dân sự liên bang thì thống nhất theo Rule 45. Bước đầu tiên khi nhận được là kiểm tra tòa phát hành, số vụ án, nội dung yêu cầu, thời gian và địa điểm phải ra trình diện hoặc nộp, và người ký phát.
+
+Bổ sung: Rule 45(d)(3) phân biệt các trường hợp bắt buộc hủy hoặc sửa trát (không cho thời gian trả lời hợp lý; yêu cầu tiết lộ tài liệu được đặc quyền mà không có ngoại lệ) với các trường hợp tòa có thể tùy nghi hủy (như bí mật thương mại). Bên thứ ba không phải đương sự nhận trát thường được bảo vệ mạnh hơn, và trát hình sự ở California xem Penal Code § 1326 trở đi.
+
 ## हिन्दी（初译待校）
 
 सम्मन (subpoena) कोई मुकदमा नहीं है, लेकिन इसे नज़रअंदाज़ करने पर अदालत की अवमानना हो सकती है। संघीय सिविल मामलों में Rule 45 लागू होता है: दस्तावेज़ माँगने वाले सम्मन पर आपत्ति अनुपालन तिथि या तामील के 14 दिनों के भीतर, जो भी पहले हो, देनी चाहिए (Rule 45(d)(2)(B))। सम्मन मिलते ही दस्तावेज़ संरक्षित करने का दायित्व शुरू हो जाता है; संबंधित सामग्री मिटाना साक्ष्य-नाश (spoliation) हो सकता है। विशेषाधिकार और अनुचित बोझ जैसे मुद्दे आपत्ति या संरक्षण आदेश से उठाएँ। कैलिफ़ोर्निया में Code Civ. Proc. §§ 1985–1997 देखें। यह अध्ययन नोट है, कानूनी सलाह नहीं।
+
+पूरक: सम्मन तीन प्रकार के होते हैं — गवाही के लिए उपस्थित होने का सम्मन (subpoena ad testificandum), दस्तावेज़ या वस्तु-साक्ष्य पेश करने का सम्मन (subpoena duces tecum), और संघीय सिविल मामलों में सब Rule 45 के तहत एकीकृत हैं। मिलने पर पहला कदम है जारी करने वाला न्यायालय, वाद संख्या, माँगी गई चीज़, उपस्थिति या पेशी का समय-स्थान और जारीकर्ता की जाँच करना।
+
+पूरक: Rule 45(d)(3) उन स्थितियों को अलग करता है जिनमें सम्मन रद्द या संशोधित करना अनिवार्य है (उचित उत्तर-समय न दिया गया हो; विशेषाधिकार-युक्त सामग्री माँगी गई हो और कोई अपवाद न हो) और जिनमें न्यायालय विवेक से रद्द कर सकता है (जैसे व्यापार-रहस्य)। पक्षकार न होने वाले तीसरे पक्ष को मिले सम्मन पर सुरक्षा सामान्यतः अधिक मज़बूत होती है, और California के आपराधिक सम्मन Penal Code § 1326 आदि में देखे जाते हैं।
