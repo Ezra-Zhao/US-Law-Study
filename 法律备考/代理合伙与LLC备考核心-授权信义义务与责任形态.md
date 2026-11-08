@@ -79,6 +79,10 @@
 - **RUPA(1997)의 신인의무는 두 가지뿐.** § 404는 충성의무와 주의의무로 한정하고, 여기에 신의성실의 계약상 의무가 더해진다. 2013년 조화판(§ 409)은 이 한정을 완화했다. 기준 판례는 *Meinhard v. Salmon*, 249 N.Y. 458 (1928)로, Cardozo 판사의 "the punctilio of an honor the most sensitive"라는 문구와 임대 갱신 기회의 귀속이 핵심이다.
 - **LLC는 계약 자유가 원칙, 단 주마다 한계가 다르다.** 델라웨어 § 18-1101(b)–(c)는 운영계약으로 신인의무를 확대·제한·제거할 수 있게 하지만, 묵시적 신의성실 의무는 제거할 수 없다. 캘리포니아는 § 17701.10상 운영계약이 충성·주의의무를 제거할 수 없고, § 17704.09가 그 내용을 정한다.
 
+보충 1: 추인(ratification)도 시험 단골이다. 권한 없는 행위를 본인이 모든 중요한 사실을 알고 난 뒤 추인하면 효력이 행위 시점으로 소급한다. 중요한 사실을 모른 채 한 추인은 무효이므로, 알고 있었는지가 함정 지점이다.
+
+보충 2: LLC의 책임 방패는 절대적이지 않다. 개인 보증을 섰거나, 개인 자금과 회사 자금을 섞었거나, 자본이 심각하게 부족하거나, 사기가 있으면 법원이 베일을 꿰뚫어(veil piercing) 구성원에게 개인 책임을 물을 수 있다.
+
 *개인 학습 노트이며 법률 조언이 아닙니다.*
 
 ## Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
@@ -91,6 +95,10 @@
 - **RUPA (1997) chỉ có hai nghĩa vụ ủy thác.** § 404 giới hạn ở nghĩa vụ trung thành và nghĩa vụ cẩn trọng, cộng thêm nghĩa vụ hợp đồng về thiện chí; bản hài hòa 2013 (§ 409) đã nới lỏng cách diễn đạt này. Án lệ chuẩn là *Meinhard v. Salmon*, 249 N.Y. 458 (1928) với câu nổi tiếng của thẩm phán Cardozo "the punctilio of an honor the most sensitive".
 - **LLC lấy tự do hợp đồng làm đầu, nhưng mỗi bang một khác.** Delaware (§ 18-1101(b)–(c)) cho phép thỏa thuận điều hành mở rộng, hạn chế hoặc loại bỏ nghĩa vụ ủy thác, nhưng không được loại bỏ khế ước ngầm về thiện chí. California chặt chẽ hơn: thỏa thuận (§ 17701.10) không được loại bỏ nghĩa vụ trung thành hay cẩn trọng, và § 17704.09 quy định nội dung các nghĩa vụ đó.
 
+Bổ sung 1: Phê chuẩn sau (ratification) cũng là điểm thi quen thuộc: hành vi không có thẩm quyền, nếu được principal phê chuẩn sau khi đã biết mọi sự kiện quan trọng, sẽ có hiệu lực hồi tố về thời điểm thực hiện hành vi; phê chuẩn khi chưa biết đủ sự kiện quan trọng thì vô hiệu, nên vấn đề biết hay chưa biết chính là cái bẫy.
+
+Bổ sung 2: Lá chắn trách nhiệm của LLC không phải tuyệt đối: bảo lãnh cá nhân, trộn lẫn tiền cá nhân với tiền công ty, vốn quá mỏng một cách nghiêm trọng hoặc gian lận đều có thể khiến tòa xuyên thủng bức màn (pierce the veil) và buộc thành viên chịu trách nhiệm cá nhân.
+
 *Ghi chép học tập cá nhân, không phải tư vấn pháp lý.*
 
 ## हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
@@ -102,6 +110,10 @@
 - **डिफ़ॉल्ट नियम।** करार न हो तो लाभ बराबर बँटता है (§ 401(b), पूंजी अनुपात से नहीं), मताधिकार बराबर होता है (§ 401(f)) और साझेदारी ऋणों के लिए संयुक्त व पृथक दायित्व होता है (§ 306(a)); LLP पंजीकरण से दायित्व-कवच मिलता है। हर साझेदार सामान्य कारोबार में साझेदारी का एजेंट है (§ 301)।
 - **RUPA (1997) में केवल दो न्यासी कर्तव्य।** § 404 इन्हें निष्ठा और सावधानी तक सीमित करता है, साथ में सद्भाव का संविदात्मक दायित्व जुड़ता है; 2013 के सामंजस्य संस्करण (§ 409) ने यह सीमा ढीली की। मानक मामला *Meinhard v. Salmon*, 249 N.Y. 458 (1928) है, जहाँ Cardozo ने "the punctilio of an honor the most sensitive" कहा और पट्टा-नवीनीकरण का अवसर दोनों साझेदारों का माना।
 - **LLC में संविदा-स्वतंत्रता, पर राज्य की सीमा के भीतर।** डेलावेयर § 18-1101(b)–(c) परिचालन करार से न्यासी कर्तव्यों को बढ़ाने, घटाने या समाप्त करने देता है, किंतु सद्भाव का निहित अनुबंध कभी समाप्त नहीं हो सकता। कैलिफ़ोर्निया अधिक संयमित है: करार (§ 17701.10) निष्ठा या सावधानी के कर्तव्य समाप्त नहीं कर सकता, और § 17704.09 इन कर्तव्यों की सामग्री तय करता है।
+
+पूरक 1: अनुसमर्थन (ratification) भी परीक्षा का प्रिय बिंदु है: बिना अधिकार किया गया कार्य यदि principal सभी महत्वपूर्ण तथ्यों को जानकर बाद में अनुमोदित कर दे, तो उसका प्रभाव कार्य के समय से माना जाता है; महत्वपूर्ण तथ्य जाने बिना किया गया अनुसमर्थन अमान्य है, इसलिए जानकारी थी या नहीं, यही जाल है।
+
+पूरक 2: LLC का दायित्व-कवच निरपेक्ष नहीं है: व्यक्तिगत गारंटी, निजी और कंपनी धन का मिश्रण, गंभीर रूप से अपर्याप्त पूंजी या धोखाधड़ी होने पर न्यायालय veil piercing करके सदस्य को व्यक्तिगत रूप से उत्तरदायी ठहरा सकता है।
 
 *यह व्यक्तिगत अध्ययन नोट है; कानूनी सलाह नहीं है।*
 
