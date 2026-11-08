@@ -32,6 +32,10 @@ La base legal de la pena efectivamente impuesta es 18 U.S.C. § 3553(a). Su mand
 
 실제로 선고되는 형의 성문법 근거는 18 U.S.C. § 3553(a)입니다. 그 첫 명령이 절제 원칙(parsimony principle), 즉 형은 충분하되 법정 목적 달성에 필요한 정도를 넘어서는 안 된다(sufficient, but not greater than necessary)는 것입니다. 이어서 법원은 범죄의 성격과 정황, 피고인의 이력과 특성을 고려해야 하고, 범죄의 중대성 반영, 법 존중의 촉진, 공정한 처벌, 억제, 공공 보호, 교육·직업 훈련과 의료·교정 처우의 필요성을 따져야 하며, 선고 가능한 형의 종류, 지침 구간과 정책 성명, 비슷한 피고인 사이의 부당한 양형 격차 회피, 피해자에 대한 배상 필요성도 살펴야 합니다. § 3553(a)를 고려했다고만 쓰지 말고, 사실관계가 어떤 요소를 건드리는지, 각 요소가 어느 방향으로 당기는지를 이름으로 지적하십시오. (초역·待校)
 
+보충하면, Mistretta의 인정은 두 가지로 나누어 적어야 합니다. 첫째, 의회는 양형 규칙을 만드는 권한을 위원회에 위임할 수 있습니다. 둘째, 위원회를 사법부 안에 두는 것도 위헌이 아닙니다. 도전이 기각됐다는 한 줄로 끝내지 마십시오.
+
+보충하면, § 1B1.1의 적용 순서는 여덟 단계로 셉니다. 기본 범죄등급에서 출발해 구체적 범죄 특성과 조정을 거쳐 총 범죄등급을 정하고, 전과 점수를 매겨 범주를 정한 뒤 양형표를 확인하고, 지침상 이탈 사유와 정책 성명을 검토한 다음, 마지막에 § 3553(a)로 선고하는 흐름입니다. 단계 수를 빠뜨리면 계산 절차를 묻는 문제에서 감점됩니다.
+
 ### Tiếng Việt (bản dịch sơ bộ · 初译待校)
 Tuyên án liên bang có hai nhân vật chính. Thứ nhất là Ủy ban Tuyên án Hoa Kỳ (USSC), một cơ quan độc lập nằm trong ngành tư pháp, ban hành Hướng dẫn Tuyên án Liên bang (USSG). Thứ hai là thẩm phán tuyên án, người nắm cả các yếu tố tuyên án theo luật định lẫn khoảng án khuyến nghị do Hướng dẫn tính ra. Tính hợp hiến của Ủy ban đã được định đoạt sớm: Mistretta v. United States, 488 U.S. 361 (1989), bác bỏ các thách thức về phân chia quyền lực và ủy quyền quá mức. Khi đề thi tấn công chính Ủy ban, hãy trả lời bằng Mistretta trước; vụ Booker bàn ở dưới liên quan đến một vấn đề khác.
 
@@ -39,12 +43,20 @@ Phải biết tự chạy phép tính. Theo USSG § 1B1.1, tòa xác định m�
 
 Căn cứ luật định cho bản án thực tế áp dụng là 18 U.S.C. § 3553(a). Mệnh lệnh mở đầu của điều luật là nguyên tắc tiết chế (parsimony principle): bản án phải đủ, nhưng không lớn hơn mức cần thiết (sufficient, but not greater than necessary). Tòa sau đó phải cân nhắc tính chất và hoàn cảnh của hành vi phạm tội cùng lý lịch và đặc điểm của bị cáo; nhu cầu phản ánh mức nghiêm trọng của tội, thúc đẩy tôn trọng pháp luật, bảo đảm hình phạt công bằng, răn đe, bảo vệ công chúng, và cung cấp đào tạo, chăm sóc y tế hoặc điều trị cải huấn cần thiết; các loại hình phạt sẵn có; khoảng án của Hướng dẫn và các tuyên bố chính sách; nhu cầu tránh chênh lệch án vô lý giữa các bị cáo tương tự; và nhu cầu bồi thường cho nạn nhân. Đừng chỉ đọc thuộc rằng tòa đã xem xét § 3553(a): hãy nêu tên những yếu tố nào mà tình tiết kích hoạt và mỗi yếu tố kéo theo hướng nào. (bản dịch sơ bộ·待校)
 
+Bổ sung: phán quyết Mistretta cần tách thành hai thừa nhận — Quốc hội có thể ủy quyền lập quy tắc tuyên án cho Ủy ban, và việc đặt Ủy ban trong ngành tư pháp cũng không vi hiến; đừng rút gọn thành một câu rằng thách thức đã bị bác bỏ.
+
+Bổ sung: trình tự áp dụng tại § 1B1.1 gồm tám bước — từ mức tội danh cơ sở, qua các đặc điểm cụ thể và các điều chỉnh tới tổng mức tội danh, rồi điểm tiền án và hạng tiền án, tra bảng tuyên án, xét căn cứ departure và các tuyên bố chính sách, cuối cùng mới tuyên án theo § 3553(a); bỏ sót con số tám bước dễ mất điểm ở câu hỏi về quy trình tính toán.
+
 ### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
 संघीय सज़ा के दो मुख्य पात्र हैं। पहला है अमेरिकी सज़ा आयोग (USSC), न्यायिक शाखा के भीतर एक स्वतंत्र संस्था, जो संघीय सज़ा दिशानिर्देश (USSG) बनाती है। दूसरा है सज़ा देने वाला न्यायाधीश, जिसके पास वैधानिक सज़ा कारक और दिशानिर्देशों द्वारा निकाली गई सलाहकारी सीमा दोनों हैं। आयोग की संवैधानिकता जल्द तय हो गई थी: Mistretta v. United States, 488 U.S. 361 (1989) ने शक्तियों के पृथक्करण और अतिप्रत्यायोजन की चुनौतियों को खारिज कर दिया। जब परीक्षा का प्रश्न आयोग पर ही हमला करे, तो पहले Mistretta से उत्तर दें; नीचे चर्चित Booker किसी अन्य समस्या से संबंधित है।
 
 गणना स्वयं करना आना चाहिए। USSG § 1B1.1 के क्रम से दोषसिद्ध अपराध का आधार अपराध स्तर (offense level) तय होता है, विशिष्ट अपराध विशेषताएँ और ज़िम्मेदारी की स्वीकृति सहित समायोजन लगते हैं, और कुल अपराध स्तर निकलता है; फिर आपराधिक इतिहास अंक गिनकर अभियुक्त को अध्याय छह के तहत आपराधिक इतिहास श्रेणी (criminal history category) I से VI में रखा जाता है; अंत में अध्याय पाँच, भाग A की सज़ा तालिका (Sentencing Table) देखी जाती है। ऊर्ध्वाधर अक्ष पर 43 अपराध स्तर और क्षैतिज अक्ष पर छह इतिहास श्रेणियाँ हैं, और प्रतिच्छेद वाला खाना महीनों में अनुशंसित सीमा देता है, जिसमें स्तर 43 आजीवन कारावास के बराबर है। Booker के बाद निकाली गई सीमा प्रारंभ बिंदु और मानदंड है, स्वयं में अंतिम बिंदु कभी नहीं।
 
 वास्तव में लगाई गई सज़ा का वैधानिक आधार 18 U.S.C. § 3553(a) है। इसका आरंभिक आदेश मितव्ययिता सिद्धांत (parsimony principle) है: सज़ा पर्याप्त हो, किंतु आवश्यक से अधिक न हो (sufficient, but not greater than necessary)। इसके बाद न्यायालय को अपराध की प्रकृति व परिस्थितियाँ और अभियुक्त का इतिहास व विशेषताएँ देखनी होती हैं; अपराध की गंभीरता को दर्शाने, कानून के प्रति सम्मान बढ़ाने, न्यायोचित दंड देने, निरोध, जनता की सुरक्षा, और आवश्यक शैक्षिक या व्यावसायिक प्रशिक्षण, चिकित्सा देखभाल या सुधारात्मक उपचार देने की आवश्यकता; उपलब्ध सज़ाओं के प्रकार; दिशानिर्देश सीमा व नीति कथन; समान स्थिति वाले अभियुक्तों के बीच अनुचित सज़ा-अंतर से बचाव; और पीड़ितों को क्षतिपूर्ति की आवश्यकता। केवल यह न लिखें कि § 3553(a) पर विचार हुआ: यह बताएँ कि तथ्य किन कारकों को सक्रिय करते हैं और प्रत्येक कारक किस दिशा में खींचता है। (प्रारंभिक अनुवाद·待校)
+
+पूरक: Mistretta के निर्णय को दो अलग स्वीकृतियों में लिखें — कांग्रेस सज़ा-नियम बनाने का अधिकार आयोग को सौंप सकती है, और आयोग को न्यायिक शाखा में रखना भी असंवैधानिक नहीं है; इसे केवल «चुनौती खारिज» की एक पंक्ति में न समेटें।
+
+पूरक: § 1B1.1 की अनुप्रयोग-प्रक्रिया आठ चरणों में गिनी जाती है — आधार अपराध स्तर से शुरू होकर विशिष्ट विशेषताओं व समायोजनों से कुल स्तर, फिर आपराधिक इतिहास अंक व श्रेणी, सज़ा तालिका, departure आधारों व नीति कथनों की जाँच, और अंत में § 3553(a) से सज़ा; आठ चरणों की संख्या छूटने पर गणना-प्रक्रिया वाले प्रश्न में अंक कटते हैं।
 
 ## 二、Booker 之后：咨询性指南、偏离的两种名分与上诉审查
 
