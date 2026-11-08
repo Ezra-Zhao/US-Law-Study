@@ -119,6 +119,10 @@ James Kirkland Batson 是肯塔基州人，被控二级入室盗窃（burglary�
 
 **시험 함정.** Batson은 이유 없는 배제 제도 자체가 아니라 Swain의 증명 부담을 뒤집은 것입니다. 2단계의 낮은 문턱은 Batson이 아니라 Purkett에서 온 것입니다. 성별은 1986년이 아니라 J.E.B.(1994)로 들어왔습니다. Flowers는 독립된 새 규칙이 아니라 증거 심사의 범위를 넓힌 것입니다. 캘리포니아 실무에서는 연방 틀보다 먼저 § 231.7을 확인하십시오.
 
+**보충 1 — 숫자로 본 절차.** 판결일은 1986년 4월 30일, Powell 집필 7 대 2이며 결론은 유죄 파기와 환송이었다. 검사가 이유 없는 배제로 제거한 흑인 후보자는 4명 중 4명, 즉 100%였고, Swain 아래서 피고 측 변호인은 타 사건의 완전한 기록을 구할 수도, 사건을 가로지르는 통계를 만들 시간과 자원도 없었다는 점이 바로 그 부담이 거의 이행 불가능했던 이유다.
+
+**보충 2 — § 231.7의 적용일과 구제.** Cal. Code Civ. Proc. § 231.7은 AB 3070(2020)이 신설했고 형사 사건에는 2022년 1월 1일부터, 민사 사건에는 2026년 1월 1일부터 적용된다. 연방 기준이 변호인의 고의적 차별을 묻는 반면 § 231.7은 객관적으로 합리적인 관찰자에게 상당한 가능성이 있는지를 묻고, 법집행에 대한 불신 표명, 특정 동네 거주, 옷차림이나 태도 같은 이유를 무효로 추정되는 이유로 열거하며, 이의가 인용되면 후보 명단을 새로 뽑는 등의 구제가 따른다.
+
 *개인 학습 노트이며 법률 자문이 아닙니다. 출처: Batson v. Kentucky, 476 U.S. 79 (1986); Swain v. Alabama, 380 U.S. 202 (1965); Purkett v. Elem, 514 U.S. 765 (1995); Powers v. Ohio, 499 U.S. 400 (1991); Edmonson v. Leesville Concrete Co., 500 U.S. 614 (1991); Georgia v. McCollum, 505 U.S. 42 (1992); J.E.B. v. Alabama ex rel. T.B., 511 U.S. 127 (1994); Foster v. Chatman, 578 U.S. 488 (2016); Flowers v. Mississippi, 588 U.S. 284 (2019); Cal. Code Civ. Proc. § 231.7.*
 
 ---
@@ -139,6 +143,10 @@ James Kirkland Batson 是肯塔基州人，被控二级入室盗窃（burglary�
 
 **Bẫy thi cử.** Batson đảo ngược gánh nặng chứng minh của Swain chứ không xóa bỏ peremptory challenge; ngưỡng thấp ở bước hai đến từ Purkett chứ không phải từ chính Batson; giới tính đến với J.E.B. (1994) chứ không phải năm 1986; Flowers mở rộng ống kính chứng cứ thay vì tạo ra một quy tắc độc lập mới; và trong thực hành tại California, hãy kiểm tra § 231.7 trước khi mặc định dùng khung liên bang.
 
+**Bổ sung 1 — tiến trình qua con số.** Phán quyết được tuyên ngày 30 tháng 4 năm 1986, do thẩm phán Powell chấp bút với tỷ lệ 7–2, kết quả là hủy bản án và chuyển lại để xét xử. Công tố viên đã loại 4 trên 4 ứng viên da đen bằng quyền loại trừ không cần lý do, tức 100%, và dưới thời Swain, luật sư bào chữa vừa không lấy được hồ sơ đầy đủ của các vụ án khác, vừa không có thời gian và nguồn lực để làm thống kê xuyên vụ án — đó chính là lý do gánh nặng ấy gần như không thể gánh nổi.
+
+**Bổ sung 2 — ngày áp dụng và biện pháp khắc phục của § 231.7.** Cal. Code Civ. Proc. § 231.7 do AB 3070 (2020) bổ sung, áp dụng cho vụ án hình sự từ ngày 1 tháng 1 năm 2022 và cho vụ án dân sự từ ngày 1 tháng 1 năm 2026. Trong khi chuẩn liên bang hỏi về sự phân biệt có chủ đích của luật sư, § 231.7 hỏi về khả năng đáng kể dưới con mắt của một người quan sát khách quan hợp lý, liệt kê các lý do bị suy đoán là không hợp lệ như việc bày tỏ sự không tin tưởng vào cơ quan thực thi pháp luật, cư trú tại một khu phố nhất định, hoặc cách ăn mặc và cử chỉ, và khi khiếu nại được chấp nhận, biện pháp khắc phục bao gồm việc rút lại danh sách ứng viên và chọn lại từ đầu.
+
 *Ghi chú học tập cá nhân, không phải tư vấn pháp lý. Nguồn: Batson v. Kentucky, 476 U.S. 79 (1986); Swain v. Alabama, 380 U.S. 202 (1965); Purkett v. Elem, 514 U.S. 765 (1995); Powers v. Ohio, 499 U.S. 400 (1991); Edmonson v. Leesville Concrete Co., 500 U.S. 614 (1991); Georgia v. McCollum, 505 U.S. 42 (1992); J.E.B. v. Alabama ex rel. T.B., 511 U.S. 127 (1994); Foster v. Chatman, 578 U.S. 488 (2016); Flowers v. Mississippi, 588 U.S. 284 (2019); Cal. Code Civ. Proc. § 231.7.*
 
 ---
@@ -158,5 +166,9 @@ James Kirkland Batson 是肯塔基州人，被控二级入室盗窃（burglary�
 **California।** California क़ानून द्वारा और आगे गया है। AB 3070 (2020) द्वारा जोड़ा गया **Cal. Code Civ. Proc. § 231.7** — आपराधिक मामलों के लिए 1 जनवरी 2022 से और दीवानी मामलों के लिए 1 जनवरी 2026 से प्रभावी (वर्तमान पाठ सत्यापित करें) — उद्देश्यपूर्ण आशय की जाँच को **वस्तुनिष्ठ मानक** से बदल देता है: आपत्ति तब स्वीकार होती है जब **पर्याप्त संभावना (substantial likelihood)** हो कि एक वस्तुनिष्ठ रूप से युक्तियुक्त व्यक्ति संरक्षित विशेषता (नस्ल, जातीयता, लिंग और अन्य सूचीबद्ध) को हटाव का एक कारक मानेगा। क़ानून अमान्य माने जाने वाले कारण भी सूचीबद्ध करता है (जैसे किसी पैनल सदस्य द्वारा कानून-प्रवर्तन के प्रति अविश्वास व्यक्त करना) और वकील के वास्तविक व्यक्तिपरक आशय का प्रमाण नहीं माँगता, जिससे अचेतन पूर्वाग्रह भी इसके दायरे में आता है। संघीय Batson: तीन चरण और उद्देश्यपूर्ण भेदभाव। धारा 231.7: वस्तुनिष्ठ प्रेक्षक, पर्याप्त संभावना, अमान्य माने जाने वाले कारण।
 
 **परीक्षा जाल।** Batson ने peremptory challenge स्वयं नहीं, बल्कि Swain के प्रमाण-बोझ को पलटा; चरण दो की निम्न सीमा Purkett से आती है, Batson से नहीं; लिंग J.E.B. (1994) से आया, 1986 में नहीं; Flowers कोई नई स्वतंत्र नियम नहीं बनाता, बल्कि साक्ष्य की दृष्टि विस्तृत करता है; और California अभ्यास में, संघीय ढाँचे पर सीधे जाने से पहले § 231.7 देखें।
+
+**पूरक 1 — संख्याओं में प्रक्रिया।** निर्णय 30 अप्रैल 1986 को हुआ, Powell ने 7–2 बहुमत लिखा, और परिणाम दोषसिद्धि पलटकर मामला वापस भेजना था। अभियोजक ने बिना कारण वाले अधिकार से 4 में से 4 अश्वेत पैनल-सदस्यों को हटाया, अर्थात 100%, और Swain के तहत बचाव पक्ष के वकील के पास न अन्य मामलों के पूरे अभिलेख थे, न मामलों के पार सांख्यिकी बनाने का समय और साधन — यही कारण था कि वह बोझ व्यावहारिक रूप से लगभग असंभव था।
+
+**पूरक 2 — § 231.7 की प्रभाव-तिथियाँ और उपाय।** Cal. Code Civ. Proc. § 231.7 को AB 3070 (2020) ने जोड़ा; यह आपराधिक मामलों पर 1 जनवरी 2022 से और दीवानी मामलों पर 1 जनवरी 2026 से लागू होता है। जहाँ संघीय मानक वकील के उद्देश्यपूर्ण भेदभाव को पूछता है, वहाँ § 231.7 एक वस्तुनिष्ठ रूप से युक्तियुक्त प्रेक्षक की दृष्टि में पर्याप्त संभावना पूछता है, कानून-प्रवर्तन के प्रति अविश्वास व्यक्त करना, किसी विशेष मोहल्ले में रहना, या पहनावा और आचरण जैसे कारणों को अमान्य माने जाने वाले कारणों में गिनता है, और आपत्ति स्वीकार होने पर उपायों में पैनल को पुनः चुनना भी शामिल है।
 
 *व्यक्तिगत अध्ययन नोट; कानूनी सलाह नहीं। स्रोत: Batson v. Kentucky, 476 U.S. 79 (1986); Swain v. Alabama, 380 U.S. 202 (1965); Purkett v. Elem, 514 U.S. 765 (1995); Powers v. Ohio, 499 U.S. 400 (1991); Edmonson v. Leesville Concrete Co., 500 U.S. 614 (1991); Georgia v. McCollum, 505 U.S. 42 (1992); J.E.B. v. Alabama ex rel. T.B., 511 U.S. 127 (1994); Foster v. Chatman, 578 U.S. 488 (2016); Flowers v. Mississippi, 588 U.S. 284 (2019); Cal. Code Civ. Proc. § 231.7.*
