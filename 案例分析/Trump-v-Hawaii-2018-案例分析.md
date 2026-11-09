@@ -42,6 +42,11 @@ Breyer 大法官（Kagan 加入）的异议走事实路线：公告自称有系�
 4. Korematsu 已被本案多数意见明文否定，引用时注意其表述是回应异议的段落而非判决主文争点。
 5. 两份异议分别代表事实路线（waiver 运作）与整体图景路线（言论全貌），是论述题里组织反对论证的现成骨架。
 
+
+पूरक 3 (पुनः पूरक, 2026-11-09 02:55) — वैधानिक विभाजन एक परत और गहरा है: § 1152(a)(1)(A) केवल वीज़ा 「जारी करने」 के चरण की राष्ट्रीयता-भेदभाव को देखता है, और 1965 में राष्ट्रीयता-कोटा समाप्त करते समय Congress ने राष्ट्रपति की प्रवेश-स्थगन शक्ति § 212(f) को समाप्त नहीं किया था। इसलिए वीज़ा नियमतः जारी हो सकता है, फिर भी प्रवेश § 212(f) उद्घोषणा से स्थगित हो सकता है, और भेदभाव-निषेध धारा को § 212(f) की मौन कटौती नहीं पढ़ा जाता।
+
+पूरक 4 (पुनः पूरक, 2026-11-09 02:55) — Korematsu का खंडन बहुमत द्वारा असहमति के उत्तर वाले अंश में है, स्वयं विवाद-बिंदु पर निर्णय-आधार नहीं; फिर भी यह निर्णय के सबसे अधिक उद्धृत अंशों में से एक है। यह पहला अवसर था जब सर्वोच्च न्यायालय ने औपचारिक राय में स्पष्ट शब्दों में Korematsu को 「निर्णय के दिन से ही गंभीर रूप से गलत」 कहा; इससे पहले खंडन केवल असहमति रायों और शैक्षणिक सहमति के स्तर पर था।
+
 *声明：本文为个人学习笔记，不构成法律建议。*
 
 ## English
@@ -61,6 +66,10 @@ Trump v. Hawaii, 585 U.S. 667 (2018)은 2018년 6월 26일 5대 4로 선고되�
 
 입국 자격은 전적으로 연방 사항이므로, 주와 지방 집행기관의 연방 이민 집행 협조를 제한하는 캘리포니아 가치법(California Values Act, Gov. Code § 7284 이하)은 주 자체 자원의 사용을 정할 뿐 누구에게도 입국 자격을 줄 수 없고 연방 포고의 집행을 막을 수도 없습니다. 포고가 존속하는 동안 구제 통로는 포고 자체의 면제(waiver)와 국무부의 영사 재량이었지 주 법원이 아니었습니다. 이후의 입국 포고를 평가할 때도 § 212(f)나 § 215(a)(8 U.S.C. § 1185(a)) 같은 권한 부여 조항과 절차적 뒷받침을 먼저 보고 동기 증거는 그다음에 봐야 하며, 순서를 거꾸로 해서는 안 됩니다.
 
+보충 3 (2026-11-09 02:55 재보충) — 성문법상의 절단은 한층 더 깊습니다. § 1152(a)(1)(A)는 비자 「발급」 단계의 국적 차별만을 다루고, 1965년에 국적별 쿼터를 폐지했을 때도 의회는 대통령의 입국 정지 권한인 § 212(f)를 폐지하지 않았습니다. 그래서 비자는 규정대로 발급될 수 있어도 입국 자체는 § 212(f) 포고로 정지될 수 있으며, 차별금지 조항은 § 212(f)에 대한 묵시적 축소로 읽히지 않습니다.
+
+보충 4 (2026-11-09 02:55 재보충) — Korematsu에 대한 부정은 다수의견이 반대의견에 답하는 대목에 들어 있으며, 쟁점 자체에 대한 판결 이유는 아닙니다. 그럼에도 이 표명은 인용이 가장 넓은 대목 중 하나입니다. 최고법원이 정식 의견에서 Korematsu가 「선고 당일부터 중대한 오류」였다고 명문으로 부정한 것은 이번이 처음이었고, 그전까지 부정은 반대의견과 학계 차원에 머물러 있었습니다.
+
 ## Tiếng Việt (bản dịch sơ bộ · 初译待校)
 
 Trump v. Hawaii, 585 U.S. 667 (2018), phán quyết ngày 26 tháng 6 năm 2018 với tỉ lệ 5-4, giữ nguyên Tuyên bố Tổng thống số 9645. Thẩm phán trưởng Roberts viết ý kiến đa số, diễn giải 8 U.S.C. § 1182(f) như một ủy quyền rộng: Tổng thống có thể đình chỉ nhập cảnh nếu nhận thấy việc nhập cảnh gây hại cho lợi ích của Hoa Kỳ, và quy trình rà soát liên cơ quan trên toàn cầu đứng sau tuyên bố đã đáp ứng yêu cầu đó. Quy tắc cấm phân biệt đối xử tại 8 U.S.C. § 1152(a)(1)(A) chỉ điều chỉnh việc cấp thị thực, không thu hẹp quyền đình chỉ nhập cảnh riêng biệt này. Về Điều khoản Thiết lập Tôn giáo, Tòa áp dụng mức xem xét rất khoan hòa theo hướng Kleindienst v. Mandel, 408 U.S. 753 (1972): ngay cả khi xét đến các phát ngôn của Tổng thống, tuyên bố vẫn vượt qua kiểm tra cơ sở hợp lý nhờ respaldo của quy trình cơ quan, mối liên hệ với an ninh quốc gia và cơ chế miễn trừ. Đa số cũng tuyên bố Korematsu (1944) sai nghiêm trọng ngay từ ngày phán quyết. Ý kiến bất đồng của Thẩm phán Breyer công kích hoạt động thực tế của chương trình miễn trừ; ý kiến của Thẩm phán Sotomayor cho rằng toàn bộ hồ sơ cho thấy ác cảm chống Hồi giáo.
@@ -69,6 +78,10 @@ Trump v. Hawaii, 585 U.S. 667 (2018), phán quyết ngày 26 tháng 6 năm 2018 
 Bổ sung thêm, tuyên bố ban đầu áp dụng cho tám quốc gia: Chad, Iran, Libya, Triều Tiên, Somalia, Syria, Venezuela (chỉ một số quan chức chính phủ và gia đình họ) và Yemen; Chad đã bị loại khỏi danh sách vào tháng 4 năm 2018 sau khi đạt chuẩn. Mối liên hệ với California cũng rõ: California không phải là đương sự nhưng đã tham gia với tư cách bạn của tòa (amicus) ủng hộ phía Hawaii.
 
 Vì tư cách nhập cảnh hoàn toàn thuộc thẩm quyền liên bang, Đạo luật Giá trị California (California Values Act, Gov. Code § 7284 trở đi) — vốn giới hạn việc cơ quan thực thi bang và địa phương phối hợp với thực thi di trú liên bang — chỉ điều chỉnh việc sử dụng nguồn lực của chính tiểu bang, không thể cấp tư cách nhập cảnh cho bất kỳ ai và cũng không chặn được việc thi hành tuyên bố liên bang. Trong thời gian tuyên bố còn hiệu lực, lối cứu trợ nằm ở cơ chế miễn trừ (waiver) của chính tuyên bố và quyền tùy nghi lãnh sự của Bộ Ngoại giao, chứ không nằm ở tòa án tiểu bang. Khi đánh giá các tuyên bố nhập cảnh sau này, cũng cần xem trước điều khoản ủy quyền như § 212(f) hay § 215(a) (8 U.S.C. § 1185(a)) cùng hậu thuẫn thủ tục, rồi mới xem bằng chứng động cơ — không được đảo ngược thứ tự.
+
+Bổ sung 3 (tái bổ sung 2026-11-09 02:55) — Đường cắt luật thành văn còn sâu hơn một lớp: § 1152(a)(1)(A) chỉ điều chỉnh phân biệt đối xử theo quốc tịch ở khâu 「cấp」 thị thực, và khi Quốc hội bãi bỏ hạn ngạch theo quốc tịch vào năm 1965, Quốc hội đã không bãi bỏ quyền đình chỉ nhập cảnh § 212(f) của Tổng thống. Vì vậy thị thực vẫn có thể được cấp theo đúng quy định nhưng việc nhập cảnh vẫn có thể bị tuyên bố theo § 212(f) đình chỉ, và điều khoản chống phân biệt không được đọc như một sự thu hẹp ngầm đối với § 212(f).
+
+Bổ sung 4 (tái bổ sung 2026-11-09 02:55) — Lời phủ định Korematsu nằm trong đoạn đa số đáp lại ý kiến bất đồng, không phải là vấn đề tranh chấp của bản án; dù vậy đây là một trong những đoạn được trích dẫn rộng rãi nhất của phán quyết. Đây là lần đầu tiên Tòa án Tối cao tuyên bố minh thị trong một ý kiến chính thức rằng Korematsu 「sai nghiêm trọng ngay từ ngày phán quyết」; trước đó, sự phủ định chỉ tồn tại ở tầng ý kiến bất đồng và đồng thuận học thuật.
 
 ## हिन्दी (प्रारंभिक अनुवाद · 初译待校)
 
@@ -79,3 +92,4 @@ Trump v. Hawaii, 585 U.S. 667 (2018), 26 जून 2018 को 5-4 से तय
 
 प्रवेश-योग्यता पूरी तरह संघीय विषय है, इसलिए California Values Act (Gov. Code § 7284 आगे), जो राज्य व स्थानीय प्रवर्तन एजेंसियों के संघीय आप्रवासन प्रवर्तन में सहयोग को सीमित करता है, केवल राज्य के अपने संसाधनों के उपयोग को नियंत्रित करता है; वह न किसी को प्रवेश-योग्यता दे सकता है और न संघीय उद्घोषणा के क्रियान्वयन को रोक सकता है। उद्घोषणा के प्रभावी रहने के दौरान राहत का मार्ग उद्घोषणा की अपनी waiver व्यवस्था और विदेश विभाग के कांसुलर विवेक में था, राज्य अदालत में नहीं। बाद की प्रवेश उद्घोषणाओं का मूल्यांकन करते समय भी पहले § 212(f) या § 215(a) (8 U.S.C. § 1185(a)) जैसी अधिकार-प्रदाता धाराएँ व प्रक्रियागत समर्थन देखें, फिर उद्देश्य के साक्ष्य — क्रम उल्टा न करें।
 *声明：本文为个人学习笔记，不构成法律、税务或医疗建议。*
+*（2026-11-09 02:55 轮补译注记：韩／越／印三语各再补 2 项中文主文已有细节增量——§ 1152(a)(1)(A) 只管签证签发环节且 1965 年废除国籍配额并未废掉 § 212(f) 入境暂停权、签证可照签而入境仍可被暂停，及 Korematsu 被明文否定系最高法院首次在正式多数意见中表态（此前只有异议与学界层面否定）且该段为回应异议而非判决主文争点；增量只取中文主文已有事实、不新增事实，本篇此前已经 2026-11-06 补译一轮，本轮为第二轮增量。）*
