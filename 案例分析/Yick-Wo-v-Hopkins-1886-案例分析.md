@@ -75,3 +75,21 @@ Yick Wo तीन धाराओं का मूल है। पहली: �
 
 *This article is a personal study note, not legal advice. / Este artículo es una nota de estudio personal, no constituye asesoría legal.*
 *이 글은 개인 학습 노트이며 법률 자문이 아닙니다. (초역·待校) / Bài viết này là ghi chú học tập cá nhân, không cấu thành tư vấn pháp lý. (bản dịch sơ bộ·待校) / यह लेख व्यक्तिगत अध्ययन नोट है और कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद·待校)*
+
+---
+
+## 补译增量（2026-11-09 04:55 轮）
+
+> 本节为韩／越／印三语补译增量，各补 2 项取自上文中文主文已有事实的细节（统计证据的精确形态、人身保护令的程序姿态与获释结论），与中文主文对齐；纯增量，原段未删，不新增事实。
+
+### 한국어 (초역, 원어민 감수 대기)
+
+보충 세부 1 — 통계 증거의 정확한 형태: 중국인 신청자 약 200명 중 승인은 거의 없었고 비중국인 신청자 중 거부는 극소수뿐이었으며, 연방대법원은 이 분포가 인종 외에는 설명되지 않는다고 보았고, 통계 분포 자체가 곧 증거가 되었습니다. 보충 세부 2 — 절차적 자세와 결론: 이 사건의 구제 경로는 주 유죄판결에 따른 구금을 인신보호(habeas corpus)로 공격하는 것이었고, 결론은 구금 근거가 유지될 수 없어 신청인들이 석방되었다는 것이며, 현대 28 U.S.C. § 2254의 소진 규칙을 한 세기 이상 떨어진 1886년으로 거슬러 읽어서는 안 됩니다. (초역, 원어민 감수 대기)
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+Chi tiết bổ sung 1 — hình dạng chính xác của bằng chứng thống kê: trong khoảng hai trăm người Hoa nộp đơn, hầu như không ai được duyệt, trong khi trong nhóm không phải người Hoa chỉ vài người bị từ chối; Tòa cho rằng phân bố này không thể giải thích ngoài chủng tộc, và chính phân bố thống kê là bằng chứng. Chi tiết bổ sung 2 — tư thế tố tụng và kết luận: đường cứu trợ ở đây là là dùng habeas corpus để tấn công việc giam giữ theo bản án của bang, kết luận là căn cứ giam giữ không đứng vững và các đương đơn được thả; không được đọc ngược học thuyết cạn kiệt biện pháp hiện đại của 28 U.S.C. § 2254 vào năm 1886, cách nhau hơn một thế kỷ. (Bản dịch sơ bộ, chờ hiệu đính)
+
+### हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+पूरक विवरण 1 — सांख्यिकीय प्रमाण का सटीक रूप: लगभग दो सौ चीनी आवेदकों में से लगभग कोई स्वीकृत नहीं हुआ, जबकि गैर-चीनी आवेदकों में केवल मुट्ठी भर अस्वीकृत हुए; न्यायालय ने माना कि इस वितरण की जाति के सिवा कोई व्याख्या नहीं है, और सांख्यिकीय वितरण स्वयं ही प्रमाण था। पूरक विवरण 2 — प्रक्रियात्मक स्थिति और निष्कर्ष: यहाँ उपाय-मार्ग राज्य दोषसिद्धि के तहत कैद पर habeas corpus से आक्रमण था, निष्कर्ष यह हुआ कि कैद का आधार टिक नहीं सका और याचिकाकर्ता मुक्त हुए; और आधुनिक 28 U.S.C. § 2254 के उपाय-समाप्ति नियमों को एक शताब्दी से अधिक दूर 1886 में वापस पढ़कर लागू नहीं करना चाहिए। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
