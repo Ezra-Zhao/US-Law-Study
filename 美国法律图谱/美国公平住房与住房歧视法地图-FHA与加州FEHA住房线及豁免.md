@@ -98,3 +98,13 @@ Luật chống phân biệt đối xử trong nhà ở tại Hoa Kỳ là một 
 *Bài viết này là ghi chú học tập cá nhân, không phải tư vấn pháp lý. (Bản dịch sơ bộ, chờ hiệu đính)*
 
 *यह लेख एक व्यक्तिगत अध्ययन नोट है और कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)*
+
+---
+
+## 补译增量 · 한국어 / Tiếng Việt / हिन्दी（细节对齐）
+
+한국어: 가족 상황(familial status)의 범위를 정확히 적어 둡니다. 18세 미만 자녀와 함께 사는 경우뿐 아니라, 임신 중인 경우와 자녀의 법적 양육권을 얻는 절차가 진행 중인 경우까지 포함됩니다. 절차 쪽에서는 연방 소송의 2년 기간(§ 3613)이 HUD가 행정 신고를 처리한 기간을 빼고 계산되고, 캘리포니아에서는 HUD에 낸 신고가 FEHA에 따라 처리되도록 주 민권부(CRD)로 상호 이첩되는 일이 흔합니다. 소송 기한을 달력에 적을 때 이 두 가지를 빼먹지 마십시오. (초역·待校)
+
+Tiếng Việt: Phạm vi của tình trạng gia đình (familial status) cần ghi cho chính xác: không chỉ hộ có trẻ dưới 18 tuổi sống cùng, mà còn gồm người đang mang thai và người đang trong quá trình giành quyền giám hộ hợp pháp một đứa trẻ. Về mặt thủ tục, thời hạn kiện liên bang 2 năm (Mục 3613) được tính sau khi trừ đi thời gian HUD xử lý khiếu nại hành chính, và tại California, khiếu nại nộp lên HUD thường được chuyển hai chiều sang Sở Dân quyền (CRD) để xử lý theo FEHA. Khi ghi hạn chót vào lịch, đừng bỏ sót hai điểm này. (bản dịch sơ bộ·待校)
+
+हिन्दी: पारिवारिक स्थिति (familial status) का दायरा ठीक से लिख लें: केवल 18 वर्ष से कम आयु के बच्चों के साथ रहने वाले ही नहीं, गर्भवती व्यक्ति और किसी बच्चे की कानूनी अभिरक्षा प्राप्त करने की प्रक्रिया में लगे व्यक्ति भी इसमें आते हैं। प्रक्रिया की ओर, संघीय वाद की 2 वर्ष की अवधि (§ 3613) HUD द्वारा प्रशासनिक शिकायत के निपटान में लगे समय को घटाकर गिनी जाती है, और California में HUD को दी गई शिकायतों का FEHA के अनुसार निपटान हेतु राज्य नागरिक अधिकार विभाग (CRD) को द्विपक्षीय अंतरण आम है। समय-सीमा कैलेंडर में लिखते समय ये दो बातें न छोड़ें। (प्रारंभिक अनुवाद·待校)
