@@ -23,16 +23,19 @@ La APA divide la actuación administrativa en reglamentación (rulemaking, § 55
 ### 한국어 (초역·교정 대기)
 
 APA는 기관 행위를 규칙제정(rulemaking, § 551(5))과 재결(adjudication, § 551(7))로 나눕니다. 법적 효력을 가진 입법적 규칙은 원칙적으로 § 553의 고지-의견절차를 거쳐야 합니다. 연방관보에 제안 규칙과 근거를 공고하고, 대중 의견을 받은 뒤, 근거와 목적에 대한 간결한 설명과 함께 최종 규칙을 공고하며, 효력은 공고 후 최소 30일이 지나야 발생합니다(§ 553(d)). 해석 규칙과 일반 정책 선언은 권리를 바꾸지 않아 § 553(b)(A)에 따라 면제되지만, 그 때문에 법적 구속력도 없습니다. 시험 단골 예외는 둘입니다. 정당한 사유(good cause, § 553(b)(B), (d)(3))는 법원이 엄격히 심사하고, 정식 절차의 재판형 청문(§§ 554, 556, 557)은 실체법이 '청문 기회 후 기록에 근거하여(on the record)' 결정하라고 명시할 때만 발동되며 'hearing'이라는 단어만으로는 부족합니다. 캘리포니아 APA는 Gov. Code §§ 11340 이하에 있으며, 규정은 행정법사무국(OAL) 심사를 거치고 의견 기간은 일반적으로 최소 45일(§ 11346.4(a)), 긴급 규정에는 별도 절차가 있습니다. (학습용 초역으로, 원어민 교정이 필요합니다.)
+보충하면, good cause의 법정 문턱은 기관이 고지-의견 수렴이 실행 불가능하거나(impracticable), 불필요하거나(unnecessary), 공익에 반한다(contrary to the public interest)고 인정하는 경우라는 점이며, 이 세 표현이 § 553(b)(B)의 원문 그대로의 시험이다. (2026-11-08 보충 번역)
 
 ### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
 
 APA chia hành động của cơ quan thành lập quy tắc (rulemaking, § 551(5)) và xét xử hành chính (adjudication, § 551(7)). Quy tắc lập pháp có hiệu lực pháp luật nhìn chung phải qua thủ tục thông báo–góp ý theo § 553: đăng dự thảo cùng căn cứ trên Federal Register, nhận góp ý của công chúng, rồi đăng quy tắc cuối cùng kèm tuyên bố ngắn gọn về căn cứ và mục đích, có hiệu lực không sớm hơn 30 ngày sau khi đăng (§ 553(d)). Quy tắc giải thích và tuyên bố chính sách chung không thay đổi quyền nên được miễn theo § 553(b)(A), và cũng vì thế không có lực ràng buộc. Hai ngoại lệ hay thi: lý do chính đáng (good cause, § 553(b)(B) và (d)(3)) bị tòa kiểm soát chặt; và thủ tục chính thức — điều trần kiểu xét xử theo §§ 554, 556, 557 chỉ kích hoạt khi luật chuyên ngành đòi hỏi quyết định «trên hồ sơ» (on the record) sau cơ hội điều trần, chỉ có chữ «hearing» thì chưa đủ. Ở California, APA của bang tại Gov. Code §§ 11340 trở đi đưa quy định qua Văn phòng Luật Hành chính (OAL), thời gian góp ý thường ít nhất 45 ngày (§ 11346.4(a)), và có lối riêng cho quy định khẩn cấp. (Bản dịch học tập sơ bộ, chờ người bản ngữ hiệu đính.)
+Bổ sung: ngưỡng luật định của good cause là khi cơ quan thấy thủ tục thông báo–góp ý là không khả thi (impracticable), không cần thiết (unnecessary) hoặc trái với lợi ích công cộng (contrary to the public interest) — đó chính là phép thử nguyên văn tại § 553(b)(B). (Bổ sung dịch 2026-11-08)
 
 ### हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
 
 APA एजेंसी कार्रवाई को नियम-निर्माण (rulemaking, § 551(5)) और न्याय-निर्णय (adjudication, § 551(7)) में बाँटता है। विधायी नियम को सामान्यतः § 553 की सूचना–टिप्पणी प्रक्रिया से गुजरना होता है: प्रस्तावित नियम और उसका आधार Federal Register में प्रकाशित करें, जनता की टिप्पणियाँ लें, फिर आधार व उद्देश्य का संक्षिप्त कथन सहित अंतिम नियम प्रकाशित करें, जो प्रकाशन के कम-से-कम 30 दिन बाद प्रभावी हो (§ 553(d))। व्याख्यात्मक नियम और सामान्य नीति-कथन अधिकार नहीं बदलते, इसलिए § 553(b)(A) के तहत छूट पाते हैं — और इसीलिए बाध्यकारी भी नहीं होते। दो परीक्षित अपवाद: उचित कारण (good cause, § 553(b)(B) व (d)(3)), जिसकी अदालतें कड़ी जाँच करती हैं; और औपचारिक प्रक्रिया — §§ 554, 556, 557 की विचारण-शैली सुनवाई तभी लागू होती है जब मूल कानून «अभिलेख पर» (on the record) निर्णय माँगे, केवल «hearing» शब्द पर्याप्त नहीं। कैलिफ़ोर्निया में राज्य APA Gov. Code §§ 11340 आदि में है: नियम OAL की समीक्षा से गुजरते हैं, टिप्पणी अवधि सामान्यतः कम-से-कम 45 दिन (§ 11346.4(a)), और आपात नियमों का अलग मार्ग है। (अध्ययन हेतु प्रारंभिक अनुवाद, मूलभाषी समीक्षा लंबित है।)
 
 ---
+पूरक बात: good cause की वैधानिक कसौटी यह है कि एजेंसी सूचना–टिप्पणी को अव्यावहारिक (impracticable), अनावश्यक (unnecessary) या जनहित के विरुद्ध (contrary to the public interest) पाए — यही § 553(b)(B) का शब्दशः परीक्षण है। (पूरक अनुवाद 2026-11-08)
 
 ## 二、司法审查：§ 706 的六把尺子与 State Farm 硬看
 
@@ -107,21 +110,22 @@ Primero, la doctrina de las cuestiones mayores (major questions doctrine): West 
 ### 한국어 (초역·교정 대기)
 
 첫째, 주요 문제 원칙(major questions doctrine): West Virginia v. EPA(597 U.S. 697 (2022))는 경제적·정치적으로 중대한 사안에서 기관이 부수 조항에서 확장적 권한을 읽어내려면 의회의 명확한 승인(clear congressional authorization)을 제시해야 하며, 모호함으로는 부족하다고 했습니다. Loper Bright 이후 이 선은 더 단단해집니다. 둘째, 제소 시계: APA 자체에는 시효가 없어 28 U.S.C. § 2401(a)의 기본 6년이 적용되고, Corner Post(603 U.S. 799, 2024년 7월 1일, 6대 3)는 APA 청구권이 최종 기관 행위로 원고가 실제 손해를 입은 때 기산(accrue)된다고 했습니다. 규칙 공포 수년 뒤에 설립된 기업도 자기 손해 후 6년 안에 오래된 규칙에 도전할 수 있습니다. 셋째, 배심 재판선: SEC v. Jarkesy(603 U.S. 109 (2024))는 SEC가 보통법 사기와 유사한 행위에 민사 벌금을 구할 때 수정헌법 제7조가 연방 법원의 배심 재판을 요구한다고 했습니다. 시험 체크리스트 순서: 조문 먼저(§§ 553, 704, 706) → 절차 트랙(정식/비정식) → 심사 기준(엄격한 심사/실질적 증거) → 해석(독립적 판단 + Skidmore 존중, 주요 문제는 명확한 승인 확인) → 시효(§ 2401(a), 손해 시점부터 6년). (학습용 초역으로, 원어민 교정이 필요합니다.)
+보충하면, Jarkesy의 경계선은 벌금 그 자체만이 아니라 재판의 무대에도 있다. SEC 내부의 행정법 판사(ALJ)가 연방 법원의 배심 재판을 대신해 그런 벌금을 부과하는 것 자체가 선을 넘는 것이며, 그래서 유사 사안에 대한 집행은 Article III 법원으로 가야 한다. (2026-11-08 보충 번역)
 
 ### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
 
 Thứ nhất, học thuyết vấn đề trọng đại (major questions doctrine): West Virginia v. EPA, 597 U.S. 697 (2022), quy định trong các vụ có ý nghĩa kinh tế và chính trị lớn, cơ quan muốn đọc ra quyền lực mở rộng từ một điều khoản phụ phải chỉ được sự ủy quyền rõ ràng của Quốc hội (clear congressional authorization); mơ hồ thì không đủ, và sau Loper Bright ranh giới này càng cứng. Thứ hai, đồng hồ thời hiệu: APA không có thời hiệu riêng nên áp dụng mức mặc định sáu năm của 28 U.S.C. § 2401(a), và Corner Post, 603 U.S. 799 (phán quyết ngày 1 tháng 7 năm 2024, tỉ lệ 6–3), cho rằng quyền kiện theo APA chỉ phát sinh (accrue) khi nguyên đơn bị thiệt hại bởi hành động cơ quan cuối cùng — không phải ngày ban hành quy tắc — nên doanh nghiệp thành lập nhiều năm sau vẫn có thể kiện quy tắc cũ trong sáu năm kể từ thiệt hại của chính mình. Thứ ba, ranh giới bồi thẩm đoàn: SEC v. Jarkesy, 603 U.S. 109 (2024), cho rằng khi SEC đòi tiền phạt dân sự cho hành vi giống gian lận theo common law, Tu chính án thứ Bảy đòi hỏi xét xử bởi bồi thẩm đoàn tại tòa liên bang. Danh sách kiểm tra khi thi, theo thứ tự: văn bản trước (§§ 553, 704, 706) → nhánh thủ tục (chính thức hay không chính thức) → tiêu chuẩn xét (cái nhìn khắt khe hay chứng cứ đáng kể) → giải thích (phán đoán độc lập, tôn trọng theo Skidmore; vấn đề trọng đại thì đòi ủy quyền rõ ràng) → thời hiệu (§ 2401(a), sáu năm từ khi thiệt hại). (Bản dịch học tập sơ bộ, chờ người bản ngữ hiệu đính.)
+Bổ sung: đường ranh của Jarkesy không chỉ nằm ở khoản phạt mà còn ở sân xét xử — việc thẩm phán luật hành chính (ALJ) nội bộ của SEC thay thế phiên tòa bồi thẩm tại tòa liên bang để áp đặt khoản phạt như vậy tự nó đã vượt tuyến, nên việc thực thi trong các vụ tương tự phải ra tòa Article III. (Bổ sung dịch 2026-11-08)
 
 ### हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
 
 पहला, प्रमुख प्रश्न सिद्धांत (major questions doctrine): West Virginia v. EPA, 597 U.S. 697 (2022) कहता है कि विशाल आर्थिक व राजनीतिक महत्व के मामलों में, किसी गौण प्रावधान से विस्तृत शक्ति निकालने का दावा करने वाली एजेंसी को कांग्रेस का स्पष्ट प्राधिकार (clear congressional authorization) दिखाना होगा; अस्पष्टता नहीं चलेगी, और Loper Bright के बाद यह रेखा और कठोर है। दूसरा, परिसीमा घड़ी: APA का अपना कोई परिसीमा-काल नहीं, इसलिए 28 U.S.C. § 2401(a) का डिफ़ॉल्ट छह वर्ष लागू होता है, और Corner Post, 603 U.S. 799 (1 जुलाई 2024, 6–3) ने तय किया कि APA दावा तब उत्पन्न (accrue) होता है जब वादी अंतिम एजेंसी कार्रवाई से क्षतिग्रस्त हो — नियम जारी होने की तिथि से नहीं — इसलिए नियम के वर्षों बाद बनी कंपनी भी अपनी क्षति के छह वर्षों के भीतर पुराने नियम को चुनौती दे सकती है। तीसरा, जूरी रेखा: SEC v. Jarkesy, 603 U.S. 109 (2024) — जब SEC सामान्य-विधि धोखाधड़ी जैसी आचरण-शैली पर दीवानी जुर्माना चाहे, तो सातवाँ संशोधन संघीय अदालत में जूरी विचारण माँगता है। परीक्षा सूची, क्रम से: पहले धाराएँ (§§ 553, 704, 706) → प्रक्रिया मार्ग (औपचारिक या अनौपचारिक) → समीक्षा मानक (कड़ी नज़र या सारभूत साक्ष्य) → व्याख्या (स्वतंत्र निर्णय, Skidmore सम्मान; प्रमुख प्रश्नों पर स्पष्ट प्राधिकार) → परिसीमा (§ 2401(a), क्षति से छह वर्ष)। (अध्ययन हेतु प्रारंभिक अनुवाद, मूलभाषी समीक्षा लंबित है।)
 
+पूरक बात: Jarkesy की रेखा केवल जुर्माने पर नहीं, विचारण के मंच पर भी है — SEC के आंतरिक प्रशासनिक विधि न्यायाधीश (ALJ) का संघीय अदालत के जूरी विचारण की जगह लेकर ऐसा जुर्माना लगाना ही रेखा पार करना है, इसलिए समान मामलों का प्रवर्तन Article III अदालत में जाना चाहिए। (पूरक अनुवाद 2026-11-08)
 ---
 
 > 声明：个人学习笔记，不构成法律建议。具体案件请咨询有执照的律师。
 > Disclaimer: Personal study notes only; not legal advice.
-
-
 ---
 
 ## 六语集中声明区 / Multilingual Disclaimer
