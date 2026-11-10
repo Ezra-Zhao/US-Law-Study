@@ -1,0 +1,55 @@
+# 美国大规模侵权与多区诉讼法地图：MDL 第 1407 条、和解等级、石棉破产信托与加州 JCCP
+
+导语：同一种药、同一批植入物、同一种石棉产品，伤的人散在五十个州，每人一份诉状。若各审各的，同一批科学证据要重复打几百遍，判决还会互相打架。大规模侵权靠的不是一场巨型审判，而是一套聚合机器：联邦的多区诉讼、州内的协调程序、破产信托与和解等级四台机器分工。本图与《美国集体诉讼与聚合诉讼法地图》分工：集体诉讼图管 FRCP 第 23 条的认证逻辑，本图管不走认证、按个案聚合的大规模侵权；与《产品责任备考核心》分工：彼篇管实体责任，本图管程序聚合。本选题经 ls/grep 实查：大规模侵权、多区诉讼、MDL 在图谱板块无本体专图，石棉信托全仓零命中，故成图。
+
+## 中文主文
+
+### 一、全景：聚合有四台机器，别和集体诉讼混
+
+大规模侵权与集体诉讼的关键区别在损害：集体诉讼里成员损害高度同质，可以一类一判；大规模侵权里每个人的暴露史、伤情与损害额都不同，个案性太强，多数过不了集体认证那一关，于是发展出另外的聚合方式。四台机器各管一段：多区诉讼（MDL）管联邦个案的审前聚合，和解等级（settlement class）管用认证换全局和解，破产信托管被告活不下去时把索赔导入信托按表支付，州协调程序（如加州 JCCP）管州法院一侧的平行案件。读图顺序先联邦、后和解与破产、最后落加州。
+
+### 二、联邦主通道：28 U.S.C. § 1407 与多区诉讼司法小组
+
+《美国法典》第 28 编第 1407 条（28 U.S.C. § 1407）是 MDL 的全部地基：多个联邦民事案件共有一个或多个共同事实问题时，多区诉讼司法小组（Judicial Panel on Multidistrict Litigation, JPML）可把案件移送到一个联邦地区法院，作协调或合并的审前程序（coordinated or consolidated pretrial proceedings）。JPML 本身由国会于 1968 年设立（Pub. L. 90-296 一带），距今五十八年（2026 − 1968 = 58）。移送只为审前：共同开示、专家证据与 Daubert 审查、法律争点的统一裁定都在受移送法院完成，法官还会挑选代表性案件先行陪审团试审（bellwether trials），用真实裁决给全局和解标价。注意射程：移送不改变各案的实体法与个体损害证明，每个原告最终仍要证明自己的暴露、因果与损害额。
+
+### 三、Lexecon 红线：审前的归审前，审理要送回去
+
+MDL 法官权力有一条硬边界。Lexecon Inc. v. Milberg Weiss Bershad Hynes & Lerach, 523 U.S. 26 (1998)，美国最高法院（Souter 执笔）：第 1407 条第 (a) 款只授权为审前程序移送，审前结束时小组必须把案件发回原地区法院审理，受移送法院不能借第 1404 条第 (a) 款把案件「自我移送」给自己审判——该案距 JPML 设立整三十年（1998 − 1968 = 30）。实务绕法都写在明处：当事人可放弃 Lexecon 权利同意在受移送法院审理，bellwether 试审多以当事人同意为前提；不同意的案件，审前一结束就打包送回。答题时把这一格与第 1407 条的「pretrial」字样绑在一起写，不会丢分。
+
+### 四、和解等级与两道拦路判例：Amchem 与 Ortiz
+
+聚合的终点多半不是判决而是和解，而用集体认证装和解，有两道判例把门。Amchem Products, Inc. v. Windsor, 521 U.S. 591 (1997)，美国最高法院：和解型集体同样要过 FRCP 第 23 条的各要件，只免掉「可管理性」一项；该案中已发病者与仅暴露未发病者利益冲突、代表结构不一，认证被否。Ortiz v. Fibreboard Corp., 527 U.S. 815 (1999)，美国最高法院：以「有限基金」（limited fund）绕开逐个诉讼的路同样被收紧，基金有限必须是真实的历史与资产事实，不能靠当事人协议凑出来。两案相隔两年（1999 − 1997 = 2），合起来读：全局和平可以买，但不能用牺牲未来索赔人代表充分性的方式买。实务主流因此回到 MDL 内的清单式和解（inventory settlements）与共同基金律师费安排，逐人签约、逐人审查。
+
+### 五、破产通道：11 U.S.C. § 524(g) 的石棉信托与非合意免责的边界
+
+被告被索赔压垮时，战场转到破产法院。《破产法典》第 524 条第 (g) 款（11 U.S.C. § 524(g)，1994 年入法）专为石棉案件设：重整计划可把现在与未来的石棉索赔导入信托，由信托按统一标准支付，并以渠道禁令（channeling injunction）把索赔挡在重整后公司之外；该安排须经受影响索赔人至少百分之七十五投票赞成一带的高门槛（条文数字引用时回原文核）。距今三十二年（2026 − 1994 = 32），数十家石棉被告走完这条路。边界在非石棉领域收得更紧：Harrington v. Purdue Pharma L.P., 603 U.S. 204 (2024)，美国最高法院认定《破产法典》不授权在债权人不同意的情况下免除非债务人（该案中的 Sackler 家族成员）所负的索赔——非合意第三人免责出局，靠破产一揽子买断全局和平的模式被划了线。
+
+### 六、州一层与加州 JCCP：协调法官可以审到底
+
+州法院一侧的平行案件走州协调。加州是司法协调程序（Judicial Council Coordinated Proceedings, JCCP）：《民事诉讼法典》第 404 至 404.9 条（Cal. Civ. Proc. Code §§ 404–404.9），在不同法院系属、共有一个事实或法律问题的复杂案件，可向司法委员会主席申请协调；第 404.1 条列明考量因素——共同问题是否占主导且重要、当事人与证人便利、各案进展程度、司法资源效率、避免重复与矛盾裁定的需要，以及不协调时和解的可能性。配套程序在《加州法院规则》第 3.501 条起一带。与联邦 MDL 的关键差别：JCCP 的协调法官是为「一切目的」接案，可以把案件审到底，不受 Lexecon 式发回的约束；濒临死亡的原告的优先审理另看第 36 条一带。联邦 MDL 与州 JCCP 并行时，两边靠联席听证与共同开示命令省力，这也是读图时要标出的拼接点。
+
+### 七、读图边界：这套机器管不到什么
+
+最后划界。MDL 聚合的是程序，不是责任：一般因果可以统一打，个体因果与损害额仍逐人证明；bellwether 裁决对没有同意受其约束的当事人没有既判力，它的功能是标价而非定案。和解的公平性、律师费比例与未来索赔人的保护，靠法官审查与 Amchem、Ortiz 两道判例守门；破产信托的支付比例随信托资产涨落，拿到「可赔」认定不等于全额受偿。把四台机器的接缝看清——移送、认证、协调、破产各管一段——这张图才算读完。
+
+个人学习笔记，不构成法律建议。条文以 28 U.S.C. § 1407、11 U.S.C. § 524(g) 与加州《民事诉讼法典》第 404–404.9 条现行文本为准；案例以 Lexecon Inc. v. Milberg Weiss, 523 U.S. 26 (1998)、Amchem Products, Inc. v. Windsor, 521 U.S. 591 (1997)、Ortiz v. Fibreboard Corp., 527 U.S. 815 (1999) 与 Harrington v. Purdue Pharma L.P., 603 U.S. 204 (2024) 原文为准。
+
+## English
+
+Mass torts aggregate individual injury cases that usually cannot be certified as a class, because exposure, causation, and damages differ person by person. The federal machine is multidistrict litigation: under 28 U.S.C. § 1407, the Judicial Panel on Multidistrict Litigation — created in 1968 (Pub. L. 90-296, approx.), fifty-eight years ago (2026 − 1968 = 58) — transfers cases sharing common factual questions to one district for coordinated pretrial proceedings, including bellwether trials that price a global settlement. Lexecon Inc. v. Milberg Weiss, 523 U.S. 26 (1998) drew the hard line: transfer is for pretrial only, and the transferee court may not use § 1404(a) to assign a case to itself for trial (1998 − 1968 = 30). Settlement classes are policed by Amchem Products, Inc. v. Windsor, 521 U.S. 591 (1997) and Ortiz v. Fibreboard Corp., 527 U.S. 815 (1999), two years apart (1999 − 1997 = 2), which refused to let global peace be bought at the expense of absent future claimants. In bankruptcy, 11 U.S.C. § 524(g) (1994) channels asbestos claims into trusts under a channeling injunction (2026 − 1994 = 32), while Harrington v. Purdue Pharma L.P., 603 U.S. 204 (2024) barred nonconsensual third-party releases. California runs the parallel state track through JCCP coordination under Code of Civil Procedure §§ 404–404.9, with § 404.1 factors; unlike an MDL judge, a JCCP coordination judge may keep cases for all purposes, trial included. Study notes only, not legal advice.
+
+## Español（初译待校）
+
+Los agravios masivos agrupan demandas individuales por daños que normalmente no pueden certificarse como acción colectiva, porque la exposición, la causalidad y los daños difieren entre personas. La máquina federal es el litigio multidistrito: según 28 U.S.C. § 1407, el Panel Judicial de Litigios Multidistrito — creado en 1968 (Pub. L. 90-296, aprox.), hace cincuenta y ocho años (2026 − 1968 = 58) — traslada los casos con cuestiones fácticas comunes a un solo distrito para actuaciones previas coordinadas, incluidos juicios piloto (bellwether) que ponen precio a un acuerdo global. Lexecon Inc. v. Milberg Weiss, 523 U.S. 26 (1998) trazó la línea dura: el traslado es solo para la fase previa y el tribunal receptor no puede usar § 1404(a) para asignarse el caso en juicio (1998 − 1968 = 30). Las clases de acuerdo están vigiladas por Amchem Products, Inc. v. Windsor, 521 U.S. 591 (1997) y Ortiz v. Fibreboard Corp., 527 U.S. 815 (1999), separados por dos años (1999 − 1997 = 2). En quiebras, 11 U.S.C. § 524(g) (1994) canaliza las reclamaciones de asbesto hacia fideicomisos (2026 − 1994 = 32), mientras que Harrington v. Purdue Pharma L.P., 603 U.S. 204 (2024) prohibió las liberaciones de terceros sin consentimiento. California usa la vía estatal paralela, la coordinación JCCP de los §§ 404–404.9 del Código de Procedimiento Civil, con los factores del § 404.1; a diferencia del juez de un MDL, el juez coordinador sí puede quedarse los casos para todos los fines, incluido el juicio. Notas de estudio, no asesoría legal.
+
+## 한국어（초역, 교정 대기）
+
+대규모 불법행위 소송은 노출, 인과관계, 손해액이 사람마다 달라 통상 집단소송으로 인증받을 수 없는 개별 상해 사건들을 모읍니다. 연방의 장치는 다지구 소송입니다. 28 U.S.C. § 1407에 따라 1968년에 설립된 다지구소송 사법패널(Pub. L. 90-296 부근)이 공통 사실문제를 가진 사건들을 한 지구법원으로 이송해 조정된 재판 전 절차를 진행하며, 여기에는 전체 합의의 가격을 매기는 벨웨더 재판이 포함됩니다(2026 − 1968 = 58). Lexecon Inc. v. Milberg Weiss, 523 U.S. 26 (1998)은 단호한 선을 그었습니다. 이송은 재판 전 절차만을 위한 것이고, 이송받은 법원은 § 1404(a)를 이용해 사건을 자기 재판으로 배당할 수 없습니다(1998 − 1968 = 30). 합의 클래스는 Amchem Products, Inc. v. Windsor, 521 U.S. 591 (1997)과 Ortiz v. Fibreboard Corp., 527 U.S. 815 (1999)가 감시합니다(1999 − 1997 = 2). 파산에서는 11 U.S.C. § 524(g)(1994년)가 석면 청구를 신탁으로 유도하고(2026 − 1994 = 32), Harrington v. Purdue Pharma L.P., 603 U.S. 204 (2024)는 비동의 제3자 면책을 금지했습니다. 캘리포니아는 민사소송법전 §§ 404–404.9의 JCCP 조정으로 주 차원의 병행 트랙을 운영하며, § 404.1의 요소를 적용합니다. MDL 판사와 달리 조정 판사는 재판을 포함해 모든 목적으로 사건을 보유할 수 있습니다. 학습 노트이며 법률 자문이 아닙니다.
+
+## Tiếng Việt (bản dịch sơ bộ)
+
+Các vụ kiện hàng loạt gộp những vụ thương tích cá nhân thường không thể chứng nhận thành vụ kiện tập thể, vì phơi nhiễm, quan hệ nhân quả và thiệt hại khác nhau theo từng người. Cỗ máy liên bang là tố tụng đa khu: theo 28 U.S.C. § 1407, Hội đồng Tư pháp về Tố tụng Đa khu — thành lập năm 1968 (Pub. L. 90-296, khoảng), cách nay năm mươi tám năm (2026 − 1968 = 58) — chuyển các vụ có vấn đề sự kiện chung về một khu để phối hợp giai đoạn tiền xét xử, gồm cả các phiên xử chuông (bellwether) định giá cho thỏa thuận dàn xếp toàn cục. Lexecon Inc. v. Milberg Weiss, 523 U.S. 26 (1998) vạch lằn ranh cứng: chuyển vụ chỉ cho giai đoạn tiền xét xử, tòa tiếp nhận không thể dùng § 1404(a) để tự giao vụ cho mình xét xử (1998 − 1968 = 30). Các lớp dàn xếp bị kiểm soát bởi Amchem Products, Inc. v. Windsor, 521 U.S. 591 (1997) và Ortiz v. Fibreboard Corp., 527 U.S. 815 (1999), cách nhau hai năm (1999 − 1997 = 2). Trong phá sản, 11 U.S.C. § 524(g) (1994) dẫn các khiếu nại amiăng vào các quỹ tín thác (2026 − 1994 = 32), còn Harrington v. Purdue Pharma L.P., 603 U.S. 204 (2024) cấm miễn trừ cho bên thứ ba khi không có đồng thuận. California chạy tuyến bang song song bằng phối hợp JCCP theo Bộ luật Tố tụng Dân sự §§ 404–404.9, với các yếu tố ở § 404.1; khác với thẩm phán MDL, thẩm phán phối hợp có thể giữ vụ cho mọi mục đích, kể cả xét xử. Chỉ là ghi chú học tập, không phải tư vấn pháp lý.
+
+## हिन्दी (प्रारंभिक अनुवाद)
+
+सामूहिक अपकृत्य उन व्यक्तिगत चोट-मामलों को जोड़ता है जो आमतौर पर वर्ग-कार्रवाई के रूप में प्रमाणित नहीं हो सकते, क्योंकि संपर्क, कारणता और क्षति हर व्यक्ति के लिए अलग होती है। संघीय मशीन बहु-ज़िला मुकदमेबाज़ी है: 28 U.S.C. § 1407 के तहत, 1968 में गठित बहु-ज़िला मुकदमेबाज़ी न्यायिक पैनल (Pub. L. 90-296, लगभग) — अट्ठावन वर्ष पहले (2026 − 1968 = 58) — समान तथ्यात्मक प्रश्नों वाले मामलों को समन्वित पूर्व-विचारण कार्यवाही के लिए एक ज़िले में स्थानांतरित करता है, जिसमें वैश्विक समझौते का मूल्य तय करने वाले बेलवेदर विचारण भी शामिल हैं। Lexecon Inc. v. Milberg Weiss, 523 U.S. 26 (1998) ने कठोर रेखा खींची: स्थानांतरण केवल पूर्व-विचारण के लिए है, और प्राप्तकर्ता न्यायालय § 1404(a) का उपयोग करके मामला अपने विचारण के लिए स्वयं को नहीं सौंप सकता (1998 − 1968 = 30)। समझौता-वर्गों पर Amchem Products, Inc. v. Windsor, 521 U.S. 591 (1997) और Ortiz v. Fibreboard Corp., 527 U.S. 815 (1999) की निगरानी है, जिनमें दो वर्ष का अंतर है (1999 − 1997 = 2)। दिवालियापन में 11 U.S.C. § 524(g) (1994) एस्बेस्टस दावों को ट्रस्टों में भेजता है (2026 − 1994 = 32), जबकि Harrington v. Purdue Pharma L.P., 603 U.S. 204 (2024) ने असहमत तृतीय-पक्ष मुक्तियों पर रोक लगाई। कैलिफ़ोर्निया समानांतर राज्य मार्ग नागरिक प्रक्रिया संहिता §§ 404–404.9 के तहत JCCP समन्वय से चलाता है, जिसमें § 404.1 के कारक लागू होते हैं; MDL न्यायाधीश के विपरीत, समन्वय न्यायाधीश मामले विचारण सहित सभी उद्देश्यों के लिए रख सकता है। ये केवल अध्ययन नोट हैं, कानूनी सलाह नहीं।

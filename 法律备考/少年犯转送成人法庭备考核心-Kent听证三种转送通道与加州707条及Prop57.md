@@ -1,0 +1,51 @@
+# 少年犯转送成人法庭备考核心：Kent 听证、三种转送通道与加州《福利与机构法典》第 707 条及 Prop 57
+
+导语：同样是未成年人犯了重罪，案子留在少年法庭还是送进成人法庭，结局差得很远：前者以矫治为名、刑期与记录都封顶，后者按成人量刑、定罪记录跟一辈子。决定走哪扇门的程序，就是转送（transfer，也称 waiver，少年法庭放弃管辖）。本篇先立宪法地板 Kent，再抠 Breed 的顺序红线与三种转送通道，最后落到加州第 707 条、Prop 57 与 SB 1391。本篇与《美国少年司法与未成年人法地图》分工：地图给少年司法全景，本篇只深挖转送一格。本选题经 ls/grep 实查：转送、waiver、Kent 听证在备考板块无本体专篇，全仓零命中或仅指针提及，故成篇。
+
+## 中文主文
+
+### 一、坐标：少年法庭是默认门，转送是例外门
+
+少年法庭自始按矫治逻辑运转：不问罪名多重，先看这个孩子还能不能教回来，处置以教育与监管为主，管辖一般到法定年龄上限为止。转送是把案件整体搬到成人刑事法庭：程序按成人走，量刑按成人走，定罪与记录的后果也按成人算。正因落差巨大，转送决定本身被当作一道独立的大门来考：谁有权开门、开门前要过什么程序、按什么标准判断，构成本篇三条线——程序线（Kent 与 Breed）、通道线（三种转送方式）、地方线（加州第 707 条一带）。
+
+### 二、宪法地板：Kent v. United States, 383 U.S. 541 (1966)
+
+Morris Kent 在哥伦比亚特区被控入室、抢劫等罪时年仅十六岁，当地少年法庭法官没有开听证、没有给出理由，只写一句经全面调查后放弃管辖，把人送进成人法庭。Kent v. United States, 383 U.S. 541 (1966)，美国最高法院：转送是「至关重要的行动」（critically important action），少年在转送环节至少享有三件程序权利——开听证、有律师协助、法院给出足以供复查的决定理由。判决附录还列出八项判断因素供下级法院参考：所控罪行的严重性与社区保护需要、作案方式是否具攻击性与预谋、指控本身的成立程度、本人成熟度、与成年同案犯在同一法庭合并处理是否更合适、既往记录、公共安全，以及少年法庭现有项目能提供的矫治前景。此案距今正好六十年（2026 − 1966 = 60），它是后来一切转送程序的地基：可以转，但不能不开庭、不说明理由地转。
+
+### 三、顺序红线：Breed v. Jones, 421 U.S. 519 (1975)
+
+转送听证开在什么时点，Breed 划了死线。Breed v. Jones, 421 U.S. 519 (1975)，美国最高法院：少年法庭若先开完实体裁判听证、认定事实成立，再把人转送成人法庭受审，等于就同一行为审了两次，违反第五修正案的双重危险条款——该条款经第十四修正案约束各州，少年裁判听证在性质上就是一次审判。所以顺序只能是先转送、后审判，转送听证必须排在任何实体裁判之前；距 Kent 九年（1975 − 1966 = 9），两案合起来读：Kent 管听证里要有什么，Breed 管听证要排在哪里。背景判例只作指针：In re Gault, 387 U.S. 1 (1967) 把通知、律师、沉默权与对质带进少年裁判程序，In re Winship, 397 U.S. 358 (1970) 把证明标准定为排除合理怀疑；量刑一侧的 Miller v. Alabama, 567 U.S. 460 (2012)、Montgomery v. Louisiana, 577 U.S. 190 (2016) 与 Jones v. Mississippi, 593 U.S. 98 (2021) 管的是转送之后未成年人重刑的上限，与本篇是相邻考点，不要混写。
+
+### 四、三种转送通道：法官、检察官、立法者各开一扇门
+
+各州开门的人有三种。第一扇是司法转送（judicial waiver）：检察官提出动议，少年法庭法官开 Kent 式听证后裁量决定，内部再分裁量型（法官逐项衡量因素）、推定型（特定重罪下推定应转、由少年一方反驳）与强制型（条件满足法官必须转）。第二扇是检察官直接起诉（direct file）：法律把选择法庭的权力直接给检察官，法官不先开转送听证，少年一方事后多只能请求成人法庭反向送回（reverse waiver）。第三扇是立法排除（statutory exclusion）：立法直接规定某年龄加某罪名的组合自始归成人法庭，少年法庭根本没有管辖权可放弃。联邦一侧，联邦少年程序在 18 U.S.C. § 5032 一带：联邦少年原则上按少年程序处理，符合法定条件时检察总长一侧可申请按成人起诉，未成年人身份的认定与转送条件都在该条一带，引用时逐项核条文。考试里最常见的混淆，是把三扇门的程序保障写成一样：只有司法转送自带 Kent 听证，直接起诉与立法排除的程序争议历来最多。
+
+### 五、加州落点：《福利与机构法典》第 707 条、Prop 57 与 SB 1391
+
+加州现在的格局是三扇门只剩一扇。转送的实体通道在《福利与机构法典》第 707 条第 (a) 款一带：检察官提出动议，少年法庭开适格听证（transfer hearing），按第 707 条第 (c) 款一带的标准逐项衡量——犯罪老练程度、少年法庭管辖期满前能否矫治成功、既往违法记录、此前矫治尝试的成败、本次所控罪行的严重与情节，举证责任在提出动议的一方，标准为优势证据一带。2016 年 11 月 8 日通过的 Prop 57 把另外两扇门焊死：废除检察官直接起诉（原第 707 条第 (d) 款一带）与立法排除（原第 602 条第 (b) 款一带），一切案件先从少年法庭起步，要转只能过法官听证这一扇门；Prop 57 距 Kent 正好五十年（2016 − 1966 = 50）。2018 年的 SB 1391（Stats. 2018, ch. 1012）再收紧：自 2019 年 1 月 1 日起，十四、十五岁未成年人原则上不得转送，例外仅限所犯为第 707 条第 (b) 款所列重罪、且本人在少年法庭管辖期满后才被抓获到案的情形（第 707 条第 (a)(1)–(2) 款一带）。有上诉法院曾判 SB 1391 构成对 Prop 57 的违宪修正，加州最高法院在 O.G. v. Superior Court, 11 Cal.5th 82 (2021) 认定该法是与 Prop 57 意旨一致的合法修正、维持其效力，距 Kent 五十五年（2021 − 1966 = 55）。另注意 SB 823（2020）关闭州少年感化系统、把人留在县一级的少年司法重整只作背景指针，不属转送规则本身。
+
+### 六、备考易错点
+
+一，Kent 的三件套是听证、律师、理由陈述，八因素在附录里是判断参考，不是宪法逐项硬清单。二，Breed 管顺序：实体裁判在前、转送在后，直接触发双重危险。三，三种通道分清开门人：法官开门自带听证，检察官与立法者开门不带。四，加州现行口径是十六岁地板：十四、十五岁除第 707 条第 (b) 款重罪加管辖期满后到案的窄例外，一律不得转送。五，转送与量刑是两格：转送决定在哪审，Miller 一线判例管转过去之后能判多重，答题时分开写。
+
+个人学习笔记，不构成法律建议。条文以 18 U.S.C. § 5032 与加州《福利与机构法典》第 602、707 条现行文本为准；案例以 Kent v. United States, 383 U.S. 541 (1966)、Breed v. Jones, 421 U.S. 519 (1975) 与 O.G. v. Superior Court, 11 Cal.5th 82 (2021) 原文为准。
+
+## English
+
+Transfer decides which court tries a minor, and the gap is wide: juvenile court is built on rehabilitation with capped dispositions, while adult court means adult sentencing and a lasting record. In Kent v. United States, 383 U.S. 541 (1966), the Supreme Court called waiver a "critically important" action and required a hearing, access to counsel, and a statement of reasons; its appendix listed eight factors, from offense seriousness and sophistication to amenability to treatment (2026 − 1966 = 60). Breed v. Jones, 421 U.S. 519 (1975) fixed the sequence: an adjudicatory hearing held before transfer is a trial for double jeopardy purposes, so transfer must come first (1975 − 1966 = 9). States open the door three ways: judicial waiver after a Kent-type hearing, prosecutorial direct file, and statutory exclusion, with reverse waiver as the safety valve for the latter two; federal practice sits in 18 U.S.C. § 5032 (approx.). California now keeps only the judicial door: Welfare and Institutions Code § 707(a) (approx.) sets the transfer hearing and the § 707(c) criteria (approx.); Proposition 57 (2016) abolished direct file and statutory exclusion (2016 − 1966 = 50); SB 1391 (2018, effective January 1, 2019) bars transfer of fourteen- and fifteen-year-olds except for listed § 707(b) offenses where the youth was not apprehended until after juvenile jurisdiction ended; and O.G. v. Superior Court, 11 Cal.5th 82 (2021) upheld SB 1391 (2021 − 1966 = 55). Study notes only, not legal advice.
+
+## Español（初译待校）
+
+El traslado decide en qué tribunal se juzga a un menor: el tribunal de menores busca la rehabilitación con medidas limitadas, mientras que el tribunal de adultos implica penas de adulto y antecedentes duraderos. En Kent v. United States, 383 U.S. 541 (1966), la Corte Suprema calificó la renuncia de jurisdicción como una acción «críticamente importante» y exigió audiencia, acceso a abogado y una declaración de motivos; su apéndice enumeró ocho factores (2026 − 1966 = 60). Breed v. Jones, 421 U.S. 519 (1975) fijó el orden: una audiencia de fondo previa al traslado equivale a un juicio a efectos de la doble incriminación, así que el traslado debe venir primero (1975 − 1966 = 9). Los estados abren la puerta de tres maneras: renuncia judicial tras una audiencia tipo Kent, presentación directa por el fiscal y exclusión legislativa; la práctica federal está en 18 U.S.C. § 5032 (aprox.). California conserva solo la puerta judicial: el artículo 707(a) del Código de Bienestar e Instituciones (aprox.) regula la audiencia de traslado y los criterios del apartado (c) (aprox.); la Proposición 57 (2016) abolió la presentación directa y la exclusión legislativa (2016 − 1966 = 50); la SB 1391 (2018, vigente desde el 1 de enero de 2019) prohíbe trasladar a menores de catorce y quince años salvo delitos enumerados del artículo 707(b) con aprehensión posterior al fin de la jurisdicción juvenil; y O.G. v. Superior Court, 11 Cal.5th 82 (2021) confirmó la SB 1391 (2021 − 1966 = 55). Notas de estudio, no asesoría legal.
+
+## 한국어（초역, 교정 대기）
+
+이송은 미성년자를 어느 법원에서 재판할지를 정합니다. 소년법원은 재활을 목표로 처분이 제한되지만, 성인법원은 성인 양형과 지속적인 기록을 뜻합니다. Kent v. United States, 383 U.S. 541 (1966)에서 연방대법원은 관할 포기를 "결정적으로 중요한" 행위로 보고 심문, 변호인 조력, 이유 제시를 요구했고, 부록에 여덟 가지 요소를 나열했습니다(2026 − 1966 = 60). Breed v. Jones, 421 U.S. 519 (1975)는 순서를 정했습니다. 이송 전에 본안 심리를 열면 이중위험금지상의 재판이 되므로 이송이 먼저여야 합니다(1975 − 1966 = 9). 각 주는 세 가지 문을 둡니다. Kent식 심문 뒤의 사법적 포기, 검사의 직접 기소, 법률상 배제가 그것이며, 연방 실무는 18 U.S.C. § 5032 부근에 있습니다. 캘리포니아는 사법적 문만 남겼습니다. 복지·기관법전 § 707(a) 부근이 이송 심문과 (c)항 기준을 정하고, 2016년 주민발의 57호가 직접 기소와 법률상 배제를 폐지했으며(2016 − 1966 = 50), SB 1391(2018년, 2019년 1월 1일 시행)은 소년법원 관할 종료 후 체포된 § 707(b) 열거 범죄의 예외를 제외하고 14~15세의 이송을 금지했고, O.G. v. Superior Court, 11 Cal.5th 82 (2021)가 이를 유지했습니다(2021 − 1966 = 55). 학습 노트이며 법률 자문이 아닙니다.
+
+## Tiếng Việt (bản dịch sơ bộ)
+
+Chuyển xử quyết định tòa nào xét xử người chưa thành niên: tòa vị thành niên hướng tới cải tạo với chế độ xử lý có trần, còn tòa người lớn nghĩa là mức án người lớn và hồ sơ lâu dài. Trong Kent v. United States, 383 U.S. 541 (1966), Tòa Tối cao gọi việc từ bỏ thẩm quyền là hành động "cực kỳ quan trọng" và đòi hỏi phiên điều trần, quyền có luật sư và bản nêu lý do; phụ lục liệt kê tám yếu tố (2026 − 1966 = 60). Breed v. Jones, 421 U.S. 519 (1975) ấn định thứ tự: phiên xét xử nội dung mở trước khi chuyển sẽ là một phiên tòa theo nghĩa cấm xử hai lần, nên chuyển xử phải đi trước (1975 − 1966 = 9). Các bang mở cửa theo ba cách: thẩm phán từ bỏ thẩm quyền sau điều trần kiểu Kent, công tố viên nộp hồ sơ trực tiếp, và luật loại trừ theo luật định; thực hành liên bang nằm ở 18 U.S.C. § 5032 (khoảng). California nay chỉ giữ cửa thẩm phán: Bộ luật Phúc lợi và Thể chế § 707(a) (khoảng) quy định phiên điều trần chuyển xử và các tiêu chí khoản (c) (khoảng); Dự luật 57 (2016) bãi bỏ nộp trực tiếp và loại trừ theo luật (2016 − 1966 = 50); SB 1391 (2018, hiệu lực 1/1/2019) cấm chuyển xử trẻ 14–15 tuổi trừ tội liệt kê ở § 707(b) khi bị bắt sau khi thẩm quyền vị thành niên đã kết thúc; O.G. v. Superior Court, 11 Cal.5th 82 (2021) giữ vững SB 1391 (2021 − 1966 = 55). Chỉ là ghi chú học tập, không phải tư vấn pháp lý.
+
+## हिन्दी (प्रारंभिक अनुवाद)
+
+स्थानांतरण तय करता है कि किशोर पर मुकदमा किस अदालत में चलेगा: किशोर न्यायालय पुनर्वास पर टिका है और उसके निपटारे सीमित होते हैं, जबकि वयस्क न्यायालय का अर्थ वयस्क सज़ा और स्थायी रिकॉर्ड है। Kent v. United States, 383 U.S. 541 (1966) में सर्वोच्च न्यायालय ने क्षेत्राधिकार-त्याग को "अत्यंत महत्वपूर्ण" कार्य कहा और सुनवाई, वकील की सहायता और कारणों का विवरण अनिवार्य किया; परिशिष्ट में आठ कारक दिए गए (2026 − 1966 = 60)। Breed v. Jones, 421 U.S. 519 (1975) ने क्रम तय किया: स्थानांतरण से पहले हुई मूल सुनवाई दोहरे अभियोजन की दृष्टि से एक विचारण है, इसलिए स्थानांतरण पहले होना चाहिए (1975 − 1966 = 9)। राज्य तीन दरवाज़े रखते हैं: Kent-प्रकार की सुनवाई के बाद न्यायिक त्याग, अभियोजक की सीधी फाइलिंग, और वैधानिक बहिष्करण; संघीय व्यवस्था 18 U.S.C. § 5032 के आसपास है। कैलिफ़ोर्निया में अब केवल न्यायिक दरवाज़ा बचा है: कल्याण व संस्था संहिता § 707(a) (लगभग) स्थानांतरण सुनवाई और उपधारा (c) के मानदंड तय करती है; प्रस्ताव 57 (2016) ने सीधी फाइलिंग और वैधानिक बहिष्करण समाप्त किए (2016 − 1966 = 50); SB 1391 (2018, 1 जनवरी 2019 से प्रभावी) चौदह-पंद्रह वर्ष के किशोरों के स्थानांतरण पर रोक लगाता है, सिवाय § 707(b) में सूचीबद्ध अपराधों के जहाँ गिरफ़्तारी किशोर क्षेत्राधिकार समाप्त होने के बाद हुई हो; और O.G. v. Superior Court, 11 Cal.5th 82 (2021) ने SB 1391 को बरकरार रखा (2021 − 1966 = 55)। ये केवल अध्ययन नोट हैं, कानूनी सलाह नहीं।
