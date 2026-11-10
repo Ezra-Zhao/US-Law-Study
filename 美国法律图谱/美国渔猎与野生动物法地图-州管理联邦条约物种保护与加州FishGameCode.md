@@ -80,3 +80,17 @@ Luật động vật hoang dã ở Hoa Kỳ bắt đầu từ đầu đối ngư
 *이 글은 개인 학습 노트이며 법률 자문이 아닙니다. (초역·待校)*
 *Bài viết này là ghi chú học tập cá nhân, không cấu thành tư vấn pháp lý. (bản dịch sơ bộ·待校)*
 *यह लेख व्यक्तिगत अध्ययन नोट है और कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद·待校)*
+
+## 补译增量（2026-11-09 21:55 轮）
+
+### 한국어 보충 (初译待校)
+
+보충 세부 사항 두 가지. 첫째, 철새조약법(MBTA) § 703 부근의 금지는 엄격책임 색채가 짙은 경범죄 틀입니다. 고의가 있었는지는 대개 유죄 여부를 가르지 않고 양형 단계에서나 의미를 갖는 경우가 많으니, 몰랐다는 사정은 그 자체로 방어가 되기 어렵습니다. 둘째, 주 일상 규칙에서는 일일 채획 한도(bag limit)와 보유 총량 한도(possession limit)를 따로 셉니다. 그날 잡을 수 있는 수와 집에 쌓아 둘 수 있는 총량은 별개의 숫자입니다. 또 사유지에서 사냥하려면 지주의 허락이 필요하고, 허락 없이 들어가 잡는 행위는 다수의 주에서 별도의 죄로 셉니다.
+
+### Tiếng Việt bổ sung (初译待校)
+
+Hai chi tiết bổ sung. Thứ nhất, lệnh cấm quanh § 703 của Đạo luật Hiệp ước Chim di cư (MBTA) nằm trong khung tội nhẹ mang màu sắc trách nhiệm nghiêm ngặt rõ rệt: có cố ý hay không thường không quyết định việc có tội, mà chỉ ảnh hưởng đến mức phạt, nên việc không biết hiếm khi tự nó thành một lá chắn. Thứ hai, trong quy tắc thường ngày của bang, hạn mức lấy trong ngày (bag limit) và hạn mức sở hữu tổng (possession limit) được tính riêng: số con được lấy trong một ngày và tổng số được giữ lại là hai con số khác nhau. Ngoài ra, săn bắn trên đất tư nhân phải có phép của chủ đất, và việc vào đất người khác săn khi chưa được phép ở đa số bang bị tính là một tội riêng.
+
+### हिन्दी पूरक (初译待校)
+
+दो पूरक विवरण। पहला, प्रवासी पक्षी संधि अधिनियम (MBTA) के § 703 के आसपास का प्रतिबंध सख्त दायित्व (strict liability) की गहरी छाया वाला misdemeanor ढाँचा है: आशय था या नहीं, यह आमतौर पर दोष तय नहीं करता, केवल सज़ा के स्तर पर मायने रखता है, इसलिए अनजान होना अपने आप में बचाव नहीं बनता। दूसरा, राज्य के रोज़मर्रा के नियमों में दैनिक शिकार-सीमा (bag limit) और कुल कब्ज़ा-सीमा (possession limit) अलग-अलग गिनी जाती हैं: एक दिन में कितना लिया जा सकता है और कुल कितना रखा जा सकता है, ये दो अलग संख्याएँ हैं। साथ ही, निजी भूमि पर शिकार के लिए भूस्वामी की अनुमति चाहिए, और बिना अनुमति घुसकर शिकार करना अधिकांश राज्यों में अलग अपराध गिना जाता है।
