@@ -106,3 +106,20 @@ California इसी डिज़ाइन को स्थानीय हि�
 
 *अस्वीकरण: व्यक्तिगत अध्ययन नोट है, कानूनी सलाह नहीं। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित।)*
 
+
+## 补译增量（2026-11-10 21:55 轮）
+
+### 한국어 (初译待校)
+
+- 보충 1 — IG 해임 보호 세분화. 대통령이 임명한 감찰관(IG)을 해임하거나 전보하려면, 대통령은 의회 양원에 30일 전에 서면으로 통지해야 하고, 그 통지에는 구체적인 사건까지 적힌 실질적 이유(substantive rationale, including detailed and case-specific reasons)가 포함되어야 합니다. 이 강화된 문구는 Securing Inspector General Independence Act of 2022(Pub. L. 117-263)로 5 U.S.C. 제403조 (b) 부근에 들어갔습니다. 같은 시기에 하원에서 쓰인 IG Independence and Empowerment Act라는 이름은 성립한 법률의 이름이 아니므로, 현행법처럼 인용해서는 안 됩니다. (초역, 교정 대기)
+- 보충 2 — 감사원장 임기와 리틀 후버 위원회 구성 세분화. 연방 감사원장(Comptroller General)은 31 U.S.C. 제702조와 제703조 부근에 따라 임기가 15년이고 단 한 번만 맡을 수 있으며, 해임은 탄핵이나 법이 정한 사유에 한정한 의회의 합동결의로만 가능합니다. 캘리포니아 리틀 후버 위원회는 정부법전 제8501조 이하에 따라 공익 위원 9명과 의원 위원 4명, 모두 13명으로 구성됩니다(9 + 4 = 13). (초역, 교정 대기)
+
+### Tiếng Việt (初译待校)
+
+- Bổ sung 1 — Chi tiết về bảo vệ khi bãi nhiệm Tổng thanh tra. Muốn bãi nhiệm hoặc điều chuyển một Tổng thanh tra (IG) do Tổng thống bổ nhiệm, Tổng thống phải báo trước 30 ngày bằng văn bản cho cả hai viện Quốc hội, kèm lý do thực chất, trong đó có lý do chi tiết gắn với từng trường hợp cụ thể (substantive rationale, including detailed and case-specific reasons). Cụm từ tăng cường này được đưa vào khoảng điều 403(b) của 5 U.S.C. bởi Đạo luật Bảo đảm Độc lập của Tổng thanh tra năm 2022 (Securing Inspector General Independence Act of 2022, Pub. L. 117-263). Cái tên IG Independence and Empowerment Act được dùng ở Hạ viện cùng thời kỳ không phải là tên của một đạo luật đã thành luật, nên không được trích dẫn như luật hiện hành. (Bản dịch sơ bộ, chờ hiệu đính)
+- Bổ sung 2 — Chi tiết về nhiệm kỳ Tổng kiểm toán trưởng và thành phần Ủy ban Little Hoover. Tổng kiểm toán trưởng liên bang (Comptroller General) theo khoảng các điều 702 và 703 của 31 U.S.C. có nhiệm kỳ 15 năm và chỉ đảm nhiệm một nhiệm kỳ duy nhất; việc bãi nhiệm chỉ thực hiện được qua luận tội hoặc bằng nghị quyết chung của Quốc hội giới hạn ở các lý do luật định. Ủy ban Little Hoover của California, theo các điều 8501 trở đi của Bộ luật Chính quyền, gồm 9 ủy viên công chúng và 4 ủy viên nghị sĩ, tổng cộng 13 người (9 + 4 = 13). (Bản dịch sơ bộ, chờ hiệu đính)
+
+### हिन्दी (初译待校)
+
+- पूरक 1 — IG को हटाने की सुरक्षा का विवरण। राष्ट्रपति द्वारा नियुक्त महानिरीक्षक (IG) को हटाने या स्थानांतरित करने के लिए राष्ट्रपति को कांग्रेस के दोनों सदनों को 30 दिन पहले लिखित सूचना देनी होती है, और उसमें ठोस कारण (substantive rationale, including detailed and case-specific reasons) शामिल होना चाहिए, जिसमें मामले-विशेष का विस्तृत कारण भी हो। यह मजबूत वाक्यांश Securing Inspector General Independence Act of 2022 (Pub. L. 117-263) द्वारा 5 U.S.C. धारा 403(b) के आसपास जोड़ा गया। उसी समय हाउस में प्रयुक्त नाम IG Independence and Empowerment Act किसी बने हुए कानून का नाम नहीं है, इसलिए उसे वर्तमान कानून की तरह उद्धृत नहीं करना चाहिए। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+- पूरक 2 — महालेखा नियंत्रक के कार्यकाल और Little Hoover Commission की संरचना का विवरण। संघीय महालेखा नियंत्रक (Comptroller General) का कार्यकाल 31 U.S.C. धारा 702 और 703 के आसपास के अनुसार 15 वर्ष का होता है और वह केवल एक ही कार्यकाल संभाल सकता है; उसे हटाना केवल महाभियोग से या विधि द्वारा सीमित कारणों पर कांग्रेस के संयुक्त संकल्प से ही संभव है। कैलिफ़ोर्निया का Little Hoover Commission, Government Code धारा 8501 आदि के अनुसार, 9 जन सदस्य और 4 विधायक सदस्य, कुल 13 सदस्यों से बनता है (9 + 4 = 13)। (प्रारंभिक अनुवाद, समीक्षा लंबित)
