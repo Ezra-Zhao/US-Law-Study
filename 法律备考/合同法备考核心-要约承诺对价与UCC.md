@@ -290,3 +290,21 @@ Bài viết này là ghi chép học tập cá nhân, không phải tư vấn ph
 *한국어·베트남어·힌디어 본문은 학습용 초역으로, 원어민 감수를 기다리고 있습니다.*
 *Bản tiếng Hàn, tiếng Việt và tiếng Hindi là bản dịch học tập, đang chờ người bản ngữ hiệu đính.*
 *कोरियाई, वियतनामी और हिंदी पाठ अध्ययन अनुवाद हैं; मूल-भाषी समीक्षा लंबित है।*
+
+---
+
+## 补译增量（2026-11-11 13:55 轮）
+
+> 本节只把本篇中文主文已有的两项细节补译为韩、越、印三语（初译待校），不新增任何事实、数字或法条；原文未删改。
+
+### 한국어 (초역 · 初译待校)
+- 혼합 계약에는 주된 목적 검사(predominant purpose test)를 씁니다. 거래의 주된 목적이 물건을 사는 것인지 서비스를 사는 것인지로 전체 계약에 적용할 규칙 집합을 정하며, 절반씩 나누지 않습니다. (제1절 보충)
+- 물건(goods)은 이동할 수 있는 물품을 말합니다. 자동차, 설비, 재고가 모두 해당하고, UCC 제2편의 캘리포니아 대응 문서는 캘리포니아 《상법전》 제2편(California Commercial Code Division 2)입니다. (제1절 보충)
+
+### Tiếng Việt (bản dịch sơ bộ · 初译待校)
+- Với hợp đồng hỗn hợp, dùng phép kiểm tra mục đích chủ đạo (predominant purpose test): mục đích chính của giao dịch là mua hàng hóa hay mua dịch vụ sẽ quyết định toàn bộ hợp đồng dùng bộ quy tắc nào, không chia mỗi thứ một nửa. (bổ sung cho Mục một)
+- Hàng hóa (goods) là vật phẩm có thể di chuyển được; ô tô, thiết bị, hàng tồn kho đều tính, và văn bản tương ứng của UCC Điều 2 tại California là Phần 2 của Bộ luật Thương mại California (California Commercial Code Division 2). (bổ sung cho Mục một)
+
+### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+- मिश्रित अनुबंधों पर प्रधान प्रयोजन परीक्षण (predominant purpose test) लगता है: लेन-देन का मुख्य प्रयोजन माल खरीदना है या सेवा, यही पूरे अनुबंध के नियम-समूह को तय करता है; आधा-आधा बँटवारा नहीं होता। (भाग एक का पूरक)
+- माल (goods) से अर्थ चल वस्तुएँ हैं; कार, उपकरण और भंडार सब आते हैं, और UCC अनुच्छेद 2 का California संगत पाठ California वाणिज्य संहिता भाग 2 (California Commercial Code Division 2) है। (भाग एक का पूरक)

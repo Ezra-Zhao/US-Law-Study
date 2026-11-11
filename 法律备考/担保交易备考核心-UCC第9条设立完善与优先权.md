@@ -169,3 +169,21 @@ Bài viết này chỉ là ghi chép học tập cá nhân, không phải tư v�
 *한국어·베트남어·힌디어 본문은 학습용 초역으로, 원어민 감수를 기다리고 있습니다.*
 *Bản tiếng Hàn, tiếng Việt và tiếng Hindi là bản dịch học tập, đang chờ người bản ngữ hiệu đính.*
 *कोरियाई, वियतनामी और हिंदी पाठ अध्ययन अनुवाद हैं; मूल-भाषी समीक्षा लंबित है.*
+
+---
+
+## 补译增量（2026-11-11 13:55 轮）
+
+> 本节只把本篇中文主文已有的两项细节补译为韩、越、印三语（初译待校），不新增任何事实、数字或法条；原文未删改。
+
+### 한국어 (초역 · 初译待校)
+- 담보계약에 '내 전 재산'이라고만 쓰는 포괄적(supergeneric) 기재는 § 9-108(c)상 담보계약에서는 부족합니다. 다만 금융명세서(financing statement)에서는 같은 기재가 허용되어 두 문서의 기준이 다릅니다. (제1절 보충)
+- § 9-204의 장래 취득 재산 조항(after-acquired property clause)은 원칙적으로 유효합니다. 재고와 매출채권은 이 조항으로 순환하여 담보를 설정할 수 있지만, 소비재(consumer goods)에는 제한이 있습니다. (제1절 보충)
+
+### Tiếng Việt (bản dịch sơ bộ · 初译待校)
+- Mô tả quá chung chung kiểu «toàn bộ tài sản của tôi» trong thỏa thuận bảo đảm không đáp ứng § 9-108(c), nhưng cùng câu chữ đó lại được chấp nhận trong bản tuyên bố tài trợ (financing statement) — hai văn bản dùng hai chuẩn khác nhau. (bổ sung cho Mục một)
+- Điều khoản tài sản có được sau này (after-acquired property clause) theo § 9-204 về nguyên tắc có hiệu lực: hàng tồn kho và các khoản phải thu dựa vào điều khoản này để thiết lập bảo đảm vòng quay, nhưng với hàng tiêu dùng (consumer goods) thì có giới hạn. (bổ sung cho Mục một)
+
+### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+- प्रतिभूति करार में «मेरी समस्त संपत्ति» जैसा अति-सामान्य (supergeneric) वर्णन धारा 9-108(c) के अधीन करार में अपर्याप्त है, परंतु वही शब्द वित्तपोषण विवरण (financing statement) में मान्य हैं — दोनों दस्तावेज़ों के मानक भिन्न हैं। (भाग एक का पूरक)
+- धारा 9-204 का पश्चात्-अर्जित संपत्ति खंड (after-acquired property clause) सामान्यतः मान्य है: माल-सूची और प्राप्य खाते इसी खंड से चक्रीय रूप से प्रतिभूत होते हैं, परंतु उपभोक्ता वस्तुओं (consumer goods) पर सीमा है। (भाग एक का पूरक)
