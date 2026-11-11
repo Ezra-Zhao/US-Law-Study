@@ -65,3 +65,26 @@ Este artículo es una nota de estudio personal y no constituye asesoría legal. 
 Bài viết này là ghi chép học tập cá nhân, không phải tư vấn pháp lý. (bản dịch sơ bộ, chờ hiệu đính)
 
 यह लेख व्यक्तिगत अध्ययन नोट है, कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+
+---
+
+## 补译增量（2026-11-11 本轮）
+
+### 한국어 (초역, 원어민 감수 대기)
+
+보충 1: 표결의 안쪽도 정확히 기억하십시오. Scalia 대법관의 다수의견에는 일곱 명이 온전히 합류했고, Rehnquist 대법원장은 O'Connor 대법관이 합류한 별도 의견을 써서 파기라는 결론에만 동의하고 다수의견의 역사 논증에는 유보를 표했습니다. 그래서 9 대 0은 «결론은 전원 일치, 논증은 전원 일치가 아님»으로 읽어야 합니다.
+
+보충 2: 실무 체크리스트는 두 칸입니다. 녹음 진술, 선서서, 검사 보고서를 증인 대신 쓰려면 먼저 물으십시오. 첫째, 그것이 증언적 진술인가. 둘째, 진술한 사람이 법정에 나와 반대신문을 받을 수 있는가. 어느 한 칸이라도 답하지 못하면 그 증거는 흔들립니다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+Bổ sung 1: hãy nhớ chính xác mặt trong của cuộc biểu quyết. Ý kiến đa số của Thẩm phán Scalia có bảy thẩm phán tham gia trọn vẹn; Chánh án Rehnquist viết ý kiến riêng, với Thẩm phán O'Connor tham gia, chỉ đồng ý với kết quả hủy án và giữ thái độ dè dặt trước lập luận lịch sử của ý kiến đa số. Vì vậy tỉ lệ 9–0 phải được đọc là «thống nhất về kết quả, không thống nhất về lập luận».
+
+Bổ sung 2: danh sách kiểm tra thực hành gồm hai ô. Muốn dùng lời khai ghi âm, bản tuyên thệ hay báo cáo xét nghiệm thay cho nhân chứng, hãy hỏi trước: thứ nhất, đó có phải lời khai mang tính chứng ngôn không; thứ hai, người khai có thể ra tòa chịu thẩm vấn chéo không. Chỉ cần một ô không trả lời được, chứng cứ đó đã lung lay.
+
+### हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+पूरक 1: मतदान के भीतर की तस्वीर भी सटीक याद रखें। न्यायमूर्ति Scalia के बहुमत मत में सात न्यायाधीश पूरी तरह शामिल हुए; मुख्य न्यायाधीश Rehnquist ने, न्यायमूर्ति O'Connor के साथ, अलग मत लिखा जो केवल निर्णय पलटने के निष्कर्ष से सहमत था और बहुमत के ऐतिहासिक तर्क पर आरक्षण रखता था। इसलिए 9–0 को «निष्कर्ष पर सर्वसम्मति, तर्क पर नहीं» पढ़ा जाना चाहिए।
+
+पूरक 2: व्यावहारिक जाँच-सूची दो खानों की है। रिकॉर्ड किए गए बयान, शपथपत्र या प्रयोगशाला रिपोर्ट को गवाह के स्थान पर इस्तेमाल करना हो तो पहले पूछें: पहला, क्या यह गवाही-स्वरूप बयान है; दूसरा, क्या बयान देने वाला व्यक्ति न्यायालय आकर जिरह झेल सकता है। यदि एक भी खाने का उत्तर न मिले, तो वह साक्ष्य अस्थिर है।

@@ -65,3 +65,26 @@ Este artículo es una nota de estudio personal y no constituye asesoría legal. 
 Bài viết này là ghi chép học tập cá nhân, không phải tư vấn pháp lý. (bản dịch sơ bộ, chờ hiệu đính)
 
 यह लेख व्यक्तिगत अध्ययन नोट है, कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+
+---
+
+## 补译增量（2026-11-11 本轮）
+
+### 한국어 (초역, 원어민 감수 대기)
+
+보충 1: 피해의 구체적 모습도 함께 기억하십시오. C.W.는 점점 더 두려워져 공연을 줄이고 변호사를 선임했으며, 생활 전체가 이 일에 짓눌렸습니다. 법원이 본 것은 단순한 불쾌감이 아니라 실제 생활에 드리운 공포와 교란이었습니다.
+
+보충 2: Sotomayor 대법관의 협조의견은 결은 같아도 폭은 더 좁혔습니다. 스토킹이라는 맥락에서는 이 사건을 더 좁게 판단할 수 있었고, recklessness 기준을 모든 진정한 위협 사건으로 일괄 확장하는 데는 유보적 태도를 보였습니다. 다수 기준과 협조의견의 이 온도 차도 시험 포인트입니다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+Bổ sung 1: hãy nhớ cả hình hài cụ thể của tổn hại. C.W. ngày càng sợ hãi, giảm bớt biểu diễn, thuê luật sư, và cả cuộc sống bị chuyện này phủ bóng. Điều tòa nhìn thấy không chỉ là sự khó chịu, mà là nỗi sợ và sự xáo trộn thực sự trong đời sống.
+
+Bổ sung 2: ý kiến đồng tình của Thẩm phán Sotomayor đi cùng hướng nhưng hẹp hơn: trong bối cảnh đeo bám, vụ án có thể được quyết định một cách hẹp hơn, và bà giữ thái độ dè dặt trước việc khái quát hóa chuẩn recklessness cho mọi vụ đe dọa thực sự. Sự chênh lệch nhiệt độ giữa ý kiến đa số và ý kiến đồng tình này cũng là điểm thi.
+
+### हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+पूरक 1: हानि का ठोस रूप भी साथ याद रखें। C.W. उत्तरोत्तर डरती गई, उसने अपने प्रदर्शन घटा दिए, वकील रखा, और उसका पूरा जीवन इस मामले की छाया में आ गया। न्यायालय ने जो देखा वह केवल असुविधा नहीं थी, बल्कि जीवन में फैला वास्तविक भय और विघ्न था।
+
+पूरक 2: न्यायमूर्ति Sotomayor की सहमति दिशा में साथ थी, परंतु दायरे में संकरी: stalking के संदर्भ में इस मामले को और संकीर्ण आधार पर तय किया जा सकता था, और recklessness मानक को सभी वास्तविक-धमकी मामलों पर एकसाथ लागू करने पर उन्होंने आरक्षण रखा। बहुमत और इस सहमति के बीच का यह तापमान-अंतर भी परीक्षा-बिंदु है।
