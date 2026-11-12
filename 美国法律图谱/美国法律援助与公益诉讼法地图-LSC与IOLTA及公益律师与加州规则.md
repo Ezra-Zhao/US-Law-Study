@@ -128,6 +128,7 @@ Turner v. Rogers, 564 U.S. 431 (2011)는 민사 모욕(양육비 체납)에서�
 
 ---
 
+보충: 캘리포니아에는 Equal Access Fund라는 별도의 주 기금이 있어 법률구조 기관에 주 재정을 배분하며, IOLTA와 LSC와 함께 세 개의 자금 풀이 서로를 보완합니다. 또 소득 자격선을 넘지만 전액 변호사 비용은 감당하기 어려운 사람에게는 변호사협회의 적정소득(modest-means) 의뢰나 로스쿨 클리닉이 실제 통로입니다.
 ## Tiếng Việt (Bản dịch sơ bộ, chờ hiệu đính)
 
 ### Khung: sàn hiến pháp cho hình sự, chắp vá cho dân sự
@@ -154,6 +155,7 @@ IOLTA của California nằm tại Cal. Bus. & Prof. Code § 6213. Sargent Shriv
 
 ---
 
+Bổ sung: California còn có Equal Access Fund, một quỹ cấp bang phân bổ kinh phí nhà nước cho các tổ chức trợ giúp pháp lý, cùng IOLTA và LSC tạo thành ba nguồn quỹ bổ trợ lẫn nhau. Ngoài ra, người vượt mức thu nhập nhưng không kham nổi luật sư giá đầy đủ có thể dùng dịch vụ giới thiệu thu nhập vừa phải (modest-means) của hội luật sư hoặc các phòng khám của trường luật.
 ## हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
 
 ### ढाँचा: आपराधिक में संवैधानिक न्यूनतम, दीवानी में जोड़-तोड़
@@ -177,3 +179,4 @@ Turner v. Rogers, 564 U.S. 431 (2011) ने दीवानी अवमान�
 कैलिफ़ोर्निया IOLTA Cal. Bus. & Prof. Code § 6213 में है। Sargent Shriver Civil Counsel Act, Cal. Gov. Code §§ 68650–68655, आवास और बाल अभिरक्षा जैसे उच्च-जोखिम दीवानी मामलों में कम आय वाले पक्षों के लिए नियुक्त वकील का पायलट चलाता है। व्यावहारिक द्वार: LawHelpCA.org, काउंटी बार की रेफ़रल सेवाएँ, और न्यायालयों के Self-Help Center।
 
 > अस्वीकरण: ये व्यक्तिगत अध्ययन नोट हैं, कानूनी सलाह नहीं। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+पूरक: California में Equal Access Fund नामक एक अलग राज्य कोष भी है, जो कानूनी सहायता संगठनों को राज्य धन देता है और IOLTA तथा LSC के साथ मिलकर तीन पूल एक-दूसरे के पूरक बनते हैं। साथ ही, आय-सीमा से ऊपर किंतु पूरे शुल्क वाला वकील न रख सकने वालों के लिए बार एसोसिएशन की मध्यम-आय (modest-means) रेफ़रल सेवा या लॉ-स्कूल क्लीनिक व्यावहारिक रास्ता है।
