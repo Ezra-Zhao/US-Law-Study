@@ -177,3 +177,22 @@ Ghi chú học tập cá nhân, không phải tư vấn pháp lý. Các con số
 व्यक्तिगत अध्ययन नोट; कानूनी सलाह नहीं। क्षेत्रफल के आँकड़े एजेंसियों और CRS के अनुमान हैं और भूमि लेन-देन के साथ बदलते हैं; किसी विशिष्ट मामले के लिए आधिकारिक भूमि अभिलेखों और वर्तमान वैधानिक पाठ पर भरोसा करें।
 
 来源：Federal Land Policy and Management Act, 43 U.S.C. §§ 1701–1787（尤其 §§ 1701(a)(1), 1702(c), 1712, 1713, 1732(b), 1781, 1782）；General Mining Law of 1872, 30 U.S.C. §§ 22 起及 § 28f；Mineral Leasing Act of 1920, 30 U.S.C. §§ 181 起；Mineral Leasing Act for Acquired Lands, 30 U.S.C. §§ 351 起；Taylor Grazing Act, 43 U.S.C. §§ 315 起（§ 315b）；NEPA, 42 U.S.C. §§ 4321 起；ESA, 16 U.S.C. §§ 1531 起（§§ 1536, 1538）；Wilderness Act, 16 U.S.C. §§ 1131 起；California Desert Protection Act of 1994, Pub. L. 103-433；Public Lands Council v. Babbitt, 529 U.S. 728 (2000)；BLM「What We Manage」与 BLM California 官方页面（blm.gov）；California State Lands Commission 官方说明（slc.ca.gov）；Congressional Research Service, Federal Land Ownership: Overview and Data。
+
+---
+
+## 补译增量（2026-11-12 03:55 轮）
+
+### 한국어 (初译待校)
+
+1. 1872년 광업법의 특허(patent) 통로는 얼어붙어 있습니다. 역사적으로 클레임 보유자는 요건을 갖추면 토지를 사유지로 살 수 있었지만, 의회는 1994 회계연도 이후 매년 세출법에 일시중지 조항을 반복해 넣어 왔고, 새 특허 신청은 사실상 지금까지 동결된 상태입니다. 여기에 또 하나의 특징이 겹칩니다. 1872년 법으로 취득해 채굴하는 경암 광물에 대해서는 연방정부가 원칙적으로 로열티(royalty)를 받지 않으며, 이는 다음 절의 임대 광물과 뚜렷이 대조됩니다. (초역, 원어민 감수 대기)
+2. 1994년 캘리포니아 사막보호법(California Desert Protection Act, Pub. L. 103-433)이 지정한 황야(wilderness)는 74곳, 합계 약 766만 에이커로, 국립공원관리청(NPS), 토지관리국(BLM), 산림청이 나누어 관리합니다(BLM 공식 구경). 같은 법으로 약 140만 에이커가 NPS가 새로 설치한 모하비 국립보존지(Mojave National Preserve)에 편입되었고, 데스밸리와 조슈아트리는 국립기념지에서 국립공원으로 승격되며 각각 약 130만 에이커와 약 23.4만 에이커가 확장되었습니다. (초역, 원어민 감수 대기)
+
+### Tiếng Việt (初译待校)
+
+1. Kênh cấp bằng sở hữu (patent) của Luật Khai khoáng 1872 đã bị đóng băng. Trước đây người giữ claim đáp ứng điều kiện có thể mua đứt đất thành đất tư, nhưng từ năm tài khóa 1994 Quốc hội liên tục đưa điều khoản tạm dừng vào các đạo luật phân bổ hằng năm, và đơn patent mới trên thực tế bị đóng băng cho tới nay. Thêm một đặc điểm nữa: khoáng sản đá cứng khai thác theo luật 1872 về nguyên tắc không phải trả tiền bản quyền (royalty) cho liên bang, tương phản rõ rệt với nhóm khoáng sản cho thuê ở phần sau. (Bản dịch sơ bộ, chờ hiệu đính)
+2. Đạo luật Bảo vệ Sa mạc California 1994 (California Desert Protection Act, Pub. L. 103-433) chỉ định 74 khu hoang dã (wilderness) với tổng diện tích khoảng 7,66 triệu acre, do NPS, BLM và Cục Lâm nghiệp chia nhau quản lý (theo số liệu chính thức của BLM). Cùng đạo luật đó, khoảng 1,4 triệu acre được giao cho Khu Bảo tồn Quốc gia Mojave (Mojave National Preserve) mới do NPS thành lập, còn Death Valley và Joshua Tree được nâng từ đài tưởng niệm quốc gia lên vườn quốc gia và mở rộng thêm lần lượt khoảng 1,3 triệu và 234 nghìn acre. (Bản dịch sơ bộ, chờ hiệu đính)
+
+### हिन्दी (初译待校)
+
+1. 1872 के खनन कानून का पेटेंट (patent) रास्ता जमा हुआ है। ऐतिहासिक रूप से claim धारक शर्तें पूरी करके भूमि को निजी संपत्ति के रूप में खरीद सकता था, लेकिन कांग्रेस ने वित्तीय वर्ष 1994 के बाद से हर वर्ष के विनियोग कानूनों में बार-बार निलंबन-खंड डाले हैं, और नए patent आवेदन व्यावहारिक रूप से आज तक जमे हुए हैं। इसके साथ एक और विशेषता जुड़ी है: 1872 के कानून के तहत प्राप्त और खनन किए गए कठोर-चट्टान खनिजों पर संघीय सरकार सिद्धांततः कोई royalty नहीं लेती, जो अगले खंड के पट्टा-खनिजों से तीखा विरोधाभास बनाता है। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+2. California Desert Protection Act, 1994 (Pub. L. 103-433) ने 74 wilderness क्षेत्र नामित किए, कुल लगभग 76.6 लाख एकड़, जिनका प्रबंधन NPS, BLM और वन सेवा मिलकर करते हैं (BLM के आधिकारिक आँकड़ों के अनुसार)। उसी कानून से लगभग 14 लाख एकड़ NPS की नई Mojave National Preserve को दिए गए, और Death Valley व Joshua Tree राष्ट्रीय स्मारक से राष्ट्रीय उद्यान बनकर क्रमशः लगभग 13 लाख और 2.34 लाख एकड़ विस्तारित हुए। (प्रारंभिक अनुवाद, समीक्षा लंबित)

@@ -183,3 +183,22 @@ California CPRA से चलता है, जिसे 2021 के AB 473 न�
 本文为个人学习笔记，不构成法律建议。This is a personal study note, not legal advice. Esta es una nota de estudio personal, no asesoría legal. 개인 학습 노트이며 법률 자문이 아닙니다. Đây là ghi chép học tập cá nhân, không phải tư vấn pháp lý. यह व्यक्तिगत अध्ययन नोट है, कानूनी सलाह नहीं।
 
 *Español、한국어、Tiếng Việt、हिन्दी 为初译待校。*
+
+---
+
+## 补译增量（2026-11-12 03:55 轮）
+
+### 한국어 (初译待校)
+
+1. 면제 (b)(5)의 심의과정 특권(deliberative process privilege)에는 일몰선이 있습니다. 2016년 FOIA 개선법이 더한 것으로, 심의과정 특권은 작성된 지 25년이 지난 기록에는 적용되지 않습니다. 같은 2016년 개정에 함께 들어간 것이 예견 가능한 손해(foreseeable harm) 기준입니다. § 552(a)(8)(A)에 따라 기관은 공개가 면제가 보호하는 이익을 해칠 것을 예견할 수 있거나 법률이 공개를 금지하는 경우에만 기록을 보류할 수 있습니다. (초역, 원어민 감수 대기)
+2. 수수료 계산 예시는 이렇습니다. 일반 신청인(세 번째 유형)이 검색 3시간, 복사 250쪽을 쓴 경우, 시간당 검색료 20달러, 쪽당 복사료 0.10달러로 계산하면 검색으로 받을 수 있는 것은 무료 2시간을 뺀 3 − 2 = 1시간, 즉 20달러이고, 복사로 받을 수 있는 것은 무료 100쪽을 뺀 250 − 100 = 150쪽, 즉 15달러여서 합계는 20 + 15 = 35달러입니다. 첫 2시간의 검색과 첫 100쪽의 복사가 무료라는 공제는 이 일반 신청인 유형에 붙는 조건입니다. (초역, 원어민 감수 대기)
+
+### Tiếng Việt (初译待校)
+
+1. Đặc quyền quá trình cân nhắc (deliberative process privilege) trong miễn trừ (b)(5) có một vạch hoàng hôn: theo sửa đổi của Đạo luật Cải thiện FOIA 2016, đặc quyền quá trình cân nhắc không áp dụng cho các hồ sơ đã được tạo cách đây từ 25 năm trở lên. Cùng đợt sửa đổi 2016 còn ghi vào luật tiêu chuẩn thiệt hại có thể thấy trước (foreseeable harm): theo § 552(a)(8)(A), cơ quan chỉ được giữ lại hồ sơ khi có thể thấy trước việc công khai sẽ gây hại cho lợi ích mà miễn trừ bảo vệ, hoặc khi luật cấm công khai. (Bản dịch sơ bộ, chờ hiệu đính)
+2. Ví dụ tính phí như sau: một người xin thông thường (loại thứ ba) dùng 3 giờ tra cứu và sao chụp 250 trang, với phí tra cứu 20 đô la một giờ và phí sao chụp 0.10 đô la một trang, thì phần tra cứu thu được là 3 − 2 = 1 giờ sau khi trừ 2 giờ miễn phí, tức 20 đô la; phần sao chụp thu được là 250 − 100 = 150 trang sau khi trừ 100 trang miễn phí, tức 15 đô la; tổng cộng 20 + 15 = 35 đô la. Khoản trừ 2 giờ tra cứu đầu tiên và 100 trang sao chụp đầu tiên là điều kiện gắn với loại người xin thông thường này. (Bản dịch sơ bộ, chờ hiệu đính)
+
+### हिन्दी (初译待校)
+
+1. छूट (b)(5) की विचार-विमर्श प्रक्रिया विशेषाधिकार (deliberative process privilege) पर एक सूर्यास्त-रेखा है: FOIA सुधार अधिनियम 2016 द्वारा जोड़े गए नियम के अनुसार, विचार-विमर्श विशेषाधिकार उन अभिलेखों पर लागू नहीं होता जो बने हुए 25 वर्ष हो चुके हों। उसी 2016 के सुधार में पूर्वानुमेय हानि (foreseeable harm) मानक भी कानून में आया: § 552(a)(8)(A) के अनुसार, एजेंसी अभिलेख केवल तभी रोक सकती है जब वह पूर्वानुमान कर सके कि खुलासा छूट द्वारा संरक्षित हित को हानि पहुँचाएगा, या कानून खुलासे पर रोक लगाता हो। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+2. शुल्क का उदाहरण इस प्रकार है: एक सामान्य आवेदक (तीसरी श्रेणी) ने 3 घंटे खोज और 250 पृष्ठ प्रतिलिपि का उपयोग किया, खोज दर 20 डॉलर प्रति घंटा और प्रतिलिपि दर 0.10 डॉलर प्रति पृष्ठ मानने पर, खोज के लिए वसूल योग्य है मुफ़्त 2 घंटे घटाकर 3 − 2 = 1 घंटा, अर्थात 20 डॉलर; प्रतिलिपि के लिए वसूल योग्य है मुफ़्त 100 पृष्ठ घटाकर 250 − 100 = 150 पृष्ठ, अर्थात 15 डॉलर; कुल 20 + 15 = 35 डॉलर। पहले 2 घंटे की खोज और पहले 100 पृष्ठों की प्रतिलिपि की छूट इसी सामान्य आवेदक श्रेणी से जुड़ी शर्त है। (प्रारंभिक अनुवाद, समीक्षा लंबित)
