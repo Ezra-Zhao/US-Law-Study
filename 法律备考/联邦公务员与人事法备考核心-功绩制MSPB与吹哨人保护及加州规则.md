@@ -165,3 +165,20 @@ Trình tự làm bài: (1) tư cách — nhân viên có thuộc § 7511 và đ�
 *यह लेख एक व्यक्तिगत अध्ययन नोट है और कानूनी सलाह नहीं है।*
 
 （Español 为译稿；한국어·Tiếng Việt·हिन्दी 为初译待校。）
+
+## 补译增量（2026-11-11 15:55 轮）
+
+### 한국어 (초역 · 初译待校)
+- 등급 산식 세분화: 정직이 정확히 14일이면 제7503조의 가벼운 등급으로 가고, 15일이 되는 순간 제7513조의 무거운 등급으로 넘어가 30일 통지 의무가 따라붙습니다. 기관이 3월 3일에 무거운 등급의 통지를 보내면 효력이 생기는 가장 이른 날은 30일이 지난 4월 2일입니다.
+- 입증 기준 비대칭 세분화: 직원은 보호되는 폭로가 인사 조치의 기여 요인(contributing factor)이었음을 우세 증거로 입증하되 판단은 결정권자의 인식과 시간적 근접성을 봅니다. 기관이 면책되려면 폭로가 없었더라도 같은 결정을 했을 것임을 명확하고 설득력 있는 증거(clear and convincing evidence)로 입증해야 합니다. 같은 사실에 두 기준이 비대칭으로 걸리는 것은 입법이 고의로 내부고발자 쪽으로 기울인 설계입니다.
+개인 학습 노트이며 법률 자문이 아닙니다. (초역·待校)
+
+### Tiếng Việt (bản dịch sơ bộ · 初译待校)
+- Chi tiết cách chia bậc theo phép tính: đình chỉ đúng 14 ngày đi theo bậc nhẹ của § 7503, sang ngày thứ 15 là bước qua bậc nặng của § 7513 và nghĩa vụ thông báo 30 ngày đi kèm theo; nếu cơ quan gửi thông báo bậc nặng vào ngày 3 tháng 3, ngày hiệu lực sớm nhất là ngày 2 tháng 4, sau khi đủ 30 ngày.
+- Chi tiết về sự không đối xứng của chuẩn chứng minh: nhân viên chứng minh bằng ưu thế chứng cứ (preponderance of the evidence) rằng việc tiết lộ được bảo vệ là yếu tố góp phần (contributing factor) vào biện pháp nhân sự, xét trên sự hay biết của quan chức ra quyết định và độ gần về thời gian; cơ quan muốn được miễn trách phải chứng minh bằng chứng cứ rõ ràng và thuyết phục (clear and convincing evidence) rằng dù không có việc tiết lộ, quyết định vẫn sẽ như vậy. Cùng một sự kiện mà hai chuẩn không đối xứng là thiết kế lập pháp cố ý nghiêng về phía người tố giác.
+Ghi chú học tập cá nhân, không phải tư vấn pháp lý. (bản dịch sơ bộ·待校)
+
+### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+- श्रेणी-गणना का विवरण: निलंबन ठीक 14 दिन का हो तो § 7503 की हल्की श्रेणी में जाता है, 15वें दिन § 7513 की भारी श्रेणी में प्रवेश करता है और 30 दिन की सूचना की बाध्यता साथ आती है; एजेंसी 3 मार्च को भारी श्रेणी की सूचना भेजे तो सबसे प्रारंभिक प्रभावी तिथि 30 दिन पूरे होने पर 2 अप्रैल है।
+- प्रमाण मानकों की असममिति का विवरण: कर्मचारी preponderance of the evidence से सिद्ध करता है कि संरक्षित खुलासा कार्मिक कार्रवाई का contributing factor था, जिसमें निर्णयकर्ता की जानकारी और समय की निकटता देखी जाती है; एजेंसी को छूट के लिए clear and convincing evidence से सिद्ध करना होगा कि खुलासा न होता तो भी वही निर्णय होता। एक ही तथ्य पर दो असममित मानक विधायिका की जानबूझकर व्हिसलब्लोअर की ओर झुकी हुई रचना है।
+व्यक्तिगत अध्ययन नोट; विधिक सलाह नहीं। (प्रारंभिक अनुवाद·待校)
