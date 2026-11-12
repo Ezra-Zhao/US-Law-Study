@@ -91,3 +91,17 @@ Este artículo es una nota de estudio personal y no constituye asesoría legal. 
 Bài viết này là ghi chép học tập cá nhân, không phải tư vấn pháp lý. (bản dịch sơ bộ, chờ hiệu đính)
 
 यह लेख व्यक्तिगत अध्ययन नोट है, कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+## 补译增量（2026-11-12 13:55 轮）
+
+### 한국어 (初译待校)
+
+보충 세부 사항 두 가지. 첫째, 추적 장치 영장의 시간 격자입니다. FRCrP 제41(e)(2)(C)호에 따라 추적 장치의 사용 기간은 발급일부터 45일을 넘지 못하고, 연장은 한 번에 45일을 넘지 못하며, 설치 자체도 10일 이내에 마쳐야 하고 원칙적으로 주간에 이루어집니다. 일반 수색영장의 집행 기간 14일과 혼동하면 안 되는데, 시험이 바로 이 45일을 수색영장 쪽에 갖다 붙이는 방식으로 출제됩니다. 둘째, 마무리 절차의 두 가지 세목입니다. 제41(f)(1)호의 목록 작성은 현장 담당 공무원이 직접 작성하고 확인해야 하며, 원칙적으로 다른 공무원 한 명과 수색 대상자 또는 장소 점유자가 입회해야 하고, 둘 다 없으면 최소 한 명의 신뢰할 수 있는 제3자가 입회해야 합니다. 또 제41(f)(3)호의 통지 연기는 판사의 승인을 받아도 그 연기 자체에 법률의 수권이 있어야 하며, 규칙 자체가 연기 권한을 만들지는 못합니다. (초역, 원어민 감수 대기)
+
+### Tiếng Việt (初译待校)
+
+Hai chi tiết bổ sung. Thứ nhất, khung thời gian của lệnh gắn thiết bị theo dõi: theo FRCrP 41(e)(2)(C), thời hạn sử dụng thiết bị theo dõi không quá 45 ngày kể từ ngày cấp, mỗi lần gia hạn cũng không quá 45 ngày, và việc lắp đặt tự thân phải hoàn thành trong vòng 10 ngày và về nguyên tắc tiến hành vào ban ngày; đừng nhầm con số 45 ngày này với thời hạn thi hành 14 ngày của lệnh khám xét thông thường, vì đề thi hay gán con số 45 ngày sang phía lệnh khám xét. Thứ hai, hai chi tiết của thủ tục kết thúc: việc lập biên bản kiểm kê theo khoản 41(f)(1) phải do nhân viên có mặt tự lập và xác minh, về nguyên tắc có một nhân viên khác cùng người bị khám hoặc người chiếm giữ địa điểm chứng kiến, và nếu cả hai đều vắng mặt thì phải có ít nhất một bên thứ ba đáng tin cậy chứng kiến; còn việc trì hoãn thông báo theo khoản 41(f)(3), dù được thẩm phán phê chuẩn, vẫn đòi hỏi chính việc trì hoãn phải có ủy quyền của một đạo luật, và bản thân quy tắc không tự tạo ra quyền trì hoãn. (Bản dịch sơ bộ, chờ hiệu đính)
+
+### हिन्दी (初译待校)
+
+दो पूरक विवरण। पहला, ट्रैकिंग उपकरण वारंट का समय-ढाँचा: FRCrP 41(e)(2)(C) के तहत ट्रैकिंग उपकरण की उपयोग अवधि जारी होने से 45 दिनों से अधिक नहीं हो सकती, प्रत्येक विस्तार भी 45 दिनों से अधिक नहीं हो सकता, और स्थापना स्वयं 10 दिनों के भीतर पूरी होनी चाहिए और सिद्धांततः दिन के समय होनी चाहिए; इस 45-दिन की संख्या को सामान्य तलाशी वारंट की 14-दिन की अवधि से न मिलाएँ, क्योंकि परीक्षा ठीक इसी तरह 45 दिनों को तलाशी वारंट पर चिपकाकर पूछती है। दूसरा, समापन प्रक्रिया के दो विवरण: 41(f)(1) के तहत सूची (inventory) उपस्थित अधिकारी को स्वयं तैयार और सत्यापित करनी होती है, सिद्धांततः एक अन्य अधिकारी और तलाशी लिए गए व्यक्ति या स्थान के अधिभोगी की उपस्थिति में, और यदि दोनों अनुपस्थित हों तो कम से कम एक विश्वसनीय तृतीय व्यक्ति उपस्थित होना चाहिए; तथा 41(f)(3) के तहत सूचना की देरी, न्यायाधीश की स्वीकृति मिलने पर भी, तभी संभव है जब देरी के लिए स्वयं किसी संविधि का प्राधिकार हो — नियम स्वयं देरी का अधिकार सृजित नहीं करता। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
