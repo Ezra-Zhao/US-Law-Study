@@ -51,3 +51,22 @@ Tháng 10 năm 1966, tại Plaquemines Parish, Louisiana, Gary Duncan, một tha
 本文为个人学习笔记，不构成法律建议；具体案件请咨询持牌律师。
 
 This article is a personal study note, not legal advice.
+
+
+---
+
+## 补译增量（2026-11-12 12:55 轮）
+
+> 本节只把本篇中文主文已有的两项细节补译为韩、越、印三语（初译待校），不新增任何事实、数字或法条；原文未删改。
+
+### 한국어 (초역 · 初译待校)
+- 주 측의 기소 내용에 따르면 Duncan은 상대 소년의 팔을 밀어냈고, 주 측은 그가 뺨을 때렸다고 주장했습니다. 이 구체적인 행위 내용은 제1절의 사실관계에 속합니다. (제1절 보충)
+- 캘리포니아 주 헌법 제1조 제16항은 민사 배심 재판도 언급하지만, 민사 쪽은 별도의 규칙이 적용되며 본 글의 범위 밖에 있습니다. (제4절 보충)
+
+### Tiếng Việt (bản dịch sơ bộ · 初译待校)
+- Theo cáo buộc của phía bang, Duncan đã đẩy cánh tay của một thiếu niên sang bên, và phía bang cho rằng ông đã tát vào mặt người đó; chi tiết hành vi cụ thể này thuộc phần tình tiết của Mục một. (bổ sung cho Mục một)
+- Điều I mục 16 của hiến pháp California cũng đề cập đến xét xử bằng bồi thẩm đoàn trong vụ án dân sự, nhưng phía dân sự có quy tắc riêng và nằm ngoài phạm vi của bài này. (bổ sung cho Mục bốn)
+
+### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+- राज्य पक्ष के आरोप के अनुसार Duncan ने एक लड़के की बाँह धकेल दी थी, और राज्य का कहना था कि उसने उसके गाल पर थप्पड़ मारा था; यह ठोस आचरण-विवरण भाग एक के तथ्यों में आता है। (भाग एक का पूरक)
+- California संविधान का अनुच्छेद I, धारा 16 दीवानी जूरी विचारण का भी उल्लेख करता है, परंतु दीवानी पक्ष के नियम अलग हैं और वे इस लेख के दायरे से बाहर हैं। (भाग चार का पूरक)
