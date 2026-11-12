@@ -106,3 +106,16 @@ No copie la respuesta federal en un tribunal estatal. Para las «nuevas técnica
 *Statement: This note is a personal study note in Chinese, English, Spanish, Korean, Vietnamese, and Hindi. It is not legal advice.*
 
 *六语对照：中文主文，English 次之，Español·한국어·Tiếng Việt·हिन्दी 为初译待校。*
+
+---
+
+## 五、补译增量（2026-11-12 06:55 轮：韩/越/印三语补细节至与中文主文对齐）
+
+### 한국어 (초역, 원어민 감수 대기)
+보충 세부 사항 두 가지. 첫째, 동료 심사(peer review)와 발표는 네 가지 Daubert 고려 요소 중 하나일 뿐이며 점수 항목이 아닙니다. 발표되었다고 곧 신뢰할 수 있는 것도 아니고, 발표되지 않았다고 곧 신뢰할 수 없는 것도 아닙니다. 법관은 오류율과 함께 기술 운용을 통제하는 기준이 존재하고 유지되는지도 봅니다. 둘째, 환송 후의 결말입니다. 제9 순회 법원은 Daubert v. Merrell Dow Pharmaceuticals (II), 43 F.3d 1311 (9th Cir. 1995)에서 새 기준을 적용하고도, 발표되지 않았고 소송을 위해 만들어진 재분석을 중심으로 한 원고 측 증거가 여전히 신뢰할 수 없다고 보아 배제를 유지했습니다. Daubert는 기준의 싸움에서는 이겼지만 자기 사건에서는 졌습니다. 문지기 규칙이 넓힌 것은 심사의 질문 목록이지 통과증이 아닙니다.
+
+### Tiếng Việt (초역, 원어민 감수 대기)
+Hai chi tiết bổ sung. Thứ nhất, bình duyệt (peer review) và công bố chỉ là một trong bốn yếu tố Daubert chứ không phải mục chấm điểm: đã công bố không đồng nghĩa đáng tin cậy, và chưa công bố cũng không đồng nghĩa không đáng tin cậy; thẩm phán còn xem tỉ lệ sai sót cùng sự tồn tại và duy trì của các tiêu chuẩn kiểm soát việc vận hành kỹ thuật. Thứ hai, kết cục sau khi chuyển hồ sơ về: Tòa khu vực 9 trong vụ Daubert v. Merrell Dow Pharmaceuticals (II), 43 F.3d 1311 (9th Cir. 1995) áp dụng tiêu chuẩn mới nhưng vẫn cho rằng chứng cứ của nguyên đơn — trọng tâm là bản phân tích lại chưa công bố và được làm vì vụ kiện — không đáng tin cậy, nên việc loại trừ được giữ nguyên. Daubert thắng trong cuộc chiến về tiêu chuẩn nhưng thua trong chính vụ án của mình: quy tắc gác cổng mở rộng danh sách câu hỏi, chứ không phải giấy thông hành.
+
+### हिन्दी (初译待校)
+दो पूरक विवरण। पहला, समकक्ष समीक्षा (peer review) और प्रकाशन चार Daubert कारकों में से केवल एक है, कोई अंक-बिंदु नहीं: प्रकाशित होना अपने आप में विश्वसनीयता नहीं है, और अप्रकाशित होना अपने आप में अविश्वसनीयता नहीं है; न्यायाधीश त्रुटि-दर के साथ यह भी देखता है कि तकनीक के संचालन को नियंत्रित करने वाले मानक मौजूद हैं और बनाए रखे जाते हैं या नहीं। दूसरा, वापसी के बाद का परिणाम: नौवें सर्किट ने Daubert v. Merrell Dow Pharmaceuticals (II), 43 F.3d 1311 (9th Cir. 1995) में नए मानक को लागू करके भी वादियों के साक्ष्य को — विशेषकर अप्रकाशित, मुकदमे के लिए बनाए गए पुनर्विश्लेषण को — अविश्वसनीय पाया और बहिष्करण कायम रखा। Daubert मानक की लड़ाई जीत गया, परंतु अपना मामला हार गया: द्वारपाल-नियम प्रश्नों की सूची बढ़ाता है, पारपत्र नहीं देता।
