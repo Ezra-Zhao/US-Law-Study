@@ -67,3 +67,22 @@ Este artículo es una nota de estudio personal y no constituye asesoría legal. 
 Bài viết này là ghi chép học tập cá nhân, không phải tư vấn pháp lý. (bản dịch sơ bộ, chờ hiệu đính)
 
 यह लेख व्यक्तिगत अध्ययन नोट है, कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+---
+
+## 补译增量（2026-11-12 02:55 轮）
+
+### 한국어 (初译待校)
+
+1. 특구 경찰 내부 규정의 구체적 내용은 이렇습니다. 사복 경찰관이 무표시 차량을 쓸 때는 긴급한 상황이 아니면 교통 법규 집행을 해서는 안 됩니다. 다만 이 규정은 경찰 내부의 징계 기준일 뿐, 이를 어겼다고 곧바로 헌법 위반이 되거나 증거가 배제되는 것은 아닙니다. (초역, 원어민 감수 대기)
+2. 주관적 동기가 아예 등장하지 못하는 것은 아닙니다. 동기 자체가 쟁점이 되는 좁은 장면, 예를 들어 행정 계획에 따라 장소를 일괄 점검하는 재고 조사(inventory search) 같은 경우에는 동기가 의미를 가질 수 있습니다. 일반적인 교통 정지에서는 그 예외가 열리지 않으며, 객관적 위반이 있는지가 전부입니다. (초역, 원어민 감수 대기)
+
+### Tiếng Việt (初译待校)
+
+1. Nội dung cụ thể của quy định nội bộ của cảnh sát Đặc khu là: cảnh sát mặc thường phục dùng xe không đánh dấu thì, trừ trường hợp khẩn cấp, không được thực thi pháp luật giao thông. Tuy nhiên quy định này chỉ là kỷ luật nội bộ của cảnh sát; vi phạm nó không đồng nghĩa với vi phạm hiến pháp và không dẫn đến việc loại trừ chứng cứ. (Bản dịch sơ bộ, chờ hiệu đính)
+2. Động cơ chủ quan không phải lúc nào cũng bị gạt ra ngoài. Trong những bối cảnh hẹp mà bản thân động cơ là vấn đề, chẳng hạn như khám xét kiểm kê (inventory search) đối với một địa điểm theo kế hoạch hành chính, động cơ có thể có ý nghĩa. Trong vụ chặn xe giao thông thông thường, ngoại lệ đó không mở ra; điều quyết định vẫn là có vi phạm khách quan hay không. (Bản dịch sơ bộ, chờ hiệu đính)
+
+### हिन्दी (初译待校)
+
+1. D.C. पुलिस के आंतरिक नियम का ठोस रूप यह है: सादे कपड़ों वाले अधिकारी बिना निशान वाले वाहन से, आपात स्थिति के सिवाय, यातायात प्रवर्तन नहीं कर सकते। लेकिन यह नियम केवल पुलिस का आंतरिक अनुशासन है; इसका उल्लंघन अपने आप में संवैधानिक उल्लंघन नहीं है और इससे साक्ष्य बाहर नहीं होता। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+2. व्यक्तिपरक प्रेरणा हर जगह बाहर नहीं रहती। उन संकरे संदर्भों में जहाँ प्रेरणा स्वयं मुद्दा हो, जैसे प्रशासनिक योजना के तहत किसी स्थान की सूची-तलाशी (inventory search), वहाँ प्रेरणा का महत्व हो सकता है। साधारण यातायात रोक में वह अपवाद नहीं खुलता; निर्णायक बात वस्तुनिष्ठ उल्लंघन का होना ही रहती है। (प्रारंभिक अनुवाद, समीक्षा लंबित)
