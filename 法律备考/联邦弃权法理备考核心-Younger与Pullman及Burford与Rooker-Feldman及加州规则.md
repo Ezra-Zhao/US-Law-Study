@@ -55,3 +55,23 @@ Kiêng xét xử (abstention) là ngoại lệ: tòa án liên bang có nghĩa v
 ## हिन्दी — प्रारंभिक अनुवाद, समीक्षा लंबित (初译待校)
 
 परहेज़ (abstention) अपवाद है: संघीय न्यायालयों का दायित्व है कि वे प्रदत्त अधिकारिता का प्रयोग करें (Colorado River, 424 U.S. 800 (1976)), और परहेज़ चाहने वाले पक्ष को पाँच द्वारों में से किसी एक में आना होगा। Younger v. Harris, 401 U.S. 37 (1971) लंबित राज्य कार्यवाहियों में संघीय हस्तक्षेप रोकता है; Middlesex, 457 U.S. 423 (1982) के बाद Sprint Communications v. Jacobs, 571 U.S. 69 (2013) ने Younger को तीन अपवादात्मक श्रेणियों तक सीमित किया — चल रही राज्य आपराधिक अभियोजन कार्यवाही, आपराधिक-सदृश नागरिक प्रवर्तन, और राज्य न्यायालयों के न्यायिक कार्य के लिए आवश्यक आदेशों वाली नागरिक कार्यवाहियाँ। Pullman, 312 U.S. 496 (1941) संघीय मामले को तब तक रोकता है जब तक राज्य न्यायालय अनिश्चित राज्य विधि स्पष्ट न कर दें। Burford, 319 U.S. 315 (1943) जटिल, एकीकृत राज्य नियामक समीक्षा व्यवस्था होने पर खारिज करता है। Colorado River समानांतर मुकदमों का स्थगन केवल अपवादात्मक परिस्थितियों में देता है। Rooker-Feldman, Exxon Mobil, 544 U.S. 280 (2005) से संकुचित होकर, केवल उस राज्य-न्यायालय पराजित पक्ष को रोकता है जो पहले से सुनाए गए राज्य निर्णय की समीक्षा चाहता है। 28 U.S.C. § 2283 और § 1341 दो वैधानिक कठोर रेखाएँ हैं। *व्यक्तिगत अध्ययन नोट; कानूनी सलाह नहीं है।*
+
+## 补译增量（2026-11-11 本轮）
+
+### 한국어 (초역, 원어민 감수 대기)
+
+보충 1: 결과의 두 단계도 구분하십시오. Younger·Burford·Rooker-Feldman은 통상 각하 또는 접수 불가로 끝나고, Pullman과 Colorado River는 통상 관할을 유지한 채 중지(stay)되며 주 절차가 끝나면 연방 법원으로 돌아올 수 있습니다. Younger에도 좁은 틈은 있습니다. 소추가 악의적 괴롭힘에서 나왔거나 주 재판부가 명백히 편향된 극단적인 경우이며, 금전배상 청구는 통상 주 절차가 끝날 때까지 먼저 중지됩니다.
+
+보충 2: 성문 경계선에는 28 U.S.C. § 1342(Johnson Act)도 있어 주 공공요금 명령에 비슷한 문을 겁니다. 캘리포니아에서는 주세와 요금 분쟁에 환급 소송 같은 주 내부 채널이 따로 있어(세입법전 § 5140 부근), § 1341로 연방 법원의 문이 닫히면 실무 경로는 먼저 납부한 뒤 주 법원에서 다투는 것입니다. 또 캘리포니아 주 법원이 평행 문제와 전문 문제를 다룰 때 쓰는 행정구제 소진과 일차 관할(primary jurisdiction)은 논리는 비슷해도 연방 기피 법리가 아니므로 이름을 섞어 쓰면 안 됩니다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+Bổ sung 1: hãy phân biệt cả hai tầng hậu quả. Younger, Burford và Rooker-Feldman thường kết thúc bằng bác bỏ hoặc không thụ lý, còn Pullman và Colorado River thường là hoãn (stay) đồng thời giữ thẩm quyền, để khi thủ tục cấp bang kết thúc có thể quay lại tòa liên bang. Younger cũng có khe hẹp: các trường hợp cực đoan như truy tố xuất phát từ quấy rối ác ý hoặc hội đồng xét xử cấp bang rõ ràng thiên vị, và yêu cầu bồi thường tiền thường bị hoãn trước cho đến khi thủ tục cấp bang kết thúc.
+
+Bổ sung 2: trong các đường cứng thành văn còn có 28 U.S.C. § 1342 (Johnson Act), dựng một cánh cửa tương tự đối với các lệnh về biểu phí dịch vụ công ích cấp bang. Ở California, tranh chấp thuế và biểu phí cấp bang có kênh riêng trong bang như kiện hoàn thuế (Bộ luật Thuế và Thu nhập, khoảng điều 5140), nên khi điều 1341 đóng cửa tòa liên bang, lối đi thực tế là nộp trước rồi kiện tại tòa bang. Ngoài ra, các công cụ mà tòa bang California tự dùng cho vấn đề song song và chuyên môn — như phải dùng hết cứu xét hành chính và thẩm quyền sơ cấp (primary jurisdiction) — tuy logic gần giống nhưng không phải học thuyết kiêng xét xử liên bang, không được lẫn tên.
+
+### हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+पूरक 1: परिणामों की दो परतें भी अलग रखें। Younger, Burford और Rooker-Feldman सामान्यतः खारिज या अस्वीकार पर समाप्त होते हैं, जबकि Pullman और Colorado River सामान्यतः अधिकारिता बरकरार रखते हुए स्थगन (stay) देते हैं, ताकि राज्य कार्यवाही समाप्त होने पर संघीय न्यायालय में वापसी हो सके। Younger में भी एक संकीर्ण दरार है: दुर्भावनापूर्ण उत्पीड़न से निकला अभियोजन या राज्य न्यायपीठ का स्पष्ट पक्षपात जैसे चरम मामले, और धन-क्षतिपूर्ति के दावे सामान्यतः राज्य कार्यवाही समाप्त होने तक पहले स्थगित रहते हैं।
+
+पूरक 2: वैधानिक कठोर रेखाओं में 28 U.S.C. § 1342 (Johnson Act) भी है, जो राज्य लोक-उपयोगिता दर-आदेशों पर समान द्वार लगाता है। California में राज्य कर और दर विवादों के लिए राज्य के भीतर ही कर-वापसी वाद जैसे माध्यम हैं (राजस्व और कर संहिता, धारा 5140 के आसपास), इसलिए जब § 1341 संघीय न्यायालय का द्वार बंद कर दे, तो व्यावहारिक मार्ग है पहले भुगतान करना और फिर राज्य न्यायालय में लड़ना। साथ ही, समानांतर और विशेषज्ञ प्रश्नों के लिए California की राज्य अदालतें स्वयं जिन साधनों का प्रयोग करती हैं — प्रशासनिक उपचारों का समापन (exhaustion) और primary jurisdiction — उनकी तर्क-पद्धति समान होते हुए भी वे संघीय abstention सिद्धांत नहीं हैं; नामों को मिलाएँ नहीं।
