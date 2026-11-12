@@ -105,3 +105,18 @@ Gore अंत नहीं, शुरुआत है। State Farm Mutual Auto
 
 *This article is a personal study note, not legal advice. / Este artículo es una nota de estudio personal, no constituye asesoría legal.*
 *이 글은 개인 학습 노트이며 법률 자문이 아닙니다. (초역·待校) / Bài viết này là ghi chú học tập cá nhân, không cấu thành tư vấn pháp lý. (bản dịch sơ bộ·待校) / यह लेख व्यक्तिगत अध्ययन नोट है और कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद·待校)*
+
+
+## 补译增量（2026-11-12 11:55 轮）
+
+### 한국어 (初译待校)
+
+보충 세부 사항 두 가지. 첫째, 세 번째 길잡이인 비교 가능한 제재의 산례입니다. 유사한 부정행위에 대해 앨라배마 《기만적 거래행위법》의 민사 벌금 상한은 2,000달러에 불과하고 다른 주들의 상한은 대개 5,000달러에서 10,000달러 사이에 있어, 2,000,000달러는 본주 법정 상한의 1,000배(2,000,000 ÷ 2,000 = 1,000)이며 어떤 기존 벌칙으로도 그 규모를 예측할 수 없었습니다. 비율 산례도 함께 봅니다. 배심의 원래 비율은 4,000,000 ÷ 4,000 = 1,000 대 1, 주 대법원이 줄인 뒤에는 2,000,000 ÷ 4,000 = 500 대 1입니다. 둘째, 후속 판례가 정한 심사 규격입니다. Cooper Industries, Inc. v. Leatherman Tool Group, Inc., 532 U.S. 424 (2001)는 징벌적 배상이 과다한지를 항소법원이 처음부터 다시(de novo) 심사한다고 정했고, State Farm Mutual Automobile Insurance Co. v. Campbell, 538 U.S. 408 (2003)는 한 자릿수 비율을 넘는 배상은 적법절차를 통과하기 어렵고 145 대 1은 과다하다고 했으며, Philip Morris USA v. Williams, 549 U.S. 346 (2007)는 배심이 타인에 대한 피해를 비난 가능성 평가에는 쓸 수 있어도 당사자가 아닌 사람에 대한 피해를 직접 벌할 수는 없다고 했습니다. (초역, 원어민 감수 대기)
+
+### Tiếng Việt (初译待校)
+
+Hai chi tiết bổ sung. Thứ nhất, phép tính của cột mốc thứ ba, chế tài có thể so sánh: đối với hành vi gian dối tương tự, mức phạt dân sự tối đa theo luật về hành vi thương mại lừa dối của Alabama chỉ là 2.000 đô la, và mức tối đa ở các bang khác phần lớn nằm trong khoảng 5.000 đến 10.000 đô la, nên 2.000.000 đô la gấp 1.000 lần mức trần của chính bang đó (2.000.000 ÷ 2.000 = 1.000) và không chế tài có sẵn nào cho phép dự liệu quy mô như vậy; phép tính tỉ lệ đi kèm là 4.000.000 ÷ 4.000 = 1.000 trên 1 theo phán quyết gốc của bồi thẩm đoàn và 2.000.000 ÷ 4.000 = 500 trên 1 sau khi Tòa Tối cao bang giảm xuống. Thứ hai, quy cách xét lại do các vụ sau đặt ra: Cooper Industries, Inc. v. Leatherman Tool Group, Inc., 532 U.S. 424 (2001) quy định tòa phúc thẩm xét lại từ đầu (de novo) việc khoản trừng phạt có quá mức hay không; State Farm Mutual Automobile Insurance Co. v. Campbell, 538 U.S. 408 (2003) nói tỉ lệ vượt quá một chữ số khó qua được thủ tục công bằng và tỉ lệ 145 trên 1 là quá mức; Philip Morris USA v. Williams, 549 U.S. 346 (2007) nói bồi thẩm đoàn có thể dùng thiệt hại đối với người khác để đánh giá tính đáng trách nhưng không thể trực tiếp trừng phạt thiệt hại gây cho người không phải đương sự. (Bản dịch sơ bộ, chờ hiệu đính)
+
+### हिन्दी (初译待校)
+
+दो पूरक विवरण। पहला, तीसरे मार्गदर्शक — तुलनीय दंड — की गणना: समान भ्रामक आचरण के लिए अलबामा के भ्रामक व्यापार व्यवहार कानून की दीवानी जुर्माना-सीमा केवल 2,000 डॉलर है और अन्य राज्यों की सीमाएँ अधिकांशतः 5,000 से 10,000 डॉलर के बीच हैं, इसलिए 2,000,000 डॉलर अपने ही राज्य की वैधानिक सीमा का 1,000 गुना है (2,000,000 ÷ 2,000 = 1,000) और कोई मौजूदा दंड-प्रावधान उस पैमाने का पूर्वानुमान नहीं देता था; अनुपात की गणना साथ में देखें — जूरी का मूल अनुपात 4,000,000 ÷ 4,000 = 1,000 अनुपात 1 था और राज्य सर्वोच्च न्यायालय की कटौती के बाद 2,000,000 ÷ 4,000 = 500 अनुपात 1। दूसरा, बाद के मामलों द्वारा तय समीक्षा-मानक: Cooper Industries, Inc. v. Leatherman Tool Group, Inc., 532 U.S. 424 (2001) ने तय किया कि अपील अदालत दंडात्मक राशि की अधिकता की समीक्षा नए सिरे से (de novo) करेगी; State Farm Mutual Automobile Insurance Co. v. Campbell, 538 U.S. 408 (2003) ने कहा कि एकल-अंकों के अनुपात से आगे की राशि उचित प्रक्रिया को मुश्किल से पार करती है और 145 अनुपात 1 अत्यधिक था; Philip Morris USA v. Williams, 549 U.S. 346 (2007) ने कहा कि जूरी दूसरों को हुए नुकसान को निंदनीयता के मूल्यांकन में तो ले सकती है, पर गैर-पक्षकारों को हुए नुकसान के लिए सीधे दंड नहीं दे सकती। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
