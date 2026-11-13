@@ -88,3 +88,17 @@ Vụ án đến sau Gideon v. Wainwright, 372 U.S. 335 (1963) đúng một năm 
 यह मामला Gideon v. Wainwright, 372 U.S. 335 (1963) के केवल एक वर्ष बाद (1964 − 1963 = 1) और Miranda v. Arizona, 384 U.S. 436 (1966) से दो वर्ष पहले (1966 − 1964 = 2) आया। Miranda ने पाँचवें संशोधन का रास्ता लेकर मानक चेतावनियाँ तय कीं और Escobedo का «केंद्रित जाँच» परीक्षण व्यावहारिक रूप से बदल गया। Johnson v. New Jersey, 384 U.S. 719 (1966) ने दोनों निर्णयों को उनके बाद शुरू हुए मुकदमों तक सीमित रखा। बहुमत 9 में से 5 मत, लगभग 55.6 प्रतिशत — केवल एक मत का अंतर था।
 
 *व्यक्तिगत अध्ययन नोट, कानूनी सलाह नहीं। स्रोत: Escobedo v. Illinois, 378 U.S. 478 (1964).*
+
+## 补译增量（2026-11-12 15:55 轮）
+
+### 한국어 (初译待校)
+
+보충 세부 사항 두 가지. 첫째, 변호사가 경찰서에 도착했을 때 받은 답입니다. 경찰은 변호사에게 신문이 끝날 때까지 기다려야 의뢰인을 만날 수 있다고 말했고, 양쪽의 거듭된 요청은 그렇게 막혔습니다. Harlan, Stewart, White 세 대법관은 반대의견을 냈는데, 이 결정이 정당한 수사를 묶어 두고 각 주가 스스로 설계한 형사 절차의 자율을 침식할 것을 우려했습니다. 둘째, 소송 기록의 세목입니다. 본안은 1964년 4월 29일에 변론됐고, 다수의견 다섯 명은 Goldberg(집필)와 Warren, Black, Douglas, Brennan이었습니다. 또 법원은 Crooker v. California, 357 U.S. 433 (1958)와 Cicenia v. Lagay, 357 U.S. 504 (1958)를 구별하는 데 그치지 않고, 두 판례가 본안과 어긋나는 범위에서는 더 이상 지배력을 갖지 않는다고 못 박았습니다. (초역, 원어민 감수 대기)
+
+### Tiếng Việt (初译待校)
+
+Hai chi tiết bổ sung. Thứ nhất, câu trả lời mà luật sư nhận được khi đến đồn cảnh sát: cảnh sát nói với luật sư rằng ông phải đợi cho đến khi buổi thẩm vấn kết thúc mới được gặp thân chủ, và những yêu cầu lặp đi lặp lại của cả hai phía đã bị chặn lại như vậy. Ba thẩm phán Harlan, Stewart và White phản đối, lo ngại bước đi này sẽ trói buộc hoạt động điều tra chính đáng và xói mòn quyền tự chủ của các bang trong việc thiết kế thủ tục tố tụng của mình. Thứ hai, các chi tiết của hồ sơ vụ án: vụ án được tranh luận vào ngày 29 tháng 4 năm 1964, và năm thành viên của đa số là Goldberg (người viết ý kiến) cùng Warren, Black, Douglas và Brennan. Tòa cũng không dừng ở việc phân biệt Crooker v. California, 357 U.S. 433 (1958) và Cicenia v. Lagay, 357 U.S. 504 (1958), mà nói rõ hai án lệ đó, trong phạm vi mâu thuẫn với vụ án này, không còn sức chi phối nữa. (Bản dịch sơ bộ, chờ hiệu đính)
+
+### हिन्दी (初译待校)
+
+दो पूरक विवरण। पहला, वकील को थाने पहुँचने पर मिला उत्तर: पुलिस ने वकील से कहा कि पूछताछ समाप्त होने तक प्रतीक्षा करनी होगी, तभी वह अपने मुवक्किल से मिल सकेगा, और दोनों पक्षों के बार-बार के अनुरोध इस प्रकार रोके गए। न्यायाधीश Harlan, Stewart और White ने असहमति व्यक्त की; उन्हें चिंता थी कि यह क़दम वैध जाँच को बाँध देगा और राज्यों की अपनी आपराधिक प्रक्रिया डिज़ाइन करने की स्वायत्तता को क्षीण करेगा। दूसरा, मुक़दमे के अभिलेख के विवरण: मामले पर 29 अप्रैल 1964 को बहस हुई, और बहुमत के पाँच सदस्य Goldberg (मत-लेखक) तथा Warren, Black, Douglas और Brennan थे। न्यायालय ने Crooker v. California, 357 U.S. 433 (1958) और Cicenia v. Lagay, 357 U.S. 504 (1958) को अलग बताने पर ही बस नहीं किया, बल्कि स्पष्ट किया कि वे दोनों निर्णय, इस मामले से असंगत सीमा तक, अब नियंत्रक नहीं रहेंगे। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
