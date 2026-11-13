@@ -97,3 +97,18 @@ Este artículo es una nota de estudio personal y no constituye asesoría legal. 
 Bài viết này là ghi chép học tập cá nhân, không phải tư vấn pháp lý. (bản dịch sơ bộ, chờ hiệu đính)
 
 यह लेख व्यक्तिगत अध्ययन नोट है, कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+
+## 补译增量（2026-11-13 12:55 轮）
+
+**한국어 (초역, 원어민 감수 대기)**
+
+NLRB v. Noel Canning, 573 U.S. 513 (2014)의 임명자 명단과 캘리포니아 거부 뒤 잔류 규칙을 보충한다. 첫째, 임명된 사람들이다. 2012년 1월 4일의 휴회임명으로 채워진 전국노동관계위원회 위원은 Sharon Block, Richard Griffin, Terence Flynn 세 명이었고, 같은 날 소비자금융보호국 국장도 같은 방식으로 임명됐지만 그 임명은 이 사건의 대상이 아니었으며, 사건은 2014년 1월 13일에 변론됐다. 둘째, 정부법전 § 1774의 거부 뒤 규칙이다. 주 상원이 확인을 거부하면 임명자는 거부 뒤 60일과 직무 개시 뒤 365일 중 더 이른 날까지만 잔류할 수 있고, 이름 제출은 상원이 휴회나 산회 중일 때는 상원 서기에게 하며, 연임 제출 기한과 신규 제출 기한의 차이는 90 − 60 = 30일이다.
+
+**Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)**
+
+Bổ sung danh sách người được bổ nhiệm và quy tắc lưu nhiệm sau khi bị từ chối của vụ NLRB v. Noel Canning, 573 U.S. 513 (2014). Thứ nhất là những người được bổ nhiệm: ba ủy viên của Ủy ban Quan hệ Lao động Quốc gia được điền vào bằng bổ nhiệm trong kỳ nghỉ ngày 4 tháng 1 năm 2012 là Sharon Block, Richard Griffin và Terence Flynn; cùng ngày đó giám đốc Cục Bảo vệ Tài chính Người tiêu dùng cũng được bổ nhiệm theo cùng cách, nhưng bổ nhiệm ấy không thuộc vụ án này; vụ án được tranh luận ngày 13 tháng 1 năm 2014. Thứ hai là quy tắc sau từ chối trong § 1774 của Bộ luật Chính quyền: nếu Thượng viện bang từ chối phê chuẩn, người được bổ nhiệm chỉ được ở lại tối đa đến ngày sớm hơn trong hai mốc — 60 ngày sau khi bị từ chối hoặc 365 ngày kể từ khi bắt đầu nhiệm vụ; khi Thượng viện đang nghỉ hoặc bế mạc, việc gửi tên được thực hiện cho Thư ký Thượng viện; và chênh lệch giữa hạn gửi tên khi tái bổ nhiệm với khi bổ nhiệm mới là 90 − 60 = 30 ngày.
+
+**हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)**
+
+NLRB v. Noel Canning, 573 U.S. 513 (2014) की नियुक्तों की सूची और California के अस्वीकृति-पश्चात नियम जोड़े जाते हैं। पहला, नियुक्त व्यक्ति: 4 जनवरी 2012 की अवकाश-नियुक्तियों से राष्ट्रीय श्रम संबंध बोर्ड में भरे गए तीन सदस्य Sharon Block, Richard Griffin और Terence Flynn थे; उसी दिन उपभोक्ता वित्तीय संरक्षण ब्यूरो के निदेशक की भी उसी रीति से नियुक्ति हुई, किंतु वह नियुक्ति इस मामले का भाग नहीं थी; मामले की बहस 13 जनवरी 2014 को हुई। दूसरा, सरकारी संहिता § 1774 का अस्वीकृति-पश्चात नियम: यदि राज्य सीनेट पुष्टि से इनकार कर दे तो नियुक्त व्यक्ति केवल उस तारीख़ तक रह सकता है जो पहले आए — अस्वीकृति के 60 दिन बाद या पदभार ग्रहण के 365 दिन बाद; सीनेट के अवकाश या स्थगन के दौरान नाम सीनेट सचिव को भेजा जाता है; और पुनर्नियुक्ति व नई नियुक्ति की नाम-भेजने की समय-सीमाओं का अंतर 90 − 60 = 30 दिन है।
