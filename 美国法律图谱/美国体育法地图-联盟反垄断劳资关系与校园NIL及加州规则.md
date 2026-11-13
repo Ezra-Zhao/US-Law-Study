@@ -121,3 +121,21 @@ California đi đầu về NIL: SB 206 (2019), Đạo luật Trả lương Công
 NIL पर कैलिफ़ोर्निया सबसे पहले चला: SB 206 (2019), Fair Pay to Play Act, Education Code § 67456 में संहिताबद्ध (SB 26 से प्रभावी तिथि 2021 कर दी गई), कैलिफ़ोर्निया के कॉलेजों को छात्र खिलाड़ियों की NIL कमाई रोकने या उसके लिए पात्रता छीनने से रोकता है। एजेंट मुख्यतः राज्यों द्वारा नियंत्रित हैं; कैलिफ़ोर्निया का Miller-Ayala Athlete Agents Act, Business and Professions Code § 18895 से आगे, पंजीकरण अनिवार्य करता है और आमंत्रण व अनुबंधों पर नियंत्रण रखता है, और हस्ताक्षर से पहले एजेंट का पंजीकरण जाँचना सस्ता और कारगर कदम है। संक्षेप में: पेशेवर खेल अविश्वास और श्रम छूट के बीच संतुलन करता है, जबकि कॉलेज खेल Title IX, Alston, राज्य NIL कानून और House समझौते को एक पर एक रखता है।
 
 *व्यक्तिगत अध्ययन नोट है, कानूनी सलाह नहीं। (प्रारंभिक अनुवाद, समीक्षा लंबित)*
+
+
+## 补译增量（2026-11-12 23:55 轮）
+
+### 한국어（초역 검수 대기）
+
+- 비제정법 노동 면제(nonstatutory labor exemption)의 경계: 단체교섭이 실제로 결렬되거나 노조가 교섭 대표 지위를 포기하는 등 비상한 경우에만 선수가 반독점 소송의 궤도로 돌아갈 수 있으며, 역사적으로 미식축구와 농구에서 모두 이 단계를 밟은 적이 있지만 그 문턱과 대가는 모두 높습니다.
+- House v. NCAA 합의의 두 축: 과거 선수들에게 손해배상을 지급하는 것과, 앞으로 학교가 선수와 수익을 직접 나눌 수 있게(revenue sharing) 하는 것입니다. 다만 합의 이후에도 고용인 지위 논쟁과 Title IX 적용 계산은 자동으로 사라지지 않았습니다.
+
+### Tiếng Việt（bản dịch sơ bộ）
+
+- Ranh giới của miễn trừ lao động phi luật định (nonstatutory labor exemption): chỉ trong những tình huống bất thường như đàm phán thực sự đổ vỡ hoặc công đoàn từ bỏ tư cách đại diện đàm phán, vận động viên mới có thể quay lại con đường kiện chống độc quyền; trong lịch sử, bóng bầu dục và bóng rổ đều đã đi qua bước này, với ngưỡng và cái giá đều cao.
+- Hai trụ cột của thỏa thuận dàn xếp House v. NCAA: trả bồi thường thiệt hại cho các vận động viên trong quá khứ, và cho phép các trường trong tương lai chia sẻ doanh thu trực tiếp với vận động viên (revenue sharing). Tuy vậy, sau dàn xếp, tranh chấp về tư cách người lao động và bài toán áp dụng Title IX không tự động biến mất.
+
+### हिन्दी（प्रारंभिक अनुवाद）
+
+- ग़ैर-वैधानिक श्रम छूट (nonstatutory labor exemption) की सीमा: केवल असाधारण स्थितियों में — जैसे वार्ता का वास्तव में टूट जाना या संघ का वार्ता-प्रतिनिधि दर्जा छोड़ देना — खिलाड़ी अविश्वास मुक़दमे के मार्ग पर लौट सकते हैं; इतिहास में अमेरिकी फ़ुटबॉल और बास्केटबॉल दोनों इस चरण से गुज़रे हैं, और इसकी दहलीज़ व कीमत दोनों ऊँची हैं।
+- House v. NCAA समझौते के दो स्तंभ: भूतपूर्व खिलाड़ियों को हर्जाना देना, और आगे चलकर स्कूलों को खिलाड़ियों के साथ सीधे राजस्व साझा (revenue sharing) करने देना। फिर भी समझौते के बाद भी कर्मचारी-दर्जे का विवाद और Title IX की गणना अपने आप समाप्त नहीं हुए।
