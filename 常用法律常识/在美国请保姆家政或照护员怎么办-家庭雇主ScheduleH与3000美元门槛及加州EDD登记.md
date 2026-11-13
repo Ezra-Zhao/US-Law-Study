@@ -111,3 +111,17 @@ Este artículo es una nota de estudio personal y no constituye asesoría legal. 
 Bài viết này là ghi chép học tập cá nhân, không phải tư vấn pháp lý. (bản dịch sơ bộ, chờ hiệu đính)
 
 यह लेख व्यक्तिगत अध्ययन नोट है, कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+## 补译增量（2026-11-13 08:55 轮）
+
+**한국어 (초역, 원어민 감수 대기)**
+
+달력에 표시할 세 개의 선과 계산 사슬: 캘리포니아는 분기 750달러, 연방 FUTA는 분기 1,000달러, 연방 FICA는 2026년 기준 1인당 연간 3,000달러입니다. 주급 250달러를 13주 지급하면 250 × 13 = 3,250달러가 되어 FICA 문턱을 넘고, 250 × 3 = 750달러로 캘리포니아 등록선에 정확히 닿습니다. 세 가지 금지선도 함께 기억하십시오. 첫째, 신고와 납부를 하지 않는 것은 절약이 아니라 세금과 가산 이자, 그리고 근로자의 사회보장 기록 공백을 함께 쌓는 일입니다. 둘째, 1099 양식으로 근로자를 독립계약자로 세탁할 수 없으며, 성격 규정이 틀리면 전 과정을 다시 해야 합니다. 셋째, 배우자, 미성년 자녀, 부모에 대한 면제 칸은 각각 조건이 다르므로, 친척이라는 이유만으로 면세를 단정하지 말고 그해 판 Publication 926 원문을 대조해야 합니다.
+
+**Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)**
+
+Ba mốc cần đánh dấu trên lịch và chuỗi phép tính: California là 750 đô la mỗi quý, FUTA liên bang là 1.000 đô la mỗi quý, và FICA liên bang là 3.000 đô la mỗi người mỗi năm theo số liệu 2026. Trả 250 đô la mỗi tuần trong 13 tuần cho ra 250 × 13 = 3.250 đô la, vượt ngưỡng FICA, và 250 × 3 = 750 đô la, chạm đúng mốc đăng ký của California. Ba lằn ranh đỏ đi kèm: thứ nhất, không khai không nộp không phải là tiết kiệm, mà là dồn thuế, tiền phạt lãi và khoảng trống hồ sơ an sinh xã hội của người lao động; thứ hai, không thể dùng mẫu 1099 để biến người lao động thành nhà thầu độc lập, và nếu định tính sai thì phải làm lại toàn bộ; thứ ba, các ô miễn trừ cho vợ chồng, con chưa thành niên và cha mẹ mỗi ô có điều kiện riêng, nên phải đối chiếu văn bản Publication 926 của năm hiện tại thay vì mặc định người thân thì được miễn.
+
+**हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)**
+
+कैलेंडर पर अंकित करने योग्य तीन रेखाएँ और गणना-शृंखला: California के लिए प्रति तिमाही $750, संघीय FUTA के लिए प्रति तिमाही $1,000, और संघीय FICA के लिए 2026 के अनुसार प्रति व्यक्ति प्रति वर्ष $3,000। प्रति सप्ताह $250 को 13 सप्ताह देने पर 250 × 13 = $3,250 बनता है, जो FICA सीमा पार करता है, और 250 × 3 = $750 California की पंजीकरण रेखा को ठीक छूता है। तीन लाल रेखाएँ साथ रखें: पहली, न भरना और न चुकाना बचत नहीं है — यह कर, दंड-ब्याज और कर्मचारी के सामाजिक सुरक्षा रिकॉर्ड की रिक्तता को एक साथ जमा करना है। दूसरी, 1099 फ़ॉर्म से कर्मचारी को स्वतंत्र ठेकेदार नहीं बनाया जा सकता, और ग़लत वर्गीकरण पर पूरी प्रक्रिया दोबारा करनी पड़ती है। तीसरी, जीवनसाथी, नाबालिग बच्चों और माता-पिता की छूट-कोशिकाओं की शर्तें अलग-अलग हैं, इसलिए रिश्तेदारी के आधार पर छूट मानने के बजाय उस वर्ष के Publication 926 के मूल पाठ से मिलान करें।
