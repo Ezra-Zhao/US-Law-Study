@@ -82,3 +82,20 @@ Este artículo es una nota de estudio personal y no constituye asesoría legal. 
 Bài viết này là ghi chép học tập cá nhân, không phải tư vấn pháp lý. (bản dịch sơ bộ, chờ hiệu đính)
 
 यह लेख व्यक्तिगत अध्ययन नोट है, कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+
+---
+
+## 补译增量（2026-11-12 21:55 轮）
+
+### 한국어 (初译待校)
+
+보충 세부 사항 1 — 판단을 빠르게 하는 지름길: 보험 카드와 플랜 문서에 ERISA나 자가보험(self-funded)이라는 표시가 있는지 보고, 거절 서한의 발신 주체가 어디이며 말미의 이의신청 안내가 주 감독기관을 가리키는지 연방 절차를 가리키는지 확인하십시오. 거절 서한은 원래 이런 사항을 분명히 적어야 하므로, 적혀 있지 않다는 것 자체가 첫 번째 공격 지점입니다. 보충 세부 사항 2 — 감독기관을 잘못 찾는 경우: DMHC와 CDI는 서로 사건을 넘겨주므로 잘못 찾아가는 것이 치명적이지는 않지만, 그만큼 이의신청 시계가 헛되이 흘러가므로 첫 단계에서 문을 정확히 확인해야 합니다.
+
+### Tiếng Việt (初译待校)
+
+Chi tiết bổ sung 1 — lối tắt để phân loại: hãy xem trên thẻ bảo hiểm và tài liệu chương trình có ghi ERISA hay tự tài trợ (self-funded) hay không, rồi xem thư từ chối do công ty nào đứng tên và phần hướng dẫn kháng cáo ở cuối thư chỉ về cơ quan quản lý của bang hay về thủ tục liên bang; thư từ chối theo luật phải ghi rõ những điều này, nên việc ghi không rõ tự nó đã là điểm tấn công đầu tiên. Chi tiết bổ sung 2 — nộp nhầm cơ quan quản lý: nộp nhầm cửa không phải là chí mạng, vì DMHC và CDI sẽ chuyển hồ sơ cho nhau, nhưng sẽ làm lãng phí đồng hồ kháng cáo, nên bước đầu tiên là xác định đúng cửa.
+
+### हिन्दी (初译待校)
+
+पूरक विवरण 1 — वर्गीकरण का छोटा रास्ता: बीमा कार्ड और योजना दस्तावेज़ों में ERISA या स्व-वित्तपोषित (self-funded) का उल्लेख देखें, फिर देखें कि अस्वीकृति-पत्र किस कंपनी के नाम का है और उसके अंत के अपील-निर्देश राज्य नियामक की ओर इशारा करते हैं या संघीय प्रक्रिया की ओर; अस्वीकृति-पत्र को कानूनन ये बातें स्पष्ट लिखनी ही होती हैं, इसलिए इनका अस्पष्ट होना ही पहला हमला-बिंदु है। पूरक विवरण 2 — ग़लत नियामक द्वार पर जाना: ग़लत द्वार घातक नहीं है, क्योंकि DMHC और CDI मामले एक-दूसरे को भेज देते हैं, लेकिन इससे अपील की घड़ी व्यर्थ बीतती है, इसलिए पहला कदम सही द्वार पहचानना ही है।
