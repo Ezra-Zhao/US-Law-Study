@@ -114,3 +114,26 @@ Este artículo es una nota de estudio personal y no constituye asesoría legal. 
 Bài viết này là ghi chép học tập cá nhân, không phải tư vấn pháp lý. (bản dịch sơ bộ, chờ hiệu đính)
 
 यह लेख व्यक्तिगत अध्ययन नोट है, कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+
+---
+
+## 补译增量（2026-11-13 06:55 轮）
+
+### 한국어 (초译待校)
+
+세부 보충: 신고 내용의 두 층을 본문에 맞춰 채우면 이렇다. 회사 층에서는 법적 명칭, 상호, 미국 내 주된 주소, 설립 또는 등록 관할, 납세자 식별번호를 신고하고, 개인 층에서는 수익적 소유자(및 회사 신청인)마다 성명, 생년월일, 현 주소와 여권·운전면허증·주 신분증 같은 허용 신분증의 번호, 발급 관할, 증서 영상을 신고한다. 개인은 먼저 FinCEN에 FinCEN 식별번호를 발급받아, 각 회사의 보고서에서 항목별 정보 대신 그 번호를 쓸 수도 있다.
+
+세부 보충: 정정의 두 시간선은 서로 다른 일을 관할한다. 잘못된 정보를 안 뒤에는 30일 안에 정정 보고를 내야 하는 의무가 그대로 있고, § 5336(h)(3)(C) 부근의 90일 안전항은 신고 후 90일 안에 자발적으로 정정하고 신고 회피의 의도나 행위가 없을 때 원칙적으로 그 조문의 처벌을 면하게 하는 장치이다. 30일은 제출 기한, 90일은 처벌 면제의 창으로, 섞어 쓰면 틀린다.
+
+### Tiếng Việt (初译待校)
+
+Chi tiết bổ sung: nội dung báo cáo gồm hai tầng theo bản chính. Tầng công ty báo cáo tên pháp lý, tên thương mại, địa chỉ chính tại Hoa Kỳ, khu vực thành lập hoặc đăng ký và mã số thuế; tầng cá nhân báo cáo, cho mỗi chủ sở hữu hưởng lợi (và người nộp đơn thành lập), họ tên đầy đủ, ngày sinh, địa chỉ hiện tại, cùng số, nơi cấp và hình ảnh của một giấy tờ tùy thân được chấp nhận như hộ chiếu, bằng lái xe hoặc thẻ căn cước bang. Cá nhân cũng có thể xin trước một FinCEN identifier và dùng con số đó thay cho thông tin từng mục trong báo cáo của từng công ty.
+
+Chi tiết bổ sung: hai mốc thời gian sửa sai lo hai việc khác nhau. Nghĩa vụ nộp báo cáo sửa đổi trong vòng 30 ngày kể từ khi biết sai vẫn giữ nguyên; bến an toàn 90 ngày quanh § 5336(h)(3)(C) có nghĩa là nếu tự nguyện sửa đúng trong vòng 90 ngày sau khi nộp, và không có ý định hay hành vi trốn tránh báo cáo, thì về nguyên tắc được miễn hình phạt của điều đó. Ba mươi ngày là hạn nộp, chín mươi ngày là cửa sổ miễn phạt — viết lẫn hai mốc này là sai.
+
+### हिन्दी (初译待校)
+
+विवरण पूरक: रिपोर्ट की सामग्री मूल पाठ के अनुसार दो स्तरों में है। कंपनी स्तर पर कानूनी नाम, व्यापारिक नाम, अमेरिका में मुख्य पता, स्थापना या पंजीकरण क्षेत्राधिकार और करदाता पहचान संख्या दी जाती है; व्यक्ति स्तर पर प्रत्येक लाभार्थी स्वामी (और company applicant) के लिए पूरा नाम, जन्मतिथि, वर्तमान पता, तथा पासपोर्ट, ड्राइविंग लाइसेंस या राज्य पहचान पत्र जैसे स्वीकार्य पहचान दस्तावेज़ का नंबर, जारी करने वाला क्षेत्राधिकार और दस्तावेज़ की छवि दी जाती है। व्यक्ति पहले FinCEN identifier भी ले सकता है और प्रत्येक कंपनी की रिपोर्ट में मद-दर-मद जानकारी के स्थान पर वही नंबर दे सकता है।
+
+विवरण पूरक: सुधार की दो समय-रेखाएँ अलग-अलग काम देखती हैं। ग़लती का पता चलने के बाद 30 दिनों के भीतर सुधार रिपोर्ट दाखिल करने का कर्तव्य बना रहता है; § 5336(h)(3)(C) के आसपास का 90-दिन का safe harbor यह है कि रिपोर्ट दाखिल करने के 90 दिनों के भीतर स्वेच्छा से सुधार कर देने और रिपोर्टिंग से बचने का कोई इरादा या आचरण न होने पर, सिद्धांततः उस धारा के दंड से छूट मिलती है। 30 दिन दाखिल करने की सीमा है, 90 दिन दंड-मुक्ति की खिड़की — दोनों को मिलाकर लिखना ग़लत है।
