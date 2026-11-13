@@ -96,3 +96,26 @@ Este artículo es una nota de estudio personal y no constituye asesoría legal. 
 Bài viết này là ghi chép học tập cá nhân, không phải tư vấn pháp lý. (bản dịch sơ bộ, chờ hiệu đính)
 
 यह लेख व्यक्तिगत अध्ययन नोट है, कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+
+---
+
+## 补译增量（2026-11-13 04:55 轮）
+
+### 한국어 (초译待校)
+
+세부 보충: 절차의 시간표를 본문에 맞춰 채우면 이렇다. 피고 측의 전원합의체 재심리 신청은 의견이 갈린 법원에서 기각됐고, 연방대법원은 1987년에 사건을 수리했으며(480 U.S. 945), 변론은 1987년 12월 2일에 열렸다. 패러디 게재부터 최종 판결까지 1988 − 1983 = 5년, 판결은 Sullivan으로부터 1988 − 1964 = 24년 뒤에 나왔고, 2026 − 1988 = 38년이 지난 지금도 본 판결이 이 교차 지점의 기본 틀이다.
+
+세부 보충: 캘리포니아에는 별도의 규칙이 없다. IIED는 캘리포니아 주 보통법상 불법행위이지만 연방 헌법의 상한은 그대로 적용되므로, 출판물을 두고 소송하는 공인 원고도 먼저 현실적 악의의 문을 넘어야 한다. 다만 캘리포니아에서 일상으로 더 자주 만나는 것은 온라인 괴롭힘처럼 사인이 공개적으로 모욕당하는 사건으로, 이는 사인 원고 측의 다른 기준을 따르므로 본 판결의 배상 차단 결론을 일반인에게 그대로 옮겨서는 안 된다.
+
+### Tiếng Việt (初译待校)
+
+Chi tiết bổ sung: mốc thời gian thủ tục theo bản chính: yêu cầu tái thẩm toàn thể (en banc) của phía bị đơn bị một tòa chia rẽ bác bỏ; Tòa Tối cao nhận hồ sơ (certiorari) năm 1987 (480 U.S. 945) và nghe tranh luận ngày 2 tháng 12 năm 1987. Từ khi tác phẩm nhại đăng đến phán quyết cuối là 1988 − 1983 = 5 năm; phán quyết cách vụ Sullivan 1988 − 1964 = 24 năm, và đến nay 2026 − 1988 = 38 năm nó vẫn là khung cơ bản tại điểm giao này.
+
+Chi tiết bổ sung: California không có bộ quy tắc riêng. IIED là một vi phạm theo thông luật của bang, nhưng trần hiến pháp liên bang vẫn áp dụng nguyên vẹn: nguyên đơn là nhân vật công chúng kiện về một ấn phẩm ở California cũng phải vượt qua cửa ác ý thực tế trước. Trong đời sống thường ngày ở California, phổ biến hơn là trường hợp người tư nhân bị bêu rếu công khai hoặc bạo lực mạng — phía nguyên đơn tư nhân theo chuẩn khác, không được chuyển thẳng kết luận chặn bồi thường của vụ này sang người thường.
+
+### हिन्दी (初译待校)
+
+विवरण पूरक: प्रक्रिया की समय-रेखा मूल पाठ के अनुसार पूरी करें — प्रतिवादियों की पूर्ण-पीठ (en banc) पुनः सुनवाई की माँग विभाजित न्यायालय ने ठुकरा दी; सर्वोच्च न्यायालय ने 1987 में याचिका स्वीकार की (480 U.S. 945) और बहस 2 दिसंबर 1987 को हुई। पैरोडी के प्रकाशन से अंतिम निर्णय तक 1988 − 1983 = 5 वर्ष लगे; निर्णय Sullivan के 1988 − 1964 = 24 वर्ष बाद आया, और 2026 − 1988 = 38 वर्ष बाद भी यही इस चौराहे की मूल रूपरेखा है।
+
+विवरण पूरक: California के लिए अलग नियम-सेट नहीं है। IIED वहाँ राज्य सामान्य-विधि का अपकृत्य है, किंतु संघीय संवैधानिक छत वहाँ भी लागू होती है — California में किसी प्रकाशन पर वाद करने वाले सार्वजनिक-व्यक्ति वादी को भी पहले वास्तविक द्वेष (actual malice) का द्वार पार करना होगा। California के दैनिक जीवन में अधिक आम मामले निजी व्यक्तियों के सार्वजनिक अपमान या ऑनलाइन उत्पीड़न के हैं, जो निजी-वादी पक्ष के भिन्न मानक से चलते हैं; इस निर्णय के हर्ज़ाना-रोक निष्कर्ष को आम लोगों पर सीधे लागू नहीं करना चाहिए।
