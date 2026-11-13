@@ -87,3 +87,18 @@ Este artículo es una nota de estudio personal y no constituye asesoría legal. 
 Bài viết này là ghi chép học tập cá nhân, không phải tư vấn pháp lý. (bản dịch sơ bộ, chờ hiệu đính)
 
 यह लेख व्यक्तिगत अध्ययन नोट है, कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+
+## 补译增量（2026-11-13 13:55 轮）
+
+**한국어 (초역, 원어민 감수 대기)**
+
+의회 조사의 고유 모욕(inherent contempt) 초기 판례선과 캘리포니아의 선서 규칙을 보충한다. 첫째, 고유 모욕의 묵시는 McGrain보다 앞선다. Anderson v. Dunn, 19 U.S. (6 Wheat.) 204 (1821)는 하원이 모욕자를 스스로 구금할 수 있음을 인정했고, Jurney v. MacCracken, 294 U.S. 125 (1935)는 증인이 나중에 서류를 제출했더라도 상원이 이미 발생한 모욕을 처벌할 수 있음을 확인했다. 고유 모욕이 실제로 마지막으로 쓰인 것도 이 계열로, 1934년 MacCracken 사건에서 구금 10일이었고, 지금까지 2026 − 1934 = 92년이 지나 오늘날에는 주로 협상 테이블의 배경 위협으로 남아 있다. 둘째, 캘리포니아 《정부법전》 제9404조는 위원회 위원이 증인에게 선서를 집행할 수 있게 하며, 같은 시리즈의 제9409조는 불출석자를 경위관이 체포해 의회나 위원회 앞에 데려올 수 있게 해 소환장에 이를 붙인다.
+
+**Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)**
+
+Bổ sung dòng án lệ đầu tiên về khinh thị cố hữu (inherent contempt) của Quốc hội và quy tắc tuyên thệ của California. Thứ nhất, quyền khinh thị cố hữu còn sớm hơn McGrain: vụ Anderson v. Dunn, 19 U.S. (6 Wheat.) 204 (1821) công nhận Hạ viện có thể tự giam giữ người khinh thị, và vụ Jurney v. MacCracken, 294 U.S. 125 (1935) xác nhận Thượng viện vẫn có thể phạt hành vi khinh thị đã xảy ra dù nhân chứng sau đó đã nộp bổ sung tài liệu. Lần dùng thực tế cuối cùng của khinh thị cố hữu cũng thuộc dòng này: năm 1934, trong vụ MacCracken, người bị giam 10 ngày, và đến nay đã 2026 − 1934 = 92 năm, nên ngày nay nó chủ yếu là sức ép nền trên bàn đàm phán. Thứ hai, điều 9404 của Bộ luật Chính quyền California cho phép thành viên ủy ban chủ trì việc tuyên thệ của nhân chứng, và điều 9409 trong cùng loạt điều cho phép cảnh vệ quan bắt người không đến và dẫn tới trước viện hay ủy ban, tạo răng cho trát đòi.
+
+**हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)**
+
+कांग्रेस की inherent contempt की आरंभिक मिसाल-पंक्ति और California का शपथ-नियम जोड़ा जाता है। पहला, inherent contempt की निहित शक्ति McGrain से भी पहले की है: Anderson v. Dunn, 19 U.S. (6 Wheat.) 204 (1821) ने माना कि सदन अवमानना करने वाले को स्वयं हिरासत में रख सकता है, और Jurney v. MacCracken, 294 U.S. 125 (1935) ने पुष्टि की कि गवाह बाद में दस्तावेज़ दे दे तब भी सीनेट घटित अवमानना को दंडित कर सकती है। Inherent contempt का अंतिम वास्तविक प्रयोग भी इसी पंक्ति का है: 1934 के MacCracken मामले में 10 दिन की हिरासत हुई, और अब तक 2026 − 1934 = 92 वर्ष बीत चुके हैं, इसलिए आज यह मुख्यतः वार्ता की मेज़ पर पृष्ठभूमि-दबाव है। दूसरा, California Government Code धारा 9404 समिति-सदस्यों को गवाह को शपथ दिलाने का अधिकार देती है, और उसी श्रृंखला की धारा 9409 अनुपस्थित व्यक्ति को Sergeant-at-Arms द्वारा गिरफ़्तार कर सदन या समिति के सामने लाने की अनुमति देकर समन को दाँत देती है।
