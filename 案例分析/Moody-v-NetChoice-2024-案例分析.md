@@ -61,3 +61,18 @@ Năm 2021, Florida (SB 7072) cấm các nền tảng lớn loại bỏ tài kho�
 
 
 声明：本文为个人学习笔记，不构成法律建议。条文与判例细节请再核现行文本。
+
+
+## 补译增量（2026-11-13 09:55 轮）
+
+**한국어 (초역, 원어민 감수 대기)**
+
+순회법원의 분열 구도와 협조의견 및 캘리포니아의 두 번째 전선을 보충한다. 순회 단계에서는 정반대 답이 나왔다. 제11순회법원은 2022년 플로리다법의 대부분이 수정헌법 제1조에 위반될 가능성이 높다고 보아 예비적 금지명령의 대부분을 유지했지만, 제5순회법원은 같은 해 플랫폼의 콘텐츠 관리는 제1조의 보호를 받지 않는다고 보아 텍사스법에 대한 금지명령을 파기했다. 같은 연방헌법에 두 가지 답이 나온 것이다. 협조의견 쪽에서는 Barrett 대법관이 단독 협조의견에서 외국 지배 플랫폼이거나 사람이 아닌 알고리즘이 정보 흐름을 편성하는 경우 분석이 달라질 수 있음을 남겼고, Jackson 대법관은 별도 협조의견에서 이 문제들에 대한 자제를 촉구했으며, Thomas와 Gorsuch가 합류한 Alito 대법관의 협조의견은 환송 결과에만 동의하고 기록이 완성되기 전에 실체 문제를 길게 논하는 데 유보를 표했다. 캘리포니아에서는 2022년 적령 설계 규범법(AB 2273)이 NetChoice v. Bonta 소송에서 연방 법원의 예비적 금지명령으로 대부분 막혀 있다.
+
+**Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)**
+
+Bổ sung cục diện chia rẽ giữa các tòa phúc thẩm cùng các ý kiến đồng tình và mặt trận thứ hai của California. Ở cấp phúc thẩm, hai đáp án trái ngược nhau: năm 2022, Tòa phúc thẩm Khu vực 11 cho rằng phần lớn luật Florida rất có khả năng vi phạm Tu chính án thứ nhất và giữ nguyên phần lớn lệnh cấm sơ bộ, trong khi Tòa phúc thẩm Khu vực 5 cùng năm lại cho rằng việc quản lý nội dung của nền tảng không được Tu chính án thứ nhất bảo vệ và hủy lệnh cấm đối với luật Texas — cùng một hiến pháp liên bang, hai đáp án. Về các ý kiến đồng tình: Thẩm phán Barrett trong ý kiến đồng tình riêng lưu ý rằng phân tích có thể khác đi nếu nền tảng do nước ngoài kiểm soát hoặc luồng thông tin do thuật toán chứ không phải con người tuyển chọn; Thẩm phán Jackson trong ý kiến đồng tình riêng kêu gọi kiềm chế trong các vấn đề này; và ý kiến đồng tình của Thẩm phán Alito, với sự tham gia của Thomas và Gorsuch, chỉ đồng ý với kết quả chuyển hồ sơ trở lại và dè dặt việc bàn dài về thực chất trước khi hồ sơ đầy đủ. Tại California, Đạo luật Quy tắc Thiết kế Phù hợp Độ tuổi năm 2022 (AB 2273) đã bị chặn phần lớn bởi lệnh cấm sơ bộ của tòa liên bang trong vụ NetChoice v. Bonta.
+
+**हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)**
+
+सर्किट न्यायालयों के मतभेद, सहमति-मतों और California के दूसरे मोर्चे को जोड़ा जाता है। अपीलीय चरण में दो विपरीत उत्तर आए: 2022 में ग्यारहवें सर्किट ने Florida के क़ानून के अधिकांश भाग को प्रथम संशोधन का संभावित उल्लंघन मानकर प्रारंभिक निषेधाज्ञा का बड़ा हिस्सा बरकरार रखा, जबकि पाँचवें सर्किट ने उसी वर्ष कहा कि प्लेटफ़ॉर्म का सामग्री-प्रबंधन प्रथम संशोधन से संरक्षित नहीं है और Texas के क़ानून पर लगी निषेधाज्ञा रद्द कर दी — एक ही संघीय संविधान, दो उत्तर। सहमति-मतों में, न्यायाधीश Barrett ने अपने अलग सहमति-मत में यह संकेत छोड़ा कि यदि प्लेटफ़ॉर्म विदेशी नियंत्रण में हो या सूचना-प्रवाह मनुष्य के बजाय एल्गोरिदम द्वारा चुना जाता हो तो विश्लेषण बदल सकता है; न्यायाधीश Jackson ने अलग सहमति-मत में इन प्रश्नों पर संयम का आग्रह किया; और न्यायाधीश Alito के सहमति-मत ने, जिसमें Thomas और Gorsuch शामिल हुए, केवल वापस भेजने के परिणाम से सहमति दी और अभिलेख पूर्ण होने से पहले सारभूत प्रश्नों पर लंबी चर्चा से परहेज़ किया। California में 2022 का आयु-उपयुक्त डिज़ाइन संहिता अधिनियम (AB 2273) NetChoice v. Bonta वाद में संघीय न्यायालय की प्रारंभिक निषेधाज्ञा से अधिकांशतः रुका हुआ है।
