@@ -53,3 +53,24 @@ Tháng 11 năm 2006, thám tử William Pedraja của cảnh sát Miami-Dade nh�
 本文为个人学习笔记，不构成法律建议；具体案件请咨询持牌律师。
 
 This article is a personal study note, not legal advice.
+
+
+## 补译增量（2026-11-14 05:55轮）
+
+### 한국어 (初译待校)
+
+보충 1 — 수사관과 탐지견의 구체상: 2006년 11월, 마이애미-데이드군 경찰국 형사 William Pedraja는 Joelis Jardines의 집에서 대마를 재배한다는 확인되지 않은 제보를 받았다. 감시를 해도 별 움직임이 보이지 않자, Pedraja는 다른 형사 Douglas Bartelt와 함께 마약 탐지 훈련을 받은 래브라도 Franky를 데리고 앞 현관으로 갔고, Franky는 현관 위를 오가며 맡다가 현관문 아래쪽에서 알림 반응을 보였다. 그 알림을 근거로 같은 날 수색영장이 발부되어 집에서 대마 식물이 발견되었고, Jardines는 대마 밀매 등의 혐의로 기소되었다. (초역, 원어민 감수 대기)
+
+보충 2 — Harris 사건과의 구별과 연표: Florida v. Harris, 568 U.S. 237 (2013)은 본 판결보다 한 달 남짓 먼저 선고되었으며, 교통 정지 상황에서 탐지견의 알림이 차량 수색의 상당한 이유가 되는지를 물었다. Jardines가 묻는 것은 주거 현관에서의 개 냄새 맡기 자체가 수색인가 하는 전혀 다른 문제이다. 연표로는 제보가 있었던 2006년부터 판결이 난 2013년까지 2013−2006=7년이 걸렸고, Collins v. Virginia가 나온 2018년까지는 2018−2013=5년이 더 걸렸다. (초역, 원어민 감수 대기)
+
+### Tiếng Việt (初译待校)
+
+Bổ sung 1 — Chi tiết về điều tra viên và chó nghiệp vụ: tháng 11 năm 2006, thám tử William Pedraja của Cảnh sát Miami-Dade nhận được một tin báo chưa được kiểm chứng rằng Joelis Jardines trồng cần sa trong nhà. Sau khi giám sát mà không thấy động tĩnh gì rõ ràng, Pedraja cùng thám tử Douglas Bartelt đưa Franky, một chú chó Labrador được huấn luyện phát hiện ma túy, tới hiên trước; Franky đánh hơi qua lại trên hiên và báo hiệu ở chân cửa chính. Dựa trên tín hiệu đó, một lệnh khám xét được cấp ngay trong ngày, cuộc khám xét tìm thấy cây cần sa trong nhà, và Jardines bị truy tố về tội buôn bán cần sa và các tội danh khác. (bản dịch sơ bộ, chờ hiệu đính)
+
+Bổ sung 2 — Phân biệt với vụ Harris và dòng thời gian: Florida v. Harris, 568 U.S. 237 (2013), được phán quyết hơn một tháng trước vụ này, hỏi rằng tín hiệu của chó nghiệp vụ trong một lần dừng xe giao thông có đủ tạo thành lý do có thể (probable cause) để khám xe hay không. Câu hỏi của Jardines hoàn toàn khác: việc đưa chó đánh hơi trên hiên nhà tự nó có phải là một cuộc khám xét hay không. Theo dòng thời gian, từ tin báo năm 2006 tới phán quyết năm 2013 là 2013 − 2006 = 7 năm, và tới Collins v. Virginia năm 2018 là thêm 2018 − 2013 = 5 năm nữa. (bản dịch sơ bộ, chờ hiệu đính)
+
+### हिन्दी (初译待校)
+
+पूरक 1 — जाँचकर्ताओं और खोजी कुत्ते का विवरण: नवंबर 2006 में मियामी-डेड काउंटी पुलिस के जासूस William Pedraja को अपुष्ट सूचना मिली कि Joelis Jardines अपने घर में मारिजुआना उगा रहा है। निगरानी में कुछ ख़ास न दिखने पर Pedraja दूसरे जासूस Douglas Bartelt के साथ नशीले पदार्थों की पहचान के लिए प्रशिक्षित लैब्राडोर Franky को सामने के बरामदे तक ले गया; Franky बरामदे पर इधर-उधर सूँघकर मुख्य दरवाज़े के नीचे संकेत दे बैठा। उसी संकेत के आधार पर उसी दिन तलाशी वारंट मिला, तलाशी में घर से मारिजुआना के पौधे मिले, और Jardines पर मारिजुआना तस्करी समेत अन्य आरोप लगे। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+पूरक 2 — Harris मामले से अंतर और समयरेखा: Florida v. Harris, 568 U.S. 237 (2013) इस फ़ैसले से एक महीने से कुछ अधिक पहले आया था और उसका प्रश्न था कि ट्रैफ़िक रोक के दौरान कुत्ते का संकेत वाहन की तलाशी के लिए संभावित कारण बनता है या नहीं। Jardines का प्रश्न बिल्कुल अलग है: घर के बरामदे पर कुत्ते से सूँघवाना स्वयं में तलाशी है या नहीं। समयरेखा में, 2006 की सूचना से 2013 के फ़ैसले तक 2013 − 2006 = 7 वर्ष लगे, और 2018 में Collins v. Virginia तक 2018 − 2013 = 5 वर्ष और लगे। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
