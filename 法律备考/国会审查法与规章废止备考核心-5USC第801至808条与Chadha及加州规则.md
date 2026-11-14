@@ -95,3 +95,24 @@ Este artículo es una nota de estudio personal y no constituye asesoría legal. 
 Bài viết này là ghi chép học tập cá nhân, không phải tư vấn pháp lý. (bản dịch sơ bộ, chờ hiệu đính)
 
 यह लेख व्यक्तिगत अध्ययन नोट है, कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+
+## 补译增量（2026-11-14 06:55轮）
+
+### 한국어 (初译待校)
+
+보충 1 — GAO 보고와 미제출 시계의 문제: 주요 규정에 대한 GAO 보고는 접수 후 15일(역일 기준) 안에 관할 의회 위원회에 보내야 합니다. 실무상 더 중요한 것은 기관이 보고를 제출하지 않으면 CRA상의 심사 시계가 시작되지 않는다는 점입니다. 그래서 2017년 이후 GAO는 의원의 요청을 받아 제출되지 않은 지침 문서가 CRA상의 규정에 해당하는지에 대한 의견을 내왔고, 이 선이 뒤의 지침 파일 판례로 이어졌습니다. (초역, 원어민 감수 대기)
+
+보충 2 — 실질적으로 동일한 재발령 금지와 2001년 사례: 폐지된 규정은 이후 법률이 특별히 권한을 부여하지 않는 한 실질적으로 동일한 형태로 다시 발령할 수 없고, 실질적으로 동일한 새 규정을 만들 수도 없습니다. 「실질적으로 동일」의 정의는 법문에 없고 제805조의 사법심사 금지 구역과 겹쳐 경계가 판례로 확정된 적이 없습니다. 가장 자주 인용되는 사례가 2001년에 폐지된 인간공학 규정으로, 노동부는 그 뒤로 동종 규정을 다시 발령하지 않았습니다. (초역, 원어민 감수 대기)
+
+### Tiếng Việt (初译待校)
+
+Bổ sung 1 — Báo cáo của GAO và vấn đề đồng hồ không chạy khi chưa nộp: báo cáo của GAO về một quy định lớn phải được gửi tới các ủy ban có thẩm quyền của Quốc hội trong vòng 15 ngày lịch kể từ khi nhận được báo cáo của cơ quan. Điểm quan trọng hơn trong thực tiễn là nếu cơ quan không nộp báo cáo, đồng hồ rà soát theo CRA sẽ không bắt đầu chạy; vì vậy từ năm 2017, theo yêu cầu của các nghị sĩ, GAO đã ra ý kiến về việc các văn bản hướng dẫn chưa được nộp có cấu thành «quy định» theo nghĩa của CRA hay không, và tuyến này dẫn tới tiền lệ về văn bản hướng dẫn sau đó. (bản dịch sơ bộ, chờ hiệu đính)
+
+Bổ sung 2 — Cấm ban hành lại quy định về cơ bản giống hệt và ví dụ năm 2001: một quy định đã bị bãi bỏ không được ban hành lại dưới hình thức về cơ bản giống hệt, và cũng không được ban hành một quy định mới về cơ bản giống hệt, trừ khi một đạo luật sau đó cho phép cụ thể. Cụm «về cơ bản giống hệt» không được định nghĩa trong luật và chồng lấp với vùng cấm xét lại tư pháp của § 805, nên ranh giới của nó chưa từng được án lệ chốt lại. Ví dụ được trích dẫn nhiều nhất là quy định về công thái học bị bãi bỏ năm 2001, sau đó Bộ Lao động không bao giờ ban hành lại quy định cùng loại. (bản dịch sơ bộ, chờ hiệu đính)
+
+### हिन्दी (初译待校)
+
+पूरक 1 — GAO रिपोर्ट और न भेजे जाने पर न चलने वाली घड़ी: किसी बड़े नियम पर GAO की रिपोर्ट, प्राप्ति के 15 कैलेंडर दिनों के भीतर अधिकार-क्षेत्र वाली कांग्रेस समितियों को भेजी जानी चाहिए। व्यवहार में अधिक महत्त्वपूर्ण बात यह है कि यदि संस्था रिपोर्ट ही न भेजे, तो CRA की समीक्षा-घड़ी शुरू ही नहीं होती; इसीलिए 2017 के बाद GAO ने सांसदों के अनुरोध पर उन अप्रस्तुत मार्गदर्शन दस्तावेज़ों पर राय दी है कि वे CRA के अर्थ में «नियम» हैं या नहीं, और यही रेखा बाद के मार्गदर्शन-दस्तावेज़ पूर्वोदाहरण तक गई। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+पूरक 2 — सारतः समान पुनः जारी करने पर रोक और 2001 का उदाहरण: निरस्त नियम को सारतः उसी रूप में फिर से जारी नहीं किया जा सकता, और न ही सारतः समान नया नियम बनाया जा सकता है, जब तक बाद की कोई विधि विशेष रूप से अधिकृत न करे। «सारतः समान» की परिभाषा विधि में नहीं है और यह § 805 के न्यायिक-समीक्षा निषेध-क्षेत्र से जुड़ती है, इसलिए इसकी सीमा किसी मिसाल से तय नहीं हुई। सबसे अधिक उद्धृत उदाहरण 2001 में निरस्त एर्गोनॉमिक्स नियम है, जिसके बाद श्रम विभाग ने उसी प्रकार का नियम फिर कभी जारी नहीं किया। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
