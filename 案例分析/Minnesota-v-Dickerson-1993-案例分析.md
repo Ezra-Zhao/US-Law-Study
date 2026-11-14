@@ -75,3 +75,20 @@ Este artículo es una nota de estudio personal y no constituye asesoría legal. 
 Bài viết này là ghi chép học tập cá nhân, không phải tư vấn pháp lý. (bản dịch sơ bộ, chờ hiệu đính)
 
 यह लेख व्यक्तिगत अध्ययन नोट है, कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+## 补译增量（2026-11-14 10:55轮）
+
+### 한국어 (초역)
+
+- 보충 1 — 미네소타주 대법원이 확장을 거부한 두 가지 이유와 연방대법원의 조목조목 반박. 주 대법원이 plain view를 촉각으로 넓히기를 거부한 이유는 두 가지였습니다. 촉각은 본래 시각만큼 즉각적으로 믿을 수 없고, 개인의 사생활을 더 깊이 침해한다는 것입니다. 그래서 주 법원은 몸수색에서 만져진 금지물품은 일률적으로 압수할 수 없다는 전부 아니면 전무의 규칙을 세웠습니다. 연방대법원은 두 이유를 모두 물리쳤습니다. Terry 자체가 촉각으로 무기를 식별할 수 있다는 전제 위에 서 있고, 촉각이 전체적으로 시각보다 못하더라도 그 결과는 압수할 수 있는 경우가 줄어든다는 것뿐이며, 압수 전에 상당한 이유가 있어야 한다는 관문은 두 감각에 똑같이 적용됩니다. 침해가 더 깊다는 점에 대해서도, 몸수색 단계의 침해는 이미 무기 수색의 정당성으로 허가된 것이고, 정체가 이미 분명해진 물건을 압수하는 것은 침해를 한 층 더하지 않습니다. (초역)
+- 보충 2 — 증언 문구의 갈림길과 배제 심리에서의 추궁 지점. 실무에서 이 선은 경찰관의 증언 문구에 달려 있습니다. 「한 번 만지자마자 마약 특유의 포장과 질감임을 알아봤다」고 쓰면 plain feel의 길로 가고, 「꾹꾹 눌러 보고 굴려 본 뒤에야 확실해졌다」고 쓰면 Dickerson의 배제 칸으로 떨어집니다. 변호인이 배제 심리에서 추궁해야 할 것도 바로 그 몇 초 동안 손이 무엇을 했는가입니다. (초역)
+
+### Tiếng Việt (bản dịch sơ bộ)
+
+- Bổ sung 1 — Hai lý do Tòa Tối cao Minnesota từ chối mở rộng, và phần bác bỏ từng điểm của Tòa liên bang. Tòa bang từ chối mở rộng plain view sang xúc giác vì hai lý do: xúc giác vốn không tức thời và đáng tin như thị giác, và nó xâm phạm riêng tư sâu hơn; từ đó tòa đặt ra một quy tắc được ăn cả ngã về không — tang vật cảm nhận được trong lúc khám vỗ thì không bao giờ được thu giữ. Tòa Tối cao liên bang bác cả hai: chính Terry đã xây trên tiền đề xúc giác nhận biết được vũ khí, và dù xúc giác nhìn chung kém thị giác thì hệ quả chỉ là ít trường hợp thu giữ hợp lệ hơn, vì cánh cổng căn cứ xác đáng trước khi thu giữ áp dụng như nhau cho cả hai giác quan; còn về xâm phạm sâu hơn, sự xâm phạm ở bước khám vỗ đã được lý do tìm vũ khí cho phép, và việc thu giữ một vật mà danh tính đã rõ không xâm phạm thêm một lớp nào nữa. (bản dịch sơ bộ)
+- Bổ sung 2 — Ngã rẽ nằm ở lời khai, và điểm phải truy vấn trong phiên điều trần loại trừ. Trên thực tế, lằn ranh này nằm ở cách viên cảnh sát viết lời khai: nếu lời khai viết «vừa chạm đã nhận ra bao bì và chất liệu đặc trưng của ma túy» thì đi theo đường plain feel; nếu viết «bóp đi bóp lại, lăn qua lăn lại rồi mới chắc chắn» thì rơi vào ô loại trừ của Dickerson. Điều luật sư bào chữa phải truy vấn trong phiên điều trần loại trừ cũng chính là bàn tay đã làm gì trong vài giây đó. (bản dịch sơ bộ)
+
+### हिन्दी (प्रारंभिक अनुवाद)
+
+- पूरक 1 — Minnesota सर्वोच्च न्यायालय के इनकार के दो कारण और संघीय अदालत का बिंदु-दर-बिंदु खंडन। राज्य अदालत ने plain view को स्पर्श तक बढ़ाने से दो कारणों से इनकार किया था: स्पर्श स्वभावतः दृष्टि जितना तुरंत विश्वसनीय नहीं होता, और यह निजता में अधिक गहराई तक घुसता है; इसी से उसने यह सब-या-कुछ-नहीं नियम बनाया कि patdown में महसूस हुई निषिद्ध वस्तु कभी ज़ब्त नहीं हो सकती। संघीय सर्वोच्च न्यायालय ने दोनों कारण ठुकरा दिए: Terry स्वयं इसी आधार पर खड़ा है कि स्पर्श से हथियार पहचाना जा सकता है, और स्पर्श कुल मिलाकर दृष्टि से कमज़ोर भी हो तो परिणाम केवल इतना है कि वैध ज़ब्ती के अवसर कम होंगे, क्योंकि ज़ब्ती से पहले probable cause की शर्त दोनों इंद्रियों पर समान रूप से लागू होती है; अधिक गहरे उल्लंघन की बात पर, patdown के चरण का उल्लंघन पहले से हथियार-खोज के औचित्य से अधिकृत है, और जिस वस्तु की पहचान पहले से स्पष्ट है उसे ज़ब्त करना एक और परत का उल्लंघन नहीं जोड़ता। (प्रारंभिक अनुवाद)
+- पूरक 2 — गवाही के शब्दों की कसौटी और दबाव-मोचन सुनवाई में पूछताछ का बिंदु। व्यवहार में यह रेखा अधिकारी की गवाही के शब्दों पर टिकती है: यदि गवाही कहे कि «छूते ही मादक पदार्थ की विशिष्ट पैकिंग और बनावट पहचान ली», तो मामला plain feel के रास्ते जाता है; यदि कहे कि «दबा-दबाकर, घुमा-घुमाकर तब जाकर निश्चित हुआ», तो वह Dickerson के बहिष्करण वाले खाने में गिरता है। बचाव पक्ष को दबाव-मोचन (suppression) सुनवाई में ठीक उन्हीं कुछ सेकंडों पर सवाल उठाना होता है कि हाथ ने क्या-क्या किया। (प्रारंभिक अनुवाद)

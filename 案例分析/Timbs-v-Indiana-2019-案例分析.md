@@ -73,3 +73,20 @@ Este artículo es una nota de estudio personal y no constituye asesoría legal. 
 Bài viết này là ghi chép học tập cá nhân, không phải tư vấn pháp lý. (bản dịch sơ bộ, chờ hiệu đính)
 
 यह लेख व्यक्तिगत अध्ययन नोट है, कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+## 补译增量（2026-11-14 10:55轮）
+
+### 한국어 (초역)
+
+- 보충 1 — 2018년 상고 허가와 문턱 문제의 정식화. 연방대법원은 2018년에 상고(certiorari)를 허가했습니다(585 U.S. 부근). 받아들인 문제는 하나로 정제됐습니다. 수정헌법 제8조의 과도한 벌금 금지 조항이 수정헌법 제14조 적법절차 조항을 통해 주에 적용되는 편입된 보호인가 하는 문턱 문제였습니다. 인디애나주 대법원은 이 몰수가 과도한지 자체는 전혀 판단하지 않았고, 조항이 주를 구속하지 않는다는 데서 멈췄기 때문에, 연방대법원이 답할 것도 그 문턱뿐이었습니다. (초역)
+- 보충 2 — 캘리포니아 일상 적용의 순서와 한정. 주나 시에서 고액의 벌금 통지, 행정 과태료, 차량·재산 몰수 통지를 받으면, 첫 동작은 비율 계산만이 아닙니다. 절차와 기한을 먼저 확인한 뒤에야, 부과액을 법정 최고 벌금, 이미 낸 비용, 행위나 위반의 중대성과 나란히 놓고 비율을 따집니다. 그리고 Timbs는 심사를 받을 자격을 세웠을 뿐, 모든 몰수가 과도하다는 뜻은 아닙니다. 과도한지는 여전히 사안별 비율로 다퉈야 합니다. (초역)
+
+### Tiếng Việt (bản dịch sơ bộ)
+
+- Bổ sung 1 — Việc chấp nhận xét lại năm 2018 và cách đặt câu hỏi ngưỡng. Tòa Tối cao Hoa Kỳ đã chấp nhận xét lại vụ án (certiorari) vào năm 2018 (khoảng 585 U.S.). Câu hỏi được chưng cất thành một câu hỏi ngưỡng duy nhất: Điều khoản Cấm phạt tiền quá mức của Tu chính án thứ Tám có phải là một quyền bảo vệ đã được hợp nhất, áp dụng đối với các bang thông qua Điều khoản Thủ tục Đúng đắn của Tu chính án thứ Mười bốn hay không. Tòa Tối cao Indiana chưa từng xét việc tịch thu này có quá mức hay không; tòa dừng lại ở chỗ điều khoản không ràng buộc các bang, nên điều duy nhất Tòa Tối cao liên bang phải trả lời cũng là câu hỏi ngưỡng đó. (bản dịch sơ bộ)
+- Bổ sung 2 — Thứ tự và giới hạn trong áp dụng hằng ngày ở California. Khi nhận được thông báo phạt tiền cao của bang hoặc thành phố, phạt hành chính, hay tịch thu xe và tài sản, bước đầu tiên không chỉ là phép tính tỉ lệ: phải kiểm tra thủ tục và thời hạn trước, rồi mới đặt số tiền bị đòi cạnh mức phạt tối đa theo luật, số phí đã trả và mức độ nghiêm trọng của hành vi hay vi phạm để tính tỉ lệ. Và Timbs chỉ thiết lập tư cách được xét lại, chứ không có nghĩa mọi vụ tịch thu đều quá mức; việc có quá mức hay không vẫn phải tranh luận theo tỉ lệ của từng vụ. (bản dịch sơ bộ)
+
+### हिन्दी (प्रारंभिक अनुवाद)
+
+- पूरक 1 — 2018 में पुनरावलोकन की स्वीकृति और दहलीज़ प्रश्न का स्वरूप। अमेरिकी सर्वोच्च न्यायालय ने 2018 में पुनरावलोकन (certiorari) स्वीकार किया (585 U.S. के आसपास)। स्वीकार किया गया प्रश्न एक ही दहलीज़ प्रश्न में समेटा गया था: क्या आठवें संशोधन का अत्यधिक जुर्माना निषेध खंड चौदहवें संशोधन के उचित-प्रक्रिया खंड के माध्यम से राज्यों पर लागू निगमित संरक्षण है। Indiana सर्वोच्च न्यायालय ने यह कभी तय ही नहीं किया था कि यह ज़ब्ती अत्यधिक थी या नहीं; वह इसी पर रुक गया था कि खंड राज्यों को बाँधता नहीं, इसलिए संघीय सर्वोच्च न्यायालय को भी उसी दहलीज़ का उत्तर देना था। (प्रारंभिक अनुवाद)
+- पूरक 2 — California में रोज़मर्रा के प्रयोग का क्रम और सीमा। राज्य या नगर से ऊँचे जुर्माने की सूचना, प्रशासनिक दंड या वाहन व संपत्ति की ज़ब्ती की सूचना मिले तो पहला कदम केवल अनुपात का हिसाब नहीं है: पहले प्रक्रिया और समय-सीमा जाँचें, फिर ही माँगी गई राशि को वैधानिक अधिकतम जुर्माने, पहले से चुकाए गए खर्च और आचरण या उल्लंघन की गंभीरता के बगल में रखकर अनुपात गिनें। और Timbs केवल समीक्षा पाने की पात्रता स्थापित करता है; इसका अर्थ यह नहीं कि हर ज़ब्ती अत्यधिक है — अत्यधिकता अब भी मामले-दर-मामले अनुपात से लड़नी होगी। (प्रारंभिक अनुवाद)
