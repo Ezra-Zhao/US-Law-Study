@@ -88,6 +88,8 @@ DOT 밖의 캘리포니아 경로는 프라이버시에서 출발한다. Loder v
 
 ---
 
+보충 번역 증량: 분할 샘플 재검사권은 시간이 핵심입니다. MRO가 결과를 통지한 뒤 72시간 안에 Bottle B를 다른 인증 검사실로 보내 재검사를 요구할 수 있는데, 72 ÷ 24 = 3일이라 미루면 권리가 사라집니다. 복귀 절차의 후속 검사에서는 물질남용 전문가(SAP)가 계획을 정하고, 첫 12개월 안에 최소 6회의 무예고 검사가 들어가며, 전체 후속 기간은 최장 5년, 즉 5 × 12 = 60개월까지 이어질 수 있습니다.
+
 ## Tiếng Việt (初译待校)
 
 Bị yêu cầu xét nghiệm ma túy trước hết là bài toán phân loại, vì có ba tuyến pháp lý khác nhau. Tuyến thứ nhất là xét nghiệm DOT bắt buộc đối với các vị trí vận tải nhạy cảm về an toàn, theo thủ tục tại 49 C.F.R. Part 40; từ chối xét nghiệm bị xử lý như kết quả dương tính. Tuyến thứ hai là tuyến hợp đồng liên bang: Đạo luật Nơi làm việc Không Ma túy năm 1988 (41 U.S.C. §§ 8101 trở đi; 2026 − 1988 = 38 năm) buộc nhà thầu và bên nhận tài trợ liên bang phải có chính sách nơi làm việc không ma túy, nhưng tự nó không áp đặt xét nghiệm lên nhân viên khu vực tư nhân nói chung. Tuyến thứ ba, cũng là tuyến thường gặp nhất, là xét nghiệm do chủ lao động tư nhân tự đặt ra; không có một đạo luật liên bang duy nhất cho phép hay cấm nó, và tại California, quyền riêng tư theo hiến pháp bang cùng một điều luật riêng về cần sa từ năm 2024 điều chỉnh lĩnh vực này.
@@ -97,6 +99,8 @@ Một xét nghiệm hợp lệ đi qua ba cửa. Cửa thu mẫu dùng mẫu đ�
 Ngoài tuyến DOT, California xuất phát từ quyền riêng tư: Loder v. City of Glendale, 14 Cal.4th 846 (1997), cách nay 2026 − 1997 = 29 năm, chấp nhận xét nghiệm nước tiểu không cần nghi ngờ đối với người xin việc như một phần của khám sức khỏe trước tuyển dụng, nhưng bác bỏ xét nghiệm tràn lan đối với nhân viên hiện tại đang xin thăng chức, vì quyền riêng tư của họ đòi hỏi lý do gắn với công việc cụ thể. Từ ngày 1 tháng 1 năm 2024, § 12954 Bộ luật Chính quyền (AB 2188, cùng SB 700) bảo vệ, tại các chủ lao động có từ năm nhân viên trở lên, chống lại việc phân biệt đối xử vì sử dụng cần sa ngoài giờ làm và ngoài nơi làm việc, và vì kết quả sàng lọc chỉ phát hiện chất chuyển hóa cần sa không gây tác động tâm thần trong tóc, máu hoặc nước tiểu — chất chuyển hóa chứng minh việc đã dùng trong quá khứ, không chứng minh tình trạng suy giảm hiện tại — đồng thời về nguyên tắc cấm hỏi người xin việc về việc dùng cần sa trước đây. Điều luật không cấm các xét nghiệm khoa học không truy tìm chất chuyển hóa không gây tác động tâm thần, không áp dụng cho ngành xây dựng và các vị trí đòi hỏi điều tra lý lịch liên bang hoặc giấy phép an ninh, không lấn át các xét nghiệm do luật bang hay liên bang yêu cầu, và giữ nguyên quyền của chủ lao động cấm tàng trữ, sử dụng và tình trạng suy giảm tại nơi làm việc. Vi phạm đi theo tuyến FEHA, với đơn khiếu nại lên Sở Dân quyền trong ba năm (§ 12960). Ghi chép học tập cá nhân; không phải tư vấn pháp lý. (Bản dịch sơ bộ, chờ hiệu đính bởi người bản ngữ)
 
 ---
+
+Bổ sung bản dịch: quyền xét nghiệm lại mẫu tách là vấn đề thời gian. Sau khi MRO thông báo kết quả, bạn có 72 giờ để yêu cầu gửi Bottle B tới một phòng xét nghiệm được chứng nhận khác; 72 ÷ 24 = 3 ngày, chậm là mất quyền. Trong quy trình trở lại làm việc, xét nghiệm theo dõi do chuyên gia lạm dụng chất (SAP) lập kế hoạch, với ít nhất 6 lần xét nghiệm không báo trước trong 12 tháng đầu, và toàn bộ thời kỳ theo dõi kéo dài tối đa 5 năm, tức 5 × 12 = 60 tháng.
 
 ## हिन्दी (初译待校)
 
@@ -119,3 +123,5 @@ Este artículo es una nota de estudio personal y no constituye asesoría legal. 
 Bài viết này là ghi chép học tập cá nhân, không phải tư vấn pháp lý. (bản dịch sơ bộ, chờ hiệu đính)
 
 यह लेख व्यक्तिगत अध्ययन नोट है, कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+पूरक अनुवाद वृद्धि: split-sample पुनःपरीक्षण का अधिकार समय पर टिका है। MRO द्वारा परिणाम बताए जाने के बाद 72 घंटों के भीतर आप Bottle B को किसी अन्य प्रमाणित प्रयोगशाला भेजकर पुनःपरीक्षण माँग सकते हैं; 72 ÷ 24 = 3 दिन होते हैं, देर हुई तो अधिकार समाप्त। Return-to-duty प्रक्रिया में follow-up testing की योजना Substance Abuse Professional (SAP) तय करता है, पहले 12 महीनों में कम से कम 6 अघोषित परीक्षण होते हैं, और पूरी follow-up अवधि अधिकतम 5 वर्ष, अर्थात 5 × 12 = 60 महीने, तक चल सकती है।
