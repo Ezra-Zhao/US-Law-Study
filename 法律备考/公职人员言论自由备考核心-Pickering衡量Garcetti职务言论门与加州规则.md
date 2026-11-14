@@ -86,3 +86,13 @@ Este artículo es una nota de estudio personal y no constituye asesoría legal. 
 Bài viết này là ghi chép học tập cá nhân, không phải tư vấn pháp lý. (bản dịch sơ bộ, chờ hiệu đính)
 
 यह लेख व्यक्तिगत अध्ययन नोट है, कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+---
+
+## 补译增量（2026-11-13 22:55 轮）
+
+한국어: 두 가지 세부 사항을 덧붙입니다. 첫째, Garcetti의 직무 범위는 직위 설명서의 문구만으로 정해지지 않고 실제 직무를 봅니다. 그리고 다수 의견은 대학 교원의 수업과 학술 저술이라는 학문적 발언의 칸은 이 사건에서 다루지 않는다고 명시했습니다. 그래서 Garcetti를 교실에까지 일괄 적용하면 안 됩니다. 둘째, Mt. Healthy의 동일 결정 항변은 부담의 순서가 정해져 있습니다. 먼저 고용인이 보호받는 발언이 처분의 실질적인 동기 요인이었음을 증명하고, 그다음 고용주가 그 발언이 없었더라도 다른 적법한 이유로 같은 처분을 했을 것임을 증명하며, 그 증명이 성공하면 구제는 주어지지 않습니다. (초역, 원어민 감수 대기)
+
+Tiếng Việt: Bổ sung hai chi tiết. Thứ nhất, phạm vi nhiệm vụ trong Garcetti được xét theo nhiệm vụ thực tế, không chỉ theo câu chữ của bản mô tả vị trí; và ý kiến đa số nói rõ vụ án này không xử lý ô phát biểu học thuật — giảng dạy và viết học thuật của giảng viên đại học — nên không được áp Garcetti một cách nhất loạt vào lớp học. Thứ hai, kháng biện quyết định tương tự (same-decision) trong Mt. Healthy có thứ tự gánh nặng chứng minh cố định: trước hết người lao động chứng minh phát biểu được bảo vệ là yếu tố động cơ thực chất của biện pháp kỷ luật, sau đó người sử dụng lao động chứng minh rằng ngay cả khi không có phát biểu đó, họ vẫn sẽ đưa ra cùng một biện pháp kỷ luật vì các lý do hợp pháp khác; nếu chứng minh thành công thì không có biện pháp cứu trợ. (bản dịch sơ bộ, chờ hiệu đính)
+
+हिन्दी: दो विवरण जोड़े जाते हैं। पहला, Garcetti में कर्तव्य का दायरा केवल पद-विवरण के शब्दों से नहीं, वास्तविक कर्तव्यों से तय होता है; और बहुमत राय ने स्पष्ट कहा कि वह मामला अकादमिक भाषण — विश्वविद्यालय शिक्षकों के अध्यापन और अकादमिक लेखन — वाले खाने को नहीं संभालता, इसलिए Garcetti को कक्षा तक एकसाथ लागू नहीं करना चाहिए। दूसरा, Mt. Healthy की समान-निर्णय (same-decision) बचाव-पंक्ति में साबित करने का क्रम तय है: पहले कर्मचारी साबित करता है कि संरक्षित भाषण अनुशासनात्मक कार्रवाई का सारभूत प्रेरक कारक था, फिर नियोक्ता साबित करता है कि उस भाषण के बिना भी वह अन्य वैध कारणों से वही कार्रवाई करता; यह साबित हो जाए तो कोई राहत नहीं मिलती। (प्रारंभिक अनुवाद, समीक्षा लंबित)

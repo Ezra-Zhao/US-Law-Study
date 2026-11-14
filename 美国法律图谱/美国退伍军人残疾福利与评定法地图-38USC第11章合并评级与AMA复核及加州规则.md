@@ -87,3 +87,13 @@ Este artículo es una nota de estudio personal y no constituye asesoría legal. 
 Bài viết này là ghi chép học tập cá nhân, không phải tư vấn pháp lý. (bản dịch sơ bộ, chờ hiệu đính)
 
 यह लेख व्यक्तिगत अध्ययन नोट है, कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+---
+
+## 补译增量（2026-11-13 22:55 轮）
+
+한국어: 두 가지 세부 사항을 덧붙입니다. 첫째, 제1155조가 수권한 평정표가 재는 것은 평균적인 근로능력(earning capacity)의 손실이지, 그 사람이 실제로 얼마를 덜 벌었는지가 아닙니다. 그래서 평정 단계에서는 현재 직업의 임금을 묻지 않고, 그 상병이 표의 어느 칸에 떨어지는지만 묻습니다. 둘째, 제1112조와 제1116조의 추정이 성립하는 경우에 신청인이 주로 증명해야 하는 것은 복무 장소와 시기가 맞아떨어진다는 점과 그 질병이 목록에 올라 있다는 점이며, 의학적 인과관계 그 자체가 아닙니다. (초역, 원어민 감수 대기)
+
+Tiếng Việt: Bổ sung hai chi tiết. Thứ nhất, bảng đánh giá do § 1155 ủy quyền đo mức mất mát trung bình của khả năng lao động (earning capacity), chứ không phải số tiền người đó thực tế kiếm ít đi; vì vậy ở giai đoạn đánh giá, người ta không hỏi mức lương công việc hiện tại, mà chỉ hỏi thương bệnh rơi vào ô nào trong bảng. Thứ hai, khi suy đoán theo các mục 1112 và 1116 được áp dụng, điều người nộp đơn chủ yếu phải chứng minh là địa điểm và thời kỳ phục vụ khớp đúng, và bệnh nằm trong danh sách, chứ không phải bản thân quan hệ nhân quả y học. (bản dịch sơ bộ, chờ hiệu đính)
+
+हिन्दी: दो विवरण जोड़े जाते हैं। पहला, धारा 1155 द्वारा अधिकृत रेटिंग तालिका औसत अर्जन-क्षमता (earning capacity) की हानि को मापती है, यह नहीं कि व्यक्ति वास्तव में कितना कम कमा रहा है; इसलिए रेटिंग चरण में वर्तमान नौकरी के वेतन को नहीं पूछा जाता, केवल यह पूछा जाता है कि चोट या बीमारी तालिका के किस खाने में पड़ती है। दूसरा, जब धाराओं 1112 और 1116 की धारणा (presumption) लागू होती है, तो आवेदक को मुख्यतः यह साबित करना होता है कि सेवा का स्थान और अवधि मेल खाते हैं और बीमारी सूची में है, न कि स्वयं चिकित्सीय कारणता। (प्रारंभिक अनुवाद, समीक्षा लंबित)
