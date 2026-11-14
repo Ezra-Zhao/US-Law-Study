@@ -145,3 +145,23 @@ Sau khi gửi trả, Tòa Tối cao South Carolina kết luận các nguyên t�
 本文为个人学习笔记，不构成法律建议。This is a personal study note, not legal advice. Esta es una nota de estudio personal, no asesoría legal. 개인 학습 노트이며 법률 자문이 아닙니다. Đây là ghi chép học tập cá nhân, không phải tư vấn pháp lý. यह व्यक्तिगत अध्ययन नोट है, कानूनी सलाह नहीं।
 
 *Español、한국어、Tiếng Việt、हिन्दी 为初译待校。*
+
+## 补译增量（2026-11-14 07:55轮）
+
+### 한국어 (初译待校)
+
+보충 1 — 숫자의 사슬: Lucas는 1986년에 975,000달러로 두 필지를 샀습니다. 주 1심 법원은 금지가 두 필지를 '가치 없게' 만들었다고 보고 일시적 수용으로 인정해 1,232,387.50달러의 정당한 보상을 명했습니다. 이는 매입가보다 1,232,387.50－975,000＝257,387.50달러 많고, 매입가의 약 126.4%에 해당합니다. 연방대법원의 표결은 6 대 3으로 6÷9≈66.7%입니다. (초역, 원어민 감수 대기)
+
+보충 2 — 발송 뒤에 갈라진 세 갈래: 첫째, Tahoe-Sierra Preservation Council v. Tahoe Regional Planning Agency, 535 U.S. 302 (2002)는 영향을 받은 권리 부분이나 기간만 잘라내어 '전부 박탈'을 만들기를 거부했습니다. 임시 건축 금지는 Lucas가 아니라 Penn Central로 갑니다. 둘째, Palazzolo v. Rhode Island, 533 U.S. 606 (2001)은 규제가 나온 뒤에 소유권을 취득한 사람도 수용 주장을 잃지 않으며, 취득 당시의 규제 상태는 Penn Central의 기대 요소 중 하나일 뿐이라고 했습니다. 셋째, Cedar Point Nursery v. Hassid, 594 U.S. 139 (2021)의 정부가 승인한 반복적 진입은 물리적 계열의 그 자체(per se) 수용으로, Lucas의 규제적 전부 박탈과는 같은 범주 가족이지만 발동 지점이 다르므로 섞어 쓰지 마십시오. (초역, 원어민 감수 대기)
+
+### Tiếng Việt (初译待校)
+
+Bổ sung 1 — Chuỗi con số: Lucas mua hai lô đất vào năm 1986 với giá 975.000 đô la. Tòa sơ thẩm của bang kết luận rằng lệnh cấm xây dựng khiến hai lô đất "không còn giá trị", coi đó là trưng thu tạm thời và phán bồi thường công bằng 1.232.387,50 đô la — cao hơn giá mua 1.232.387,50 − 975.000 = 257.387,50 đô la, tức khoảng 126,4% giá mua. Tòa án Tối cao liên bang biểu quyết 6–3, tức 6 ÷ 9 ≈ 66,7%. (bản dịch sơ bộ, chờ hiệu đính)
+
+Bổ sung 2 — Ba đường tách ra sau khi chuyển hồ sơ: thứ nhất, Tahoe-Sierra Preservation Council v. Tahoe Regional Planning Agency, 535 U.S. 302 (2002), từ chối việc cắt riêng phần quyền hay khoảng thời gian bị ảnh hưởng để gộp thành "tước đoạt toàn bộ"; lệnh cấm xây dựng tạm thời đi theo Penn Central chứ không theo Lucas. Thứ hai, Palazzolo v. Rhode Island, 533 U.S. 606 (2001), phán rằng người nhận quyền sở hữu sau khi quy định ra đời không vì thế mà mất yêu cầu trưng thu, và tình trạng quy định tại thời điểm nhận quyền sở hữu chỉ là một phần của yếu tố kỳ vọng trong Penn Central. Thứ ba, việc ra vào lặp lại được chính quyền cho phép trong Cedar Point Nursery v. Hassid, 594 U.S. 139 (2021), thuộc trưng thu hiển nhiên (per se) của tuyến vật lý — cùng gia đình phạm trù với trưng thu quy định toàn bộ của Lucas nhưng điểm kích hoạt khác nhau, không được dùng lẫn. (bản dịch sơ bộ, chờ hiệu đính)
+
+### हिन्दी (初译待校)
+
+पूरक 1 — संख्याओं की शृंखला: Lucas ने 1986 में दो भूखंड 975,000 डॉलर में खरीदे। राज्य की निचली अदालत ने माना कि प्रतिबंध ने दोनों भूखंडों को 'मूल्यहीन' बना दिया, इसे अस्थायी अधिग्रहण ठहराकर 1,232,387.50 डॉलर का न्यायोचित मुआवज़ा दिया — यह खरीद-मूल्य से 1,232,387.50 − 975,000 = 257,387.50 डॉलर अधिक है, यानी खरीद-मूल्य का लगभग 126.4%। संघीय सर्वोच्च न्यायालय का मत 6–3 रहा, अर्थात 6 ÷ 9 ≈ 66.7%। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+पूरक 2 — वापसी के बाद अलग हुई तीन रेखाएँ: पहली, Tahoe-Sierra Preservation Council v. Tahoe Regional Planning Agency, 535 U.S. 302 (2002) ने प्रभावित अधिकार-हिस्से या समय-अवधि को अलग काटकर 'पूर्ण वंचना' बनाने से इनकार किया; अस्थायी निर्माण-प्रतिबंध Lucas से नहीं, Penn Central से चलता है। दूसरी, Palazzolo v. Rhode Island, 533 U.S. 606 (2001) ने कहा कि नियमन आने के बाद संपत्ति पाने वाला व्यक्ति अपना अधिग्रहण-दावा नहीं खोता, और प्राप्ति के समय की नियमन-स्थिति Penn Central के अपेक्षा-कारक का केवल एक हिस्सा है। तीसरी, Cedar Point Nursery v. Hassid, 594 U.S. 139 (2021) में सरकार द्वारा स्वीकृत बार-बार प्रवेश भौतिक रेखा का स्वयं-सिद्ध (per se) अधिग्रहण है — Lucas की नियमनात्मक पूर्ण वंचना के साथ एक ही श्रेणी-परिवार में होते हुए भी उसका प्रारंभ-बिंदु अलग है, इसलिए दोनों को मिलाकर न चलाएँ। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
