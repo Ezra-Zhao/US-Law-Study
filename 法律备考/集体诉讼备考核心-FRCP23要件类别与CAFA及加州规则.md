@@ -115,6 +115,20 @@ California không sao chép Rule 23. Kiện tập thể cấp bang dựa trên C
 ### हिन्दी (अनुवाद, 初译待校)
 कैलिफ़ोर्निया ने Rule 23 की नकल नहीं की। राज्य वर्ग-वादों का आधार Code Civ. Proc. § 382 है, जो अनुमति देता है कि जब प्रश्न अनेक व्यक्तियों के साझा या सामान्य हित का हो तो एक व्यक्ति सबके लिए वाद करे। कैलिफ़ोर्निया सर्वोच्च न्यायालय संघीय प्रथा से लेता है पर उससे बंधा नहीं: Sav-On Drug Stores, Inc. v. Superior Court, 34 Cal.4th 319 (2004) देखता है कि वर्ग निर्धारणीय है या नहीं, साझा प्रश्न प्रधान हैं या नहीं, प्रतिनिधि प्रतिनिधिक व पर्याप्त है या नहीं, और विचारण न्यायालय के लचीले वर्ग-प्रबंधन साधनों पर बल देता है। मज़दूरी व कार्य-समय मामले कैलिफ़ोर्निया वर्ग-वादों का मुख्य भोजन हैं। Brinker Restaurant Corp. v. Superior Court, 53 Cal.4th 1004 (2012) भोजन व विश्राम अवकाश मामले में कहता है कि नियोक्ता का कर्तव्य अवकाश प्रदान करना (कर्तव्य से मुक्त करना) है, यह गारंटी देना नहीं कि कर्मचारी वास्तव में अवकाश ले; और प्रमाणन चरण में आधार-कर्तव्य का दायरा तय किया जा सकता है, पर हर सदस्य के मामले का निर्णय नहीं। एक समानांतर हथियार वर्ग-वाद है ही नहीं: Labor Code § 2699 के तहत PAGA प्रतिनिधि कार्रवाई को § 382 प्रमाणन की आवश्यकता नहीं।
 
+## 补译增量（2026-11-14 03:55轮）
+
+### 한국어 (초역, 初译待校)
+
+보충 세부 두 가지. 첫째, Dukes의 공통성(commonality) 문턱입니다. Wal-Mart Stores, Inc. v. Dukes, 564 U.S. 338 (2011)은 Rule 23(a)의 공통성을 높여 잡았습니다. 전원이 같은 질문을 던질 수 있다는 것만으로는 부족하고, 공통 쟁점이 전원에게 쓸모 있는 답을 한 번에 만들어 낼 수 있어야 합니다. 약 150만 여성 직원의 차별 집단이 바로 이 관문에서 무너졌습니다. 둘째, Eisen의 통지 비용 규칙입니다. Eisen v. Carlisle & Jacquelin, 417 U.S. 156 (1974)은 (b)(3) 집단에서 신원을 알 수 있는 구성원에게는 개별 통지를 해야 하고 그 비용은 원칙적으로 원고가 부담한다고 정했으며, 법원이 비용을 나누기 위해 본안의 승패를 미리 가리는 미니 재판을 열 수는 없다고 했습니다.
+
+### Tiếng Việt (bản dịch, 初译待校)
+
+Hai chi tiết bổ sung. Thứ nhất, ngưỡng tính chung (commonality) trong Dukes: Wal-Mart Stores, Inc. v. Dukes, 564 U.S. 338 (2011) đã nâng cao yêu cầu commonality của Rule 23(a) — không đủ nếu mọi thành viên đều nêu được cùng một câu hỏi, mà vấn đề chung phải có khả năng sinh ra, trong một lần, đáp án hữu ích cho toàn bộ tập thể; tập thể phân biệt đối xử gồm khoảng 1,5 triệu nữ nhân viên đã gục ngay ở cửa này. Thứ hai, quy tắc chi phí thông báo trong Eisen: Eisen v. Carlisle & Jacquelin, 417 U.S. 156 (1974) định rằng trong tập thể (b)(3), các thành viên xác định được danh tính phải được thông báo riêng, và chi phí về nguyên tắc do nguyên đơn chịu; tòa án không được mở một phiên xử mini để dự đoán thắng thua nhằm chia chi phí.
+
+### हिन्दी (अनुवाद, 初译待校)
+
+दो पूरक विवरण। पहला, Dukes की commonality दहलीज़: Wal-Mart Stores, Inc. v. Dukes, 564 U.S. 338 (2011) ने Rule 23(a) की commonality को ऊँचा उठाया — इतना काफ़ी नहीं कि सभी सदस्य एक ही प्रश्न पूछ सकें, बल्कि साझा विवाद को एक साथ पूरे वर्ग के लिए उपयोगी उत्तर पैदा करने में सक्षम होना चाहिए; लगभग 15 लाख महिला कर्मचारियों का भेदभाव-वर्ग ठीक इसी द्वार पर गिरा। दूसरा, Eisen का सूचना-लागत नियम: Eisen v. Carlisle & Jacquelin, 417 U.S. 156 (1974) ने तय किया कि (b)(3) वर्ग में पहचाने जा सकने वाले सदस्यों को व्यक्तिगत सूचना मिलनी चाहिए और लागत सिद्धांततः वादी वहन करता है; अदालत लागत बाँटने के लिए गुण-दोष का पूर्वानुमान लगाने वाली mini-trial नहीं कर सकती।
+
 ---
 
 > 个人学习笔记，不构成法律建议。条文以 28 U.S.C. § 1332(d)、§ 1453、Fed. R. Civ. P. 23 与 Cal. Code Civ. Proc. § 382 现行文本为准；判例引用：Wal-Mart v. Dukes, 564 U.S. 338 (2011)；Amchem v. Windsor, 521 U.S. 591 (1997)；Comcast v. Behrend, 569 U.S. 27 (2013)；Tyson Foods v. Bouaphakeo, 577 U.S. 442 (2016)；Eisen v. Carlisle, 417 U.S. 156 (1974)；Sav-On, 34 Cal.4th 319 (2004)；Brinker, 53 Cal.4th 1004 (2012)。后四语（西／韩／越／印）为初译待校。
