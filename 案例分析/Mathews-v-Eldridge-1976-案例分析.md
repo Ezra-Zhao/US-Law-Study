@@ -153,3 +153,20 @@ California có cả hai bối cảnh điển hình của vụ án. Thứ nhất,
 本文为个人学习笔记，不构成法律建议。This is a personal study note, not legal advice. Esta es una nota de estudio personal, no asesoría legal. 개인 학습 노트이며 법률 자문이 아닙니다. Đây là ghi chép học tập cá nhân, không phải tư vấn pháp lý. यह व्यक्तिगत अध्ययन नोट है, कानूनी सलाह नहीं।
 
 *Español、한국어、Tiếng Việt、हिन्दी 为初译待校。*
+
+## 补译增量（2026-11-14 09:55轮）
+
+### 한국어 (초역, 원어민 감수 대기)
+
+1. 지급 중단의 발효 시점 산례와 사후 전액 보전: Eldridge는 1968년 6월부터 장애보험금을 받았고 1972년에 장애가 멈췄다는 판정을 받았습니다. 중단 규칙은 '회복이 인정된 달' 이후 두 달이 끝날 때 발효하는 구조입니다. 예를 들어 3월에 회복이 인정되면 중단은 그 뒤 두 번째 달인 5월이 끝난 뒤에 발효합니다(3＋2＝5). 또 한 가지, 중단 뒤에 최종적으로 이기면 밀린 급여는 전액 소급해 보전됩니다. 사전 청문이 없어도 사후 청문 더하기 전액 보전이 붙는 구조였다는 점이 상대적 박탈감을 낮게 평가한 이유 중 하나였습니다.
+2. 세 요소의 사용법 주의와 Brennan 반대의 핵심: 세 요소는 점수를 매겨 합산하는 시험이 아니라, 절차를 하나 더했을 때의 오류 시정 이익이 개인에게 생기는 보호 공백과 정부의 비용에 견줄 만한지를 구조화해 묻는 틀입니다. 순서도 정해져 있습니다. 먼저 Roth 계열이 말하는 보호 대상 재산·자유 이익이라는 문턱이 있어야 세 요소가 비로소 작동하고, 문턱 이익이 없으면 세 요소는 아예 시작되지 않습니다. Brennan 대법관의 반대는 바로 이 지점을 칩니다. 장애를 가진 사람도 지급이 끊기면 버티기 어렵고, 사후에 전액 보전받아도 그 사이의 생활 손실은 되돌릴 수 없다는 것입니다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+1. Ví dụ về thời điểm việc cắt trợ cấp có hiệu lực và việc truy lĩnh toàn bộ: Eldridge nhận trợ cấp bảo hiểm khuyết tật từ tháng 6 năm 1968, và năm 1972 bị xác định tình trạng khuyết tật đã chấm dứt. Quy tắc cắt trợ cấp có hiệu lực khi kết thúc hai tháng sau "tháng bị xác định đã hồi phục": ví dụ, nếu tháng 3 bị xác định hồi phục thì việc cắt có hiệu lực sau khi tháng 5 kết thúc (3＋2＝5). Một điểm nữa: nếu sau khi bị cắt mà cuối cùng thắng kiện, toàn bộ số trợ cấp bị giữ sẽ được truy lĩnh đầy đủ; chính cấu trúc "điều trần sau cộng truy lĩnh toàn bộ" này là một lý do khiến thiệt hại biên của việc cắt sai bị đánh giá thấp hơn một bậc.
+2. Lưu ý cách dùng ba yếu tố và trọng tâm phản đối của Thẩm phán Brennan: ba yếu tố không phải bài kiểm tra chấm điểm cộng tổng, mà là một khung có cấu trúc để hỏi cùng một câu — thêm một lớp thủ tục thì lợi ích sửa sai có đáng với khoảng trống bảo vệ gây ra cho cá nhân và chi phí đè lên chính phủ hay không. Thứ tự cũng cố định: trước hết phải có lợi ích tài sản hoặc tự do được bảo vệ theo mạch Roth thì ba yếu tố mới khởi động; không có lợi ích ngưỡng thì ba yếu tố không hề bắt đầu. Ý kiến phản đối của Thẩm phán Brennan đánh đúng vào điểm này: người khuyết tật cũng khó cầm cự khi bị cắt trợ cấp, và dù được truy lĩnh toàn bộ về sau, tổn thất sinh tồn trong thời gian chờ đợi không thể bù lại được.
+
+### हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+1. रोक के प्रभावी होने का समय-उदाहरण और बाद में पूरा बकाया: Eldridge जून 1968 से disability insurance लाभ ले रहे थे और 1972 में उनकी disability समाप्त मानी गई। रोक का नियम यह है कि वह "ठीक माने जाने के महीने" के बाद दो महीने पूरे होने पर प्रभावी होती है: उदाहरणतः मार्च में ठीक माना जाए तो रोक उसके बाद के दूसरे महीने, अर्थात् मई, के समाप्त होने पर लागू होगी (3＋2＝5)। एक और बात: रोक के बाद अंततः जीतने पर रुका हुआ पूरा लाभ बाद में पूरा चुका दिया जाता है; "बाद की सुनवाई जमा पूरा बकाया" वाली यही संरचना ग़लत रोक के सीमांत नुक़सान को एक दर्जा नीचे आँकने का एक कारण थी।
+2. त्रि-कारक के उपयोग की सावधानी और न्यायमूर्ति Brennan के विरोध का सार: तीन कारक अंक जोड़ने वाली परीक्षा नहीं हैं; वे एक ही प्रश्न को ढाँचागत रूप से पूछते हैं — एक और प्रक्रिया जोड़ने से मिलने वाला त्रुटि-सुधार लाभ, व्यक्ति के लिए बनने वाले संरक्षण-अंतराल और सरकार पर पड़ने वाले ख़र्च के बराबर है या नहीं। क्रम भी तय है: पहले Roth परंपरा वाला संरक्षित संपत्ति या स्वतंत्रता हित नाम का द्वार-हित होना चाहिए, तभी त्रि-कारक शुरू होता है; द्वार-हित न हो तो त्रि-कारक शुरू ही नहीं होता। न्यायमूर्ति Brennan का विरोध ठीक इसी बिंदु पर चोट करता है: disability वाला व्यक्ति भी रोक लगने पर टिक नहीं पाता, और बाद में पूरा बकाया मिल भी जाए तो बीच की अवधि का जीवन-यापन नुक़सान वापस नहीं आता।

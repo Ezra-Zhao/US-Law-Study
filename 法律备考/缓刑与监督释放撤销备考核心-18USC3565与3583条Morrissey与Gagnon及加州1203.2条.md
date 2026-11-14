@@ -90,3 +90,20 @@ Este artículo es una nota de estudio personal y no constituye asesoría legal. 
 Bài viết này là ghi chép học tập cá nhân, không phải tư vấn pháp lý. (bản dịch sơ bộ, chờ hiệu đính)
 
 यह लेख व्यक्तिगत अध्ययन नोट है, कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+## 补译增量（2026-11-14 09:55轮）
+
+### 한국어 (초역, 원어민 감수 대기)
+
+1. § 3583(h) 재부과 감독석방의 상한 공식: 취소로 다시 수감한 뒤 법원이 감독석방을 한 번 더 붙일 수 있는데, 그 길이는 원래 감독석방 기간에서 이번 취소로 선고된 수감 기간을 뺀 나머지를 넘을 수 없습니다. 즉 재부과분은 새 감독 기간을 통째로 새로 주는 것이 아니라 원래 기간의 잔여분 안에서만 주어집니다.
+2. 캘리포니아 AB 1950의 기간 상한과 기간 만료 함정: 캘리포니아 보호관찰 기간의 일반 상한은 AB 1950 이후 경죄 1년, 중죄 2년입니다(법정 예외 제외). 취소 청문은 보호관찰 기간이 끝나기 전에 시작해야 하고, 약식 취소 등으로 관할을 붙잡아 두지 않으면 기간이 만료된 뒤의 취소는 절차가 무너집니다. 기간 만료 취소는 캘리포니아 실무에서 가장 흔한 절차 사고 지점입니다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+1. Công thức trần cho kỳ giám sát sau tù 부과 lại theo § 3583(h): sau thời gian tù do thu hồi, tòa có thể gắn thêm một kỳ giám sát sau tù nữa, nhưng độ dài của kỳ này không được vượt quá thời hạn giám sát ban đầu trừ đi thời gian tù thu hồi lần này. Nói cách khác, phần 부과 lại chỉ nằm trong phần còn dư của thời hạn gốc, chứ không phải một kỳ giám sát hoàn toàn mới.
+2. Trần thời hạn của California theo AB 1950 và cái bẫy hết hạn: thời hạn probation nói chung ở California sau AB 1950 là 1 năm đối với tội nhẹ và 2 năm đối với trọng tội, trừ các ngoại lệ theo luật định. Phiên điều trần thu hồi phải được khởi động trước khi thời hạn probation kết thúc, và phải dùng các biện pháp như thu hồi vắn tắt để giữ thẩm quyền; thu hồi sau khi đã hết hạn là điểm sụp đổ thủ tục phổ biến nhất trong thực tiễn California.
+
+### हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+1. § 3583(h) के तहत दोबारा लगाई जाने वाली supervised release की सीमा का सूत्र: निरसन-कारावास के बाद न्यायालय एक और supervised release अवधि लगा सकता है, परंतु उसकी लंबाई मूल supervised release अवधि में से इस निरसन पर मिली कारावास अवधि घटाकर बची राशि से अधिक नहीं हो सकती। अर्थात् दोबारा लगाई गई अवधि पूरी नई अवधि नहीं होती, वह मूल अवधि के बचे हुए हिस्से के भीतर ही रहती है।
+2. California में AB 1950 की अवधि-सीमाएँ और समाप्ति का जाल: AB 1950 के बाद California में probation की सामान्य ऊपरी सीमा दुष्कर्म (misdemeanor) के लिए 1 वर्ष और गंभीर अपराध (felony) के लिए 2 वर्ष है, वैधानिक अपवादों को छोड़कर। निरसन सुनवाई probation अवधि समाप्त होने से पहले शुरू करनी होती है और summary revocation जैसे उपायों से क्षेत्राधिकार बनाए रखना होता है; अवधि बीत जाने के बाद का निरसन California व्यवहार में सबसे आम प्रक्रियात्मक विफलता का बिंदु है।
