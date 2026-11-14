@@ -183,3 +183,18 @@ California संघीय न्यायालयों से चार म�
 本文为个人学习笔记，不构成法律建议。This is a personal study note, not legal advice. Esta es una nota de estudio personal, no asesoría legal. 개인 학습 노트이며 법률 자문이 아닙니다. Đây là ghi chép học tập cá nhân, không phải tư vấn pháp lý. यह व्यक्तिगत अध्ययन नोट है, कानूनी सलाह नहीं।
 
 *Español、한국어、Tiếng Việt、हिन्दी 为初译待校。*
+
+---
+## 补译增量（2026-11-14 00:55 轮）
+
+### 한국어 (초역, 원어민 감수 대기)
+
+보충 세부 두 가지. 첫째, 세 사건의 사실관계: Furman은 조지아주에서 주거침입 절도 중 도주하다 총을 쏴 집주인을 숨지게 해 살인죄로 사형이 선고됐고(Ga. Code Ann. 제26-1005조), Jackson은 조지아주에서 가위를 피해자 목에 대고 강간해 사형이 선고됐으며(제26-1302조), Branch는 텍사스주에서 65세 과부를 총으로 위협해 강간해 사형이 선고됐습니다(Tex. Penal Code Art. 1189). 세 사건의 공통점은 죄목이 아니라 양형 구조, 즉 사형 여부를 가를 기준이 전혀 없이 배심에 맡겨졌다는 점입니다. 둘째, 판결 형식: 법원 의견(per curiam)은 단 한 단락뿐이었고 그 안의 한정 문구 '이 사건들에서는(in these cases)' 때문에 사형 자체가 위헌이라고 선언된 것은 아니며, 대법관 아홉 명이 각자 의견을 써 아홉 개 의견이 모두 232쪽에 이르렀습니다(232 나누기 9는 약 25.8쪽/인). 표결은 5 대 4(5 나누기 9는 55.6%)였습니다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+Hai chi tiết bổ sung. Thứ nhất, sự kiện của ba vụ: Furman bị kết án tử hình về tội giết người vì trong một vụ trộm đột nhập ở Georgia đã nổ súng bắn chết chủ nhà khi bỏ trốn (Ga. Code Ann. Mục 26-1005); Jackson bị án tử hình vì dùng kéo kề cổ nạn nhân để cưỡng hiếp ở Georgia (Mục 26-1302); Branch bị án tử hình vì dùng súng cưỡng hiếp một góa phụ 65 tuổi ở Texas (Tex. Penal Code Art. 1189). Điểm chung của ba vụ không nằm ở tội danh mà ở cấu trúc tuyên án: việc sống hay chết hoàn toàn giao cho bồi thẩm đoàn mà không có bất kỳ tiêu chuẩn nào. Thứ hai, hình thức phán quyết: ý kiến của tòa (per curiam) chỉ gồm một đoạn, và cụm hạn định «trong các vụ việc này» (in these cases) khiến tòa không tuyên bố án tử hình tự thân là vi hiến; chín thẩm phán mỗi người viết một ý kiến riêng, chín ý kiến cộng lại dài 232 trang (232 chia 9 xấp xỉ 25,8 trang mỗi ý kiến), với tỉ lệ bỏ phiếu 5 trên 4 (5 chia 9 bằng 55,6%).
+
+### हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+दो पूरक विवरण। पहला, तीनों मामलों के तथ्य: Furman को Georgia में घर-घुसपैठ चोरी के दौरान भागते समय घर के मालिक को गोली मारकर हत्या करने पर मृत्युदंड मिला (Ga. Code Ann. धारा 26-1005); Jackson को Georgia में पीड़िता के गले पर कैंची रखकर बलात्कार करने पर मृत्युदंड मिला (धारा 26-1302); Branch को Texas में 65 वर्षीय विधवा से बंदूक की नोक पर बलात्कार करने पर मृत्युदंड मिला (Tex. Penal Code Art. 1189)। तीनों का साझा बिंदु अपराध नहीं बल्कि सज़ा-संरचना थी — जीवन या मृत्यु का निर्णय बिना किसी मानक के पूरी तरह निर्णायक मंडल (jury) पर छोड़ दिया गया था। दूसरा, निर्णय का रूप: न्यायालय की राय (per curiam) केवल एक अनुच्छेद की थी, और उसमें आए सीमित शब्दों «इन मामलों में» (in these cases) के कारण मृत्युदंड को स्वयं में असंवैधानिक घोषित नहीं किया गया; नौ न्यायाधीशों ने अलग-अलग राय लिखीं, नौ रायें मिलकर 232 पृष्ठ हुईं (232 भाग 9 लगभग 25.8 पृष्ठ प्रति राय), और मत विभाजन 5 बनाम 4 रहा (5 भाग 9 बराबर 55.6 प्रतिशत)।

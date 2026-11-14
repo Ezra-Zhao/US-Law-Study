@@ -90,3 +90,18 @@ Carroll v. United States, 267 U.S. 132 (1925) में सर्वोच्च
 *व्यक्तिगत अध्ययन नोट; कानूनी सलाह नहीं। (初译待校)*
 
 声明：本文为个人学习笔记，不构成法律建议。条文与判例细节请再核现行文本。
+
+---
+## 补译增量（2026-11-14 00:55 轮）
+
+### 한국어 (초역, 원어민 감수 대기)
+
+보충 세부 두 가지. 첫째, 본안의 사실관계: 1921년 12월 말 디트로이트에서 그랜드래피즈로 가는 도로에서 금주 단속 요원들이 이전에 밀주를 팔려 했던 Carroll의 차를 알아보고 그랜드래피즈에서 16마일 떨어진 지점에서 영장 없이 세워 수색했고, 좌석 안감 속에서 위스키와 진 68쿼트를 찾아냈습니다. 최고법원은 1925년 3월 2일 Taft 대법원장이 쓴 의견으로 유죄를 유지했습니다. 둘째, 후속 판례의 경계 긋기: Labron(1996)에서는 자동차의 이동성 그 자체가 긴급 상황을 이룬다고 했지만, Collins, 584 U.S. 586 (2018)에서는 주택에 딸린 영역(curtilage)인 차도에 주차된 차량은 자동차 예외 밖에 있다고 해 예외의 범위를 좁혔습니다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+Hai chi tiết bổ sung. Thứ nhất, sự kiện của vụ án: cuối tháng 12 năm 1921, trên đường từ Detroit đến Grand Rapids, các nhân viên cấm rượu nhận ra chiếc xe của Carroll — người trước đó từng chào bán rượu lậu cho họ — và chặn lục soát không cần lệnh tại điểm cách Grand Rapids 16 dặm, tìm thấy 68 quart whisky và gin giấu trong lớp lót ghế. Tòa Tối cao ngày 2 tháng 3 năm 1925, với ý kiến do Chánh án Taft viết, đã giữ nguyên bản án kết tội. Thứ hai, đường biên do án lệ sau vạch ra: Labron (1996) cho rằng tính cơ động của chiếc xe tự nó đã tạo tình trạng khẩn cấp, nhưng Collins, 584 U.S. 586 (2018) lại thu hẹp ngoại lệ khi phán rằng chiếc xe đỗ trên lối vào thuộc khu vực phụ thuộc nhà ở (curtilage) nằm ngoài ngoại lệ ô tô.
+
+### हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+दो पूरक विवरण। पहला, मामले के तथ्य: दिसंबर 1921 के अंत में Detroit से Grand Rapids जाने वाली सड़क पर मद्यनिषेध एजेंटों ने Carroll की कार पहचान ली — उसने पहले उन्हें अवैध शराब बेचने का प्रयास किया था — और Grand Rapids से 16 मील दूर उसे बिना वारंट रोकर तलाशी ली, जिसमें सीट के अस्तर में छिपी 68 क्वार्ट व्हिस्की और जिन मिली। सर्वोच्च न्यायालय ने 2 मार्च 1925 को मुख्य न्यायाधीश Taft द्वारा लिखित राय से दोषसिद्धि बरकरार रखी। दूसरा, बाद के मामलों द्वारा खींची सीमा: Labron (1996) ने माना कि वाहन की गतिशीलता स्वयं ही आपात परिस्थिति है, किंतु Collins, 584 U.S. 586 (2018) ने अपवाद को संकुचित करते हुए कहा कि घर से जुड़े क्षेत्र (curtilage) के ड्राइववे में खड़ा वाहन ऑटोमोबाइल अपवाद से बाहर है।
