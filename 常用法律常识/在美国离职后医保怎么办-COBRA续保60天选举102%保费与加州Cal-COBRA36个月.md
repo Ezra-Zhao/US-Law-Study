@@ -122,3 +122,13 @@ COBRA — Consolidated Omnibus Budget Reconciliation Act of 1985 द्वार
 *व्यक्तिगत अध्ययन नोट; कानूनी सलाह नहीं। (初译待校)*
 
 声明：本文为个人学习笔记，不构成法律建议。条文与判例细节请再核现行文本。
+
+---
+
+## 补译增量（2026-11-13 23:55 轮）
+
+한국어: 두 가지 세부 사항을 덧붙입니다. 첫째, 선택 기간 안에서는 번복이 가능합니다. 처음에 계속보장을 포기했더라도 60일의 선택 기간이 아직 남아 있으면 마음을 바꿔 다시 선택할 수 있습니다. 둘째, 자발적으로 중도에 COBRA를 그만두는 경우에는 일반적으로 Marketplace의 새로운 특별등록기간이 열리지 않습니다. 새로운 60일 기간이 열리는 것은 COBRA가 자연히 만료되거나 플랜 측 사정으로 비자발적으로 종료되는 경우뿐입니다. (초역, 원어민 감수 대기)
+
+Tiếng Việt: Bổ sung hai chi tiết. Thứ nhất, trong thời kỳ lựa chọn vẫn có thể đổi ý: dù ban đầu đã từ bỏ quyền tiếp tục bảo hiểm, chỉ cần thời kỳ lựa chọn 60 ngày vẫn còn thì vẫn có thể đổi sang lựa chọn tiếp tục. Thứ hai, việc tự nguyện dừng COBRA giữa chừng thường không mở ra một thời kỳ ghi danh đặc biệt mới trên Marketplace; thời kỳ 60 ngày mới chỉ được mở khi COBRA hết hạn tự nhiên hoặc bị chương trình chấm dứt không theo ý nguyện của người tham gia. (bản dịch sơ bộ, chờ hiệu đính)
+
+हिन्दी: दो विवरण जोड़े जाते हैं। पहला, election period के भीतर मन बदला जा सकता है: यदि शुरुआत में continuation coverage छोड़ भी दिया हो, तो जब तक 60-दिन का election period बचा है, फिर से coverage चुना जा सकता है। दूसरा, COBRA को स्वेच्छा से बीच में रोक देने से सामान्यतः Marketplace का नया special enrollment period नहीं खुलता; नया 60-दिन का period तभी खुलता है जब COBRA स्वाभाविक रूप से समाप्त हो या plan की ओर से अनैच्छिक रूप से समाप्त किया जाए। (प्रारंभिक अनुवाद, समीक्षा लंबित)

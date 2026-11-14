@@ -96,3 +96,13 @@ Fulton v. City of Philadelphia, 593 U.S. 522 (2021) में सर्वोच
 *व्यक्तिगत अध्ययन नोट; कानूनी सलाह नहीं। (初译待校)*
 
 声明：本文为个人学习笔记，不构成法律建议。条文与判例细节请再核现行文本。
+
+---
+
+## 补译增量（2026-11-13 23:55 轮）
+
+한국어: 두 가지 세부 사항을 덧붙입니다. 첫째, 계약 제15.1조의 일반적인 차별금지 문구도 시를 구하지 못했습니다. 제3.21조의 재량적 면제 장치가 그 층위까지 함께 덮기 때문입니다. 둘째, Barrett 대법관의 동의의견이 Smith를 건드리지 않은 이유는 구체적입니다. Smith를 뒤집으면 무엇으로 대체할 것인가 하는 어려운 문제가 줄줄이 따라 나오는데, 본 사건은 Smith의 틀 안에서도 해결할 수 있었기 때문입니다. (초역, 원어민 감수 대기)
+
+Tiếng Việt: Bổ sung hai chi tiết. Thứ nhất, câu chữ chống phân biệt đối xử chung chung tại Điều 15.1 của hợp đồng cũng không cứu được thành phố, vì cơ chế ngoại lệ tùy nghi của Điều 3.21 bao phủ cả tầng đó. Thứ hai, lý do cụ thể khiến ý kiến đồng tình của Thẩm phán Barrett không động tới Smith là: lật bỏ Smith sẽ kéo theo cả chuỗi câu hỏi khó về việc dùng chuẩn nào thay thế, trong khi vụ này hoàn toàn có thể giải quyết ngay trong khuôn khổ của Smith. (bản dịch sơ bộ, chờ hiệu đính)
+
+हिन्दी: दो विवरण जोड़े जाते हैं। पहला, अनुबंध के खंड 15.1 की सामान्य भेदभाव-विरोधी भाषा भी City को नहीं बचा सकी, क्योंकि खंड 3.21 की विवेकाधीन छूट व्यवस्था उस परत को भी ढकती है। दूसरा, Justice Barrett की सहमति राय ने Smith को न छूने का ठोस कारण दिया: Smith को पलटने से यह कठिन प्रश्नों की शृंखला खड़ी हो जाएगी कि उसकी जगह कौन-सा मानक आए, जबकि यह मामला Smith के ढाँचे के भीतर ही सुलझाया जा सकता था। (प्रारंभिक अनुवाद, समीक्षा लंबित)
