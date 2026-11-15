@@ -63,3 +63,22 @@ Este artículo es una nota de estudio personal y no constituye asesoría legal. 
 Bài viết này là ghi chép học tập cá nhân, không phải tư vấn pháp lý. (bản dịch sơ bộ, chờ hiệu đính)
 
 यह लेख व्यक्तिगत अध्ययन नोट है, कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+---
+
+## 补译增量（2026-11-14 补译）
+
+本节为补译增量：将中文主文未展开的两项具体细节补入韩、越、印三语，使三语与中文主文对齐。细节一：发回后的第一场续战——芝加哥改订条例要求持枪许可须含靶场训练，却又全市禁止靶场，第七巡回在 Ezell v. City of Chicago, 651 F.3d 684 (7th Cir. 2011) 中认定该靶场禁令很可能违宪，撤销地区法院拒绝初步禁令的裁定。细节二：纳入清单的余项——McDonald 之后仍未纳入的权利法案保障只剩几项：从未被裁决的第三修正案、第五修正案的大陪审团起诉要求（Hurtado v. California, 110 U.S. 516 (1884) 已判不纳入）、第七修正案的民事陪审，以及第八修正案的过额罚款禁止——最后一项迟至 Timbs v. Indiana, 586 U.S. 146 (2019) 才完成纳入。
+
+### 한국어 (初译待校)
+
+보충 세부 1 (환송 후 첫 후속전): 시카고는 조례를 개정해 총기 허가에 사격장 훈련을 요구하면서도 시 전역에서 사격장을 금지했다. 제7순회항소법원은 Ezell v. City of Chicago, 651 F.3d 684 (7th Cir. 2011)에서 그 사격장 금지가 위헌일 가능성이 높다고 보고, 가처분을 기각한 지방법원의 결정을 뒤집었다. 보충 세부 2 (편입 목록의 남은 항목): McDonald 이후에도 편입되지 않은 권리장전 보장은 몇 개만 남았다. 판단된 적 없는 수정헌법 제3조, Hurtado v. California, 110 U.S. 516 (1884)에서 편입이 부정된 제5조의 대배심 기소 요건, 제7조의 민사 배심, 그리고 제8조의 과도한 벌금 금지인데, 마지막 항목은 Timbs v. Indiana, 586 U.S. 146 (2019)에 이르러서야 편입이 완성되었다.
+
+### Tiếng Việt (初译待校)
+
+Chi tiết bổ sung 1 (trận chiến tiếp nối đầu tiên sau khi hoàn trả): Chicago sửa đổi pháp lệnh, yêu cầu giấy phép súng phải gồm huấn luyện tại trường bắn, nhưng lại cấm trường bắn trên toàn thành phố. Tòa phúc thẩm Khu vực 7 trong Ezell v. City of Chicago, 651 F.3d 684 (7th Cir. 2011) đã kết luận lệnh cấm trường bắn rất có khả năng vi hiến, và đảo ngược quyết định từ chối lệnh cấm tạm thời của tòa sơ thẩm. Chi tiết bổ sung 2 (những mục còn lại của danh sách hợp nhất): Sau McDonald, các bảo đảm của Tuyên ngôn Nhân quyền chưa được hợp nhất chỉ còn vài mục: Tu chính án 3 chưa từng được phán quyết, yêu cầu truy tố qua đại bồi thẩm đoàn của Tu chính án 5 (đã bị phủ nhận hợp nhất trong Hurtado v. California, 110 U.S. 516 (1884)), bồi thẩm đoàn dân sự của Tu chính án 7, và lệnh cấm tiền phạt quá mức của Tu chính án 8 - mục cuối cùng này phải đến Timbs v. Indiana, 586 U.S. 146 (2019) mới hoàn tất hợp nhất.
+
+### हिन्दी (初译待校)
+
+पूरक विवरण 1 (वापसी के बाद की पहली लड़ाई): शिकागो ने अध्यादेश बदलकर बंदूक-परमिट हेतु रेंज-प्रशिक्षण अनिवार्य किया, परंतु पूरे शहर में शूटिंग रेंज पर ही प्रतिबंध लगा दिया। सातवें सर्किट ने Ezell v. City of Chicago, 651 F.3d 684 (7th Cir. 2011) में माना कि रेंज-प्रतिबंध के असंवैधानिक होने की प्रबल संभावना है, और प्रारंभिक निषेधाज्ञा से इनकार करने वाला जिला-न्यायालय का आदेश पलट दिया। पूरक विवरण 2 (समावेशन सूची की शेष मदें): McDonald के बाद असमाविष्ट अधिकार-पत्र गारंटियाँ कुछ ही रह गईं: कभी निर्णित न हुआ तीसरा संशोधन, पाँचवें संशोधन की ग्रैंड जूरी अभियोग-शर्त (जिसका समावेशन Hurtado v. California, 110 U.S. 516 (1884) में नकारा गया था), सातवें संशोधन की दीवानी जूरी, और आठवें संशोधन का अत्यधिक जुर्माना-निषेध - अंतिम मद का समावेशन Timbs v. Indiana, 586 U.S. 146 (2019) में जाकर पूर्ण हुआ।
+
