@@ -116,3 +116,25 @@ California में नक्शे के तीन बिंदु हैं�
 *개인 학습 노트이며 법률 자문이 아닙니다. 구체적인 사안은 자격 있는 변호사에게 상담하십시오. (초역, 원어민 감수 대기)*
 *Ghi chú học tập cá nhân, không cấu thành tư vấn pháp lý. Với trường hợp cụ thể, hãy tham vấn luật sư có giấy phép hành nghề. (bản dịch sơ bộ, chờ hiệu đính)*
 *यह व्यक्तिगत अध्ययन नोट है और कानूनी सलाह नहीं है। किसी विशिष्ट मामले के लिए लाइसेंस-प्राप्त वकील से परामर्श करें। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)*
+
+## 补译增量（2026-11-14 16:55轮）
+
+### 한국어 (初译待校)
+
+보충 1 — 두 개의 30일은 같은 시계가 아닙니다. 이민판사 결정에 대한 BIA 항소는 8 C.F.R. § 1003.38에 따라 결정 후 30일 안에 내야 하고, 최종 추방명령에 대한 사법심사 신청(petition for review)은 INA § 242(8 U.S.C. § 1252)에 따라 명령 후 30일 안에, 추방 절차가 완료된 곳의 연방 순회항소법원에 내야 하며, 캘리포니아 사건은 통상 제9순회로 갑니다. 또 심사 신청 자체가 추방 집행을 자동으로 멈추지 않으므로, 멈추려면 별도로 집행정지(stay)를 신청해 법원을 설득해야 합니다. 답안 순서는 먼저 층위(판사·BIA·순회법원), 다음 시계(서로 다른 두 개의 30일), 마지막으로 심사 범위(§ 1252가 잘라낸 부분)입니다.
+
+보충 2 — 재개 신청과 재고 신청은 항소가 아닙니다. BIA 항소는 행정 체계 안에서 한 층 위로 올라가는 것이고, 재개 신청(motion to reopen)과 재고 신청(motion to reconsider)은 원래 층위에 다시 봐 달라고 청하는 것으로, 각자 기한과 횟수 제한이 따로 있어 항소를 대신할 수 없습니다. BIA는 버지니아주 폴스처치에 있고, 새 심리를 열지 않고 기록을 서면으로 심사하며, 대부분의 사건은 구성원 한 명이 심사(single-member review)하고, 어렵거나 기준 통일이 필요한 사안만 3인 패널로 갑니다. BIA는 인용·기각이 아니라 유지·취소·변경·환송 중 하나로 결론을 냅니다.
+
+### Tiếng Việt (初译待校)
+
+Bổ sung 1 — Hai thời hạn 30 ngày không phải cùng một chiếc đồng hồ. Kháng cáo lên BIA đối với quyết định của thẩm phán di trú phải nộp trong 30 ngày kể từ quyết định theo 8 C.F.R. § 1003.38, còn đơn xin xét duyệt tư pháp (petition for review) đối với lệnh trục xuất cuối cùng phải nộp trong 30 ngày kể từ lệnh theo INA § 242 (8 U.S.C. § 1252), tại tòa phúc thẩm liên bang khu vực nơi thủ tục trục xuất hoàn tất, và vụ việc ở California thường vào Khu vực 9. Đơn xin xét duyệt tự nó không tự động đình chỉ việc thi hành trục xuất; muốn dừng lại phải xin hoãn thi hành (stay) riêng và thuyết phục tòa. Thứ tự trả lời khi thi: trước hết xác định tầng (thẩm phán, BIA, tòa khu vực), rồi đến đồng hồ (hai thời hạn 30 ngày khác nhau), cuối cùng là phạm vi xét duyệt (những phần § 1252 đã cắt bỏ).
+
+Bổ sung 2 — Đơn xin mở lại và đơn xin xem xét lại không phải là kháng cáo. Kháng cáo lên BIA là bước lên một tầng trong hệ thống hành chính, còn đơn xin mở lại (motion to reopen) và đơn xin xem xét lại (motion to reconsider) là xin chính tầng đó nhìn lại, mỗi loại có thời hạn và giới hạn số lần riêng, không thể thay cho kháng cáo đúng hạn. BIA đặt tại Falls Church, Virginia, không mở phiên điều trần mới mà xét hồ sơ trên giấy; đa số vụ việc do một thành viên xét (single-member review), chỉ vấn đề khó hoặc cần thống nhất chuẩn mực mới chuyển cho hội đồng ba người. BIA có thể giữ nguyên, đảo ngược, sửa đổi hoặc gửi trả xét lại.
+
+### हिन्दी (初译待校)
+
+पूरक 1 — दो 30-दिन वाली घड़ियाँ एक ही घड़ी नहीं हैं। आप्रवासन न्यायाधीश के निर्णय के विरुद्ध BIA अपील 8 C.F.R. § 1003.38 के तहत निर्णय के 30 दिनों के भीतर दाखिल करनी होती है, और अंतिम निष्कासन आदेश के विरुद्ध न्यायिक समीक्षा याचिका (petition for review) INA § 242 (8 U.S.C. § 1252) के तहत आदेश के 30 दिनों के भीतर उस संघीय सर्किट अपील अदालत में दाखिल करनी होती है जहाँ निष्कासन कार्यवाही पूरी हुई हो; कैलिफ़ोर्निया के मामले सामान्यतः नौवें सर्किट में जाते हैं। साथ ही, समीक्षा याचिका अपने आप निष्कासन के प्रवर्तन को नहीं रोकती; रुकवाने के लिए अलग से स्थगन (stay) माँगकर अदालत को संतुष्ट करना पड़ता है। परीक्षा-उत्तर का क्रम: पहले स्तर (न्यायाधीश, BIA, सर्किट अदालत), फिर घड़ी (दो अलग-अलग 30 दिन), अंत में समीक्षा का दायरा (§ 1252 ने जो हिस्से काट दिए हैं)।
+
+पूरक 2 — पुनः खोलने का प्रस्ताव और पुनर्विचार का प्रस्ताव अपील नहीं हैं। BIA अपील प्रशासनिक व्यवस्था के भीतर एक स्तर ऊपर जाना है, जबकि पुनः खोलने का प्रस्ताव (motion to reopen) और पुनर्विचार का प्रस्ताव (motion to reconsider) उसी स्तर से फिर देखने की माँग है; दोनों की अपनी समय-सीमाएँ और संख्या-सीमाएँ हैं और वे समय पर की गई अपील का स्थान नहीं ले सकते। BIA वर्जीनिया के Falls Church में स्थित है, नई सुनवाई नहीं करता, अभिलेख की लिखित समीक्षा करता है; अधिकांश मामलों की समीक्षा एक ही सदस्य करता है (single-member review), और केवल कठिन या मानक-एकरूपता वाले प्रश्न तीन-सदस्यीय पैनल को जाते हैं। BIA निर्णय को बरकरार रख सकता है, उलट सकता है, बदल सकता है या वापस भेज सकता है।
+
+（2026-11-14 16:55 轮补译注记：韩／越／印三语各补 2 项细节增量至与中文主文对齐——两个 30 天时钟分属不同层级且审查申请不自动中止执行、须另行申请暂缓，及重新开庭／再议动议与上诉的分工和 BIA 单成员审查与三人小组分工，增量只取中文主文已有事实、纯增量原段未删。）

@@ -111,3 +111,25 @@ Khi ôn thi, hãy nắm bốn điểm. Thứ nhất, kết luận và tỷ lệ 
 来源：Moore v. Harper, 600 U.S. 1 (2023)（多数意见与 Thomas 异议）；U.S. Const. art. I, § 4, cl. 1（选举条款）；Harper v. Hall（北卡罗来纳州最高法院）；Smiley v. Holm, 285 U.S. 355 (1932)；Arizona State Legislature v. Arizona Independent Redistricting Commission, 576 U.S. 787 (2015)。
 
 声明：本文为个人学习笔记，不构成法律建议。English 为完整译稿；Español 为学习译稿；한국어、Tiếng Việt、हिन्दी 为初译待校。
+
+## 补译增量（2026-11-14 16:55轮）
+
+### 한국어 (初译待校)
+
+보충 1 — 다수 의견이 단 연방 브레이크를 정확히 외워야 합니다. 주 법원은 주 헌법에 근거해 연방선거 입법을 심사할 수 있지만, 통상적인 사법심사의 경계를 넘어서서는 안 되며, 주 헌법을 해석한다는 이름으로 의회의 선거권을 빼앗아서는 안 됩니다. 그리고 주 법원이 그 경계를 넘었는지를 심사할 권한은 연방 법원이 유보합니다. 결론은 양방향입니다. 극단적 독립 의회 이론이 말하는 완전한 면책도 아니고, 주 법원에 주는 백지 수표도 아닙니다. 답안에 이 제한 문장이 없으면 다수 의견을 절반만 쓴 셈입니다.
+
+보충 2 — Thomas 반대의견은 두 갈래로 읽어야 합니다. 첫째는 절차선입니다. 노스캐롤라이나 대법원이 이후 재심에서 Harper v. Hall의 원래 판결을 스스로 뒤집었으므로 분쟁은 실제 의미를 잃어 사건이 무트(moot)가 됐고, 연방대법원은 실체 판단에 나설 수 없다는 것입니다. 둘째는 실체선으로, 선거조항이 연방선거 규칙 제정권을 의회라는 특정 기관에 맡겼으므로 주 법원이 주 헌법을 들어 그 선거구 지도를 무효로 한 것은 조항이 허용하는 범위를 넘었다는 입장입니다. 또 하나, 이 사건은 당파적 게리맨더링 자체가 심사 가능한 문제인지를 다루지 않습니다. 연방 차원의 그 답은 Rucho 사건에 따로 있습니다.
+
+### Tiếng Việt (初译待校)
+
+Bổ sung 1 — Phải thuộc chính xác chiếc phanh liên bang mà ý kiến đa số đã lắp. Tòa án bang có thể xét lại luật bầu cử liên bang theo hiến pháp bang, nhưng không được vượt qua ranh giới thông thường của xét duyệt tư pháp, và không được nhân danh giải thích hiến pháp bang để tước quyền bầu cử của cơ quan lập pháp; tòa liên bang giữ lại quyền xét xem tòa bang có vượt ranh giới đó hay không. Kết luận đi hai chiều: không phải miễn trừ hoàn toàn như phiên bản cực đoan của thuyết cơ quan lập pháp độc lập đòi hỏi, cũng không phải tấm séc trắng cho tòa án bang. Bài thi thiếu câu giới hạn này là mới viết được nửa ý kiến đa số.
+
+Bổ sung 2 — Ý kiến bất đồng của Thẩm phán Thomas phải đọc theo hai tuyến. Tuyến thứ nhất là thủ tục: Tòa Tối cao North Carolina về sau, trong lần xét lại, đã tự đảo ngược phán quyết gốc trong Harper v. Hall, nên tranh chấp mất ý nghĩa thực tế và vụ việc đã trở nên moot, Tòa Tối cao liên bang không nên đi vào thực chất. Tuyến thứ hai là thực chất: Điều khoản Bầu cử giao quyền làm quy tắc bầu cử liên bang cho cơ quan lập pháp với tư cách một thiết chế cụ thể, nên việc tòa bang dùng hiến pháp bang để vô hiệu bản đồ khu vực bầu cử của nó đã vượt quá phạm vi điều khoản cho phép. Thêm một điểm: vụ này không xử lý câu hỏi bản thân việc phân chia khu vực mang tính đảng phái có thuộc diện xét duyệt được hay không; ở cấp liên bang, đáp án đó nằm riêng trong vụ Rucho.
+
+### हिन्दी (初译待校)
+
+पूरक 1 — बहुमत राय ने जो संघीय ब्रेक लगाया, उसे ठीक-ठीक याद रखना होगा। राज्य अदालतें राज्य संविधान के आधार पर संघीय चुनाव कानून की समीक्षा कर सकती हैं, परंतु वे न्यायिक समीक्षा की सामान्य सीमाओं से आगे नहीं जा सकतीं, और राज्य संविधान की व्याख्या के नाम पर विधायिका की चुनाव-शक्ति नहीं छीन सकतीं; और यह जाँचने का अधिकार कि राज्य अदालत ने वह सीमा पार की या नहीं, संघीय अदालतों ने अपने पास रखा है। निष्कर्ष दो-दिशात्मक है: यह न तो स्वतंत्र विधायिका सिद्धांत के चरम रूप वाली पूर्ण छूट है, न राज्य अदालतों के लिए कोरा चेक। उत्तर में यह सीमांकन वाक्य न हो तो बहुमत राय आधी ही लिखी गई।
+
+पूरक 2 — न्यायमूर्ति Thomas की असहमति दो रेखाओं में पढ़नी चाहिए। पहली प्रक्रियात्मक रेखा है: North Carolina के सर्वोच्च न्यायालय ने बाद की पुनः सुनवाई में Harper v. Hall के मूल निर्णय को स्वयं उलट दिया, इसलिए विवाद का वास्तविक अर्थ समाप्त हो गया, मामला moot हो गया, और संघीय सर्वोच्च न्यायालय को सार पर नहीं जाना चाहिए था। दूसरी सारगत रेखा है: चुनाव खंड संघीय चुनाव नियम बनाने की शक्ति विधायिका नामक विशिष्ट संस्था को देता है, इसलिए राज्य अदालत का राज्य संविधान के आधार पर उसके जिला-नक्शे को अमान्य करना खंड की अनुमति से बाहर था। एक और बात: यह मामला इस प्रश्न को नहीं निपटाता कि पक्षपातपूर्ण gerrymandering स्वयं न्यायिक समीक्षा योग्य है या नहीं; संघीय स्तर पर उसका उत्तर Rucho मामले में अलग से मिलता है।
+
+（2026-11-14 16:55 轮补译注记：韩／越／印三语各补 2 项细节增量至与中文主文对齐——多数意见的联邦刹车原句（不得逾越司法审查通常界限、联邦法院保留审查）与 Thomas 异议的程序线（moot）加实体线双分工及与 Rucho 的分工，增量只取中文主文已有事实、纯增量原段未删。）
