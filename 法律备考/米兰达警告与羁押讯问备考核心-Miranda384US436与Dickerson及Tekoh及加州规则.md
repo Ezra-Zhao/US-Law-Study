@@ -86,3 +86,20 @@ Este artículo es una nota de estudio personal y no constituye asesoría legal. 
 Bài viết này là ghi chép học tập cá nhân, không phải tư vấn pháp lý. (bản dịch sơ bộ, chờ hiệu đính)
 
 यह लेख व्यक्तिगत अध्ययन नोट है, कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+
+## 补译增量（2026-11-15 09:55轮）
+
+说明：逐节核读后，中文主文已有、而韩/越/印三语同缺的细节有以下 2 项，本节只译这 2 项已有细节，不新增事实。一、Quarles 公共安全例外的事实细节：该案的未警告提问指向超市里被丢弃的枪。二、Seibert 两步讯问的衡量细节：第二轮经警告陈述的有效性，按中途给出的警告是否真正起作用来衡量。
+
+### 한국어 (初译待校)
+
+하나, Quarles 공공안전 예외의 사실 세부사항: 그 사건에서 고지 없이 한 질문은 슈퍼마켓 안에 버려진 총을 향한 것이었습니다. 둘, Seibert 2단계 심문의 판단 세부사항: 두 번째로 고지를 받고 한 진술의 유효성은, 중간에 주어진 고지가 실제로 효과가 있었는지를 기준으로 판단합니다. (초역, 원어민 감수 대기 · 初译待校)
+
+### Tiếng Việt (初译待校)
+
+Một, chi tiết thực tế của ngoại lệ an toàn công cộng trong Quarles: câu hỏi không kèm cảnh báo trong vụ đó hướng tới khẩu súng bị vứt bỏ trong siêu thị. Hai, chi tiết đo lường của thẩm vấn hai bước trong Seibert: hiệu lực của lời khai có cảnh báo ở vòng hai được đo bằng việc cảnh báo đưa ra ở giữa có thực sự phát huy tác dụng hay không. (Bản dịch sơ bộ, chờ hiệu đính · 初译待校)
+
+### हिन्दी (初译待校)
+
+एक, Quarles के सार्वजनिक-सुरक्षा अपवाद का तथ्यात्मक विवरण: उस मामले में बिना चेतावनी के पूछा गया प्रश्न सुपरमार्केट में फेंकी गई बंदूक़ की ओर था। दो, Seibert की दो-चरणीय पूछताछ का मापदंड विवरण: दूसरे चरण के चेतावनी-युक्त कथन की वैधता इस आधार पर मापी जाती है कि बीच में दी गई चेतावनी वास्तव में प्रभावी हुई या नहीं। (प्रारंभिक अनुवाद, समीक्षा लंबित · 初译待校)
