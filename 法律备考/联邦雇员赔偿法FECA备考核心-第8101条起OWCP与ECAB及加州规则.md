@@ -86,3 +86,21 @@ Este artículo es una nota de estudio personal y no constituye asesoría legal. 
 Bài viết này là ghi chép học tập cá nhân, không phải tư vấn pháp lý. (bản dịch sơ bộ, chờ hiệu đính)
 
 यह लेख व्यक्तिगत अध्ययन नोट है, कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+
+## 补译增量（2026-11-14 22:55 轮）
+
+### 한국어 (초역, 교정 대기)
+
+1. 부상의 두 종류와 3년 시계의 기산: 부상은 한 번의 사건으로 생긴 외상성 부상(traumatic injury)과 장기간 노출로 형성된 직업병(occupational disease)으로 나뉘어 처리되며, 직업병 쪽은 인과관계의 증명과 기산 시점이 실무 쟁점이다. 제8122조의 3년 기간은 부상 시점 또는 부상이 업무와 관련 있음을 알았거나 알 수 있었던 시점부터 달리고, 기관이 제때 부상 통지를 받은 경우 등에는 지각 제출이 구제될 수 있다. 답안 순서는 연방 문관 직원인지, 어느 종류의 부상인지, 마지막으로 3년 시계이다.
+2. 제8103조의 의사 선택과 OWCP 심사: 업무상 부상에 필요한 의료 서비스와 용품은 연방이 부담하고, 직원은 원칙적으로 자신의 주치의를 스스로 선택할 수 있으며, OWCP는 치료의 필요성과 비용에 대한 심사를 유보한다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+1. Hai loại thương tích và điểm khởi tính của đồng hồ ba năm: thương tích được xử lý theo hai loại — chấn thương do một sự kiện (traumatic injury) và bệnh nghề nghiệp (occupational disease) hình thành do phơi nhiễm dài hạn; với bệnh nghề nghiệp, việc chứng minh quan hệ nhân quả và điểm khởi tính là tranh điểm thực tiễn. Thời hạn ba năm theo § 8122 chạy từ thời điểm bị thương hoặc từ khi người lao động biết hoặc đáng ra phải biết thương tích liên quan đến công việc, và việc nộp muộn có thể được cứu xét trong các trường hợp như cơ quan đã nhận được thông báo thương tích kịp thời. Thứ tự làm bài: trước hết hỏi có phải nhân viên dân sự liên bang không, rồi thuộc loại thương tích nào, cuối cùng mới chốt đồng hồ ba năm.
+2. Lựa chọn bác sĩ theo § 8103 và quyền rà soát của OWCP: dịch vụ và vật tư y tế cần thiết cho thương tích nghề nghiệp do liên bang chi trả, người lao động về nguyên tắc được tự chọn bác sĩ điều trị chính, và OWCP giữ quyền rà soát tính cần thiết của việc điều trị cùng mức phí.
+
+### हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+1. चोट के दो प्रकार और तीन-वर्षीय घड़ी का प्रारंभ: चोट दो प्रकार से संभाली जाती है — एक ही घटना से हुई आघातजन्य चोट (traumatic injury) और लंबे संपर्क से बनी व्यावसायिक बीमारी (occupational disease); व्यावसायिक बीमारी में कारण-संबंध का प्रमाण और प्रारंभ-बिंदु ही व्यावहारिक विवाद होते हैं। § 8122 की तीन-वर्षीय अवधि चोट के समय से, या उस समय से चलती है जब कर्मचारी को पता चला या चलना चाहिए था कि चोट काम से जुड़ी है, और एजेंसी को समय पर चोट की सूचना मिलने जैसी स्थितियों में देर से दाख़िल करना माफ़ हो सकता है। उत्तर का क्रम है: पहले पूछें कि क्या वह संघीय असैनिक कर्मचारी है, फिर चोट किस प्रकार की है, और अंत में तीन-वर्षीय घड़ी लगाएँ।
+2. § 8103 के अंतर्गत चिकित्सक का चुनाव और OWCP की समीक्षा: कार्य-चोट के लिए आवश्यक चिकित्सा सेवाएँ और सामग्री संघीय सरकार वहन करती है, कर्मचारी सिद्धांततः अपना उपचार करने वाला चिकित्सक स्वयं चुन सकता है, और OWCP उपचार की आवश्यकता व शुल्कों की समीक्षा का अधिकार अपने पास रखता है।

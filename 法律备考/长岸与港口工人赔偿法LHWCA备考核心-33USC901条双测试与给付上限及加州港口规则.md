@@ -96,3 +96,21 @@ Este artículo es una nota de estudio personal y no constituye asesoría legal. 
 Bài viết này là ghi chép học tập cá nhân, không phải tư vấn pháp lý. (bản dịch sơ bộ, chờ hiệu đính)
 
 यह लेख व्यक्तिगत अध्ययन नोट है, कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+
+## 补译增量（2026-11-14 22:55 轮）
+
+### 한국어 (초역, 교정 대기)
+
+1. 제903조 (a)의 기능적 인접성: 판례는 「인접(adjoining)」을 기능적으로 읽는다. 수역에 바로 붙어 선박의 적재·수리·건조에 관행적으로 쓰이는 육상 구역은 들어가지만, 물에서 멀리 떨어진 일반 창고나 사무실은 들어가지 않는다. 그래서 시험의 사실 문제에서는 사람마다 지위(status)를 먼저 보고, 그다음 장소마다 장소성(situs)을 보아야 하며, 순서를 뒤집으면 안 된다.
+2. 제909조 사망 급여의 배분과 장례비: 사망 급여는 사망자와의 관계와 부양 구성에 따라 유족에게 배분되고, 합계는 제906조의 상한을 받으며, 여기에 장례비용 한 칸이 따로 더해진다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+1. Cách đọc chức năng về tính phụ cận tại § 903(a): án lệ đọc 「phụ cận (adjoining)」 theo nghĩa chức năng — khu đất liền kề mặt nước và quen dùng cho việc chất, dỡ, sửa chữa hoặc đóng tàu thì được tính, còn nhà kho hay văn phòng thông thường ở xa mặt nước thì không. Vì vậy trong bài toán tình huống, phải xét tư cách (status) theo từng người trước, rồi xét địa điểm (situs) theo từng nơi sau, không được đảo ngược thứ tự.
+2. Phân phối trợ cấp tử vong theo § 909 và khoản chi phí tang lễ: trợ cấp tử vong được phân phối cho thân nhân theo quan hệ với người chết và cấu thành phụ thuộc, tổng số chịu cùng trần tại § 906, và còn cộng thêm một khoản riêng cho chi phí tang lễ.
+
+### हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+1. § 903(a) की निकटता का कार्यात्मक अर्थ: न्यायिक निर्णय 「निकटवर्ती (adjoining)」 को कार्यात्मक रूप से पढ़ते हैं — जल से सटी हुई और जहाज़ों की लदाई, मरम्मत या निर्माण में प्रथागत रूप से प्रयुक्त भूमि इसमें आती है, किंतु जल से दूर स्थित साधारण गोदाम या कार्यालय नहीं आता। इसलिए तथ्य-प्रश्नों में पहले प्रत्येक व्यक्ति की हैसियत (status) परखें, फिर प्रत्येक स्थान का स्थल (situs), क्रम उलटना नहीं चाहिए।
+2. § 909 के मृत्यु-लाभों का वितरण और अंतिम संस्कार व्यय: मृत्यु-लाभ मृतक से संबंध और आश्रित-संरचना के अनुसार परिजनों में बाँटे जाते हैं, कुल राशि पर § 906 की ही सीमा लागू होती है, और इसके ऊपर अंतिम संस्कार व्यय की एक अलग मद और जुड़ती है।
