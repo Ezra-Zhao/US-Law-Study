@@ -165,3 +165,21 @@ El aterrizaje estatal del caso es el mismo código del que salió. El § 311 del
 本文为个人学习笔记，不构成法律建议。This is a personal study note, not legal advice. Esta es una nota de estudio personal, no asesoría legal. 개인 학습 노트이며 법률 자문이 아닙니다. Đây là ghi chép học tập cá nhân, không phải tư vấn pháp lý. यह व्यक्तिगत अध्ययन नोट है, कानूनी सलाह नहीं।
 
 *Español、한국어、Tiếng Việt、हिन्दी 为初译待校。*
+
+---
+
+## 补译增量（2026-11-14 19:55轮）
+
+本节为补译增量：将中文主文已有、此前三语未展开的两项具体细节补入韩、越、印三语，使三语与中文主文对齐，纯增量、不改原文。细节一：第二问的硬核范围逐项——州法必须先把可罚的性行为写具体，判决举例的范围限于实际或模拟的终极性行为、自慰、排泄功能与生殖器的淫荡展示一带，落在这圈之外的描绘不进第二问。细节二：三问的证明分工——前两问交给陪审团按当代社区标准判断，第三问的严肃价值判断不按社区标准、而按 Pope v. Illinois, 481 U.S. 497 (1987) 的理性人标准，一部作品有没有严肃价值不取决于当地多数人是否认可。
+
+### 한국어 (初译待校)
+
+보충 세부 1 (둘째 질문의 하드코어 범위 항목별 정리): 주는 처벌 가능한 성적 행위를 먼저 구체적으로 적어야 하고, 판결이 예로 든 범위는 실제 또는 모의된 궁극적 성행위, 자위, 배설 기능, 생식기의 음란한 전시 일대로 한정됩니다. 이 울타리 밖에 있는 묘사는 둘째 질문에 들어가지 않습니다. 보충 세부 2 (세 질문의 증명 분업): 첫째와 둘째 질문은 배심이 당시의 지역사회 기준으로 판단하고, 셋째 질문의 진지한 가치 판단은 지역사회 기준이 아니라 Pope v. Illinois, 481 U.S. 497 (1987)의 합리적 사람 기준으로 합니다. 작품에 진지한 가치가 있는지는 지역 다수가 인정하는지에 달려 있지 않습니다.
+
+### Tiếng Việt (初译待校)
+
+Chi tiết bổ sung 1 (phạm vi «cứng» của câu hỏi thứ hai, liệt kê từng mục): bang phải định nghĩa cụ thể trước hành vi tình dục bị phạt, và các ví dụ trong phán quyết chỉ giới hạn ở hành vi tình dục tối hậu thật hoặc mô phỏng, thủ dâm, chức năng bài tiết và trưng bày dâm đãng bộ phận sinh dục; mô tả nằm ngoài vòng này không đi vào câu hỏi thứ hai. Chi tiết bổ sung 2 (phân công chứng minh giữa ba câu hỏi): hai câu đầu do bồi thẩm đoàn xét theo tiêu chuẩn cộng đồng đương đại, còn phán đoán giá trị nghiêm túc ở câu thứ ba không theo tiêu chuẩn cộng đồng mà theo tiêu chuẩn người hợp lý của Pope v. Illinois, 481 U.S. 497 (1987) — một tác phẩm có giá trị nghiêm túc hay không không phụ thuộc vào việc đa số địa phương có công nhận hay không.
+
+### हिन्दी (初译待校)
+
+पूरक विवरण 1 (दूसरे प्रश्न का कठोर दायरा, मद-दर-मद): राज्य को दंडनीय यौन आचरण पहले स्पष्ट रूप से परिभाषित करना होगा, और निर्णय के उदाहरण केवल वास्तविक या अभिनीत अंतिम यौन कृत्यों, हस्तमैथुन, मल-त्याग कार्यों और जननांगों के कामुक प्रदर्शन तक सीमित हैं; इस घेरे से बाहर का चित्रण दूसरे प्रश्न में नहीं आता। पूरक विवरण 2 (तीनों प्रश्नों का प्रमाण-विभाजन): पहले दो प्रश्न जूरी समकालीन सामुदायिक मानकों से तय करती है, जबकि तीसरे प्रश्न का गंभीर-मूल्य निर्णय सामुदायिक मानकों से नहीं, Pope v. Illinois, 481 U.S. 497 (1987) के युक्तिसंगत व्यक्ति मानक से होता है — किसी कृति का गंभीर मूल्य है या नहीं, यह स्थानीय बहुमत की मान्यता पर निर्भर नहीं करता।

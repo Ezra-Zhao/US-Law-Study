@@ -104,3 +104,21 @@ Sau phán quyết này, những người bị giam ở Guantanamo được đi�
 *개인 학습 노트이며 법률 자문이 아닙니다. 구체적인 사안은 자격 있는 변호사에게 상담하십시오. (초역, 원어민 감수 대기)*
 *Ghi chú học tập cá nhân, không cấu thành tư vấn pháp lý. Với trường hợp cụ thể, hãy tham vấn luật sư có giấy phép hành nghề. (bản dịch sơ bộ, chờ hiệu đính)*
 *यह व्यक्तिगत अध्ययन नोट है और कानूनी सलाह नहीं है। किसी विशिष्ट मामले के लिए लाइसेंस-प्राप्त वकील से परामर्श करें। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)*
+
+---
+
+## 补译增量（2026-11-14 19:55轮）
+
+本节为补译增量：将中文主文已有、此前三语未展开的两项具体细节补入韩、越、印三语，使三语与中文主文对齐，纯增量、不改原文。细节一：Scalia 单独异议的加入阵容——Roberts 首席法官的异议由 Scalia、Thomas、Alito 加入，Scalia 另写的单独异议则由 Roberts、Thomas、Alito 加入，两份异议的阵容互为镜像，中文主文第二节明载，三语此前只提 Scalia 另写异议、未列加入者。细节二：DTA 审查不够格的具体限度——它主要看 CSRT 的程序是否合规、认定是否有证据支持，被拘者难以提出新证据、也难以挑战关押的法律依据本身，而人身保护令的核心是让一名法官审查关押的事实与法律依据并有权下令释放。
+
+### 한국어 (初译待校)
+
+보충 세부 1 (Scalia 단독 반대의견의 합류 진용): Roberts 대법원장의 반대의견에는 Scalia, Thomas, Alito 대법관이 합류했고, Scalia 대법관이 별도로 쓴 반대의견에는 Roberts 대법원장과 Thomas, Alito 대법관이 합류했습니다. 두 반대의견의 진용은 서로 거울상입니다. 보충 세부 2 (DTA 심사가 부족한 구체적 한계): DTA 심사는 주로 CSRT가 절차를 지켰는지와 그 판정에 증거가 뒷받침되는지를 볼 뿐이어서, 피구금자가 새 증거를 내기도 어렵고 구금의 법적 근거 자체를 다투기도 어렵습니다. 반면 인신보호의 핵심은 법관이 구금의 사실적·법적 근거를 심사하고 석방을 명할 수 있는 데 있습니다.
+
+### Tiếng Việt (初译待校)
+
+Chi tiết bổ sung 1 (đội hình tham gia ý kiến phản đối riêng của Scalia): ý kiến phản đối của Chánh án Roberts có các Thẩm phán Scalia, Thomas và Alito tham gia, còn ý kiến phản đối riêng do Thẩm phán Scalia viết có Chánh án Roberts và các Thẩm phán Thomas, Alito tham gia — đội hình của hai ý kiến phản đối là hình ảnh soi gương của nhau. Chi tiết bổ sung 2 (giới hạn cụ thể khiến xét duyệt DTA không đạt chuẩn): xét duyệt DTA chủ yếu chỉ xem CSRT có tuân thủ thủ tục và xác định của nó có được bằng chứng chống đỡ hay không, người bị giam khó đưa ra bằng chứng mới và cũng khó thách thức chính cơ sở pháp lý của việc giam giữ, trong khi hạt nhân của habeas corpus là để một thẩm phán xét cơ sở thực tế và pháp lý của việc giam giữ và có quyền ra lệnh thả.
+
+### हिन्दी (初译待校)
+
+पूरक विवरण 1 (Scalia की अलग असहमति में शामिल होने वालों की सूची): मुख्य न्यायाधीश Roberts की असहमति में न्यायमूर्ति Scalia, Thomas और Alito शामिल हुए, और न्यायमूर्ति Scalia की अलग से लिखी असहमति में मुख्य न्यायाधीश Roberts तथा न्यायमूर्ति Thomas और Alito शामिल हुए — दोनों असहमतियों की सूचियाँ एक-दूसरे की दर्पण-छवि हैं। पूरक विवरण 2 (DTA समीक्षा के अपर्याप्त होने की ठोस सीमा): DTA समीक्षा मुख्यतः केवल यह देखती थी कि CSRT ने प्रक्रिया मानी या नहीं और उसके निष्कर्ष के पीछे कुछ साक्ष्य था या नहीं; बंदी के लिए नया साक्ष्य पेश करना भी कठिन था और हिरासत के कानूनी आधार को ही चुनौती देना भी कठिन था, जबकि habeas corpus का सार यह है कि एक न्यायाधीश हिरासत के तथ्यात्मक व कानूनी आधार की जाँच करे और रिहाई का आदेश दे सके।
