@@ -155,3 +155,17 @@ En paralelo, los cuatro marcos se memorizan mejor. TRO: Regla 65(b), posible inc
 - हिन्दी: व्यक्तिगत अध्ययन नोट; कानूनी सलाह नहीं। किसी विशिष्ट मामले के लिए लाइसेंसधारी वकील से परामर्श करें।
 
 > 来源：Fed. R. Civ. P. 65；Fed. R. App. P. 8；Winter v. Natural Resources Defense Council, Inc., 555 U.S. 7 (2008)；eBay Inc. v. MercExchange, L.L.C., 547 U.S. 388 (2006)；Nken v. Holder, 556 U.S. 418 (2009)；8 U.S.C. § 1252(f)(2)；35 U.S.C. § 283；Cal. Code Civ. Proc. §§ 525–534。后四语（西／韩／越／印）为初译待校。
+
+## 补译增量 · 한국어 / Tiếng Việt / हिन्दी（细节对齐）
+
+### 한국어 (초역 · 初译待校)
+1. 임시제한명령(TRO)의 기간: 연방민사소송규칙 65(b)(2)에 따라 TRO의 효력은 원칙적으로 14일을 초과하지 않으며, 법원은 정당한 사유가 있으면 같은 길이의 기간만큼 한 번 연장할 수 있고, 상대방이 동의하면 더 길게 연장할 수 있다. 상대방은 규칙 65(b)(4)에 따라 통지 후 2일 만에 TRO의 해제 또는 변경을 신청할 수 있다. (初译待校)
+2. Winter 기준의 강도: Winter v. Natural Resources Defense Council, Inc., 555 U.S. 7 (2008)에서 대법원은 회복할 수 없는 손해의 '가능성'만으로는 부족하다고 명시했다. 신청인은 손해가 발생할 '가능성이 높음(likely)'을 증명해야 하며, 예비적 금지명령은 특별한 구제수단이다. (初译待校)
+
+### Tiếng Việt (dịch sơ bộ · 初译待校)
+1. Thời hạn của lệnh hạn chế tạm thời (TRO): Theo Quy tắc 65(b)(2) của Quy tắc Tố tụng Dân sự Liên bang, TRO về nguyên tắc có hiệu lực không quá 14 ngày; tòa án có thể gia hạn thêm một khoảng thời gian tương đương khi có lý do chính đáng, và có thể gia hạn lâu hơn nếu bên kia đồng ý. Bên kia có thể xin hủy bỏ hoặc sửa đổi TRO chỉ sau 2 ngày kể từ khi được thông báo, theo Quy tắc 65(b)(4). (初译待校)
+2. Mức độ của tiêu chuẩn Winter: Trong vụ Winter v. Natural Resources Defense Council, Inc., 555 U.S. 7 (2008), Tòa án Tối cao nói rõ chỉ có 'khả năng' xảy ra thiệt hại không thể khắc phục là chưa đủ; người xin phải chứng minh thiệt hại 'rất có khả năng' (likely) xảy ra, vì lệnh cấm sơ bộ là một biện pháp cứu trợ đặc biệt. (初译待校)
+
+### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+1. अस्थायी निरोधक आदेश (TRO) की अवधि: संघीय सिविल प्रक्रिया नियम 65(b)(2) के अनुसार TRO का प्रभाव सिद्धांततः 14 दिनों से अधिक नहीं होता; न्यायालय उचित कारण होने पर समान अवधि के लिए एक बार विस्तार कर सकता है, और दूसरे पक्ष की सहमति से अधिक लंबा विस्तार भी संभव है। दूसरा पक्ष नियम 65(b)(4) के अनुसार सूचना के बाद 2 दिनों में ही TRO को समाप्त या संशोधित करने का आवेदन कर सकता है। (初译待校)
+2. Winter मानक की कठोरता: Winter v. Natural Resources Defense Council, Inc., 555 U.S. 7 (2008) में सर्वोच्च न्यायालय ने स्पष्ट किया कि अपूरणीय क्षति की केवल 'संभावना' पर्याप्त नहीं है; आवेदक को यह सिद्ध करना होगा कि क्षति का होना 'संभावित' (likely) है, क्योंकि प्रारंभिक निषेधाज्ञा एक असाधारण उपाय है। (初译待校)
