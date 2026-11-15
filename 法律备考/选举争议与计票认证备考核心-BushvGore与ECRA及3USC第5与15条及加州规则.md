@@ -87,3 +87,25 @@ Este artículo es una nota de estudio personal y no constituye asesoría legal. 
 Bài viết này là ghi chép học tập cá nhân, không phải tư vấn pháp lý. (bản dịch sơ bộ, chờ hiệu đính)
 
 यह लेख व्यक्तिगत अध्ययन नोट है, कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+## 补译增量（2026-11-15 本轮）
+
+### 한국어 (초역, 원어민 감수 대기)
+
+보충 1 — 구 미국법전 제3편 제5조(3 U.S.C. § 5)의 안전항(safe harbor)과 ECRA의 전환: 2022년 개정 전 제5조는 기한 안에 인증을 마치면 그 확정이 종국적이라는 추정(conclusive presumption)을 주는 안전항 구조였다. ECRA는 이를 주 집행관의 강제 의무로 바꾸고, 인증은 선거일 전에 이미 효력이 발생한 주법에 따라서만 해야 한다고 못 박았다. 즉 「빨리 인증하면 끝」에서 「반드시 인증하되 규칙은 선거 전에 정해진 것만」으로 바뀐 것이다.
+
+보충 2 — 캘리포니아 재검표 비용과 실무 순서: 제15620조 일대의 신청 재검표는 신청자가 비용을 먼저 내고 일 단위로 정산하며, 결과가 뒤집히면 비용 처리에 별도 규칙이 따른다(증거 등급 B). 유권자가 숫자에 의문이 생겼을 때 첫 단계는 득표 명세(statement of vote)와 공식 집계 공고를 확인하는 것이고, 공식 집계 완료 후 5일의 신청 기간이 지나면 재검표의 문은 닫히고 선거 소송(contest)이라는 좁은 길만 남는다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+Bổ sung 1 — Cảng an toàn (safe harbor) của Điều 5, Tiêu đề 3 Bộ luật Hoa Kỳ (3 U.S.C. § 5) cũ và bước chuyển của ECRA: trước sửa đổi 2022, Điều 5 là cơ chế cảng an toàn — chứng nhận hoàn thành trong hạn thì được coi là chung thẩm (conclusive presumption). ECRA biến việc này thành nghĩa vụ bắt buộc của quan chức điều hành bang, và chứng nhận chỉ được dựa trên luật bang đã có hiệu lực trước ngày bầu cử. Tức là từ «chứng nhận sớm là xong» chuyển thành «bắt buộc phải chứng nhận, nhưng chỉ theo luật đã định trước bầu cử».
+
+Bổ sung 2 — Chi phí kiểm lại phiếu ở California và trình tự thực tế: kiểm lại theo đơn theo Điều 15620 (một dải) do người nộp đơn tạm ứng chi phí và quyết toán theo ngày; nếu kết quả bị đảo ngược thì có quy tắc riêng về chi phí (bằng chứng cấp B). Khi cử tri nghi ngờ con số, bước đầu tiên là xem bản kê phiếu (statement of vote) và thông báo kiểm phiếu chính thức; hết 5 ngày sau khi hoàn tất kiểm phiếu chính thức, cánh cửa kiểm lại đóng lại, chỉ còn con đường hẹp là kiện tranh chấp bầu cử (contest).
+
+### हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+पूरक 1 — पुरानी 3 U.S.C. धारा 5 का सेफ़ हार्बर और ECRA का बदलाव: 2022 के संशोधन से पहले धारा 5 एक सेफ़ हार्बर व्यवस्था थी — समय-सीमा के भीतर प्रमाणन पूरा हो जाए तो वह निर्धारण निर्णायक (conclusive presumption) माना जाता था। ECRA ने इसे राज्य कार्यकारी अधिकारी का अनिवार्य कर्तव्य बना दिया और कहा कि प्रमाणन केवल चुनाव-दिन से पहले से प्रभावी राज्य विधि के अनुसार ही होगा। अर्थात «जल्दी प्रमाणित करो तो बात खत्म» से बदलकर «प्रमाणित करना अनिवार्य है, पर नियम वही जो चुनाव से पहले तय थे» हो गया।
+
+पूरक 2 — कैलिफ़ोर्निया पुनर्गणना की लागत और व्यावहारिक क्रम: धारा 15620 के आसपास की आवेदन-आधारित पुनर्गणना में आवेदक लागत अग्रिम देता है और हिसाब दैनिक आधार पर होता है; यदि परिणाम पलट जाए तो लागत के निपटान के अलग नियम हैं (साक्ष्य स्तर B)। मतदाता को संख्याओं पर संदेह हो तो पहला कदम मत-विवरण (statement of vote) और आधिकारिक गणना सूचना देखना है; आधिकारिक गणना पूरी होने के 5 दिन बाद पुनर्गणना का द्वार बंद हो जाता है और केवल चुनाव-विवाद (contest) का संकरा रास्ता बचता है।
+
+（本轮补译注记：韩／越／印三语各补 2 项细节增量——旧第 5 条安全港的终局推定与 ECRA 改成强制义务加选前州法限定的对照，及加州申请重计的先垫费用计日结算、翻盘费用另规与选民先看得票声明、5 天期过只剩 contest 的实务顺序；增量只取中文主文已有事实，经交叉验证后见本轮记录。）
