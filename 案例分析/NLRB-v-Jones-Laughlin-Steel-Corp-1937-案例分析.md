@@ -72,3 +72,20 @@ Este artículo es una nota de estudio personal y no constituye asesoría legal. 
 Bài viết này là ghi chép học tập cá nhân, không phải tư vấn pháp lý. (Bản dịch sơ bộ, chờ hiệu đính)
 
 यह लेख व्यक्तिगत अध्ययन नोट है, कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+
+---
+
+## 补译增量（2026-11-15 07:55轮）
+
+### 한국어 — 초역, 교정 대기 중 (初译待校)
+
+보충 1: 네 명의 반대 의견은 다수 의견이 연방 권한을 생산 영역까지 넓혀 주에 유보된 권한을 침식했다고 비판했다. 보충 2: 5년 뒤 Wickard v. Filburn, 317 U.S. 111 (1942)이 집합 효과(aggregation) 사고를 발전시켰으며, 본 판결은 그 중간 다리에 해당한다. 캘리포니아 공공 부문은 하나의 통일 법전이 아니라 고용주별로 나뉘며, 주 공무원과 학교·고등교육 종사자에게는 각각 별도의 법률이 적용된다.
+
+### Tiếng Việt — bản dịch sơ bộ, chờ hiệu đính (初译待校)
+
+Bổ sung 1: Bốn thẩm phán bất đồng cho rằng ý kiến đa số đã mở rộng quyền lực liên bang vào lĩnh vực sản xuất, làm xói mòn quyền được dành cho các bang. Bổ sung 2: Năm năm sau, Wickard v. Filburn, 317 U.S. 111 (1942) phát triển thêm tư duy hiệu ứng tổng hợp (aggregation), và phán quyết này là cây cầu ở giữa. Khu vực công ở California không có một bộ luật thống nhất mà chia theo chủ lao động: nhân viên bang, nhân viên trường học và giáo dục đại học mỗi nhóm có luật riêng.
+
+### हिन्दी — प्रारंभिक अनुवाद, समीक्षा लंबित (初译待校)
+
+पूरक 1: चार असहमत न्यायाधीशों का मत था कि बहुमत ने संघीय अधिकार को उत्पादन क्षेत्र तक बढ़ाकर राज्यों के लिए आरक्षित शक्तियों को क्षीण किया। पूरक 2: पाँच वर्ष बाद Wickard v. Filburn, 317 U.S. 111 (1942) ने समग्र प्रभाव (aggregation) की सोच को आगे बढ़ाया, और यह निर्णय उस बीच का सेतु है। California के सार्वजनिक क्षेत्र में एक समान संहिता नहीं है; व्यवस्था नियोक्ता के अनुसार बँटी है — राज्य कर्मचारियों तथा विद्यालय व उच्च-शिक्षा कर्मचारियों पर अलग-अलग कानून लागू होते हैं।
