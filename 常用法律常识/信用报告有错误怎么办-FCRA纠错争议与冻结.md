@@ -68,3 +68,12 @@ Bổ sung: theo § 609 (15 U.S.C. § 1681g), bạn có quyền biết thông tin
 *Bài viết này là ghi chú học tập cá nhân, không phải tư vấn pháp lý. (Bản dịch sơ bộ, chờ hiệu đính)*
 
 *यह लेख एक व्यक्तिगत अध्ययन नोट है और कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)*
+
+
+## 补译增量 · 한국어 / Tiếng Việt / हिन्दी（细节对齐）
+
+한국어: FCRA § 611(15 U.S.C. § 1681i)의 재조사 절차를 단계별로 보면 이렇습니다. 기관이 소비자의 이의 제기를 받으면 원칙적으로 30일 이내에 재조사를 마쳐야 하고, 5영업일 이내에 정보 제공자(furnisher)에게 이의 내용을 전달해야 합니다. § 623(§ 1681s-2(b))에 따라 furnisher는 전달을 받은 뒤 조사를 진행하고 결과를 기관에 보고해야 합니다. 조사 기간 동안 해당 항목은 분쟁 중으로 표시됩니다. 정보가 삭제되거나 수정되면 기관은 결과를 서면으로 통지하고, 갱신된 무료 보고서를 제공해야 합니다. (초역, 원어민 감수 대기)
+
+Tiếng Việt: Nhìn theo từng bước chuỗi tái điều tra của FCRA § 611 (15 U.S.C. § 1681i): sau khi nhận khiếu nại, cơ quan thường phải hoàn tất tái điều tra trong 30 ngày, và trong 5 ngày làm việc phải chuyển thông báo tranh chấp cho bên cung cấp thông tin (furnisher). Theo § 623 (§ 1681s-2(b)), furnisher sau khi nhận chuyển thông báo phải tiến hành điều tra và báo cáo kết quả. Trong thời gian điều tra, mục đó được ghi chú là đang tranh chấp. Khi thông tin bị xóa hoặc sửa đổi, cơ quan phải thông báo kết quả bằng văn bản và cung cấp báo cáo miễn phí đã cập nhật. (Bản dịch sơ bộ, chờ hiệu đính)
+
+हिन्दी: FCRA § 611 (15 U.S.C. § 1681i) की पुनःजाँच शृंखला चरणों में इस प्रकार है: उपभोक्ता का विवाद मिलने पर संस्था को सामान्यतः 30 दिनों के भीतर पुनःजाँच पूरी करनी होती है, और 5 कार्यदिवसों के भीतर विवाद की सूचना सूचना-दाता (furnisher) को भेजनी होती है। § 623 (§ 1681s-2(b)) के तहत furnisher को सूचना मिलने के बाद जाँच करके परिणाम रिपोर्ट करना होता है। जाँच अवधि में वह मद विवादाधीन अंकित रहती है। सूचना हटाए या बदले जाने पर संस्था को परिणाम की लिखित सूचना देनी होती है और अद्यतन निःशुल्क रिपोर्ट उपलब्ध करानी होती है। (प्रारंभिक अनुवाद, समीक्षा लंबित)
