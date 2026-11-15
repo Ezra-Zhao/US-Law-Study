@@ -66,3 +66,26 @@ West Virginia v. EPA, 597 U.S. 697 (2022) में 6–3 से निर्ण
 *개인 학습 노트이며 법률 자문이 아닙니다. 구체적인 사안은 자격 있는 변호사에게 상담하십시오. (초역, 원어민 감수 대기)*
 *Ghi chú học tập cá nhân, không cấu thành tư vấn pháp lý. Với trường hợp cụ thể, hãy tham vấn luật sư có giấy phép hành nghề. (bản dịch sơ bộ, chờ hiệu đính)*
 *यह व्यक्तिगत अध्ययन नोट है और कानूनी सलाह नहीं है। किसी विशिष्ट मामले के लिए लाइसेंस-प्राप्त वकील से परामर्श करें। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)*
+
+
+## 补译增量（2026-11-15 03:55 轮）
+
+### 한국어 (초역, 원어민 감수 대기)
+
+보충 1 — 판결일과 의견 구성: 본 판결은 2022년 6월 30일에 선고되었고, Roberts 대법원장이 다수 의견을 썼으며, Gorsuch 대법관이 동의 의견을 쓰고 Alito 대법관이 동참했고, Kagan 대법관이 반대 의견을 쓰고 Breyer 대법관과 Sotomayor 대법관이 동참했습니다.
+
+보충 2 — 절차 경위: 오바마 정부의 2015년 청정전력계획(Clean Power Plan)은 개별 발전소 내부 조치(building block 1)뿐 아니라 석탄에서 천연가스와 재생에너지로 옮겨가는 발전 구조 전환(generation shifting)까지 요구했습니다. 트럼프 정부는 ACE 규칙(Affordable Clean Energy)으로 이를 폐지하고 최적 감축 시스템을 공장 내부 조치로 한정했으나, 컬럼비아 특별구 순회 항소법원이 2021년에 ACE를 취소했고, 여러 주와 석탄 기업들이 EPA에 그런 권한이 없다고 소송을 제기한 것이 본 사건입니다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+Bổ sung 1 — Ngày phán quyết và thành phần ý kiến: Phán quyết được tuyên ngày 30 tháng 6 năm 2022; Chánh án Roberts viết ý kiến đa số; Thẩm phán Gorsuch viết ý kiến đồng tình với sự tham gia của Thẩm phán Alito; Thẩm phán Kagan viết ý kiến phản đối với sự tham gia của Thẩm phán Breyer và Sotomayor.
+
+Bổ sung 2 — Diễn biến thủ tục: Kế hoạch Điện sạch (Clean Power Plan) năm 2015 của chính quyền Obama không chỉ yêu cầu cắt giảm bên trong từng nhà máy (building block 1) mà còn yêu cầu chuyển đổi cơ cấu phát điện (generation shifting) từ than sang khí tự nhiên rồi sang năng lượng tái tạo. Chính quyền Trump sau đó bãi bỏ kế hoạch này bằng Quy tắc Năng lượng Sạch Giá phải chăng (ACE), giới hạn hệ thống giảm phát thải tốt nhất ở các biện pháp trong nhà máy, nhưng Tòa phúc thẩm Vòng Đặc khu Columbia đã hủy ACE vào năm 2021, và nhiều bang cùng doanh nghiệp than đã kiện với lập luận EPA không có quyền dùng chuyển đổi cơ cấu phát điện để tái cấu trúc lưới điện toàn quốc.
+
+### हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+पूरक 1 — निर्णय तिथि और मत-संरचना: यह निर्णय 30 जून 2022 को दिया गया था; मुख्य न्यायाधीश Roberts ने बहुमत मत लिखा; न्यायाधीश Gorsuch ने सहमति मत लिखा जिसमें न्यायाधीश Alito शामिल हुए; और न्यायाधीश Kagan ने असहमति मत लिखा जिसमें न्यायाधीश Breyer और Sotomayor शामिल हुए।
+
+पूरक 2 — प्रक्रियागत पृष्ठभूमि: Obama प्रशासन की 2015 की Clean Power Plan केवल प्रत्येक संयंत्र के भीतर कटौती (building block 1) तक सीमित नहीं थी, बल्कि कोयले से प्राकृतिक गैस और फिर नवीकरणीय ऊर्जा की ओर generation shifting की भी माँग करती थी। Trump प्रशासन ने बाद में Affordable Clean Energy नियम (ACE) से उस योजना को निरस्त कर सर्वोत्तम उत्सर्जन-कटौती प्रणाली को संयंत्र-आंतरिक उपायों तक सीमित कर दिया, परंतु D.C. Circuit ने 2021 में ACE को रद्द कर दिया, और कई राज्यों व कोयला कंपनियों ने यह कहकर वाद किया कि EPA को generation shifting द्वारा राष्ट्रीय ग्रिड को पुनः आकार देने का अधिकार नहीं है।
+
+（本轮补译注记：韩／越／印三语各补 2 项中文主文已有细节——判决日期与多数、协同、异议意见的执笔和加入阵容；2015 年清洁电力计划的厂内措施与发电结构转移、ACE 规则废止与 2021 年华盛顿特区巡回法院撤销 ACE 的程序背景。增量只取中文主文已有事实，未改原有段落。）
