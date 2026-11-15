@@ -86,3 +86,22 @@ Este artículo es una nota de estudio personal y no constituye asesoría legal. 
 Bài viết này là ghi chép học tập cá nhân, không phải tư vấn pháp lý. (bản dịch sơ bộ, chờ hiệu đính)
 
 यह लेख व्यक्तिगत अध्ययन नोट है, कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+---
+
+## 补译增量（2026-11-14 20:55轮）
+
+### 한국어 (初译待校)
+
+1. In re Quinlan, 70 N.J. 10 (1976)에서 뉴저지 법원은 프라이버시 권리를 후견인이 환자를 대신해 행사해 인공호흡기를 제거할 수 있다고 보았고, 이 주 차원의 선행은 연방 Cruzan 판결보다 14년 앞섰습니다. (초역, 원어민 감수 대기)
+2. 캘리포니아 사전의료지시(AHCD)의 서명에는 자격 있는 증인이나 공증이 필요하고, 대리인은 원칙적으로 본인이 결정 능력을 잃은 뒤에야 대리권을 행사합니다. 본인에게 능력이 있는 동안은 본인의 현재 결정이 지시서보다 우선합니다. (초역, 원어민 감수 대기)
+
+### Tiếng Việt (初译待校)
+
+1. Trong In re Quinlan, 70 N.J. 10 (1976), tòa án New Jersey cho rằng quyền riêng tư có thể do người giám hộ thực hiện thay mặt bệnh nhân để rút máy thở, và bước đi trước ở cấp bang này sớm hơn phán quyết Cruzan của liên bang 14 năm. (bản dịch sơ bộ, chờ hiệu đính)
+2. Việc ký Chỉ thị Chăm sóc Sức khỏe Trước (AHCD) của California cần người làm chứng đủ điều kiện hoặc công chứng, và người đại diện về nguyên tắc chỉ tiếp quản sau khi chính bệnh nhân mất năng lực quyết định; chừng nào bệnh nhân còn năng lực, quyết định hiện tại của bệnh nhân luôn thắng chỉ thị. (bản dịch sơ bộ, chờ hiệu đính)
+
+### हिन्दी (初译待校)
+
+1. In re Quinlan, 70 N.J. 10 (1976) में न्यू जर्सी न्यायालय ने माना कि निजता के अधिकार का प्रयोग अभिभावक रोगी की ओर से करके श्वास-यंत्र हटाया जा सकता है, और राज्य स्तर की यह पहल संघीय Cruzan निर्णय से 14 वर्ष पहले हुई। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+2. कैलिफ़ोर्निया के अग्रिम स्वास्थ्य-देखभाल निर्देश (AHCD) पर हस्ताक्षर के लिए योग्य साक्षी या नोटरीकरण आवश्यक है, और अभिकर्ता सिद्धांततः तभी कार्यभार संभालता है जब रोगी निर्णय-क्षमता खो दे; जब तक रोगी सक्षम है, उसकी वर्तमान इच्छा ही निर्देश से ऊपर रहती है। (प्रारंभिक अनुवाद, समीक्षा लंबित)
