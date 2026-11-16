@@ -170,3 +170,22 @@ Năm bước tuân thủ cho doanh nghiệp. Một, kiểm kê dữ liệu: đan
 西班牙语为学习译稿，待母语校对。韩语、越南语、印地语为初译待校。El texto en español es una traducción de estudio, pendiente de revisión por un hablante nativo. 한국어·베트남어·힌디어 본문은 초역으로, 원어민 감수를 기다리고 있습니다. Bản tiếng Việt và tiếng Hindi là bản dịch sơ khởi, đang chờ người bản ngữ hiệu đính. कोरियाई, वियतनामी और हिंदी पाठ प्रारंभिक अनुवाद हैं; मूल-भाषी समीक्षा लंबित है।
 
 声明：本篇为个人学习笔记，不构成法律建议。This article is a personal study note only and does not constitute legal advice. Este artículo es una nota personal de estudio y no constituye asesoría legal. 이 글은 개인 학습 노트이며 법률 자문이 아닙니다. Bài viết này là ghi chú học tập cá nhân, không phải tư vấn pháp lý. यह लेख व्यक्तिगत अध्ययन नोट है और कानूनी सलाह नहीं है।
+
+---
+
+## 补译增量（2026-11-15 22:55 轮）
+
+### 한국어 (初译待校)
+
+1. 일부 주는 브라우저 층위에서 작동하는 보편적 거부 신호(universal opt-out signal)를 인정합니다.
+2. 주법을 읽는 순서는 공통된 권리 목록의 뼈대를 먼저 확인한 뒤, 문턱·면제·집행자를 주별로 대조하는 것이며, 한 주의 규칙을 다른 주에 그대로 옮겨 적용해서는 안 됩니다.
+
+### Tiếng Việt (初译待校)
+
+1. Một số bang công nhận tín hiệu từ chối phổ quát (universal opt-out signal) hoạt động ở tầng trình duyệt.
+2. Cách đọc luật bang là trước hết nắm khung quyền chung, rồi đối chiếu ngưỡng, miễn trừ và cơ quan thực thi theo từng bang; không được đem quy tắc của bang này áp nguyên sang bang khác.
+
+### हिन्दी (初译待校)
+
+1. कुछ राज्य ब्राउज़र स्तर पर काम करने वाले सार्वभौमिक opt-out संकेत (universal opt-out signal) को मान्यता देते हैं।
+2. राज्य कानून पढ़ने का क्रम है: पहले साझा अधिकार-सूची का ढाँचा पकड़ें, फिर सीमा, छूट और प्रवर्तक की राज्य-दर-राज्य जाँच करें; एक राज्य के नियम दूसरे राज्य पर यथावत लागू न करें।
