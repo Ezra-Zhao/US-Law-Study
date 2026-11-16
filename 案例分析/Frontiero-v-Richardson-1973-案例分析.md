@@ -69,3 +69,22 @@ Este artículo es una nota de estudio personal y no constituye asesoría legal. 
 Bài viết này là ghi chép học tập cá nhân, không phải tư vấn pháp lý. (bản dịch sơ bộ, chờ hiệu đính)
 
 यह लेख व्यक्तिगत अध्ययन नोट है, कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+## 补译增量（2026-11-16 00:55 轮）
+
+本节为存量补译增量，只补中文主文已有、韩／越／印三语此前同缺的 2 项细节，不新增事实。
+
+### 한국어 (初译待校)
+
+1. Ginsburg의 위치: Ginsburg는 Frontiero v. Richardson 사건에서 ACLU의 법정조언자 변호사로 나섰으며, 이 사건은 그녀가 1970년대에 소송을 한 건씩 쌓아 성평등을 추진한 대표작 가운데 하나입니다.
+2. 일상의 착지점: 「남자는 자동 인정, 여자는 증명」식의 성문 이중 트랙은 복리·수당·자격 인정 곳곳에 아직 숨어 있을 수 있습니다. 먼저 분류가 오직 성별로만 선을 긋는지, 정부가 중요한 목표와 실질적 관련성을 내놓을 수 있는지를 물어야 하며, Frontiero가 무너뜨린 것은 바로 「편의를 위해서」라는 이유 그 자체입니다.
+
+### Tiếng Việt (初译待校)
+
+1. Vị trí của Ginsburg: trong vụ Frontiero v. Richardson, Ginsburg xuất hiện với tư cách luật sư amicus curiae cho ACLU, và đây là một trong những vụ án tiêu biểu của bà trong thập niên 1970 khi bà dùng từng vụ kiện để thúc đẩy bình đẳng giới.
+2. Điểm áp dụng hằng ngày: các đường đôi thành văn kiểu «nam thì tự động được tính, nữ thì phải chứng minh» vẫn có thể còn ẩn trong phúc lợi, trợ cấp và việc xác định tư cách. Trước hết hãy hỏi phân loại có vẽ đường chỉ theo giới tính hay không, và chính phủ có đưa ra được mục tiêu quan trọng cùng mối liên quan đáng kể hay không; điều Frontiero đánh đổ chính là lý do «vì tiện lợi» tự thân.
+
+### हिन्दी (初译待校)
+
+1. Ginsburg का स्थान: Frontiero v. Richardson मामले में Ginsburg ACLU की ओर से amicus curiae वकील के रूप में उपस्थित हुईं, और यह 1970 के दशक में मुकदमे-दर-मुकदमा लिंग-समानता आगे बढ़ाने वाली उनकी प्रतिनिधि कृतियों में से एक है।
+2. रोज़मर्रा का ठिकाना: «पुरुष अपने आप गिना जाए, महिला को साबित करना पड़े» वाली लिखित दोहरी व्यवस्था कल्याण-लाभों, भत्तों और पात्रता-निर्धारण में अभी भी छिपी हो सकती है। पहले पूछें कि वर्गीकरण केवल लिंग के आधार पर रेखा खींचता है या नहीं, और सरकार महत्वपूर्ण उद्देश्य व सारभूत संबंध दिखा सकती है या नहीं; Frontiero ने जिस चीज़ को गिराया, वह स्वयं «सुविधा के लिए» वाला तर्क ही था।
