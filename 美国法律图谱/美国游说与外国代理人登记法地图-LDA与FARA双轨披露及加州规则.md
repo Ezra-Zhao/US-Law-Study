@@ -86,3 +86,25 @@ Este artículo es una nota de estudio personal y no constituye asesoría legal. 
 Bài viết này là ghi chép học tập cá nhân, không phải tư vấn pháp lý. (bản dịch sơ bộ, chờ hiệu đính)
 
 यह लेख व्यक्तिगत अध्ययन नोट है, कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+---
+
+## 补译增量（2026-11-15 17:55轮）
+
+### 한국어 (초역 · 初译待校)
+
+보충 1 — LDA에서 로비 접촉으로 치지 않는 경우: § 1602의 접촉 개념에는 제외가 붙는다. 공무원의 서면 요청에 응해 증언하는 경우나, 이미 공개된 기록의 정보를 제공하는 경우 등은 로비 접촉으로 세지 않는다. 등록 의무는 접촉을 따라가므로, 연구만 하고 보고만 쓰며 공무원과 접촉하지 않는 사람은 이 문 안에 들어오지 않는다. 설계 의도는 결정을 움직이는 접촉과 일반적인 정책 작업을 가르는 데 있다.
+
+보충 2 — FARA § 613 면제 목록의 다른 칸들: § 613(h)의 LDA 면제만 있는 것이 아니다. 같은 조에는 외교·영사 공무원, 순수하게 상업적인 비정치적 활동, 종교·학술 활동, 이미 시작된 사법 절차에서 변호사가 하는 대리 등 각각의 면제 칸이 따로 있다. 그리고 FARA 등록 후 배포하는 홍보 자료에는 출처를 표시하고 사본을 법무부에 제출해 비치해야 한다. 면제는 칸마다 조건이 다르므로, (h)칸 하나를 전체 면제로 읽으면 안 된다. (初译待校)
+
+### Tiếng Việt (dịch sơ bộ · 初译待校)
+
+Bổ sung 1 — Những trường hợp không tính là tiếp xúc vận động hành lang theo LDA: khái niệm tiếp xúc tại điều 1602 có các loại trừ đi kèm. Việc làm chứng theo yêu cầu bằng văn bản của quan chức, hoặc cung cấp thông tin thuộc hồ sơ đã công khai, không tính là tiếp xúc vận động hành lang. Nghĩa vụ đăng ký bám theo tiếp xúc, nên người chỉ làm nghiên cứu, viết báo cáo và không bao giờ tiếp xúc quan chức thì nằm ngoài cửa này. Ý đồ thiết kế là tách bạch tiếp xúc nhằm tác động quyết định khỏi công việc chính sách nói chung.
+
+Bổ sung 2 — Các ô miễn trừ khác trong danh sách điều 613 của FARA: không chỉ có miễn trừ LDA tại khoản (h). Cùng điều luật còn có các ô riêng cho viên chức ngoại giao và lãnh sự, hoạt động thương mại thuần túy phi chính trị, hoạt động tôn giáo và học thuật, và việc luật sư đại diện trong thủ tục tư pháp đã khởi động. Sau khi đăng ký FARA, tài liệu tuyên truyền được phân phát phải ghi rõ nguồn gốc và nộp bản sao lưu tại Bộ Tư pháp. Mỗi ô miễn trừ có điều kiện riêng, không được đọc một ô (h) thành miễn trừ toàn bộ. (初译待校)
+
+### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+
+पूरक 1 — LDA में लॉबिंग संपर्क न गिने जाने वाले मामले: § 1602 की संपर्क-अवधारणा के साथ अपवाद जुड़े हैं। किसी अधिकारी के लिखित अनुरोध पर गवाही देना, या पहले से सार्वजनिक अभिलेख की जानकारी देना, लॉबिंग संपर्क नहीं गिना जाता। पंजीकरण का दायित्व संपर्क के पीछे चलता है, इसलिए केवल शोध करने, रिपोर्ट लिखने और अधिकारियों से कभी संपर्क न करने वाला व्यक्ति इस द्वार के अंदर नहीं आता। डिज़ाइन का उद्देश्य निर्णयों को प्रभावित करने वाले संपर्क को सामान्य नीति-कार्य से अलग करना है।
+
+पूरक 2 — FARA § 613 की छूट-सूची के अन्य खाने: केवल (h) खंड की LDA-छूट ही नहीं है। उसी धारा में राजनयिक व वाणिज्य-दूतावास अधिकारियों, विशुद्ध वाणिज्यिक ग़ैर-राजनीतिक गतिविधियों, धार्मिक व शैक्षणिक गतिविधियों, और पहले से शुरू न्यायिक कार्यवाही में वकील द्वारा प्रतिनिधित्व के लिए अलग-अलग खाने हैं। और FARA पंजीकरण के बाद वितरित प्रचार सामग्री पर स्रोत अंकित करना होता है और उसकी प्रति न्याय विभाग में अभिलेख हेतु जमा करनी होती है। प्रत्येक खाने की शर्तें अलग हैं, इसलिए एक (h) खाने को संपूर्ण छूट नहीं पढ़ना चाहिए। (初译待校)
