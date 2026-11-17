@@ -119,3 +119,16 @@ Hãy làm theo thứ tự. Bảo toàn: giữ thư gốc, phong bì và hồ sơ
 来源：17 U.S.C. sec. 501、sec. 504(c)、sec. 411(a)、sec. 512(c)(3)、sec. 512(g)；15 U.S.C. sec. 1114、sec. 1125(a)、sec. 1692g；28 U.S.C. sec. 2201；Fed. R. Civ. P. 4(d)、6(a)、12(a)(1)(A)；MedImmune, Inc. v. Genentech, Inc., 549 U.S. 118 (2007)；Fourth Estate Public Benefit Corp. v. Wall-Street.com, 586 U.S. 296 (2019)；Cal. Code Civ. Proc. sec. 425.16；Cal. Civ. Code sec. 47(b)；Cal. Bus. and Prof. Code sec. 14200 et seq.、sec. 17200。条文细节请再核现行文本。
 
 声明：个人学习笔记，不构成法律建议。
+
+## 补译增量（2026-11-17 03:55 轮）
+
+本节为存量补译增量，只补细节，不改原文。所补两项细节均出自上文中文主文：一是函件自定期限与法定答辩期限之间相差 11 天的算例，二是加州诉讼特权对以勒索为目的的滥发函件不提供正中保护。此两项在韩、越、印三语旧译中均缺失，现各补一段。
+
+### 한국어（初译待校）
+세부 1, 두 시계의 간격은 11일: 위 본문의 계산 예에서 서한 자체 기한은 2026년 3월 12일이고, 소장 송달 후의 법정 답변 기한은 2026년 3월 23일입니다. 23에서 12를 빼면 11, 두 날짜는 11일 차이입니다. 이 둘을 혼동하는 것이 가장 흔한 함정입니다. 세부 2, 소송특권의 한계: 소송과 관련된 서한은 캘리포니아 민법 제47(b)조의 소송특권으로 대체로 보호되지만, 협박(갈취)을 목적으로 남발된 서한은 그 보호의 정중앙에 있지 않습니다. 즉 특권이 모든 요구 서한에 면죄부를 주는 것은 아닙니다. 개인 학습 노트이며 법률 자문이 아닙니다. (初译待校)
+
+### Tiếng Việt（初译待校）
+Chi tiết 1, hai chiếc đồng hồ cách nhau 11 ngày: trong ví dụ tính toán ở phần chính văn trên, thời hạn do thư tự đặt là ngày 12 tháng 3 năm 2026, còn thời hạn trả lời theo luật sau khi tống đạt đơn kiện là ngày 23 tháng 3 năm 2026. Lấy 23 trừ 12 bằng 11, hai ngày này cách nhau 11 ngày, và việc nhầm lẫn chúng là cái bẫy phổ biến nhất. Chi tiết 2, giới hạn của đặc quyền kiện tụng: thư từ liên quan đến kiện tụng nhìn chung được đặc quyền kiện tụng theo điều 47(b) Bộ luật Dân sự California bảo vệ, nhưng thư phát đi với mục đích tống tiền (extortion) thì không nằm ở trung tâm của sự bảo vệ đó; đặc quyền không phải là giấy miễn trừ cho mọi lá thư yêu sách. Ghi chú học tập cá nhân, không phải tư vấn pháp lý. (初译待校)
+
+### हिन्दी（初译待校）
+विवरण 1, दो घड़ियों के बीच 11 दिन का अंतर: ऊपर के मुख्य पाठ के उदाहरण में पत्र की स्वयं-निर्धारित सीमा 12 मार्च 2026 है और वाद तामील होने के बाद वैधानिक उत्तर-सीमा 23 मार्च 2026 है। 23 में से 12 घटाएँ तो 11, अर्थात दोनों तिथियों में 11 दिन का अंतर है, और इन्हें एक समझना सबसे आम भूल है। विवरण 2, मुकदमा-विशेषाधिकार की सीमा: मुकदमे से जुड़े पत्र सामान्यतः California Civil Code धारा 47(b) के मुकदमा-विशेषाधिकार से संरक्षित हैं, परंतु ज़बरन वसूली (extortion) के उद्देश्य से भेजे गए दुरुपयोगपूर्ण पत्र उस संरक्षण के केंद्र में नहीं हैं; विशेषाधिकार हर माँग-पत्र को मुक्ति-पत्र नहीं देता। व्यक्तिगत अध्ययन नोट; कानूनी सलाह नहीं। (初译待校)

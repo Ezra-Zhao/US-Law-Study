@@ -109,3 +109,16 @@ Ba giới hạn định hình phán quyết. Nó chỉ đặt ra mức sàn liê
 来源：United States v. Skrmetti, 605 U.S. 495 (2025)（美国联邦最高法院，案号 No. 23-477，2025-06-18 判决）；Tenn. Code Ann. sec. 68-33-101 et seq.（SB1, 2023）；L.W. v. Skrmetti, 83 F.4th 460 (6th Cir. 2023)；Geduldig v. Aiello, 417 U.S. 484 (1974)；Bostock v. Clayton County, 590 U.S. 644 (2020)；Heller v. Doe, 509 U.S. 312 (1993)；U.S. Const. amend. XIV；California SB 107 (Stats. 2022, ch. 810)；Cal. Fam. Code sec. 3424 一带。条文细节请再核现行文本。
 
 声明：个人学习笔记，不构成法律建议。
+
+## 补译增量（2026-11-17 03:55 轮）
+
+本节为存量补译增量，只补细节，不改原文。所补两项细节均出自上文中文主文：一是多数意见的加入阵容与 Alito 法官的部分加入，二是 Thomas 法官协同意见对医学共识倚重的质疑。此两项在韩、越、印三语旧译中均缺失，现各补一段。
+
+### 한국어（初译待校）
+세부 1, 다수의견 합류 구성: Roberts 대법원장이 쓴 다수의견에는 Thomas, Gorsuch, Kavanaugh, Barrett 대법관이 전부 합류했고, Alito 대법관은 제1부와 II-B 부분에만 합류했습니다. 즉 6대 3이라는 숫자 뒤에는 전원 합류가 아닌 부분 합류가 하나 섞여 있습니다. 세부 2, Thomas 대법관의 동의의견은 의학 권위와 전문가 합의의 신뢰성에서 따로 들어갔습니다. 법원이 이른바 의학 합의에 기대는 태도를 문제 삼은 것으로, 이후 주 입법을 둘러싼 공방에서 별도로 추적할 가치가 있는 흐름입니다. 개인 학습 노트이며 법률 자문이 아닙니다. (初译待校)
+
+### Tiếng Việt（初译待校）
+Chi tiết 1, thành phần tham gia ý kiến đa số: ý kiến đa số do Chánh án Roberts viết có các thẩm phán Thomas, Gorsuch, Kavanaugh và Barrett tham gia toàn bộ, còn thẩm phán Alito chỉ tham gia Phần I và Phần II-B. Nói cách khác, đằng sau con số 6-3 có một trường hợp tham gia từng phần chứ không phải toàn bộ. Chi tiết 2, ý kiến đồng tình của thẩm phán Thomas đi vào từ độ tin cậy của giới chuyên môn y khoa và sự đồng thuận của chuyên gia, chất vấn việc tòa án dựa dẫm vào cái gọi là đồng thuận y học; đây là một tuyến lập luận đáng theo dõi riêng trong các tranh chấp lập pháp cấp bang sau này. Ghi chú học tập cá nhân, không phải tư vấn pháp lý. (初译待校)
+
+### हिन्दी（初译待校）
+विवरण 1, बहुमत राय में शामिल होने वालों की संरचना: मुख्य न्यायाधीश Roberts की बहुमत राय में न्यायाधीश Thomas, Gorsuch, Kavanaugh और Barrett पूरी तरह शामिल हुए, जबकि न्यायाधीश Alito केवल भाग I और भाग II-B में शामिल हुए। अर्थात 6-3 के अंक के पीछे एक आंशिक सहमति भी है, पूर्ण सहमति नहीं। विवरण 2, न्यायाधीश Thomas की सहमति राय चिकित्सा-प्राधिकार और विशेषज्ञ-सर्वसम्मति की विश्वसनीयता की ओर से अलग से आई: उन्होंने न्यायालय के तथाकथित चिकित्सा-सर्वसम्मति पर निर्भर रहने पर सवाल उठाया, और यह धारा आगे के राज्य-विधायी विवादों में अलग से देखने योग्य है। व्यक्तिगत अध्ययन नोट; कानूनी सलाह नहीं। (初译待校)
