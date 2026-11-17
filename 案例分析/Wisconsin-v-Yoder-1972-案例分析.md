@@ -61,3 +61,12 @@ Bổ sung 1 (diễn biến thủ tục): Các phụ huynh bị phạt 5 đô la 
 Tiếng Việt（bản dịch sơ bộ, chờ hiệu đính）: Bổ sung 1: Mỗi phụ huynh bị phạt 5 đô la theo luật bang; Tòa tối cao Wisconsin đã hủy án phạt và bang kháng cáo lên Tòa tối cao liên bang. Bổ sung 2: Phán quyết này được đọc cùng với quyền giáo dục của cha mẹ trong Pierce v. Society of Sisters, 268 U.S. 510 (1925), vì tự do tôn giáo được xét chung với quyền hướng dẫn giáo dục tôn giáo của cha mẹ.
 
 हिन्दी（प्रारंभिक अनुवाद, समीक्षा लंबित）: पूरक 1: अभिभावकों पर राज्य कानून के तहत 5 डॉलर का जुर्माना लगा था; विस्कॉन्सिन सर्वोच्च न्यायालय ने दोषसिद्धि रद्द की और राज्य ने संघीय सर्वोच्च न्यायालय में अपील की। पूरक 2: इस निर्णय को Pierce v. Society of Sisters, 268 U.S. 510 (1925) के अभिभावक शिक्षा-अधिकार के साथ पढ़ा जाता है, क्योंकि धार्मिक स्वतंत्रता और माता-पिता का धार्मिक शिक्षा-मार्गदर्शन एक साथ तौला गया था।
+
+
+**补译增量（2026-11-16 23:55 轮，韩/越/印三语各补 2 项中文主文已有细节）**
+
+한국어（초역·교정 대기）: 보충 1: 본 판결은 1972년 5월 15일 6대 1로 선고됐고, 다수의견은 Burger 대법원장이 작성했습니다. 보충 2: 학부모 세 명은 아미시(Amish)와 보수 메노나이트(Mennonite) 학부모들이었고, 법원은 아미시의 생활 방식과 신앙이 분리될 수 없다고 보았습니다. 고등학교 교육이 그 신앙 및 생활 방식과 충돌한다는 것이 거부의 이유였고, 그 공동체는 농업 노동과 도제식 훈련으로 청소년 교육을 완성합니다.
+
+Tiếng Việt（bản dịch sơ bộ, chờ hiệu đính）: Bổ sung 1: Phán quyết được tuyên ngày 15 tháng 5 năm 1972 với tỉ lệ 6–1, ý kiến đa số do Chánh án Burger chấp bút. Bổ sung 2: Ba phụ huynh là người Amish và người Mennonite bảo thủ; Tòa cho rằng lối sống Amish không thể tách rời khỏi đức tin của họ. Lý do từ chối là giáo dục trung học xung đột với đức tin và lối sống đó, và cộng đồng hoàn tất việc giáo dục thanh thiếu niên bằng lao động nông nghiệp và huấn luyện kiểu học nghề.
+
+हिन्दी（प्रारंभिक अनुवाद, समीक्षा लंबित）: पूरक 1: यह निर्णय 15 मई 1972 को 6–1 से सुनाया गया था और बहुमत राय मुख्य न्यायाधीश Burger ने लिखी थी। पूरक 2: तीनों अभिभावक अमीश (Amish) और रूढ़िवादी मेनोनाइट (Mennonite) अभिभावक थे; न्यायालय ने माना कि अमीश जीवन-पद्धति उनकी आस्था से अविभाज्य है। इनकार का कारण यह था कि हाई स्कूल शिक्षा उस आस्था और जीवन-पद्धति से टकराती है, और वह समुदाय कृषि श्रम और प्रशिक्षु-शैली के प्रशिक्षण से किशोरों की शिक्षा पूरी करता है।
