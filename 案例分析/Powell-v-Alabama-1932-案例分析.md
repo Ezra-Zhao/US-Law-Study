@@ -63,3 +63,11 @@ Este artículo es una nota de estudio personal y no constituye asesoría legal. 
 Bài viết này là ghi chép học tập cá nhân, không phải tư vấn pháp lý. (bản dịch sơ bộ, chờ hiệu đính)
 
 यह लेख व्यक्तिगत अध्ययन नोट है, कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+## 补译增量（2026-11-17 11:55轮）
+
+한국어 보충 (초역, 원어민 감수 대기): 2013년 사후 사면을 받은, 끝까지 사면을 받지 못했던 피고인 세 사람의 이름은 Haywood Patterson, Charles Weems, Andy Wright입니다. 캘리포니아의 선임 구조도 덧붙입니다. 각 카운티에는 대개 국선변호인 사무소(public defender)가 설치되어 있고, 국선변호인이 없는 카운티에서는 법원이 지정하는 변호사 명단이 그 자리를 메웁니다. 그래서 캘리포니아의 현행 체계는 Powell이 그린 연방 헌법상의 하한보다 훨씬 넓게 작동합니다.
+
+Bổ sung tiếng Việt (bản dịch sơ bộ, chờ hiệu đính): Ba bị cáo chưa từng được ân xá và nhận ân xá sau khi mất vào năm 2013 có tên là Haywood Patterson, Charles Weems và Andy Wright. Cấu trúc chỉ định luật sư của California cũng cần nói thêm: hầu hết các quận đều có văn phòng luật sư công (public defender), và những quận không có thì dùng danh sách luật sư do tòa chỉ định để lấp chỗ trống. Nhờ vậy hệ thống hiện hành của California vận hành rộng hơn nhiều so với mức sàn hiến pháp liên bang mà Powell đã vạch ra.
+
+पूरक हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित): 2013 में मरणोपरांत क्षमादान पाने वाले तीन अभियुक्त, जिन्हें कभी क्षमा नहीं मिली थी, ये थे: Haywood Patterson, Charles Weems और Andy Wright। California की नियुक्ति संरचना भी जोड़नी चाहिए: अधिकांश काउंटियों में लोक बचावकर्ता (public defender) कार्यालय हैं, और जिन काउंटियों में वे नहीं हैं वहाँ न्यायालय द्वारा नियुक्त वकीलों की सूची उस कमी को पूरा करती है। इस प्रकार California की वर्तमान व्यवस्था Powell द्वारा खींची गई संघीय संवैधानिक न्यूनतम रेखा से कहीं अधिक व्यापक रूप से चलती है।
