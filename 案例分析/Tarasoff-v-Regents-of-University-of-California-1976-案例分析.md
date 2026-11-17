@@ -101,3 +101,23 @@ Es una sentencia de la Corte Suprema de California, vinculante en California, pe
 - Cal. Evidence Code § 1024（危险患者例外）；Ewing v. Goldstein, 120 Cal.App.4th 807 (2004)（家属为治疗目的的转达）；CACI No. 503A 陪审团指示及其 Sources and Authority 对 Tarasoff 与第 43.92 条的引注。
 
 *声明：个人学习笔记，不构成法律建议。*
+
+
+## 补译增量（2026-11-17 10:55轮）
+
+本节为存量补译：以下两项均取自本篇中文主文已有内容（第一节正文与文末参考依据），此前韩、越、印三语译文未载，现补齐。增量只加不删。
+
+### 한국어 (初译待校)
+
+- 보충 1 — Moore의 편지에 적힌 진단명. 중국어 본문 첫째 절에 따르면 Moore는 동료들과 상의한 뒤 캠퍼스 경찰에 쓴 편지에서 Poddar가 급성 편집형 정신분열 반응(acute paranoid schizophrenic reaction)을 보이며 위험하다고 적었고, 그래서 민사 수용 평가가 필요하다고 했습니다. 기존 세 언어 번역은 위험하다고만 옮기고 이 진단명을 빠뜨렸습니다. (초역, 원어민 감수 대기)
+- 보충 2 — 평행 인용과 배심 지시 인용. 중국어 본문의 참고 근거에 따르면 Tarasoff II의 평행 인용은 131 Cal. Rptr. 14이고, Tarasoff I의 평행 인용은 529 P.2d 553입니다. 또 캘리포니아 배심 지시 CACI No. 503A와 그 Sources and Authority가 Tarasoff와 민법전 제43.92조를 인용합니다. (초역, 원어민 감수 대기)
+
+### Tiếng Việt (初译待校)
+
+- Bổ sung 1 — Tên chẩn đoán trong thư của Moore. Theo tiết một của bản chính tiếng Trung, sau khi tham khảo đồng nghiệp, Moore viết thư cho cảnh sát trường nói rằng Poddar có phản ứng tâm thần phân liệt hoang tưởng cấp tính (acute paranoid schizophrenic reaction), nguy hiểm, và cần được đánh giá để giam giữ dân sự. Các bản dịch ba ngôn ngữ trước đây chỉ dịch là nguy hiểm và bỏ sót tên chẩn đoán này. (bản dịch sơ bộ, chờ hiệu đính)
+- Bổ sung 2 — Trích dẫn song song và trích dẫn hướng dẫn bồi thẩm. Theo phần căn cứ tham khảo của bản chính tiếng Trung, trích dẫn song song của Tarasoff II là 131 Cal. Rptr. 14, và của Tarasoff I là 529 P.2d 553. Ngoài ra, hướng dẫn bồi thẩm California CACI No. 503A cùng phần Sources and Authority của nó trích dẫn Tarasoff và Điều 43.92 của Bộ luật Dân sự. (bản dịch sơ bộ, chờ hiệu đính)
+
+### हिन्दी (初译待校)
+
+- पूरक 1 — Moore के पत्र में लिखा निदान. चीनी मुख्य पाठ के पहले खंड के अनुसार, साथियों से परामर्श के बाद Moore ने परिसर पुलिस को लिखे पत्र में कहा कि Poddar तीव्र पैरानॉयड स्किज़ोफ्रेनिक प्रतिक्रिया (acute paranoid schizophrenic reaction) से ग्रस्त है, खतरनाक है, और उसका नागरिक-अभिरक्षा मूल्यांकन होना चाहिए. तीनों भाषाओं के पुराने अनुवादों ने केवल खतरनाक कहा और यह निदान-नाम छोड़ दिया. (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
+- पूरक 2 — समानांतर उद्धरण और जूरी-निर्देश उद्धरण. चीनी मुख्य पाठ के संदर्भ-आधार के अनुसार Tarasoff II का समानांतर उद्धरण 131 Cal. Rptr. 14 है, और Tarasoff I का समानांतर उद्धरण 529 P.2d 553 है. साथ ही California जूरी निर्देश CACI No. 503A और उसके Sources and Authority, Tarasoff तथा नागरिक संहिता धारा 43.92 का उद्धरण देते हैं. (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
