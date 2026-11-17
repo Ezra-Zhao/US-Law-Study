@@ -90,3 +90,24 @@ Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007), 21 मई 2007 को न�
 1. Bell Atlantic जैसे प्रतिवादी स्थानीय एक्सचेंज वाहक (ILEC) थे — 1984 में AT&T के विभाजन के बाद बनी क्षेत्रीय टेलीफ़ोन कंपनियाँ, जिनमें से हर एक का अपना पारंपरिक क्षेत्र था।
 
 2. Conley v. Gibson, 355 U.S. 41 (1957) की प्रसिद्ध पंक्ति के बारे में निर्णय ने कहा कि वह सेवानिवृत्ति के योग्य हो गई है। 2007 − 1957 = 50: वह वाक्यांश पूरे अर्ध-शताब्दी तक चला, फिर औपचारिक रूप से सेवानिवृत्त हुआ।
+
+
+## 补译增量（2026-11-16 22:55轮）
+
+### 한국어 보충 (초역, 원어민 감수 대기 · 初译待校）
+
+1. 다수 의견에는 Souter 대법관의 의견에 Roberts 대법원장과 Scalia, Kennedy, Thomas, Breyer, Alito 대법관이 합류했고, Stevens 대법관이 반대의견을 쓰고 Ginsburg 대법관이 합류했습니다. 절차 경과는 지방법원이 각하하고 제2순회법원이 파기했으나 연방대법원이 다시 파기해 각하를 유지한 것입니다.
+
+2. 여러 회사가 같은 행동을 하는 이른바 의식적 병행행위(conscious parallelism) 자체는 불법이 아닙니다. 합의의 존재를 시사하려면 각자의 독립적 이익에 반하는 행동, 서로 의사소통할 기회와 흔적, 독립적 판단으로 설명할 수 없는 일치된 행동 같은 추가 사실(plus factors)이 필요합니다.
+
+### Tiếng Việt bổ sung (bản dịch sơ bộ, chờ hiệu đính · 初译待校）
+
+1. Ý kiến đa số của Thẩm phán Souter có Chánh án Roberts cùng các Thẩm phán Scalia, Kennedy, Thomas, Breyer và Alito tham gia; Thẩm phán Stevens viết ý kiến phản đối và Thẩm phán Ginsburg tham gia. Diễn tiến tố tụng: tòa sơ thẩm bác đơn, Tòa phúc thẩm Vòng 2 lật lại, và Tòa án Tối cao lại lật ngược Vòng 2 để giữ nguyên việc bác đơn.
+
+2. Việc nhiều công ty cùng làm một việc — gọi là hành vi song song có ý thức (conscious parallelism) — tự nó không bất hợp pháp. Để gợi ý có thỏa thuận cần thêm các sự kiện bổ sung (plus factors), như hành vi đi ngược lợi ích độc lập của từng công ty, cơ hội và dấu vết liên lạc với nhau, và những hành động thống nhất không thể giải thích bằng phán đoán độc lập.
+
+### हिन्दी पूरक (प्रारंभिक अनुवाद, समीक्षा लंबित · 初译待校）
+
+1. न्यायमूर्ति Souter की बहुमत राय में मुख्य न्यायाधीश Roberts और न्यायमूर्ति Scalia, Kennedy, Thomas, Breyer व Alito शामिल हुए; न्यायमूर्ति Stevens ने असहमति लिखी जिसमें न्यायमूर्ति Ginsburg शामिल हुईं। प्रक्रिया का क्रम यह था: जिला न्यायालय ने खारिज किया, दूसरे सर्किट ने पलट दिया, और उच्चतम न्यायालय ने दूसरे सर्किट को पलटकर खारिजगी बनाए रखी।
+
+2. कई कंपनियों का एक जैसा व्यवहार — जिसे सचेत समानांतरता (conscious parallelism) कहते हैं — अपने आप में अवैध नहीं है। समझौते का संकेत देने के लिए अतिरिक्त तथ्य (plus factors) चाहिए, जैसे अपने स्वतंत्र हित के विरुद्ध व्यवहार, आपसी संपर्क के अवसर और निशान, और ऐसे एकरूप कदम जो स्वतंत्र निर्णय से समझाए न जा सकें।
