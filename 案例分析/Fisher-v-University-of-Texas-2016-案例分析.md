@@ -59,3 +59,18 @@ Este artículo es una nota de estudio personal y no constituye asesoría legal. 
 Bài viết này là ghi chép học tập cá nhân, không phải tư vấn pháp lý. (Bản dịch sơ bộ, chờ hiệu đính)
 
 यह लेख व्यक्तिगत अध्ययन नोट है, कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+
+## 补译增量（2026-11-16 19:55轮）
+
+### 한국어 (初译待校)
+
+다수의견은 또 하나를 강조했습니다. 대학은 다양성 목표를 특정 연도의 인구 비율에 고정해 둘 수 없으며, 자료를 정기적으로 다시 보고 여전히 필요한지 평가하는 지속적 검토 의무 자체가 좁은 맞춤화의 일부라는 점입니다. 캘리포니아 공립대학은 주민발의안 209 이후 인종 중립 도구만 쓸 수 있는데, 종합 심사에서의 사회경제적 배경과 학교 배경 요소, 그리고 지역 맥락 자격(Eligibility in the Local Context)이라 불리는 고교 상위 9퍼센트 통로가 그 예입니다. 다만 연방 자금을 받는 캘리포니아 사립대학은 SFFA 이후의 연방 기준에 여전히 묶입니다.
+
+### Tiếng Việt (初译待校)
+
+Ý kiến đa số còn nhấn mạnh một điểm nữa: trường không được đóng băng mục tiêu đa dạng ở tỷ lệ dân số của một năm cụ thể nào, và nghĩa vụ rà soát định kỳ dữ liệu để đánh giá tính cần thiết vẫn còn hay không tự nó là một phần của yêu cầu thiết kế hẹp. Sau Đề xuất 209, các trường công ở California chỉ được dùng công cụ trung lập về chủng tộc, ví dụ yếu tố hoàn cảnh kinh tế xã hội và bối cảnh trường học trong xét duyệt toàn diện, cùng kênh Điều kiện theo Bối cảnh Địa phương (Eligibility in the Local Context) dành cho nhóm 9 phần trăm đứng đầu của mỗi trường trung học. Tuy nhiên, các trường tư ở California nhận tài trợ liên bang vẫn chịu ràng buộc của chuẩn liên bang sau vụ SFFA.
+
+### हिन्दी (初译待校)
+
+बहुमत ने एक और बात पर ज़ोर दिया: विश्वविद्यालय विविधता के लक्ष्य को किसी विशेष वर्ष के जनसंख्या अनुपात पर स्थिर नहीं कर सकता, और आँकड़ों की नियमित समीक्षा करके आवश्यकता बनी है या नहीं, यह जाँचने का निरंतर दायित्व स्वयं संकीर्ण अनुरूपता का हिस्सा है। Proposition 209 के बाद California के सार्वजनिक विश्वविद्यालय केवल जाति-तटस्थ साधन उपयोग कर सकते हैं, जैसे समग्र समीक्षा में सामाजिक-आर्थिक और विद्यालय-पृष्ठभूमि कारक, तथा स्थानीय संदर्भ पात्रता (Eligibility in the Local Context) नामक प्रत्येक हाई स्कूल के शीर्ष 9 प्रतिशत वाला मार्ग। फिर भी संघीय धन पाने वाले California के निजी विश्वविद्यालय SFFA के बाद के संघीय मानक से बँधे रहते हैं।
