@@ -55,3 +55,17 @@ Tháng 8 năm 2015, trong một cuộc cãi vã tại nhà ở Cranston, Rhode I
 本文为个人学习笔记，不构成法律建议；具体案件请咨询持牌律师。
 
 This article is a personal study note, not legal advice.
+
+## 补译增量（2026-11-17 04:55轮）
+
+### 한국어 (초역 · 初译待校)
+보충 1 (Kavanaugh 보충의견의 911 사례): Kavanaugh 대법관은 긴급상황 틀의 작동 방식을 구체적 사례로 설명했습니다. 누군가 911에 전화해 자살하고 싶다고 말하고 집에 총이 있는데, 현장에 도착한 경찰관이 문을 두드려도 응답이 없는 경우, 수정헌법 제4조는 경찰관이 비극이 일어나기를 문밖에서 기다리며 손을 놓고 있으라고 요구하지 않습니다. 객관적으로 합리적인 근거가 있으면 임박성이 완성되지 않아도 진입할 수 있다는 것이 그 취지입니다. (초역·待校)
+보충 2 (캘리포니아 제8102조의 후단 절차): 복지·기관법전 제8102조는 총기 압수에서 끝나지 않습니다. 본인이 퇴원한 뒤 집행기관은 법정 기간 안에 고등법원(Superior Court)에 심리를 신청해야 하고, 반환이 본인이나 타인에게 위험한지는 법원이 결정하며, 이 절차는 형법전 제33850조 이하의 총기 반환 절차와 이어집니다. (초역·待校)
+
+### Tiếng Việt (bản dịch sơ bộ · 初译待校)
+Bổ sung 1 (ví dụ 911 trong ý kiến tán đồng của Thẩm phán Kavanaugh): Thẩm phán Kavanaugh giải thích cách khung tình huống khẩn cấp vận hành bằng một ví dụ cụ thể — một người gọi 911 nói rằng mình muốn tự tử và trong nhà có súng, cảnh sát đến nơi gõ cửa nhưng không ai trả lời; Tu chính án thứ tư không đòi hỏi cảnh sát phải đứng ngoài cửa khoanh tay chờ bi kịch xảy ra. Chỉ cần có cơ sở hợp lý khách quan thì có thể vào nhà, không cần tính sắp xảy ra đã hoàn tất. (bản dịch sơ bộ·待校)
+Bổ sung 2 (thủ tục tiếp nối theo mục 8102 của California): Mục 8102 của Bộ luật Phúc lợi và Thể chế không dừng ở việc tịch thu súng. Sau khi người bị giữ được xuất viện, cơ quan thực thi phải, trong thời hạn luật định, xin Tòa Thượng thẩm (Superior Court) mở phiên điều trần, và chính tòa quyết định việc trả lại súng có gây nguy hiểm cho bản thân người đó hay cho người khác hay không; thủ tục này nối tiếp với thủ tục trả lại súng tại Bộ luật Hình sự từ mục 33850. (bản dịch sơ bộ·待校)
+
+### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+पूरक 1 (न्यायमूर्ति Kavanaugh की सहमति का 911 उदाहरण): न्यायमूर्ति Kavanaugh ने आपात-परिस्थिति ढाँचे के काम करने का ढंग एक ठोस उदाहरण से समझाया — कोई व्यक्ति 911 पर फ़ोन करके कहे कि वह आत्महत्या करना चाहता है और घर में बंदूक है, पुलिस पहुँचकर दरवाज़ा खटखटाए पर कोई उत्तर न मिले; चौथा संशोधन यह नहीं माँगता कि पुलिस दरवाज़े के बाहर हाथ पर हाथ धरे त्रासदी की प्रतीक्षा करे। वस्तुनिष्ठ रूप से उचित आधार हो तो आसन्नता पूरी हुए बिना भी प्रवेश संभव है। (प्रारंभिक अनुवाद·待校)
+पूरक 2 (California की धारा 8102 की आगे की प्रक्रिया): कल्याण व संस्था संहिता की धारा 8102 बंदूक ज़ब्ती पर समाप्त नहीं होती। हिरासत में लिए गए व्यक्ति के अस्पताल से छुट्टी पाने के बाद, प्रवर्तन एजेंसी को वैधानिक अवधि के भीतर उच्च न्यायालय (Superior Court) में सुनवाई का आवेदन करना होता है, और यह अदालत तय करती है कि बंदूक लौटाने से उस व्यक्ति को या दूसरों को ख़तरा होगा या नहीं; यह प्रक्रिया दंड संहिता की धारा 33850 व आगे की बंदूक-वापसी प्रक्रिया से जुड़ती है। (प्रारंभिक अनुवाद·待校)
