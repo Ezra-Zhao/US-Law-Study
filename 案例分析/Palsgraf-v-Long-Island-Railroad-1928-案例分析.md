@@ -62,3 +62,11 @@ Bổ sung: khác biệt giữa Cardozo và Andrews nằm ở cửa phân tích h
 *यह लेख एक व्यक्तिगत अध्ययन नोट है और कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)*
 
 पूरक: Cardozo और Andrews का अंतर निष्कर्ष से अधिक विश्लेषण के द्वार में है। Cardozo कर्तव्य (duty) के चरण पर ही केवल पूर्वानुमेय वादी (foreseeable plaintiff) की रक्षा करते हैं, इसलिए ख़तरे के क्षेत्र से बाहर खड़ी Palsgraf के प्रति कर्तव्य बना ही नहीं। Andrews सबके प्रति कर्तव्य मानकर निकट कारण (proximate cause) पर छानने की बात करते हैं। परीक्षा में दोनों स्थितियों को न मिलाएँ। «अंडे के छिलके वाली खोपड़ी» नियम से भी अंतर रखें — वादी पूर्वानुमेय हो तो क्षति की मात्रा का पूर्वानुमान आवश्यक नहीं। कैलिफ़ोर्निया Rowland v. Christian, 69 Cal.2d 108 (1968) का बहु-कारक संतुलन अपनाता है, पर पूर्वानुमेयता फिर भी पहले स्थान पर है।
+
+---
+
+## 补译增量（2026-11-18 02:55轮）· 한국어 / Tiếng Việt / हिन्दी（细节对齐）
+
+- 한국어: Andrews 반대의견이 제시한 근접원인(proximate cause) 판단 요소 목록은 이후 불법행위 리스테이트먼트(제2판) §431 일대에 흡수되었고, 두 노선은 오늘날까지 미국 불법행위법 교과서의 첫 수업으로 남아 있다. 또한 달걀껍질 두개골 규칙(eggshell skull rule)과 구별해야 한다: 원고 자체는 예견 가능하지만 손해의 정도를 예견할 수 없었던 경우, 피고는 그 손해를 전부 부담한다. (初译待校)
+- Tiếng Việt: Danh sách các yếu tố về quan hệ nhân quả gần (proximate cause) do ý kiến phản đối của Andrews nêu ra về sau được hấp thụ vào Restatement (Second) of Torts quanh mục 431, và hai tuyến lập luận này đến nay vẫn là bài học đầu tiên trong giáo trình luật tort của Hoa Kỳ. Cũng cần phân biệt với quy tắc vỏ trứng (eggshell skull rule): khi nguyên đơn tự thân có thể dự liệu được nhưng mức độ thiệt hại thì không, bị đơn vẫn phải chịu toàn bộ thiệt hại đó. (初译待校)
+- हिन्दी: Andrews के असहमति मत में दी गई निकट कारण (proximate cause) के कारकों की सूची बाद में Restatement (Second) of Torts की धारा 431 के आसपास समाहित हुई, और दोनों मार्ग आज तक अमेरिकी अपकृत्य विधि की पाठ्यपुस्तकों का पहला पाठ बने हैं। इसे eggshell skull नियम से अलग रखना चाहिए: जब वादी स्वयं पूर्वानुमेय हो किंतु क्षति की मात्रा पूर्वानुमेय न हो, तो प्रतिवादी उस क्षति को पूरी तरह वहन करता है। (初译待校)
