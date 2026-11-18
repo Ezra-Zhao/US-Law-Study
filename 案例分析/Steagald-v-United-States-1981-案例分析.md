@@ -1,0 +1,66 @@
+# Steagald v. United States, 451 U.S. 204 (1981) 案例分析：拿着抓甲的逮捕令，能不能进乙的家找人
+
+> 个人学习笔记，不构成法律建议。本案确立的第三人住所搜查令规则仍在适用，具体案件以最新判例与个案事实为准。
+
+## 中文主文
+
+### 一、先定性：这案子护的不是逃犯，是没被指名的人的家
+
+先把分工说清。警察手里有一张有效的逮捕令，要抓的人躲进了别人家里——这张令能不能顺带当进门搜查那个别人家的通行证？本案的答案是不能。要注意，本案保护的对象不是逃犯本人：逃犯在自己家里怎么抓，前一年刚由 Payton v. New York, 445 U.S. 573 (1980) 定版；本案护的是逮捕令上根本没有列名的第三人——房主——的住所隐私。两种令、两种保护对象，混在一起就会读错本案。本篇经 ls 文件名＋git grep 正文双查：Steagald 在全仓零命中，无本体专篇，故一次成篇。
+
+### 二、事实：为抓一个人，把另一个人的家搜了三遍
+
+1978 年 1 月初，联邦缉毒局（DEA）探员 Goodowens 在底特律从线人处得知联邦毒品逃犯 Ricky Lyons 的下落线索。Lyons 身上背着一张已经发出约 6 个月的逮捕令。线索经电话号码追到亚特兰大一带一处住宅——那是 Gary Steagald 等人居住的房子，不是 Lyons 自己的家。探员们带着逮捕令上门，在没有搜查令、没有房主同意、也没有紧急情事的情况下，先后两次进入并搜查这处住宅找 Lyons，人没找到，却在搜查中发现了可卡因等涉罪证据。探员一边派人去申请搜查令，一边又进行搜查；到第三次持搜查令搜查时，查获了 43 磅可卡因。Steagald 因此被控违反联邦毒品法的罪名（涉 21 U.S.C. 第 841(a)(1) 条与第 846 条一带）。他申请压制全部证据，理由是探员从未取得搜查这处住宅的搜查令；地区法院拒绝压制并定罪，第五巡回上诉法院维持。联邦最高法院调卷审理，案号 No. 79-6777，1981 年 1 月 14 日辩论。
+
+### 三、判决：逮捕令护人不护宅，进第三人家要另拿搜查令
+
+1981 年 4 月 21 日，最高法院撤销第五巡回判决并发回。Marshall 大法官执笔多数意见，Brennan、Stewart、Blackmun、Powell、Stevens 五位大法官加入，共 6 人。核心规则一句话：除同意或紧急情事外，执法人员不得仅凭针对某人的逮捕令，搜查第三人的住宅去找这个人；要进门，先取得搜查令。
+
+多数意见的道理分三层。第一层是两种令的功能分工：逮捕令由法官基于「有相当理由相信令上的人犯了罪」发出，它保护的是那个人免于不合理扣押的自由；搜查令由法官基于「有相当理由相信要找的人或物就在某个特定地点」发出，它保护的是住所里的人免于住所与财物被无理侵入的隐私。同一位法官、同一道相当理由审查，保护的东西完全不同。第二层是射程：那张逮捕令对 Lyons 的自由做了审查，却对 Steagald 的住所隐私什么都没有审查、什么都没有保护——拿它进 Steagald 的家，等于这处住宅从未经过任何司法审查就被搜了，与完全无令搜查没有区别。第三层是法院拒绝的滑坡：如果逮捕令可以开任何第三人家的门，那么任何人的住所隐私，都将取决于警察认为哪个逃犯可能藏在他家，第四修正案对住所的特别保护会被一张写着别人名字的令掏空。法院同时安抚执法一侧：这道要求不会实质妨碍执法——逮捕令本身足以进入被捕人自己的住所抓人，在公共场所抓捕有相当理由的嫌疑人则根本不需要令；多走一步向法官说明「有相当理由相信逃犯就在这处住宅」，换一张搜查令，仅此而已。
+
+### 四、与 Payton 的分工：自己家一张令，别人家两张令
+
+本案必须与 Payton v. New York, 445 U.S. 573 (1980) 对读，两案只隔 1 年（1981－1980＝1，本地复算两遍一致），合起来才是完整的入室抓人规则。Payton 管被捕人自己的家：有逮捕令、且有理由相信被捕人当时就在自己家里，警察可以入室抓人，逮捕令即已足够，不必再拿搜查令。Steagald 管第三人的家：被抓的人不住在这里，这里是另一个无辜者的家，进门找人必须另有搜查令（或同意、紧急情事）。记忆口诀是「人归逮捕令、宅归搜查令」：令要进的是谁的家，就要为那个家的隐私过一道法官审查。还要注意本案的救济落点：Steagald 本人正是用压制（排除违法搜查所得证据）来主张权利的，地区法院拒绝压制、最高法院撤销定罪一线，说明第三人房主对违法入室搜查的救济就是证据排除，而不是只能事后另诉。
+
+### 五、加州落点与实务要点
+
+加州的住所保护与联邦同线：加州《宪法》第一条第 13 条的搜查扣押条款与联邦第四修正案同向，挑战入室搜查合法性走《刑法典》第 1538.5 条的压制申请。实务要点有三。其一，警察一侧：掌握逃犯藏匿线索后，申请文件要写清「有相当理由相信逃犯就在这处特定住宅」，把线索的新鲜度、与该住宅的关联写实，逮捕令复印件不能替代这部分陈述。其二，房主一侧：开门时先问清对方拿的是逮捕令还是搜查令、令上写的是谁与哪个地址；不同意搜查要当场明说并留痕，但不得以身体阻挡执法。其三，辩护一侧：压制申请的攻防焦点通常落在三格——被搜的到底是不是第三人住所（逃犯是否在此实际居住）、有没有真实同意、有没有真正的紧急情事；只要其中一格站不住，Steagald 的规则就被绕开，所以这三格的事实必须在听证上逐项钉死。算例：2026－1981＝45，本案判决至今 45 年，仍是入室抓人搜查令规则的日常引用；第三次搜查查获的可卡因是 43 磅，这个数字只出现在持搜查令的那一次搜查里，恰好反衬前两次无令搜查的问题所在（算例本地复算两遍一致）。
+
+*声明：个人学习笔记，不构成法律建议。来源：Steagald v. United States, 451 U.S. 204 (1981)（No. 79-6777，1981 年 4 月 21 日判决）；Payton v. New York, 445 U.S. 573 (1980)；加州《宪法》第一条第 13 条；加州《刑法典》第 1538.5 条。*
+
+---
+
+## English
+
+Steagald v. United States, 451 U.S. 204 (1981) (No. 79-6777, argued January 14, 1981, decided April 21, 1981), holds that, absent consent or exigent circumstances, officers may not search a third party's home for the subject of an arrest warrant without first obtaining a search warrant. Acting on an informant's tip, DEA agents learned that federal fugitive Ricky Lyons — the subject of a six-month-old arrest warrant — might be at a house in the Atlanta area occupied by Gary Steagald and others. Without a search warrant, the agents twice entered and searched the home for Lyons; they did not find him, but they found cocaine and other incriminating evidence, and a third search, conducted under a search warrant, uncovered 43 pounds of cocaine. Steagald was convicted on federal drug charges after the district court denied his motion to suppress, and the Fifth Circuit affirmed. The Supreme Court reversed in an opinion by Justice Marshall, joined by Justices Brennan, Stewart, Blackmun, Powell and Stevens. The reasoning turns on what each warrant protects: an arrest warrant, issued on probable cause to believe the named person committed an offense, protects that person against unreasonable seizure of his body; a search warrant, issued on probable cause to believe the object of the search is in a particular place, protects the privacy of the home. The arrest warrant for Lyons therefore did absolutely nothing to protect Steagald's privacy in his own home, and letting it open any third party's door would make every homeowner's Fourth Amendment rights depend on which fugitive the police think might be inside. The burden is modest: an arrest warrant alone suffices to enter the suspect's own home (Payton v. New York, 445 U.S. 573 (1980), decided one year earlier), and no warrant is needed to arrest in a public place. California follows the same line: challenges proceed by a suppression motion under Penal Code § 1538.5, and litigation usually turns on whether the place was truly a third party's home, whether consent was real, and whether a genuine exigency existed. The arithmetic checks out twice: 2026 − 1981 = 45 years since the decision, and 1981 − 1980 = 1 year between Payton and Steagald. *Personal study notes only; not legal advice.*
+
+---
+
+## Español — traducción de estudio (初译待校)
+
+Steagald v. United States, 451 U.S. 204 (1981) (n.º 79-6777, discutido el 14 de enero de 1981 y resuelto el 21 de abril de 1981) establece que, sin consentimiento ni circunstancias exigentes, la policía no puede registrar la vivienda de un tercero para buscar al sujeto de una orden de arresto sin obtener antes una orden de registro. Por un aviso de un informante, agentes de la DEA supieron que Ricky Lyons, fugitivo federal con una orden de arresto de unos seis meses de antigüedad, podía estar en una casa del área de Atlanta ocupada por Gary Steagald y otras personas. Sin orden de registro, los agentes entraron dos veces y registraron la casa en busca de Lyons; no lo hallaron, pero encontraron cocaína y otras pruebas, y un tercer registro, ya con orden de registro, descubrió 43 libras de cocaína. Steagald fue condenado por delitos federales de drogas tras denegarse su petición de supresión, y el Quinto Circuito confirmó. La Corte Suprema revocó, con ponencia del juez Marshall y adhesión de Brennan, Stewart, Blackmun, Powell y Stevens. La clave es qué protege cada orden: la orden de arresto, emitida con causa probable de que la persona nombrada cometió un delito, protege a esa persona frente a una captura irrazonable; la orden de registro, emitida con causa probable de que lo buscado está en un lugar concreto, protege la privacidad del hogar. La orden contra Lyons no protegía en absoluto la privacidad de Steagald en su propia casa, y permitir que abriera la puerta de cualquier tercero haría depender los derechos de cada propietario de qué fugitivo crea la policía que puede estar dentro. La carga es modesta: la orden de arresto basta para entrar en la casa del propio sospechoso (Payton v. New York, 445 U.S. 573 (1980), resuelto un año antes) y no se necesita orden alguna para arrestar en un lugar público. California sigue la misma línea: la impugnación se tramita por la moción de supresión del § 1538.5 del Código Penal, y el litigio suele girar sobre si el lugar era realmente vivienda de un tercero, si el consentimiento fue real y si existió una exigencia genuina. Aritmética verificada dos veces: 2026 − 1981 = 45 años desde la sentencia, y 1981 − 1980 = 1 año entre Payton y Steagald. *Notas personales de estudio; no constituye asesoramiento legal.*
+
+---
+
+## 한국어 — 초역, 교정 대기 중 (初译待校)
+
+Steagald v. United States, 451 U.S. 204 (1981)(사건번호 79-6777, 1981년 1월 14일 변론, 1981년 4월 21일 판결)는 동의나 긴급한 상황이 없는 한, 체포영장의 대상자를 찾기 위해 제3자의 주거를 수색하려면 먼저 수색영장을 받아야 한다고 판시했습니다. 정보원의 제보로 연방 마약단속국(DEA) 요원들은 약 6개월 전에 발부된 체포영장의 대상인 연방 도주범 Ricky Lyons가 Gary Steagald 등이 사는 애틀랜타 인근 주택에 있을 수 있다는 것을 알았습니다. 요원들은 수색영장 없이 두 차례 그 집에 들어가 Lyons를 찾았으나 찾지 못했고, 대신 코카인과 다른 유죄 증거를 발견했으며, 수색영장을 받아 실시한 세 번째 수색에서 코카인 43파운드가 나왔습니다. Steagald는 증거배제 신청이 기각된 뒤 연방 마약 혐의로 유죄를 받았고, 제5순회 법원이 이를 유지했습니다. 연방대법원은 Marshall 대법관이 작성하고 Brennan, Stewart, Blackmun, Powell, Stevens 대법관이 합류한 의견으로 원심을 뒤집었습니다. 핵심은 각 영장이 무엇을 보호하는가입니다. 지명된 사람이 범죄를 저질렀다는 상당한 이유(probable cause)로 발부되는 체포영장은 그 사람의 신체가 부당하게 붙잡히지 않을 자유를 보호하고, 찾으려는 대상이 특정 장소에 있다는 상당한 이유로 발부되는 수색영장은 주거의 사생활을 보호합니다. 따라서 Lyons에 대한 체포영장은 Steagald 자기 집의 사생활을 전혀 보호하지 못했고, 그 영장으로 아무 제3자의 집 문이나 열 수 있게 하면 모든 집주인의 수정헌법 제4조 권리가 경찰이 어떤 도주범이 안에 있다고 생각하는지에 달리게 됩니다. 부담은 크지 않습니다. 체포영장만으로 용의자 본인의 집에는 들어갈 수 있고(Payton v. New York, 445 U.S. 573 (1980), 1년 먼저 판결), 공공장소에서의 체포에는 영장이 필요 없습니다. 캘리포니아도 같은 선상에 있습니다. 다툼은 형법 §1538.5의 증거배제 신청으로 진행되며, 소송은 보통 그 장소가 정말 제3자의 주거였는지, 동의가 진짜였는지, 진정한 긴급 상황이 있었는지를 둘러싸고 벌어집니다. 산수는 두 번 검산해 일치합니다. 판결 후 2026 − 1981 = 45년, Payton과 Steagald 사이 1981 − 1980 = 1년입니다. (초역, 원어민 감수 대기)
+
+---
+
+## Tiếng Việt — bản dịch sơ bộ, chờ hiệu đính (初译待校)
+
+Steagald v. United States, 451 U.S. 204 (1981) (số 79-6777, tranh luận ngày 14 tháng 1 năm 1981, phán quyết ngày 21 tháng 4 năm 1981) khẳng định rằng, khi không có sự đồng ý hoặc tình huống khẩn cấp, cảnh sát không được khám nhà của người thứ ba để tìm đối tượng của một lệnh bắt mà không xin lệnh khám trước. Nhờ tin báo của một người cung cấp thông tin, các đặc vụ DEA biết rằng Ricky Lyons, kẻ trốn truy nã liên bang với lệnh bắt đã ban hành khoảng sáu tháng, có thể đang ở một ngôi nhà tại khu vực Atlanta do Gary Steagald và những người khác cư trú. Không có lệnh khám, các đặc vụ hai lần vào khám nhà để tìm Lyons; họ không tìm thấy anh ta, nhưng phát hiện cocaine và các chứng cứ buộc tội khác, và lần khám thứ ba, thực hiện theo lệnh khám, đã phát hiện 43 pound cocaine. Steagald bị kết án về các tội ma túy liên bang sau khi yêu cầu loại trừ chứng cứ bị bác, và Tòa khu vực 5 giữ nguyên. Tòa án Tối cao đã hủy án, theo ý kiến của Thẩm phán Marshall với sự tham gia của các Thẩm phán Brennan, Stewart, Blackmun, Powell và Stevens. Điểm mấu chốt là mỗi loại lệnh bảo vệ điều gì: lệnh bắt, ban hành khi có căn cứ hợp lý (probable cause) tin rằng người bị nêu tên đã phạm tội, bảo vệ người đó khỏi việc bị bắt giữ thân thể một cách bất hợp lý; lệnh khám, ban hành khi có căn cứ hợp lý tin rằng đối tượng cần tìm ở một địa điểm cụ thể, bảo vệ sự riêng tư của ngôi nhà. Vì vậy lệnh bắt Lyons hoàn toàn không bảo vệ quyền riêng tư của Steagald trong chính nhà mình, và nếu để nó mở cửa nhà của bất kỳ người thứ ba nào thì quyền theo Tu chính án thứ tư của mọi chủ nhà sẽ phụ thuộc vào việc cảnh sát nghĩ kẻ trốn truy nã nào có thể ở bên trong. Gánh nặng này không lớn: chỉ lệnh bắt là đủ để vào nhà của chính nghi phạm (Payton v. New York, 445 U.S. 573 (1980), phán quyết trước đó một năm), và bắt giữ nơi công cộng thì không cần lệnh nào. California đi theo cùng một đường: việc tranh chấp tiến hành qua yêu cầu loại trừ chứng cứ theo Điều 1538.5 Bộ luật Hình sự, và tranh tụng thường xoay quanh việc nơi đó có thực sự là nhà của người thứ ba hay không, sự đồng ý có thật hay không, và có tình huống khẩn cấp thực sự hay không. Phép tính đã kiểm tra hai lần: 2026 − 1981 = 45 năm kể từ phán quyết, và 1981 − 1980 = 1 năm giữa Payton và Steagald. (bản dịch sơ bộ, chờ hiệu đính)
+
+---
+
+## हिन्दी — प्रारंभिक अनुवाद, समीक्षा लंबित (初译待校)
+
+Steagald v. United States, 451 U.S. 204 (1981) (संख्या 79-6777, बहस 14 जनवरी 1981, निर्णय 21 अप्रैल 1981) यह स्थापित करता है कि सहमति या आपात परिस्थितियों के अभाव में, गिरफ़्तारी वारंट के 대상 को खोजने के लिए किसी तीसरे पक्ष के घर की तलाशी लेने से पहले तलाशी वारंट लेना अनिवार्य है। एक मुखबिर की सूचना पर DEA एजेंटों को पता चला कि Ricky Lyons — एक संघीय भगोड़ा, जिसके विरुद्ध लगभग छह महीने पुराना गिरफ़्तारी वारंट था — Atlanta क्षेत्र के एक घर में हो सकता है, जहाँ Gary Steagald और अन्य लोग रहते थे। बिना तलाशी वारंट के एजेंट दो बार घर में घुसे और Lyons को खोजा; वह नहीं मिला, लेकिन कोकीन और अन्य दोषसिद्धि-सामग्री मिली, और तलाशी वारंट के तहत हुई तीसरी तलाशी में 43 पाउंड कोकीन बरामद हुई। साक्ष्य दबाने का आवेदन ख़ारिज होने के बाद Steagald को संघीय नशीली-दवा अपराधों में दोषी ठहराया गया और पाँचवें सर्किट ने इसे बरक़रार रखा। सर्वोच्च न्यायालय ने न्यायमूर्ति Marshall के मत से, जिसमें न्यायमूर्ति Brennan, Stewart, Blackmun, Powell और Stevens शामिल हुए, निर्णय पलट दिया। मूल बात यह है कि प्रत्येक वारंट किसकी रक्षा करता है: नामित व्यक्ति ने अपराध किया है, इस संभावित कारण (probable cause) पर जारी गिरफ़्तारी वारंट उस व्यक्ति को अनुचित शारीरिक अभिग्रहण से बचाता है; जबकि खोजी जाने वाली वस्तु किसी विशेष स्थान पर है, इस संभावित कारण पर जारी तलाशी वारंट घर की निजता की रक्षा करता है। इसलिए Lyons के विरुद्ध वारंट ने Steagald की अपने ही घर की निजता की बिल्कुल कोई रक्षा नहीं की, और यदि वह किसी भी तीसरे पक्ष का दरवाज़ा खोल दे, तो हर गृहस्वामी के चौथे संशोधन अधिकार इस पर निर्भर हो जाएँगे कि पुलिस किस भगोड़े को अंदर समझती है। बोझ मामूली है: केवल गिरफ़्तारी वारंट से संदिग्ध के अपने घर में प्रवेश किया जा सकता है (Payton v. New York, 445 U.S. 573 (1980), एक वर्ष पहले निर्णीत), और सार्वजनिक स्थान पर गिरफ़्तारी के लिए किसी वारंट की आवश्यकता नहीं है। California भी इसी रेखा पर है: विवाद Penal Code § 1538.5 के तहत साक्ष्य-दमन आवेदन से चलता है, और मुक़दमा प्रायः इस पर घूमता है कि वह स्थान सचमुच किसी तीसरे पक्ष का घर था या नहीं, सहमति वास्तविक थी या नहीं, और कोई वास्तविक आपात स्थिति थी या नहीं। गणना दो बार जाँचकर सही पाई गई: निर्णय से 2026 − 1981 = 45 वर्ष, और Payton तथा Steagald के बीच 1981 − 1980 = 1 वर्ष। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+*声明：个人学习笔记，不构成法律建议。*
+*Personal study notes only; not legal advice.*
+*Notas personales de estudio; no constituye asesoramiento legal.*
+*개인 학습 노트이며 법률 자문이 아닙니다.*
+*Ghi chép học tập cá nhân, không phải tư vấn pháp lý.*
+*व्यक्तिगत अध्ययन नोट, कानूनी सलाह नहीं।*
