@@ -84,3 +84,24 @@ Este artículo es una nota de estudio personal y no constituye asesoría legal. 
 Bài viết này là ghi chép học tập cá nhân, không phải tư vấn pháp lý. (bản dịch sơ bộ, chờ hiệu đính)
 
 यह लेख व्यक्तिगत अध्ययन नोट है, कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+## 补译增量（2026-11-18 14:55 轮）
+
+### 한국어 (初译待校)
+
+보충 1 — 국장은 십년 인구조사만이 아니라 중간 조사와 특별 인구조사도 실시합니다: 제13편 제141조 제(a)항의 십년 인구조사 외에도, 국장은 같은 편의 권한으로 중간 조사(interim surveys)와 특별 인구조사(special censuses)를 실시하므로, 수집 권한이라는 기둥은 십 년에 한 번의 행사만이 아니라 상시 가동되는 조사 체계를 포함합니다. (初译待校)
+
+보충 2 — 비밀의 벽이 지켜 온 것은 신뢰라는 자산입니다: 대중은 기입한 내용이 세무 조사나 체포에 쓰이지 않는다고 믿기 때문에 응답률과 자료의 질이 유지됩니다. 역사적으로 인구조사 자료를 법 집행기관에 빌려준 논란이 한 번이라도 생기면, 그 신뢰 비용은 제도적 기억 속에 오래 남습니다(증거 등급 B: 제도사에 대한 통설적 평가). (初译待校)
+
+### Tiếng Việt (初译待校)
+
+Bổ sung 1 — Cục trưởng không chỉ làm cuộc điều tra mười năm: ngoài cuộc tổng điều tra mười năm theo Điều 141(a) của Title 13, Cục trưởng còn tiến hành các cuộc điều tra giữa kỳ và điều tra dân số đặc biệt theo thẩm quyền của cùng Title này, nên trụ cột thẩm quyền thu thập bao gồm một hệ thống điều tra vận hành thường xuyên, không chỉ là sự kiện mười năm một lần. (初译待校)
+
+Bổ sung 2 — Điều bức tường bảo mật gìn giữ là tài sản niềm tin: công chúng tin rằng những gì mình điền sẽ không bị dùng để kiểm tra thuế hay bắt người, nên tỷ lệ hồi đáp và chất lượng dữ liệu mới giữ được; trong lịch sử, mỗi lần tranh cãi về việc cho cơ quan thực thi pháp luật mượn dữ liệu điều tra đều để lại chi phí niềm tin lâu dài trong ký ức thể chế (mức chứng cứ B: đánh giá phổ biến về lịch sử thể chế). (初译待校)
+
+### हिन्दी (初译待校)
+
+पूरक 1 — निदेशक केवल दस-वर्षीय जनगणना ही नहीं करता: Title 13 की धारा 141(a) की दस-वर्षीय जनगणना के अलावा, निदेशक उसी Title के अधिकार से मध्यवर्ती सर्वेक्षण और विशेष जनगणनाएँ भी करता है, इसलिए संग्रह-प्राधिकार वाला स्तंभ दस वर्ष में एक बार की घटना नहीं, बल्कि निरंतर चलने वाली सर्वेक्षण व्यवस्था है। (初译待校)
+
+पूरक 2 — गोपनीयता की दीवार जिस संपत्ति की रक्षा करती है वह विश्वास है: जनता मानती है कि भरी गई जानकारी कर-जाँच या गिरफ़्तारी में नहीं जाएगी, तभी उत्तर-दर और डेटा की गुणवत्ता बनी रहती है; इतिहास में जनगणना डेटा को प्रवर्तन एजेंसियों को देने का हर विवाद संस्थागत स्मृति में लंबे समय तक रहने वाली विश्वास-लागत छोड़ गया है (साक्ष्य स्तर B: संस्थागत इतिहास का प्रचलित मूल्यांकन)। (初译待校)
+
