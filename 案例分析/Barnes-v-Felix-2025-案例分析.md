@@ -78,3 +78,21 @@ California में § 1983 का मुक़दमा नौवें सर
 *개인 학습 노트이며 법률 자문이 아닙니다. 구체적인 사안은 자격 있는 변호사에게 상담하십시오. (초역, 원어민 감수 대기)*
 *Ghi chú học tập cá nhân, không cấu thành tư vấn pháp lý. Với trường hợp cụ thể, hãy tham vấn luật sư có giấy phép hành nghề. (bản dịch sơ bộ, chờ hiệu đính)*
 *यह व्यक्तिगत अध्ययन नोट है और कानूनी सलाह नहीं है। किसी विशिष्ट मामले के लिए लाइसेंस-प्राप्त वकील से परामर्श करें। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)*
+
+
+## 补译增量（2026-11-18 01:55轮）
+
+### 한국어 (초역)
+
+- 보충 1 — 대마 냄새와 발견되지 않은 마약. Felix는 Barnes에게서 대마 냄새가 났다고 나중에 진술했지만, 사후 수색에서 차 안에서도 Barnes의 몸에서도 마약은 발견되지 않았습니다. 이 세부 사실은 정지 이유의 무게를 평가할 때 전체 정황의 일부를 이룹니다. (초역)
+- 보충 2 — Graham의 세 요소. Graham v. Connor, 490 U.S. 386 (1989)의 객관적 합리성 심사는 적어도 세 가지를 봅니다. 관련 범죄의 심각성, 용의자가 즉각적인 위협을 가하는지, 체포에 저항하거나 도주하는지입니다. 이 요소들은 발포 전 몇 초로 한정된 적이 없으며, 2025 − 1989 = 36년이 지나 Barnes 판결에 이르렀습니다. (초역)
+
+### Tiếng Việt (bản dịch sơ bộ)
+
+- Bổ sung 1 — Mùi cần sa và việc không tìm thấy ma túy. Felix sau đó nói rằng mình ngửi thấy mùi cần sa từ Barnes, nhưng cuộc khám xét sau đó không tìm thấy ma túy trong xe hay trên người Barnes. Chi tiết này là một phần của toàn bộ hoàn cảnh khi đánh giá trọng lượng của lý do chặn xe. (bản dịch sơ bộ)
+- Bổ sung 2 — Ba yếu tố của Graham. Việc xét tính hợp lý khách quan theo Graham v. Connor, 490 U.S. 386 (1989) nhìn vào ít nhất ba điều: mức nghiêm trọng của tội liên quan, nghi phạm có tạo ra mối đe dọa tức thì hay không, và có chống cự bắt giữ hay bỏ trốn hay không. Các yếu tố này chưa bao giờ bị giới hạn trong vài giây trước khi nổ súng, và đã qua 2025 − 1989 = 36 năm tính đến phán quyết Barnes. (bản dịch sơ bộ)
+
+### हिन्दी (प्रारंभिक अनुवाद)
+
+- पूरक 1 — भांग की गंध और कोई मादक पदार्थ न मिलना। Felix ने बाद में कहा कि उसे Barnes से भांग की गंध आई थी, किंतु बाद की तलाशी में न कार में और न Barnes के पास कोई मादक पदार्थ मिला। यह विवरण रोक के कारण का भार तौलते समय परिस्थितियों की समग्रता का हिस्सा है। (प्रारंभिक अनुवाद)
+- पूरक 2 — Graham के तीन तत्व। Graham v. Connor, 490 U.S. 386 (1989) की वस्तुनिष्ठ युक्तियुक्तता कम से कम तीन बातें देखती है: संबंधित अपराध की गंभीरता, क्या संदिग्ध तत्काल ख़तरा पैदा करता है, और क्या वह गिरफ़्तारी का विरोध या भागने का प्रयास करता है। ये तत्व कभी गोलीबारी से पहले के कुछ सेकंड तक सीमित नहीं रहे, और Barnes निर्णय तक 2025 − 1989 = 36 वर्ष बीत चुके थे। (प्रारंभिक अनुवाद)
