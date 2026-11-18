@@ -73,3 +73,26 @@
 **निर्णय**: संघीय साक्ष्य नियम 704(b) विशेषज्ञ को «प्रतिवादी» की अपनी मानसिक स्थिति पर राय देने से रोकता है, परंतु किसी समूह के अधिकांश लोगों की मानसिक स्थिति पर राय प्रतिवादी पर राय नहीं है। विशेषज्ञ अब भी यह नहीं कह सकता कि «इस प्रतिवादी को पता था»। कैलिफ़ोर्निया के राज्य न्यायालय संघीय नियमों के बजाय साक्ष्य संहिता §§ 800-805 लागू करते हैं।
 
 *व्यक्तिगत अध्ययन टिप्पणी, कानूनी सलाह नहीं। प्रारंभिक अनुवाद, संशोधन अपेक्षित।*
+
+
+## 补译增量（2026-11-17 17:55轮）
+
+本节为存量补译：以下两项细节中文主文已有、韩越印三语旧译同缺，现补齐；纯增量，不删改原文。
+
+### 한국어 (초역·교정 대기)
+
+**보충 1 — 심리 경과와 Jackson 별개 의견**: 이 사건은 2024년 3월 19일에 변론이 열렸습니다. 다수 의견에는 Roberts 대법원장과 Alito, Kavanaugh, Barrett, Jackson 대법관이 합류했고, Jackson 대법관은 별도의 별개 의견(concurrence)을 냈습니다. 반대 의견은 Gorsuch 대법관이 쓰고 Sotomayor와 Kagan 대법관이 합류했습니다.
+
+**보충 2 — 변호 측의 다음 전장과 캘리포니아 형법전 제29조**: 이 판결로 제704(b)조가 사라진 것은 아닙니다. 변호 측의 이후 전장은 관련성과 편견의 형량(제403조), 전문가 신뢰성(제702조와 Daubert 기준), 그리고 제한적 배심 지시의 요구로 옮겨 갑니다. 캘리포니아 주 사건에서 피고인의 심리 상태에 관한 전문가 증언은 《형법전》 제29조 등의 별도 규칙의 제한도 받으므로, 연방과 주의 두 장부를 섞지 마십시오.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+**Bổ sung 1 — Diễn tiến tranh tụng và ý kiến đồng tình của Jackson**: Vụ án được tranh tụng ngày 19 tháng 3 năm 2024. Ý kiến đa số có Chánh án Roberts và các Thẩm phán Alito, Kavanaugh, Barrett, Jackson tham gia, và Thẩm phán Jackson còn viết ý kiến đồng tình (concurrence) riêng. Ý kiến phản đối do Thẩm phán Gorsuch viết, có Sotomayor và Kagan tham gia.
+
+**Bổ sung 2 — Chiến trường tiếp theo của bên bào chữa và Điều 29 Bộ luật Hình sự California**: Phán quyết này không xóa bỏ Điều 704(b). Chiến trường sau đó của bên bào chữa chuyển sang cân đo tính liên quan và thành kiến (Điều 403), độ tin cậy của chuyên gia (Điều 702 và chuẩn Daubert), và yêu cầu chỉ thị bồi thẩm đoàn mang tính giới hạn. Trong vụ án cấp bang ở California, lời khai chuyên gia về trạng thái tâm lý của bị cáo còn chịu giới hạn của các quy tắc riêng như Điều 29 của Bộ luật Hình sự, nên đừng trộn hai sổ sách liên bang và bang.
+
+### हिन्दी (प्रारंभिक अनुवाद, संशोधन अपेक्षित)
+
+**पूरक 1 — सुनवाई की प्रक्रिया और Jackson की सहमति राय**: इस मामले की बहस 19 मार्च 2024 को हुई। बहुमत राय में मुख्य न्यायाधीश Roberts और न्यायाधीश Alito, Kavanaugh, Barrett और Jackson शामिल हुए, और न्यायाधीश Jackson ने अलग सहमति राय (concurrence) भी लिखी। असहमति राय न्यायाधीश Gorsuch ने लिखी, जिसमें Sotomayor और Kagan शामिल हुए।
+
+**पूरक 2 — बचाव पक्ष का अगला मोर्चा और California Penal Code अनुच्छेद 29**: इस निर्णय से अनुच्छेद 704(b) समाप्त नहीं हुआ। बचाव पक्ष का आगे का मोर्चा प्रासंगिकता और पूर्वाग्रह का तौल (अनुच्छेद 403), विशेषज्ञ विश्वसनीयता (अनुच्छेद 702 और Daubert मानक), और सीमित निर्णायक-मंडल निर्देश की माँग की ओर जाता है। California के राज्य मामलों में प्रतिवादी की मानसिक स्थिति पर विशेषज्ञ गवाही Penal Code अनुच्छेद 29 जैसी अलग नियमावली से भी सीमित रहती है, इसलिए संघीय और राज्य की दो किताबें न मिलाएँ।
