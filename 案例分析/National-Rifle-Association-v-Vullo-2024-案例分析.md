@@ -69,3 +69,23 @@ National Rifle Association of America v. Vullo, 602 U.S. 175 (2024) (संख�
 ## 免责声明（六语）
 
 中文：个人学习笔记，不构成法律建议。｜ English: Personal study notes; not legal advice. ｜ Español: Notas de estudio personal; no es asesoría legal. (初译待校) ｜ 한국어: 개인 학습 노트이며 법률 조언이 아닙니다. (初译待校) ｜ Tiếng Việt: Ghi chép học tập cá nhân, không phải tư vấn pháp lý. (初译待校) ｜ हिन्दी: व्यक्तिगत अध्ययन नोट्स; कानूनी सलाह नहीं है। (初译待校)
+
+
+## 补译增量（2026-11-18 08:55 轮）
+
+本节为韩／越／印三语补译增量，各补 2 项中文主文已有、三语旧译同缺的细节，只译已有事实、不新增事实。一、豁免未决组：发回后 NRA 仍须在事实审理中证明指控属实；有限豁免（qualified immunity）问题不在本次调卷范围内，法院未作裁决。二、加州机构与州宪法组：加州保险部与金融保护与创新部（DFPI）等机构同样受约束，加州宪法第一条第 2 款的言论自由条款另设州法账、保护下限不低于联邦。
+
+### 한국어 (初译待校)
+
+- 면책 미결: 환송 후에도 NRA는 사실심에서 주장을 입증해야 하며, 한정 면책(qualified immunity) 문제는 이번 상고 허가 범위에 없어 법원이 판단하지 않았다.
+- 캘리포니아 기관과 주 헌법: 캘리포니아 보험부와 금융보호혁신부(DFPI) 같은 기관도 똑같이 구속되며, 캘리포니아 헌법 제1조 제2항의 언론 자유 조항은 별도의 주법상 장부를 두고 보호 하한은 연방보다 낮지 않다.
+
+### Tiếng Việt (初译待校)
+
+- Miễn trừ chưa quyết: sau khi hồ sơ trở lại, NRA vẫn phải chứng minh các cáo buộc trong giai đoạn xét xử thực tế; vấn đề miễn trừ hạn chế (qualified immunity) không nằm trong phạm vi chấp nhận xem xét lần này và Tòa không phán quyết.
+- Cơ quan California và hiến pháp bang: các cơ quan như Sở Bảo hiểm California và Sở Bảo vệ Tài chính và Đổi mới (DFPI) cũng bị ràng buộc như vậy; điều khoản tự do ngôn luận tại Điều I, mục 2 của Hiến pháp California lập một sổ sách luật bang riêng, với mức bảo vệ tối thiểu không thấp hơn liên bang.
+
+### हिन्दी (初译待校)
+
+- उन्मुक्ति अनिर्णीत: वापसी के बाद भी NRA को तथ्य-विचारण में अपने आरोप साबित करने होंगे; सीमित उन्मुक्ति (qualified immunity) का प्रश्न इस बार की समीक्षा-स्वीकृति के दायरे में नहीं था और न्यायालय ने उस पर निर्णय नहीं दिया।
+- California संस्थाएँ और राज्य संविधान: California बीमा विभाग और वित्तीय संरक्षण व नवाचार विभाग (DFPI) जैसी संस्थाएँ भी उसी प्रकार बाध्य हैं; California संविधान के अनुच्छेद I, धारा 2 का वाक्-स्वतंत्रता प्रावधान अलग राज्य-कानून खाता रखता है, जिसकी संरक्षण-न्यूनतम सीमा संघीय स्तर से कम नहीं है।
