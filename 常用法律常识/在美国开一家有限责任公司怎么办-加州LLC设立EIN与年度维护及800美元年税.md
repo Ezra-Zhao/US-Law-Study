@@ -97,3 +97,23 @@ Este artículo es una nota de estudio personal y no constituye asesoría legal. 
 Bài viết này là ghi chép học tập cá nhân, không phải tư vấn pháp lý. (bản dịch sơ bộ, chờ hiệu đính)
 
 यह लेख व्यक्तिगत अध्ययन नोट है, कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+## 补译增量（2026-11-18 18:55 轮）
+
+### 한국어 (初译待校)
+
+보충 1 — EIN 온라인 신청에는 조건이 하나 더 있다. 신청을 맡은 책임자는 SSN이나 ITIN을 갖고 있어야 하며, 둘 다 없는 경우에는 SS-4 양식을 팩스나 우편으로 보내는 경로를 이용하는데, 이 경로 역시 무료이다. (初译待校)
+
+보충 2 — 취소 단계에서 주무장관에게 내는 서류의 이름도 정해져 있다. Certificate of Cancellation(취소 증서, 양식 LLC-4/3 부근, 주무장관의 현행 양식이 기준)이며, 여기에 FTB와의 세금 정산과 최종 신고까지 마쳐야 취소가 완성된다. (初译待校)
+
+### Tiếng Việt (初译待校)
+
+Bổ sung 1 — Đơn xin EIN trực tuyến còn một điều kiện nữa: người phụ trách nộp đơn phải có SSN hoặc ITIN; ai không có cả hai thì dùng đường fax hoặc đường bưu điện với mẫu SS-4, và đường này cũng miễn phí. (初译待校)
+
+Bổ sung 2 — Giấy tờ nộp cho Thư ký bang ở bước hủy bỏ cũng có tên gọi cố định: Giấy chứng nhận Hủy bỏ (Certificate of Cancellation, mẫu LLC-4/3 và quanh đó, theo mẫu hiện hành của Thư ký bang), và việc hủy bỏ chỉ hoàn tất khi đã thanh toán xong với FTB và nộp tờ khai cuối cùng. (初译待校)
+
+### हिन्दी (初译待校)
+
+पूरक 1 — EIN के ऑनलाइन आवेदन में एक शर्त और है: आवेदन करने वाले ज़िम्मेदार व्यक्ति के पास SSN या ITIN होना चाहिए; जिसके पास दोनों न हों, वह SS-4 फ़ॉर्म फैक्स या डाक से भेजने का मार्ग अपनाता है, और वह मार्ग भी निःशुल्क है। (初译待校)
+
+पूरक 2 — निरसन के चरण में राज्य सचिव को दिए जाने वाले दस्तावेज़ का नाम भी निश्चित है: Certificate of Cancellation (निरसन प्रमाणपत्र, फ़ॉर्म LLC-4/3 के आसपास, राज्य सचिव का वर्तमान फ़ॉर्म मान्य), और निरसन तभी पूर्ण होता है जब FTB से कर निपटान और अंतिम रिटर्न भी पूरा हो जाए। (初译待校)
