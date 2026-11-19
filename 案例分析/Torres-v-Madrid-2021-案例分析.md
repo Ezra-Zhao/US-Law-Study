@@ -57,3 +57,22 @@ Rạng sáng ngày 15 tháng 7 năm 2014, cảnh sát bang New Mexico đến m�
 本文为个人学习笔记，不构成法律建议；具体案件请咨询持牌律师。
 
 This article is a personal study note, not legal advice.
+
+---
+
+## 补译增量（2026-11-19 04:55轮）
+
+### 한국어 (초역, 교정 대기)
+
+1. 사건 번호와 변론일: 이 사건의 사건 번호는 19-292이고, 2020년 10월 14일에 구두 변론이 열렸으며, 판결은 2021년 3월 25일에 선고되었습니다.
+2. Hodari D.의 사실관계: California v. Hodari D., 499 U.S. 621 (1991)에서는 한 소년이 경찰의 추격을 받던 중 마약을 버렸고, 당시 경찰은 아직 그에게 닿지 않았고 그도 굴복하지 않은 상태였습니다. 그래서 버려진 물건은 seizure의 열매로 취급되지 않았습니다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+1. Số vụ án và ngày tranh luận: vụ án này mang số 19-292, được tranh luận miệng vào ngày 14 tháng 10 năm 2020 và được phán quyết vào ngày 25 tháng 3 năm 2021.
+2. Tình tiết của Hodari D.: trong California v. Hodari D., 499 U.S. 621 (1991), một thiếu niên đã vứt bỏ ma túy trong lúc bị cảnh sát truy đuổi, khi cảnh sát chưa chạm vào cậu ta và cậu ta cũng chưa khuất phục, nên vật bị vứt bỏ không được coi là quả của một vụ seizure.
+
+### हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+1. वाद संख्या और बहस की तिथि: इस मामले की वाद संख्या 19-292 है, मौखिक बहस 14 अक्टूबर 2020 को हुई और निर्णय 25 मार्च 2021 को सुनाया गया।
+2. Hodari D. के तथ्य: California v. Hodari D., 499 U.S. 621 (1991) में एक किशोर ने पुलिस द्वारा पीछा किए जाने के दौरान मादक पदार्थ फेंक दिए थे, उस समय पुलिस ने उसे छुआ तक नहीं था और उसने समर्पण भी नहीं किया था, इसलिए फेंकी गई वस्तु को seizure का फल नहीं माना गया।
