@@ -47,3 +47,24 @@ Lucy v. Zehmer, 196 Va. 493 (1954) में W. O. Lucy ने Zehmer के र
 ---
 
 *声明：本文为个人学习笔记，不构成法律、税务或医疗建议。*
+
+---
+
+## 补译增量（2026-11-19 10:55轮）
+
+本节为存量补译增量：以下两项细节中文主文已有、韩／越／印三语旧译同缺，现补齐至六语对齐。纯增量，只加不删，不新增事实。
+
+### 한국어 (초역, 교정 대기)
+
+- 단독 착오(unilateral mistake)와의 구분: Zehmer는 조항의 이해를 잘못한 것이 아니라 «자기가 진지하게 계약하고 있다»는 사실 자체를 얼버무린 것이며, 법은 이런 사후 번복을 보호하지 않는다.
+- 캘리포니아 민법전 §1565 일대: 동의가 사기나 강박 등으로 얻어진 경우는 취소 사유가 되지만, «사실은 농담이었다»는 그 목록에 들어 있지 않다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+- Phân biệt với sai lầm đơn phương (unilateral mistake): Zehmer không hiểu sai điều khoản, mà giả vờ mơ hồ về chính sự thật là mình đang nghiêm túc giao kết; pháp luật không bảo vệ kiểu rút lui sau đó này.
+- Bộ luật Dân sự California §1565 và vùng lân cận: sự đồng ý đạt được bằng gian lận, ép buộc và các trường hợp tương tự thuộc căn cứ hủy bỏ, nhưng «thật ra tôi chỉ đùa» không nằm trong danh sách đó.
+
+### हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+- एकपक्षीय भूल (unilateral mistake) से अंतर: Zehmer ने शर्तों को गलत नहीं समझा था, बल्कि «मैं गंभीरता से अनुबंध कर रहा हूँ» इसी तथ्य पर जानबूझकर अस्पष्टता दिखाई थी; कानून ऐसे बाद के पलटाव की रक्षा नहीं करता।
+- California Civil Code §1565 के आसपास: छल, दबाव आदि से प्राप्त सहमति रद्द करने के आधारों में आती है, किंतु «मैं तो मज़ाक कर रहा था» उस सूची में नहीं है।
