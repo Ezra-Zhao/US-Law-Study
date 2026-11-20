@@ -45,3 +45,20 @@ ADU (सहायक आवास इकाई) किसी आवासीय 
 *개인 학습 노트이며 법률 자문이 아닙니다. (초역)*
 *Ghi chú học tập cá nhân, không phải tư vấn pháp lý. (Bản dịch sơ bộ)*
 *व्यक्तिगत अध्ययन नोट, कानूनी सलाह नहीं। (प्रारंभिक अनुवाद)*
+
+## 补译增量（2026-11-20 12:55 轮）
+
+### 한국어 (초역, 교정 필요)
+
+- 비용선 묶음: 영향부담금(impact fee)은 면적이 750제곱피트 미만인 ADU에는 부과할 수 없고, 750제곱피트 이상이면 본채 면적에 비례해 부과됩니다. 750이 이 글에서 가장 중요한 비용선이라, 설계 단계에서 749로 할지 800으로 할지가 이 비용을 낼지 얼마 낼지를 직접 가릅니다.
+- 별도 매각과 자가 거주 묶음: ADU는 원칙적으로 본채와 분리해 팔 수 없습니다. 예외는 2023년 AB 1033 이후로, 지방정부가 자체 입법으로 선택(opt-in)하면 ADU를 콘도미니엄 형태로 따로 양도할 수 있습니다. 자가 거주 요건은 일반 ADU에서는 지방이 승인 조건으로 걸 수 없지만(2025년부터 전면 금지), JADU는 반대로 지방이 소유자가 본채나 JADU 중 한 곳에 살 것을 요구할 수 있습니다.
+
+### Tiếng Việt (bản dịch sơ bộ, cần hiệu đính)
+
+- Nhóm đường phí: phí tác động (impact fee) không được thu với ADU dưới 750 foot vuông; từ 750 foot vuông trở lên thì thu theo tỷ lệ diện tích so với nhà chính. 750 là đường phí quan trọng nhất của bài này: ở khâu thiết kế, chọn 749 hay 800 foot vuông quyết định trực tiếp có phải nộp phí này hay không và nộp bao nhiêu.
+- Nhóm bán riêng và tự ở: theo quy tắc chung, ADU không được bán tách khỏi nhà chính. Ngoại lệ là sau AB 1033 năm 2023, chính quyền địa phương có thể tự lập pháp chọn tham gia (opt-in) để cho phép chuyển nhượng ADU riêng theo dạng căn hộ chung cư (condominium). Về yêu cầu chủ sở hữu tự ở: với ADU thường, luật bang cấm địa phương lấy đó làm điều kiện phê duyệt (cấm toàn diện từ năm 2025); với JADU thì ngược lại, địa phương có thể yêu cầu chủ sở hữu sống ở nhà chính hoặc trong JADU.
+
+### हिन्दी (प्रारंभिक अनुवाद, समीक्षा आवश्यक)
+
+- शुल्क-रेखा समूह: 750 वर्ग फुट से छोटे ADU पर impact fee नहीं लगाया जा सकता; 750 वर्ग फुट या अधिक होने पर यह मुख्य घर के क्षेत्रफल के अनुपात में लगता है। 750 इस लेख की सबसे महत्वपूर्ण शुल्क-रेखा है — डिज़ाइन चरण में 749 रखना है या 800, यही तय करता है कि यह शुल्क देना होगा या नहीं और कितना।
+- अलग बिक्री और स्वामी-निवास समूह: सामान्य नियम है कि ADU को मुख्य घर से अलग नहीं बेचा जा सकता। अपवाद 2023 के AB 1033 के बाद है: स्थानीय सरकार चाहे तो अपने कानून से opt-in करके ADU को condominium रूप में अलग हस्तांतरित करने दे सकती है। स्वामी-निवास शर्त सामान्य ADU पर स्थानीय निकाय अनुमोदन की शर्त नहीं बना सकते (2025 से पूर्ण प्रतिबंध), परंतु JADU में इसके विपरीत स्थानीय निकाय यह माँग सकता है कि स्वामी मुख्य घर या JADU में से किसी एक में रहे।
