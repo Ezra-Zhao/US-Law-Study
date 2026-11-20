@@ -78,3 +78,9 @@ Español: Notas de estudio personal; no constituyen asesoría legal.
 한국어: 개인 학습 노트이며 법률 자문이 아닙니다.
 Tiếng Việt: Ghi chú học tập cá nhân, không phải tư vấn pháp lý.
 हिन्दी: यह व्यक्तिगत अध्ययन नोट है, कानूनी सलाह नहीं।
+
+## 补译增量（2026-11-19 22:55 轮）
+
+- 한국어: 보충할 세부 사항은 두 가지입니다. 첫째, Zauderer 판결이 그은 또 다른 경계입니다. 오도적 광고를 금지하는 규칙은 성립할 수 있지만, 진실하고 오도적이지 않은 삽화(일러스트) 광고를 일률적으로 금지하는 것은 허용되지 않습니다. 둘째, 담배 광고는 연방과 주의 연령 판매 규칙과 마케팅 규칙이 겹쳐 적용되는, 별도의 전문 규제를 받는 대표적인 규제 대상 제품 광고입니다. (초역, 初译待校)
+- Tiếng Việt: Hai chi tiết được bổ sung như sau. Thứ nhất, đường ranh còn lại mà Zauderer vạch ra: quy tắc cấm quảng cáo gây nhầm lẫn có thể đứng vững, nhưng cấm toàn bộ quảng cáo bằng hình minh họa trung thực và không gây nhầm lẫn thì không được. Thứ hai, quảng cáo thuốc lá là loại quảng cáo sản phẩm chịu quản lý chuyên biệt điển hình, chịu thêm các quy tắc liên bang và của bang về độ tuổi bán hàng và tiếp thị áp dụng chồng lên nhau. (Bản dịch sơ bộ, 初译待校)
+- हिन्दी: दो विवरण जोड़े जा रहे हैं। पहला, Zauderer की दूसरी सीमा-रेखा: भ्रामक विज्ञापन को रोकने का नियम टिक सकता है, किंतु सत्य और अभ्रामक चित्रण-विज्ञापनों (illustration advertisements) पर पूर्ण प्रतिबंध नहीं चल सकता। दूसरा, तंबाकू विज्ञापन विशेष विनियमन वाले उत्पाद-विज्ञापन का प्रतिनिधि उदाहरण है, जिस पर संघीय और राज्य के आयु-बिक्री नियम और विपणन नियम एक साथ, परत-दर-परत लागू होते हैं। (प्रारंभिक अनुवाद, 初译待校)

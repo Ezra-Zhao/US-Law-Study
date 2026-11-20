@@ -177,3 +177,9 @@ Tranh tụng thuế liên bang đi theo hai đường. Thủ tục thiếu thu�
 - 한국어: 개인 학습 노트이며 법률·세무 자문이 아닙니다. 구체적인 사안은 자격을 갖춘 변호사나 세무 전문가에게 상담하세요. (초역, 원어민 감수 대기)
 - Tiếng Việt: Ghi chép học tập cá nhân, không phải tư vấn pháp lý hay thuế. Với vụ việc cụ thể, hãy hỏi luật sư hoặc chuyên gia thuế có giấy phép hành nghề. (bản dịch sơ bộ, chờ hiệu đính)
 - हिन्दी: व्यक्तिगत अध्ययन नोट; कानूनी या कर सलाह नहीं है। किसी विशिष्ट मामले के लिए लाइसेंसधारी वकील या कर विशेषज्ञ से परामर्श करें। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+## 补译增量（2026-11-19 22:55 轮）
+
+- 한국어: 보충할 세부 사항은 두 가지입니다. 첫째, 조세법원의 조직 세부입니다. 본부는 워싱턴 D.C.에 있고 법관들이 각지를 순회하며 재판하며, 수석법관이 임명하는 특별재판법관(special trial judges)이 소액 사건과 지정 사건을 나눠 맡습니다. 둘째, Flora 전액 납부 규칙의 이유 중 하나입니다. 의회가 이미 먼저 내지 않고 다툴 수 있는 조세법원이라는 포럼을 따로 마련해 두었으므로, 환급 포럼에 선납 규칙을 유지해도 납세자의 길이 막히지 않습니다. (초역, 初译待校)
+- Tiếng Việt: Hai chi tiết được bổ sung như sau. Thứ nhất, chi tiết tổ chức của Tòa án Thuế: trụ sở chính đặt tại Washington, D.C., các thẩm phán đi lưu động xét xử ở nhiều nơi, và các thẩm phán xét xử đặc biệt (special trial judges) do Chánh án bổ nhiệm chia nhau xử lý các vụ nhỏ và các vụ được chỉ định. Thứ hai, một trong các lý do của quy tắc nộp đủ Flora: Quốc hội đã dành sẵn Tòa án Thuế làm một diễn đàn không cần nộp trước, nên việc giữ quy tắc nộp trước tại diễn đàn hoàn thuế không bịt đường của người nộp thuế. (Bản dịch sơ bộ, 初译待校)
+- हिन्दी: दो विवरण जोड़े जा रहे हैं। पहला, कर न्यायालय के संगठन का विवरण: इसका मुख्यालय Washington, D.C. में है, न्यायाधीश विभिन्न स्थानों पर परिपथ में सुनवाई करते हैं, और मुख्य न्यायाधीश द्वारा नियुक्त विशेष परीक्षण न्यायाधीश (special trial judges) छोटे मामलों और सौंपे गए मामलों को बाँटकर संभालते हैं। दूसरा, Flora के पूर्ण भुगतान नियम के तर्कों में से एक: कांग्रेस ने पहले से ही कर न्यायालय जैसा बिना पूर्व-भुगतान वाला मंच उपलब्ध करा रखा है, इसलिए वापसी-मंच पर पहले भुगतान का नियम बनाए रखने से करदाता का रास्ता बंद नहीं होता। (प्रारंभिक अनुवाद, 初译待校)
