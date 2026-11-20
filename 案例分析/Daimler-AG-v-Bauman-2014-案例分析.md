@@ -45,3 +45,18 @@
 *개인 학습 노트이며 법률 자문이 아닙니다. (초역)*
 *Ghi chú học tập cá nhân, không phải tư vấn pháp lý. (Bản dịch sơ bộ)*
 *व्यक्तिगत अध्ययन नोट, कानूनी सलाह नहीं। (प्रारंभिक अनुवाद)*
+
+
+## 补译增量（2026-11-20 09:55 轮）
+
+### 한국어 (초역, 初译待校)
+
+보충 1: Sotomayor 대법관은 판결 결과에만 동의했는데, 그 이유는 이 사건이 특정관할의 논리로 해결할 수 있는 문제여서 일반관할의 큰 틀까지 건드릴 필요가 없다는 것이었습니다. 보충 2: Helicopteros Nacionales de Colombia, S.A. v. Hall, 466 U.S. 408 (1984)에서는 법정지에서의 대액 구매조차 일반관할을 뒷받침하기에 부족했는데, 본건의 판매 접촉 역시 그 기준에 미치지 못합니다. (초역, 初译待校)
+
+### Tiếng Việt (bản dịch sơ bộ, 初译待校)
+
+Bổ sung 1: Thẩm phán Sotomayor chỉ đồng ý với kết quả phán quyết, vì theo bà vụ án này có thể giải quyết bằng logic thẩm quyền cụ thể (specific jurisdiction), không cần động tới khung lớn của thẩm quyền chung. Bổ sung 2: Trong vụ Helicopteros Nacionales de Colombia, S.A. v. Hall, 466 U.S. 408 (1984), ngay cả hoạt động mua sắm với số tiền lớn tại bang xét xử cũng không đủ để làm căn cứ cho thẩm quyền chung, và các liên hệ bán hàng trong vụ này cũng không đạt tới ngưỡng đó. (Bản dịch sơ bộ, 初译待校)
+
+### हिन्दी (प्रारंभिक अनुवाद, 初译待校)
+
+पूरक 1: न्यायमूर्ति Sotomayor केवल निर्णय के परिणाम से सहमत हुईं, क्योंकि उनकी दृष्टि में यह मामला विशिष्ट अधिकारिता (specific jurisdiction) के तर्क से सुलझाया जा सकता था और सामान्य अधिकारिता के बड़े ढाँचे को छूने की आवश्यकता नहीं थी। पूरक 2: Helicopteros Nacionales de Colombia, S.A. v. Hall, 466 U.S. 408 (1984) में मंच-राज्य में बड़े पैमाने की ख़रीद भी सामान्य अधिकारिता के लिए पर्याप्त नहीं मानी गई थी, और इस मामले के बिक्री-संपर्क भी उस कसौटी पर खरे नहीं उतरते। (प्रारंभिक अनुवाद, 初译待校)
