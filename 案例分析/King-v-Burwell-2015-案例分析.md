@@ -49,3 +49,22 @@ Nota personal de estudio; no constituye asesoramiento jurídico.
 개인 학습 노트이며 법률 자문이 아닙니다.
 Ghi chú học tập cá nhân, không phải tư vấn pháp lý.
 व्यक्तिगत अध्ययन नोट; कानूनी सलाह नहीं।
+
+## 补译增量（2026-11-21 11:55 轮）
+
+> 本节只补中文主文已有、三语段此前同缺的两项细节，韩／越／印各补 2 项，纯增量只加不删。
+
+### 한국어 — 초역, 교정 대기 중 (初译待校)
+
+1. 원고들의 소송 동기에는 개인 의무 가입 구조가 깔려 있었다. 세액공제가 적용되면 개인 의무 가입(individual mandate)의 벌금 계산이 촉발될 수 있었고, 원고들은 원래 보험료가 감당하기 어렵다는 이유로 면제를 주장할 수 있는 위치에 있었다. 즉 이 소송은 공제 자체를 원해서가 아니라, 공제가 따라붙는 벌금 구조에서 벗어나기 위해 제기된 것이었다.
+2. 법원의 이번 처리는 후에 중대 문제 원칙(major questions doctrine)의 초기 신호로 읽히게 됐다. 다만 그것은 후대의 평가일 뿐이며, 정식으로 성립한 원칙은 이후의 사건들에서 형성된 것이므로 2015년 당시의 판결문으로 거슬러 읽어 넣어서는 안 된다.
+
+### Tiếng Việt — bản dịch sơ bộ, chờ hiệu đính (初译待校)
+
+1. Động cơ khởi kiện của các nguyên đơn gắn với cấu trúc nghĩa vụ mua bảo hiểm cá nhân (individual mandate): khi khoản tín dụng thuế được áp dụng, cách tính khoản phạt của nghĩa vụ cá nhân có thể bị kích hoạt, trong khi các nguyên đơn vốn có thể viện lý do không kham nổi chi phí để xin miễn trừ. Nói cách khác, vụ kiện được đưa ra không phải để giành khoản tín dụng, mà để thoát khỏi cấu trúc phạt đi kèm với nó.
+2. Cách xử lý của Tòa án sau này được đọc như một chỉ dấu sớm của học thuyết vấn đề trọng đại (major questions doctrine). Tuy nhiên đó là đánh giá của đời sau; nguyên tắc được định hình chính thức phải chờ các vụ án về sau, không nên đọc ngược vào văn bản phán quyết năm 2015.
+
+### हिन्दी — प्रारंभिक अनुवाद, समीक्षा लंबित (初译待校)
+
+1. वादियों की मुकदमेबाज़ी की प्रेरणा व्यक्तिगत अनिवार्यता (individual mandate) की संरचना से जुड़ी थी: कर क्रेडिट लागू होते ही व्यक्तिगत अनिवार्यता के दंड की गणना सक्रिय हो सकती थी, जबकि वादी मूलतः यह कहकर छूट माँग सकते थे कि प्रीमियम उनकी सामर्थ्य से बाहर है। अर्थात यह मुकदमा क्रेडिट पाने के लिए नहीं, बल्कि क्रेडिट के साथ आने वाली दंड-संरचना से निकलने के लिए लाया गया था।
+2. न्यायालय के इस रुख़ को बाद में प्रमुख प्रश्न सिद्धांत (major questions doctrine) का प्रारंभिक संकेत माना गया। परंतु यह बाद की व्याख्या है; औपचारिक रूप से गढ़ा गया सिद्धांत बाद के मामलों की देन है, इसलिए उसे 2015 के निर्णय-पाठ में पीछे से नहीं पढ़ना चाहिए।
