@@ -133,3 +133,18 @@ Este artículo es solo una nota personal de estudio y no constituye asesoría le
 Bài này chỉ là ghi chép học tập cá nhân, không cấu thành tư vấn pháp lý. Yêu cầu bồi thường tai nạn giao thông, báo cáo SR-1 và thời hạn khởi kiện phụ thuộc vào tình tiết và hợp đồng bảo hiểm liên quan; hãy theo hướng dẫn chính thức của DMV và Sở Bảo hiểm California, đồng thời tham vấn luật sư có giấy phép cho trường hợp cụ thể. (Bản dịch sơ bộ, chờ hiệu đính.)
 
 यह लेख केवल व्यक्तिगत अध्ययन नोट है और विधिक परामर्श नहीं है। यातायात दुर्घटना के दावे, SR-1 रिपोर्ट और परिसीमन अवधि तथ्यों और संबंधित पॉलिसियों पर निर्भर करती हैं; कैलिफ़ोर्निया DMV और बीमा विभाग के आधिकारिक मार्गदर्शन का पालन करें और विशिष्ट मामले के लिए लाइसेंसधारी वकील से परामर्श करें। (प्रारंभिक अनुवाद, समीक्षा लंबित।)
+
+
+## 补译增量（2026-11-21 00:55 轮）
+
+### 한국어 (초역, 교정 대기 중)
+
+보충 1: 미성년자의 소멸시효는 일반적으로 성인이 될 때까지 진행이 멈추지만, 정부 기관을 상대로 한 행정 청구의 절차상 세부 사항은 별개로 까다로우므로 미성년자 사건이라도 일찍 변호사에게 확인하는 편이 안전하다. 보충 2: 사고 뒤 하지 말아야 할 일 중 하나는 사고 경위를 소셜 미디어에 올리는 것이다. 상대 보험사는 게시글을 찾아내어 진술과 어긋난다고 주장하거나 부상 정도를 깎는 데 쓸 수 있으므로, 청구가 끝나기 전에는 사고 내용을 공개적으로 올리지 않는 것이 원칙이다. 개인 학습 노트이며 법률 자문이 아닙니다. 初译待校。
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+Bổ sung 1: Thời hiệu khởi kiện đối với người chưa thành niên nhìn chung được tạm dừng cho đến khi đủ tuổi trưởng thành, nhưng các chi tiết thủ tục của khiếu nại hành chính đối với cơ quan nhà nước vẫn rất chặt chẽ, nên ngay cả vụ việc liên quan đến trẻ vị thành niên cũng nên hỏi luật sư sớm. Bổ sung 2: Một việc không nên làm sau tai nạn là đăng chi tiết vụ tai nạn lên mạng xã hội. Công ty bảo hiểm của bên kia có thể tìm thấy bài đăng và dùng nó để cho rằng lời khai không nhất quán hoặc để giảm mức độ thương tích, vì vậy nguyên tắc là không đăng công khai nội dung vụ tai nạn trước khi việc khiếu nại kết thúc. Ghi chú học tập cá nhân, không phải tư vấn pháp lý. 初译待校。
+
+### हिन्दी (प्रारंभिक अनुवाद, समीक्षा प्रतीक्षित)
+
+पूरक 1: नाबालिगों के लिए परिसीमा अवधि सामान्यतः वयस्क होने तक रुकी रहती है, लेकिन सरकारी संस्था के विरुद्ध प्रशासनिक दावे की प्रक्रियात्मक बारीकियाँ अलग से सख़्त होती हैं, इसलिए नाबालिग से जुड़े मामले में भी जल्दी वकील से सलाह लेना सुरक्षित रहता है। पूरक 2: दुर्घटना के बाद न करने वाले कामों में एक है दुर्घटना का विवरण सोशल मीडिया पर डालना। दूसरे पक्ष का बीमाकर्ता वह पोस्ट खोजकर यह कह सकता है कि बयान मेल नहीं खाता या चोट की गंभीरता घटाकर दिखा सकता है, इसलिए सिद्धांत यह है कि दावा निपटने से पहले दुर्घटना की बात सार्वजनिक रूप से न डालें। व्यक्तिगत अध्ययन नोट; कानूनी सलाह नहीं। 初译待校।
