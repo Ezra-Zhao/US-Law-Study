@@ -199,3 +199,20 @@ Chi tiết bổ sung: trong đăng ký phán quyết bang chị em, sau khi thô
 ## 免责声明
 
 个人学习笔记，不构成法律建议。条文、额度与期限以官方公布的现行文本为准，个案处理请咨询执业律师。
+
+
+---
+
+## 补译增量（2026-11-20 23:55 轮）
+
+### 한국어（初译待校）
+
+보충 세부사항은 다음과 같습니다. 첫째, FRCP 69(a)(2)의 재산 개시(discovery)에 대한 중국어 본문의 기능 대응 설명입니다. 연방 트랙의 채무자 재산 개시는 주 트랙의 판결채무자 심문(judgment debtor examination)과 기능이 서로 대응하므로, 어느 법원에 있는지에 따라 어느 쪽 절차를 쓸지가 정해집니다. 즉 연방 법원에서는 연방규칙의 개시 수단과 법정지 주의 실무 중 하나로 재산을 찾고, 주 법원에서는 주법의 심문 절차로 같은 목적을 이룹니다. 둘째, 채무자 심문에서 불출석과 모욕을 다루는 구간(제708.140조부터 제708.170조 부근)에 대한 중국어 본문의 보충입니다. 그 구간은 채무자의 특권(privilege) 주장 처리까지 함께 다루므로, 정당한 이유 없는 불출석이나 답변 거부가 법정모욕과 체포 메커니즘을 부를 수 있다는 점과, 특권이 걸린 질문에 대한 처리 절차가 같은 구간에 있다는 점을 함께 기억해야 합니다. (초역·待校)
+
+### Tiếng Việt（初译待校）
+
+Chi tiết bổ sung như sau. Thứ nhất, phần giải thích tương ứng chức năng trong bản chính tiếng Trung về công cụ tiết lộ tài sản của FRCP 69(a)(2): việc tiết lộ tài sản của con nợ ở đường liên bang tương ứng về chức năng với việc thẩm vấn người phải thi hành án (judgment debtor examination) ở đường bang, và việc dùng bộ thủ tục nào phụ thuộc vào vụ việc đang ở tòa nào — ở tòa liên bang thì dùng phương thức tiết lộ của quy tắc liên bang hoặc thực tiễn của bang nơi xét xử, ở tòa bang thì dùng thủ tục thẩm vấn của luật bang để đạt cùng mục đích. Thứ hai, phần bổ sung của bản chính tiếng Trung về đoạn điều khoản xử lý vắng mặt và khinh tòa trong thẩm vấn con nợ (khoảng §§ 708.140 đến 708.170): đoạn này còn xử lý cả việc con nợ viện dẫn đặc quyền (privilege), vì vậy cần nhớ cùng lúc hai điểm — vắng mặt hoặc từ chối trả lời không có lý do chính đáng có thể dẫn tới khinh tòa và cơ chế bắt giữ, và thủ tục xử lý các câu hỏi vướng đặc quyền cũng nằm trong cùng đoạn điều khoản đó. (bản dịch sơ bộ·待校)
+
+### हिन्दी（初译待校）
+
+पूरक विवरण इस प्रकार है। पहला, FRCP 69(a)(2) की संपत्ति-खोज (discovery) पर चीनी मुख्य पाठ की कार्यात्मक संगति की व्याख्या: संघीय मार्ग की ऋणी-संपत्ति खोज राज्य मार्ग की निर्णय-ऋणी परीक्षा (judgment debtor examination) से कार्य में संगत है, और किस प्रक्रिया-समूह का उपयोग होगा यह इस पर निर्भर करता है कि मामला किस न्यायालय में है — संघीय न्यायालय में संघीय नियमों की खोज-विधि या फोरम राज्य की प्रथा से, और राज्य न्यायालय में राज्य विधि की परीक्षा-प्रक्रिया से वही उद्देश्य पूरा होता है। दूसरा, ऋणी-परीक्षा में अनुपस्थिति और अवमानना से निपटने वाले खंड (लगभग §§ 708.140 से 708.170) पर चीनी मुख्य पाठ का पूरक: वह खंड ऋणी के विशेषाधिकार (privilege) के दावों का निपटान भी साथ करता है, इसलिए दो बातें एक साथ याद रखें — बिना उचित कारण अनुपस्थिति या उत्तर से इनकार अवमानना और गिरफ़्तारी तंत्र को बुला सकता है, और विशेषाधिकार से जुड़े प्रश्नों के निपटान की प्रक्रिया भी उसी खंड में है। (प्रारंभिक अनुवाद·待校)
