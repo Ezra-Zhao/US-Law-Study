@@ -108,3 +108,21 @@ Bài viết này là ghi chép học tập cá nhân, không phải tư vấn ph
 यह लेख व्यक्तिगत अध्ययन नोट है, कानूनी सलाह नहीं। किसी विशिष्ट मामले के लिए लाइसेंसधारी वकील से परामर्श करें।
 
 *六语对照：中文主文，English 次之，Español 为学习译稿，한국어·Tiếng Việt·हिन्दी 为初译待校。*
+
+
+## 补译增量（2026-11-20 22:55 轮）
+
+### 한국어 (초역, 교정 대기)
+
+- 본 사건의 완전한 사건명과 공식 인용은 Citizens United v. Federal Election Commission, 558 U.S. 310 (2010)이다.
+- 이 글의 머리말이 던지는 전체 질문은 이것이다. 기업과 노동조합이 자기 돈으로 후보를 지지하거나 반대하는 독립 지출을 할 수 있는가?
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+- Tên vụ án đầy đủ và trích dẫn chính thức của vụ này là Citizens United v. Federal Election Commission, 558 U.S. 310 (2010).
+- Câu hỏi bao quát mà phần dẫn nhập của bài đặt ra là: công ty và công đoàn có thể dùng tiền của chính mình để chi tiêu độc lập nhằm ủng hộ hoặc chống lại một ứng viên hay không?
+
+### हिन्दी (प्रारंभिक अनुवाद, समीक्षा प्रतीक्षित)
+
+- इस मामले का पूरा नाम और आधिकारिक उद्धरण Citizens United v. Federal Election Commission, 558 U.S. 310 (2010) है।
+- लेख की भूमिका जो समग्र प्रश्न उठाती है वह यह है: क्या कंपनियाँ और मज़दूर संघ अपने ही धन से किसी उम्मीदवार के समर्थन या विरोध में स्वतंत्र व्यय कर सकते हैं?
