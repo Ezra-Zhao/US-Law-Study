@@ -120,3 +120,17 @@ Bổ sung 2: Lá chắn trách nhiệm của LLC không phải tuyệt đối: b
 ---
 
 **声明**：个人学习笔记，不构成法律、税务或医疗建议。具体事务请咨询持牌专业人士。
+
+## 补译增量（2026-11-20 19:55 轮）
+
+### 한국어
+
+보충 세부 1 — 겉보기 권한(표견 권한)의 신뢰 대상은 반드시 본인의 표시여야 합니다. 제3자가 믿어야 하는 것은 본인이 만든 외관, 즉 직위 부여, 간판, 과거 거래 방식 같은 본인의 행위 표상이며, 대리인이 스스로 권한이 있다고 떠벌리는 말은 그 자체로 겉보기 권한을 만들지 못합니다. Restatement (Third) of Agency § 2.03의 이 구분이 시험에서 가장 자주 파는 함정입니다. 보충 세부 2 — 조합 표결은 사안의 무게에 따라 갈립니다. 약정이 없으면 보통 사안은 표결권 균등을 전제로 다수결로 정하지만(RUPA § 401(f)), 조합 계약의 변경이나 새 동업자의 가입 같은 특정 중대 사안은 통상 전원 일치를 요구합니다. 다수결로 중대 사안까지 밀어붙인 답안은 틀립니다.
+
+### Tiếng Việt
+
+Chi tiết bổ sung 1 — Đối tượng tin cậy của thẩm quyền biểu kiến (apparent authority) phải là biểu hiện của chính người ủy quyền (principal). Bên thứ ba phải dựa vào vẻ ngoài do principal tạo ra — như việc trao chức danh, biển hiệu, hay mô hình giao dịch trước đây — chứ lời tự khoe của người đại lý về thẩm quyền của mình tự nó không tạo ra thẩm quyền biểu kiến; đây là điểm phân biệt trong Restatement (Third) of Agency § 2.03 và là cái bẫy ra đề quen thuộc nhất. Chi tiết bổ sung 2 — Biểu quyết trong công ty hợp danh chia theo trọng lượng của vấn đề: không có thỏa thuận khác, các vấn đề thông thường quyết theo đa số trên cơ sở quyền biểu quyết ngang nhau (RUPA § 401(f)), nhưng các vấn đề trọng đại cụ thể — như sửa đổi thỏa thuận hợp danh hay kết nạp thành viên mới — thường đòi hỏi sự nhất trí của tất cả thành viên; đáp án dùng đa số cho cả vấn đề trọng đại là đáp án sai.
+
+### हिन्दी
+
+पूरक विवरण 1 — आभासी अधिकार (apparent authority) का भरोसा अनिवार्यतः प्रधान (principal) के ही प्रकटीकरण पर टिका होना चाहिए। तीसरे पक्ष को प्रधान द्वारा बनाए गए बाहरी स्वरूप पर भरोसा करना होता है — जैसे पदवी देना, नाम-पट्ट, या पिछले लेन-देन का ढर्रा — जबकि एजेंट का स्वयं अपने अधिकार का दावा करना अपने आप में आभासी अधिकार नहीं बनाता; Restatement (Third) of Agency § 2.03 का यही भेद परीक्षा का सबसे आम जाल है। पूरक विवरण 2 — साझेदारी में मतदान विषय के वज़न के अनुसार बँटता है: करार न हो तो सामान्य विषय समान मताधिकार के आधार पर बहुमत से तय होते हैं (RUPA § 401(f)), किंतु साझेदारी करार में संशोधन या नए साझेदार का प्रवेश जैसे विशिष्ट महत्वपूर्ण विषयों में सामान्यतः सर्वसम्मति चाहिए; महत्वपूर्ण विषय को भी बहुमत से निपटाने वाला उत्तर ग़लत है।
