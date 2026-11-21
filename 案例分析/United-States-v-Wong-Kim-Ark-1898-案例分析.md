@@ -179,3 +179,19 @@ Lời khuyên thực tế cho độc giả thường cũng chừng mực như v�
 
 *This article is a personal study note, not legal advice. / Este artículo es una nota de estudio personal, no constituye asesoría legal.*
 *이 글은 개인 학습 노트이며 법률 자문이 아닙니다. (초역·待校) / Bài viết này là ghi chú học tập cá nhân, không cấu thành tư vấn pháp lý. (bản dịch sơ bộ·待校) / यह लेख व्यक्तिगत अध्ययन नोट है और कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद·待校)*
+
+## 补译增量（2026-11-21 03:55 轮）
+
+以下两项细节仅见于中文主文异议部分，韩／越／印三语段此前同缺，本轮补齐（初译待校）：
+
+### 한국어 (초역, 교정 대기 중)
+
+① 반대 의견이 지적한 대로, Wong Kim Ark의 부모는 끝내 귀화한 적이 없습니다. ② 게다가 그들은 당시 귀화법에 있던 인종적 제한 때문에 법률상 귀화 자체를 할 수 없었습니다. 반대 의견은 바로 이 두 사실을 근거로, 부모가 처음부터 끝까지 중국 황제의 신민으로 남았다고 주장했습니다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+① Như ý kiến bất đồng chỉ ra, cha mẹ của Wong Kim Ark chưa bao giờ nhập tịch. ② Hơn nữa, vì những hạn chế chủng tộc trong luật nhập tịch thời đó, về mặt pháp lý họ căn bản không thể nhập tịch. Ý kiến bất đồng dựa đúng vào hai sự thật này để lập luận rằng cha mẹ anh ta từ đầu đến cuối vẫn là thần dân của hoàng đế Trung Hoa.
+
+### हिन्दी (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+① जैसा असहमति-मत ने रेखांकित किया, Wong Kim Ark के माता-पिता कभी नागरिकता-प्राप्त (naturalized) नहीं हुए। ② इतना ही नहीं, उस समय के नागरिकता-कानून में मौजूद नस्लीय प्रतिबंधों के कारण वे कानूनी रूप से नागरिक बन ही नहीं सकते थे। असहमति-मत ने इन्हीं दो तथ्यों के आधार पर तर्क दिया कि उसके माता-पिता आरंभ से अंत तक चीन के सम्राट की प्रजा बने रहे।
