@@ -177,3 +177,17 @@ Phán quyết đóng cánh cửa liên bang một cách sạch sẽ: kể từ �
 主要依据：U.S. Const. art. I, § 7, cl. 2–3 与 art. V；Line Item Veto Act of 1996, Pub. L. 104-130, 2 U.S.C. §§ 691 起；Balanced Budget Act of 1997, Pub. L. 105-33, § 4722(c) 与 42 U.S.C. § 1396b(w)；Taxpayer Relief Act of 1997, Pub. L. 105-34, § 968 与 26 U.S.C. § 1042；判例 Clinton v. City of New York, 524 U.S. 417 (1998)、Raines v. Byrd, 521 U.S. 811 (1997)、INS v. Chadha, 462 U.S. 919 (1983)、985 F. Supp. 168 (D.D.C. 1998)；Impoundment Control Act, 2 U.S.C. §§ 681–688（§ 683）；Cal. Const. art. IV, § 10(e)。金额口径：82 项取消合计约 3.55 亿美元与五年节省不到 10 亿美元为 CBO 口径，纽约约 26 亿美元为纽约市政府当时口径；条文与数字以现行官方文本为准。
 
 *Español、한국어、Tiếng Việt、हिन्दी 为初译待校。*
+
+## 补译增量（2026-11-22 10:55 轮）
+
+### 한국어 (초역, 교정 필요)
+
+보충 1 — 1997년의 사용 횟수: 대통령은 1997년 한 해에 취소권을 모두 11차례 행사해 82개 항목을 취소했습니다. 「82개」라는 총수 뒤에는 이 「11차례」라는 행사 빈도가 따로 있으며, 한 번의 서명 행사가 아니라 열한 번의 개별 취소 결정이었습니다. 보충 2 — CBO의 사용 데이터: 의회예산처(CBO) 기준으로 82개 항목의 합계는 약 3억 5,500만 달러이고, 항목당 평균은 355 ÷ 82 ≈ 433만 달러이며, 5년간 예상 절감액은 10억 달러에 못 미쳤습니다. 뉴욕시 한 건의 Medicaid 노출액 약 26억 달러와 나란히 놓으면, 단일 항목의 노출이 전체 취소 총액의 약 7.3배(2600 ÷ 355 ≈ 7.3)였습니다. (초역, 교정 필요)
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+Bổ sung 1 — Số lần sử dụng trong năm 1997: trong một năm 1997, Tổng thống đã thực thi quyền hủy bỏ tổng cộng 11 lần, hủy 82 khoản mục; đằng sau con số tổng «82 khoản» còn có tần suất «11 lần» này — đó là mười một quyết định hủy riêng lẻ, không phải một hành động ký duy nhất. Bổ sung 2 — Dữ liệu sử dụng theo CBO: theo Văn phòng Ngân sách Quốc hội (CBO), tổng 82 khoản vào khoảng 355 triệu đô la, trung bình mỗi khoản 355 ÷ 82 ≈ 4,33 triệu đô la, và khoản tiết kiệm dự kiến trong năm năm chưa tới 1 tỷ đô la; đặt cạnh mức phơi nhiễm Medicaid khoảng 2,6 tỷ đô la của riêng thành phố New York, phơi nhiễm của một khoản duy nhất gấp khoảng 7,3 lần tổng số đã hủy (2600 ÷ 355 ≈ 7,3). (Bản dịch sơ bộ, chờ hiệu đính)
+
+### हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+पूरक 1 — 1997 में उपयोग की संख्या: राष्ट्रपति ने वर्ष 1997 में रद्द करने के अधिकार का कुल 11 बार प्रयोग कर 82 मदें रद्द कीं; «82 मदों» के कुल के पीछे यह «11 बार» की आवृत्ति अलग से है — यह एक ही हस्ताक्षर-कार्य नहीं, ग्यारह अलग-अलग रद्द-निर्णय थे। पूरक 2 — CBO के उपयोग-आँकड़े: कांग्रेस बजट कार्यालय (CBO) के अनुसार 82 मदों का कुल लगभग 35.5 करोड़ डॉलर था, प्रति मद औसत 355 ÷ 82 ≈ 43.3 लाख डॉलर, और पाँच वर्षों में अनुमानित बचत 1 अरब डॉलर से कम थी; अकेले न्यूयॉर्क शहर के लगभग 2.6 अरब डॉलर के Medicaid जोखिम के सामने रखने पर, एक ही मद का जोखिम समस्त रद्द कुल का लगभग 7.3 गुना था (2600 ÷ 355 ≈ 7.3)। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
