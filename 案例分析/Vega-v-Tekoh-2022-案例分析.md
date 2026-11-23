@@ -45,3 +45,20 @@
 *개인 학습 노트이며 법률 자문이 아닙니다. (초역)*
 *Ghi chú học tập cá nhân, không phải tư vấn pháp lý. (Bản dịch sơ bộ)*
 *व्यक्तिगत अध्ययन नोट, कानूनी सलाह नहीं। (प्रारंभिक अनुवाद)*
+
+## 补译增量 · 한국어 / Tiếng Việt / हिन्दी（细节对齐）
+
+### 한국어 (초역 · 初译待校)
+
+- 변론 일정과 다수의견 구성: 이 사건은 2022년 4월 20일에 구두 변론이 열렸고, 다수의견에는 Alito 외에 Roberts 대법원장과 Thomas, Gorsuch, Kavanaugh, Barrett 대법관이 합류해 6대 3이 됐습니다. (초역, 원어민 감수 대기 · 初译待校)
+- Chavez와 Patane의 복수의견: Chavez v. Martinez, 538 U.S. 760 (2003)과 United States v. Patane, 542 U.S. 630 (2004)의 복수의견은 이미 「경고를 하지 않은 것」과 「권리 자체가 침해된 것」을 갈라서 보았습니다. (초역, 원어민 감수 대기 · 初译待校)
+
+### Tiếng Việt (bản dịch sơ bộ · 初译待校)
+
+- Ngày tranh luận và thành phần đa số: vụ án được tranh luận miệng vào ngày 20 tháng 4 năm 2022, và ý kiến đa số, ngoài Alito, còn có Chánh án Roberts cùng các Thẩm phán Thomas, Gorsuch, Kavanaugh và Barrett, tạo thành tỉ lệ 6-3. (Bản dịch sơ bộ, chờ hiệu đính · 初译待校)
+- Ý kiến đa nguyên trong Chavez và Patane: các ý kiến đa nguyên (plurality) trong Chavez v. Martinez, 538 U.S. 760 (2003) và United States v. Patane, 542 U.S. 630 (2004) đã tách «việc không đọc cảnh báo» khỏi «việc quyền tự thân bị xâm phạm» từ trước. (Bản dịch sơ bộ, chờ hiệu đính · 初译待校)
+
+### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+
+- मौखिक बहस की तिथि और बहुमत की संरचना: इस मामले में मौखिक बहस 20 अप्रैल 2022 को हुई, और बहुमत मत में Alito के अलावा मुख्य न्यायमूर्ति Roberts तथा न्यायमूर्ति Thomas, Gorsuch, Kavanaugh और Barrett शामिल थे, जिससे परिणाम 6-3 रहा। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित · 初译待校)
+- Chavez और Patane के बहुलता मत: Chavez v. Martinez, 538 U.S. 760 (2003) और United States v. Patane, 542 U.S. 630 (2004) के बहुलता मतों (plurality opinions) ने पहले ही «चेतावनी न देना» और «स्वयं अधिकार का उल्लंघन» को अलग-अलग करके देखा था। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित · 初译待校)
