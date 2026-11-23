@@ -86,3 +86,23 @@ Wesberry v. Sanders, 376 U.S. 1 (1964) का निर्णय 17 फ़रव
 विवरण-वृद्धि: California में परिसीमन का कार्य स्वतंत्र नागरिक पुनःपरिसीमन आयोग करता है: 2008 के प्रस्ताव 11 (Prop 11) ने राज्य-स्तरीय क्षेत्र और 2010 के प्रस्ताव 20 (Prop 20) ने कांग्रेस क्षेत्र भी आयोग को सौंपे; आधार California संविधान का अनुच्छेद XXI है, जो क्षेत्रों की जनसंख्या का यथोचित रूप से निकट-समान होना उच्च-प्राथमिकता मानदंडों में रखता है।
 
 *व्यक्तिगत अध्ययन नोट; कानूनी सलाह नहीं। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)*
+
+
+## 补译增量（2026-11-23 03:55 轮）
+
+本节为韩／越／印三语补译增量，各补 2 项中文主文已有、三语旧译同缺的细节，只译已有事实、不新增事实。
+
+### 한국어 (初译待校)
+
+- Reynolds의 명구: Reynolds v. Sims가 주 의회 선거구에 대해 남긴 기준 문장은 「입법자는 나무나 토지가 아니라 사람을 대표한다」이다. Wesberry의 제I조 노선과 Reynolds의 평등보호 노선은 이 명구가 어느 쪽에 속하는지로도 구분된다.
+- 주 의회 노선의 여유: 연방 하원 노선이 Kirkpatrick 이후 거의 0에 가까운 편차까지 조여진 것과 달리, 주 의회 노선은 White v. Regester, 412 U.S. 755 (1973)가 보여 주듯 소폭의 전체 편차에 정책적 여유를 남겼다. 두 노선의 엄격함은 서로 바꿔 쓰면 안 된다.
+
+### Tiếng Việt (初译待校)
+
+- Câu nói chuẩn của Reynolds: câu chuẩn mà Reynolds v. Sims để lại cho khu vực nghị viện bang là «các nhà lập pháp đại diện cho con người, không phải cây cối hay diện tích đất». Tuyến Điều I của Wesberry và tuyến bảo vệ bình đẳng của Reynolds còn được phân biệt bằng việc câu nói này thuộc về phía nào.
+- Khoảng lỏng của tuyến nghị viện bang: khác với tuyến Hạ viện liên bang bị siết gần như tới sai lệch bằng không sau Kirkpatrick, tuyến nghị viện bang vẫn giữ khoảng linh hoạt chính sách cho sai lệch tổng thể nhỏ, như White v. Regester, 412 U.S. 755 (1973) đã cho phép. Mức độ nghiêm ngặt của hai tuyến không được hoán đổi cho nhau.
+
+### हिन्दी (初译待校)
+
+- Reynolds का मानदंड वाक्य: राज्य विधानमंडल क्षेत्रों के लिए Reynolds v. Sims का छोड़ा मानदंड वाक्य है — «विधायक लोगों का प्रतिनिधित्व करते हैं, पेड़ों या भूमि-क्षेत्र का नहीं»। Wesberry की अनुच्छेद I वाली रेखा और Reynolds की समान-संरक्षण रेखा इस बात से भी अलग पहचानी जाती है कि यह वाक्य किस पक्ष का है।
+- राज्य विधानमंडल रेखा की छूट: संघीय प्रतिनिधि-सभा रेखा Kirkpatrick के बाद लगभग शून्य विचलन तक कस गई, उसके विपरीत राज्य विधानमंडल रेखा ने छोटे समग्र विचलन के लिए नीतिगत छूट बनाए रखी, जैसा White v. Regester, 412 U.S. 755 (1973) ने स्वीकार किया। दोनों रेखाओं की कठोरता आपस में बदली नहीं जा सकती।
