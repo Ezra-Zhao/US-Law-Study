@@ -55,3 +55,19 @@ AT&T Mobility LLC v. Concepcion, 563 U.S. 333 (2011) का निर्णय �
 ---
 
 *个人学习笔记，不构成法律、税务或医疗建议。*
+
+## 补译增量（2026-11-23 02:55 轮）
+
+> 本节为存量补译：中文主文已有、韩／越／印三语此前缺失的两组细节，各补一组译文（初译待校），纯增量、只加不删。
+
+### 한국어 (초译, 교정 대기)
+
+첫째, Thomas 대법관의 동의 의견이 걷는 별도의 길입니다. 다수 의견이 장애물 배제(obstacle preemption)로 간 것과 달리, Thomas는 FAA 제2조의 단서(savings clause)가 받아들이는 항변은 중재 합의의 체결 자체와 관련된 항변, 예컨대 사기나 강박으로 한정되어야 한다고 보았고, 본 사건의 불공정(unconscionability) 항변은 그 범주에 들지 않으므로 같은 결론, 즉 합의는 집행 가능하다는 결론에 이르렀습니다. 둘째, 실무상의 착지점 세 가지입니다. 휴대폰, 헬스장, 스트리밍 같은 부합계약을 맺을 때는 먼저 분쟁 해결 조항을 펼쳐 중재 조항과 집단 포기 조항이 숨어 있는지 확인하십시오. 소액의 보편적 청구에 실제로 걸렸을 때는 계약에 소액법원(small claims) 예외나 중재 탈퇴 기한이 있는지 먼저 보고, 단독 중재만 남았다고 단정하지 마십시오. 답안을 쓸 때는 FAA 제2조와 단서를 먼저 쓰고, 장애물 배제를 다음에 쓰고, Discover Bank 규칙을 배제되는 대상으로 마지막에 두는 세 단락이 모두 필요합니다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính)
+
+Thứ nhất, con đường riêng trong ý kiến đồng tình của Thẩm phán Thomas. Khác với đa số đi theo hướng chiếm chỗ vì cản trở (obstacle preemption), Thomas cho rằng điều khoản dự phòng (savings clause) của Điều 2 FAA chỉ chứa những biện hộ liên quan đến chính việc hình thành thỏa thuận trọng tài, chẳng hạn gian lận hay ép buộc, và biện hộ về tính bất công (unconscionability) trong vụ này không nằm trong nhóm đó, nên ông đi đến cùng một kết luận: thỏa thuận có thể thi hành. Thứ hai, ba điểm rơi thực hành. Khi ký hợp đồng gia nhập như điện thoại di động, phòng gym hay dịch vụ phát trực tuyến, hãy lật trước đến phần giải quyết tranh chấp để xem điều khoản trọng tài và điều khoản từ bỏ tập thể có ẩn ở đó không. Khi thực sự gặp khoản thu nhỏ mang tính phổ biến, trước hết hãy xem hợp đồng có ngoại lệ tòa án nhỏ (small claims) hay thời hạn rút khỏi trọng tài hay không, đừng mặc định rằng chỉ còn trọng tài riêng lẻ. Khi làm bài, phải viết đủ ba đoạn: Điều 2 FAA và điều khoản dự phòng trước, chiếm chỗ vì cản trở tiếp theo, và quy tắc Discover Bank làm đối tượng bị chiếm chỗ ở cuối.
+
+### हिन्दी (प्रारंभिक अनुवाद, समीक्षा प्रतीक्षित)
+
+पहला, न्यायमूर्ति Thomas के सहमति मत की अलग राह। बहुमत बाधा-विस्थापन (obstacle preemption) से गया, जबकि Thomas का मानना था कि FAA धारा 2 का अपवाद-खंड (savings clause) केवल उन्हीं प्रतिरक्षाओं को स्थान देता है जो मध्यस्थता समझौते के गठन से ही जुड़ी हों, जैसे धोखाधड़ी या दबाव, और इस मामले की अनुचितता (unconscionability) वाली प्रतिरक्षा उस श्रेणी में नहीं आती, इसलिए निष्कर्ष वही रहा कि समझौता प्रवर्तनीय है। दूसरा, तीन व्यावहारिक पड़ाव — मोबाइल फ़ोन, जिम या स्ट्रीमिंग जैसे अनुबंधों पर हस्ताक्षर करते समय पहले विवाद-समाधान वाला भाग खोलकर देखें कि मध्यस्थता खंड और सामूहिक-त्याग खंड वहाँ छिपे हैं या नहीं। छोटी सार्वभौमिक वसूली से सचमुच टकराने पर पहले देखें कि अनुबंध में लघु-दावा (small claims) अपवाद या मध्यस्थता से बाहर निकलने की समय-सीमा है या नहीं, यह न मान लें कि केवल एकल मध्यस्थता ही बची है। उत्तर लिखते समय तीनों खंड ज़रूरी हैं: पहले FAA धारा 2 और अपवाद-खंड, फिर बाधा-विस्थापन, और अंत में Discover Bank नियम को विस्थापित होने वाले विषय के रूप में रखें।
