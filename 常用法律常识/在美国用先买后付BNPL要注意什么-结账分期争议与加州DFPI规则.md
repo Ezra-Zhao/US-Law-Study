@@ -66,3 +66,25 @@ Mua trước trả sau (BNPL) trông như một tiện ích ở quầy thanh to�
 *개인 학습 노트이며 법률 자문이 아닙니다.*
 *Ghi chép học tập cá nhân, không phải tư vấn pháp lý.*
 *व्यक्तिगत अध्ययन नोट, कानूनी सलाह नहीं।*
+
+---
+
+## 补译增量（2026-11-23 07:55 轮）
+
+本节为存量补译增量：以下两组细节此前仅见于中文主文，韩／越／印三语译文未载，现补齐至六语对齐（纯增量，只加不删）。
+
+### 한국어 — 초역, 교정 대기 중 (初译待校)
+
+1. CCFPL 집행 도구 묶음: 홍보 문구와 계약이 어긋날 때(수수료가 전혀 없다고 해놓고 연체 수수료나 일정 변경 수수료를 받는 경우), 캘리포니아 금융보호혁신부(DFPI)는 플랫폼 고객센터를 넘어서는 한 층의 감독 압박을 가할 수 있고, 캘리포니아 소비자금융보호법(금융법전 §90000 이하)에 따른 DFPI의 UDAAP 집행 도구를 쓸 수 있으며, 일반 소비자 보호 경로도 함께 쓸 수 있습니다.
+2. 주문 후 남길 세 가지 묶음: 주문·반품 증빙, 회차별 출금 알림, 고객센터와의 모든 서면 소통 기록이 그것이며, BNPL 분쟁은 거의 이 세 가지로 진행되고 구두 약속은 증거로 인정되지 않습니다. 문제가 생긴 뒤의 순서는 상점 반품 확인, BNPL 제공업체에 대한 대출 조정 서면 통지, 출금 방식에 맞는 분쟁 절차, CFPB와 DFPI 민원 기록 순이며, 첫 단계부터 전 회차 납부를 중단하지 않는 것이 요점입니다.
+
+### Tiếng Việt — bản dịch sơ bộ, chờ hiệu đính (初译待校)
+
+1. Bộ công cụ thực thi CCFPL: khi quảng cáo và hợp đồng không khớp nhau (chẳng hạn tuyên bố tuyệt đối không phí nhưng lại thu phí trả chậm, phí đổi lịch), DFPI tạo thêm một lớp áp lực giám sát vượt lên trên tổng đài của nền tảng, có thể dùng công cụ thực thi UDAAP theo Đạo luật Bảo vệ Tài chính Người tiêu dùng California (Bộ luật Tài chính § 90000 trở đi), đồng thời vẫn còn các kênh bảo vệ người tiêu dùng thông thường.
+2. Bộ ba thứ phải giữ sau khi đặt hàng: chứng từ đơn hàng và trả hàng, thông báo trừ tiền của từng kỳ, và toàn bộ trao đổi bằng văn bản với bộ phận chăm sóc khách hàng — tranh chấp BNPL gần như chỉ tiến được nhờ ba thứ này, lời hứa miệng không tính. Khi đã xảy ra sự cố, thứ tự là: xác nhận trả hàng của người bán, thông báo bằng văn bản cho nhà cung cấp BNPL để điều chỉnh khoản vay, thủ tục tranh chấp tương ứng với cách trừ tiền, rồi ghi dấu khiếu nại CFPB và DFPI; điểm cốt yếu là không dừng trả toàn bộ các kỳ ngay từ bước đầu tiên.
+
+### हिन्दी — प्रारंभिक अनुवाद, समीक्षा लंबित (初译待校)
+
+1. CCFPL प्रवर्तन उपकरण समूह: जब प्रचार और अनुबंध मेल न खाएँ (जैसे बिल्कुल कोई शुल्क न होने का दावा करके विलंब शुल्क या पुनर्निर्धारण शुल्क वसूलना), तो DFPI प्लेटफ़ॉर्म की ग्राहक सेवा से एक स्तर ऊपर का पर्यवेक्षी दबाव डाल सकता है, California Consumer Financial Protection Law (Financial Code § 90000 आदि) के तहत DFPI के UDAAP प्रवर्तन उपकरण का उपयोग हो सकता है, और सामान्य उपभोक्ता-संरक्षण रास्ते भी साथ उपलब्ध रहते हैं।
+2. आदेश के बाद रखने वाली तीन चीज़ों का समूह: आदेश व वापसी के प्रमाण, प्रत्येक किस्त की डेबिट सूचना, और ग्राहक सेवा से हुआ समस्त लिखित संवाद — BNPL विवाद लगभग इन्हीं तीनों से आगे बढ़ते हैं, मौखिक वादे गिनती में नहीं आते। समस्या आने पर क्रम यह है: विक्रेता की वापसी-पुष्टि, BNPL प्रदाता को ऋण समायोजन की लिखित सूचना, डेबिट के तरीके के अनुरूप विवाद प्रक्रिया, फिर CFPB व DFPI में शिकायत का रिकॉर्ड; मुख्य बात यह है कि पहले ही कदम पर सभी किस्तों का भुगतान न रोका जाए।
+
