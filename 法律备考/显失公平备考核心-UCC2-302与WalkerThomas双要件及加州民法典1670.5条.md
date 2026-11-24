@@ -1,0 +1,96 @@
+# 显失公平备考核心：UCC 第 2-302 条与 Walker-Thomas 双要件、加州《民法典》第 1670.5 条
+
+显失公平（unconscionability）是合同抗辩里少见的「法官直接说不」的工具：条款订立时就显失公平的，法院可以不执行它，不必等到违约发生。备考的难点不在概念，在刻度——程序与实体两面都要看，加州还用滑动标尺把两面称在一起。本篇管答题流水线：先认条款与时点，再量程序面，再量实体面，最后落救济；谱系与版图见本仓图谱篇。
+
+## 一、法源与门槛：先认条款、时点与三档救济
+
+### 中文
+
+先把三个法源分清。货物买卖看《统一商法典》（UCC）第 2-302 条第 (1) 款：法院若认定合同或其中任何条款在订立时（at the time it was made）显失公平，可以拒绝执行整个合同、执行剔除该条款后的其余部分、或限制该条款的适用以避免不公平结果。非货物合同看《合同法重述（第二版）》第 208 条，口径基本相同，靠普通法与衡平传统落地。加州有成文法：《民法典》第 1670.5 条，1979 年制定，把第 2-302 条的框架扩到一切合同，第 (b) 款还规定当事人可以提交订立时的商业背景、目的与效果方面的证据。三个法源共享两个门槛：第一，判断时点是订立时，不是履行出了问题之后才回头说不公平；第二，救济有三档——整份不执行、剔除条款后执行其余、限制适用——法院按不公平的程度选档，不是只有全有或全无。还要先分清显失公平与相邻抗辩：胁迫看意思被压制，欺诈看事实被说谎，显失公平看的是交易结构本身——一方在订立时没有有意义的选择，条款又单方面苛刻到没有合理理由。
+
+### English
+
+Three sources govern. For sales of goods, UCC § 2-302(1) lets a court that finds a contract or clause unconscionable at the time it was made refuse to enforce the contract, enforce the rest without the clause, or limit the clause's application to avoid an unconscionable result. For other contracts, Restatement (Second) of Contracts § 208 states the same rule through common law and equity. California codifies it for all contracts in Civil Code § 1670.5, enacted in 1979, and § 1670.5(b) lets the parties present evidence of the commercial setting, purpose, and effect. Two thresholds are shared: the measuring moment is formation, not later hardship, and the remedy has three gears — refuse the whole contract, sever the clause, or limit its application. Keep the doctrine distinct from duress (a defect of assent) and fraud (a defect of fact): unconscionability attacks the structure of the bargain itself — no meaningful choice on one side, and terms unreasonably favorable to the other.
+
+### Español (初译待校)
+
+Rigen tres fuentes. Para la venta de bienes, el § 2-302(1) del UCC permite al tribunal que declare un contrato o cláusula desproporcionado (unconscionable) en el momento de su celebración negarse a ejecutar el contrato, ejecutar el resto sin la cláusula o limitar su aplicación para evitar un resultado injusto. Para los demás contratos, el § 208 del Restatement (Second) of Contracts enuncia la misma regla por la vía del common law y la equidad. California la codifica para todo contrato en el Civil Code § 1670.5, de 1979, y su apartado (b) permite aportar prueba del contexto comercial, la finalidad y el efecto. Dos umbrales son comunes: el momento de medición es la celebración, no las dificultades posteriores, y el remedio tiene tres grados — no ejecutar el contrato, suprimir la cláusula o limitar su aplicación. La figura se distingue de la coacción (vicio del consentimiento) y del fraude (falsedad de hechos): aquí se ataca la estructura misma del negocio, sin elección significativa de una parte y con cláusulas irrazonablemente favorables a la otra.
+
+### 한국어 (初译待校)
+
+법원은 세 가지이다. 물품 매매는 통일상법전(UCC) 제2-302조 제(1)항이 규율한다. 법원이 계약 또는 조항이 체결 당시(at the time it was made) 현저히 불공정(unconscionable)하다고 인정하면, 계약 전체의 이행을 거부하거나, 해당 조항을 제외한 나머지를 이행하게 하거나, 불공정한 결과를 피하기 위해 조항의 적용을 제한할 수 있다. 그 밖의 계약은 계약법 리스테이트먼트(제2판) 제208조가 보통법과 형평의 경로로 같은 규칙을 말한다. 캘리포니아는 1979년 제정된 민법 제1670.5조로 이를 모든 계약에 성문화했고, 같은 조 (b)항은 체결 당시의 상업적 배경, 목적, 효과에 관한 증거 제출을 허용한다. 공통의 문턱은 둘이다. 판단 시점은 이행 단계의 곤란이 아니라 체결 당시이며, 구제는 전체 거부, 조항 분리, 적용 제한의 세 단계이다. 강박(의사 억압)이나 사기(사실 기망)와 구별할 것. 이 법리는 거래 구조 자체 — 한쪽에 의미 있는 선택이 없고 조항이 일방적으로 가혹한 경우 — 를 공격한다.
+
+### Tiếng Việt (初译待校)
+
+Có ba nguồn luật. Với mua bán hàng hóa, Điều 2-302(1) UCC cho phép tòa án, khi thấy hợp đồng hoặc điều khoản là unconscionable (quá bất công) ngay tại thời điểm giao kết, từ chối thi hành toàn bộ hợp đồng, thi hành phần còn lại sau khi cắt bỏ điều khoản, hoặc giới hạn áp dụng điều khoản để tránh kết quả bất công. Với các hợp đồng khác, Điều 208 của Restatement (Second) of Contracts nêu cùng quy tắc qua thông luật và luật công bằng. California luật hóa cho mọi hợp đồng tại Điều 1670.5 Bộ luật Dân sự, ban hành năm 1979, và khoản (b) cho phép các bên đưa chứng cứ về bối cảnh thương mại, mục đích và hiệu quả khi giao kết. Hai ngưỡng chung: thời điểm đo là lúc giao kết, không phải khó khăn về sau; và biện pháp có ba nấc — từ chối toàn bộ, cắt điều khoản, hoặc giới hạn áp dụng. Cần phân biệt với ép buộc (khiếm khuyết về đồng ý) và gian lận (sai sự thật): học thuyết này tấn công cấu trúc của chính giao dịch — một bên không có lựa chọn có ý nghĩa, điều khoản lại hà khắc một chiều.
+
+### हिन्दी (初译待校)
+
+तीन स्रोत लागू होते हैं। माल की बिक्री के लिए UCC § 2-302(1) कहता है कि यदि न्यायालय किसी अनुबंध या खंड को उसके किए जाने के समय (at the time it was made) अत्यंत अनुचित (unconscionable) पाए, तो वह पूरे अनुबंध को लागू करने से इनकार कर सकता है, खंड हटाकर शेष को लागू कर सकता है, या अनुचित परिणाम से बचने के लिए खंड का प्रयोग सीमित कर सकता है। अन्य अनुबंधों के लिए Restatement (Second) of Contracts § 208 यही नियम common law और equity के मार्ग से देता है। कैलिफ़ोर्निया ने इसे 1979 में बनाए गए Civil Code § 1670.5 द्वारा सभी अनुबंधों पर संहिताबद्ध किया, और § 1670.5(b) पक्षों को वाणिज्यिक परिवेश, उद्देश्य और प्रभाव के साक्ष्य रखने देता है। दो साझा शर्तें हैं: मापन का क्षण गठन का समय है, बाद की कठिनाई नहीं; और उपाय के तीन स्तर हैं — पूरा इनकार, खंड का पृथक्करण, या प्रयोग की सीमा। इसे दबाव (सहमति का दोष) और धोखाधड़ी (तथ्य का झूठ) से अलग रखें: यह सिद्धांत सौदे की संरचना पर ही प्रहार करता है — एक पक्ष के पास सार्थक विकल्प न हो और शर्तें दूसरे के पक्ष में अनुचित रूप से झुकी हों।
+
+## 二、双要件与滑动标尺：程序面与实体面怎么称
+
+### 中文
+
+要件的经典表述来自 Williams v. Walker-Thomas Furniture Co., 350 F.2d 445 (D.C. Cir. 1965)（联邦哥伦比亚特区巡回上诉法院）。家具店的格式合同里藏着一条交叉担保条款：分期买的每件家具都为此前所有欠款作担保，任何一期欠款未清，店家可收回全部家具。法院把案件发回，要求查明买方在订立时是否根本没有有意义的选择（absence of meaningful choice），并指出条款若单方面苛刻到不合理地有利于卖方（unreasonably favorable），即落入显失公平。后来各法域把这段话拆成两面：程序面显失公平看订立过程——不平等的议价地位、附合合同（adhesion）无从协商、条款藏在细字里造成的突袭（oppression 与 surprise 两支）；实体面显失公平看条款本身——价格或责任分配过分苛刻、单方面到没有商业理由（一面倒的仲裁地、单方改价、免除核心责任之类）。加州的刻度是滑动标尺（sliding scale），定版于 Armendariz v. Foundation Health Psychcare Services, Inc., 24 Cal.4th 83 (2000)（加州最高法院）：两面都必须在场，但此多彼少——程序面越重，实体面只需越轻，反之亦然；只有一面、另一面全无的，过不了门。答题时把两面的证据分开列：程序面写谁起草、能不能谈、字多大、有没有替代交易；实体面写条款把风险与成本推给了谁、有没有对等安排。
+
+### English
+
+The canonical formulation comes from Williams v. Walker-Thomas Furniture Co., 350 F.2d 445 (D.C. Cir. 1965). A furniture store's form contract hid a cross-collateral clause: every item bought on installments secured all prior balances, so one missed payment let the store reclaim everything. The court remanded to ask whether the buyer had any meaningful choice at all, and flagged terms unreasonably favorable to the seller. Later courts split this into two prongs. Procedural unconscionability examines the bargaining process — unequal bargaining power, a contract of adhesion with no negotiation, and surprise from terms buried in fine print (the oppression and surprise branches). Substantive unconscionability examines the term itself — allocations of price, risk, or cost so one-sided they lack commercial justification. California weighs the two on a sliding scale, settled in Armendariz v. Foundation Health Psychcare Services, Inc., 24 Cal.4th 83 (2000): both prongs must be present, but in inverse proportion — the more procedural unfairness, the less substantive harshness is required, and vice versa. On an exam, list the evidence prong by prong: who drafted it, whether negotiation or a market alternative existed, and which party the clause loads the risk onto.
+
+### Español (初译待校)
+
+La formulación clásica procede de Williams v. Walker-Thomas Furniture Co., 350 F.2d 445 (D.C. Cir. 1965). El contrato de adhesión de una mueblería escondía una cláusula de garantía cruzada: cada artículo comprado a plazos garantizaba todos los saldos anteriores, de modo que un solo impago permitía recuperar todo. El tribunal devolvió el caso para examinar si la compradora tuvo alguna elección significativa, y señaló las cláusulas irrazonablemente favorables al vendedor. La doctrina posterior lo dividió en dos caras. La desproporción procesal mira el proceso de negociación: desigualdad de poder, contrato de adhesión sin negociación posible y sorpresa por cláusulas ocultas en la letra pequeña (las ramas de opresión y sorpresa). La desproporción sustantiva mira la cláusula misma: repartos de precio, riesgo o costos tan unilaterales que carecen de justificación comercial. California las pesa en una escala móvil (sliding scale), fijada en Armendariz v. Foundation Health Psychcare Services, Inc., 24 Cal.4th 83 (2000): ambas caras deben estar presentes, pero en proporción inversa — cuanto más vicio procesal, menos dureza sustantiva se exige, y al revés. En el examen, enumera la prueba cara por cara.
+
+### 한국어 (初译待校)
+
+고전적 정식은 Williams v. Walker-Thomas Furniture Co., 350 F.2d 445 (D.C. Cir. 1965)에서 나온다. 가구점의 약관 계약에는 교차담보 조항이 숨어 있었다. 할부로 산 모든 물건이 이전 잔액 전부를 담보하므로, 한 번만 연체해도 가게가 전부 회수할 수 있었다. 법원은 매수인에게 의미 있는 선택(absence of meaningful choice)이 있었는지를 심리하라며 환송했고, 판매자에게 부당하게 유리한(unreasonably favorable) 조항을 지적했다. 이후 법리는 이를 두 면으로 나눴다. 절차적 현저한 불공정은 협상 과정을 본다 — 협상력의 불평등, 협상 여지 없는 부합계약(adhesion), 작은 글씨에 숨은 조항의 기습(oppression과 surprise 두 갈래). 실체적 현저한 불공정은 조항 자체를 본다 — 가격·위험·비용의 배분이 상업적 정당화 없이 일방적인 경우이다. 캘리포니아의 저울은 슬라이딩 스케일(sliding scale)로, Armendariz v. Foundation Health Psychcare Services, Inc., 24 Cal.4th 83 (2000)에서 확정됐다. 두 면 모두 있어야 하지만 반비례한다. 절차적 흠이 클수록 실체적 가혹함은 적게 요구되고, 반대도 같다. 시험에서는 면마다 증거를 나눠 적을 것.
+
+### Tiếng Việt (初译待校)
+
+Công thức cổ điển đến từ Williams v. Walker-Thomas Furniture Co., 350 F.2d 445 (D.C. Cir. 1965). Hợp đồng mẫu của một cửa hàng nội thất giấu một điều khoản bảo đảm chéo: mọi món mua trả góp đều bảo đảm cho toàn bộ dư nợ trước đó, nên chỉ một lần chậm trả là cửa hàng thu hồi tất cả. Tòa phúc thẩm trả hồ sơ để xét xem người mua có lựa chọn có ý nghĩa nào không, và chỉ ra các điều khoản có lợi một cách vô lý cho người bán. Học thuyết sau này tách thành hai mặt. Mặt thủ tục (procedural) nhìn vào quá trình thương lượng — thế thương lượng không ngang, hợp đồng gia nhập (adhesion) không thể thương lượng, và yếu tố bất ngờ từ điều khoản giấu trong chữ nhỏ (hai nhánh oppression và surprise). Mặt thực chất (substantive) nhìn vào chính điều khoản — cách phân bổ giá, rủi ro hay chi phí một chiều đến mức không có lý do thương mại. California cân hai mặt theo thang trượt (sliding scale), được ấn định trong Armendariz v. Foundation Health Psychcare Services, Inc., 24 Cal.4th 83 (2000): cả hai mặt đều phải có, nhưng theo tỉ lệ nghịch — mặt thủ tục càng nặng thì mặt thực chất càng cần ít, và ngược lại.
+
+### हिन्दी (初译待校)
+
+क्लासिक सूत्र Williams v. Walker-Thomas Furniture Co., 350 F.2d 445 (D.C. Cir. 1965) से आता है। एक फ़र्नीचर दुकान के प्रपत्र-अनुबंध में क्रॉस-कोलैटरल खंड छिपा था: किस्तों पर खरीदी हर वस्तु सभी पुराने बकायों की ज़मानत थी, इसलिए एक किस्त चूकते ही दुकान सब कुछ वापस ले सकती थी। न्यायालय ने मामला यह जाँचने के लिए लौटाया कि क्रेता के पास कोई सार्थक विकल्प था या नहीं, और विक्रेता के पक्ष में अनुचित रूप से झुकी शर्तों को चिह्नित किया। बाद के सिद्धांत ने इसे दो पक्षों में बाँटा। प्रक्रियात्मक (procedural) पक्ष सौदेबाज़ी की प्रक्रिया देखता है — असमान सौदा-शक्ति, बिना वार्ता का adhesion अनुबंध, और छोटे अक्षरों में छिपी शर्तों का आश्चर्य (oppression और surprise दो शाखाएँ)। वास्तविक (substantive) पक्ष स्वयं शर्त को देखता है — मूल्य, जोखिम या लागत का ऐसा एकतरफ़ा बँटवारा जिसका कोई वाणिज्यिक औचित्य न हो। कैलिफ़ोर्निया दोनों को sliding scale पर तौलता है, जो Armendariz v. Foundation Health Psychcare Services, Inc., 24 Cal.4th 83 (2000) में तय हुआ: दोनों पक्ष उपस्थित होने चाहिए, पर व्युत्क्रम अनुपात में — प्रक्रियात्मक दोष जितना अधिक, वास्तविक कठोरता उतनी कम चाहिए, और उल्टा भी।
+
+## 三、答题顺序与边界：仲裁战场、Sanchez 校准与联邦上限
+
+### 中文
+
+落笔按五步走。第一步，认条款与法源：货物走第 2-302 条、一般合同走第 208 条或州成文法（如加州第 1670.5 条），时点锁定订立时。第二步，程序面：附合性、协商可能、条款位置与可读性、弱势方的语言与教育背景，逐项给事实。第三步，实体面：条款的风险成本分配是否一面倒、有无商业理由、是否剥夺了交易的核心对价。第四步，滑动标尺合并称量，并点明哪一面是主力。第五步，选救济档：剔除、限制适用或整体不执行，并说明为什么不选更重或更轻的档。边界有两条必须写。其一，仲裁条款是主战场：Armendariz 同时给就业仲裁立了最低配置（中立仲裁人、充分开示、书面裁决、可得全部救济、不得转嫁额外费用）；但联邦有上限——AT&T Mobility LLC v. Concepcion, 563 U.S. 333 (2011)（联邦最高法院）认定《联邦仲裁法》（FAA）优先适用，加州以显失公平为由一概否定集体仲裁弃权条款的规则被挡下，州法只能以普遍适用于一切合同的规则审查仲裁条款，不得专挑仲裁下手。其二，校准样本：Sanchez v. Valencia Holding Co., 61 Cal.4th 899 (2015)（加州最高法院）重申滑动标尺，同时在一份汽车买卖仲裁条款上认定实体面不达标而放行——程序面有些瑕疵，不等于实体面自动成立，两面都要有实据。算年份账：2026 − 1965 ＝ 61 年，Walker-Thomas 的双面框架至今仍是各法域的共同底盘；2026 − 1979 ＝ 47 年，加州成文法比多数州走得更早、更宽。
+
+### English
+
+Write the answer in five steps. First, identify the clause and the source — § 2-302 for goods, § 208 or a state statute such as § 1670.5 otherwise — and fix the moment at formation. Second, build the procedural record: adhesion, any chance to negotiate, placement and legibility of the term, and the weaker party's language and education. Third, build the substantive record: whether the clause allocates risk and cost one-sidedly, whether any commercial justification exists, and whether it strips the bargain's core. Fourth, weigh the two on the sliding scale and say which prong carries the argument. Fifth, pick the remedy gear — sever, limit, or refuse enforcement — and justify the choice. Two boundaries must appear. Arbitration is the main battlefield: Armendariz also set minimum requirements for employment arbitration (a neutral arbitrator, adequate discovery, a written award, all statutory relief, and no extra costs shifted to the employee), but AT&T Mobility LLC v. Concepcion, 563 U.S. 333 (2011) holds that the FAA preempts state rules that single out arbitration, so generally applicable contract defenses remain available while arbitration-specific hostility does not. And Sanchez v. Valencia Holding Co., 61 Cal.4th 899 (2015) reaffirmed the sliding scale yet upheld a car-sale arbitration clause whose substantive prong fell short — some procedural taint does not manufacture substantive unfairness. Arithmetic: 2026 − 1965 = 61 years of the Walker-Thomas framework; 2026 − 1979 = 47 years of California's broader statute.
+
+### Español (初译待校)
+
+Redacta en cinco pasos. Primero, identifica la cláusula y la fuente — § 2-302 para bienes, § 208 o una ley estatal como el § 1670.5 para lo demás — y fija el momento en la celebración. Segundo, construye el expediente procesal: adhesión, posibilidad real de negociar, ubicación y legibilidad de la cláusula, idioma y formación de la parte débil. Tercero, el expediente sustantivo: si la cláusula reparte riesgo y costos de forma unilateral, si existe justificación comercial y si vacía el núcleo del negocio. Cuarto, pesa ambas caras en la escala móvil e indica cuál sostiene el argumento. Quinto, elige el grado del remedio — suprimir, limitar o no ejecutar — y justifícalo. Deben aparecer dos límites. El arbitraje es el campo de batalla principal: Armendariz fijó también requisitos mínimos para el arbitraje laboral (árbitro neutral, descubrimiento adecuado, laudo escrito, todos los remedios legales y sin costos extra para el empleado), pero AT&T Mobility LLC v. Concepcion, 563 U.S. 333 (2011) decidió que la FAA desplaza las reglas estatales que discriminan el arbitraje; subsisten las defensas contractuales de aplicación general. Y Sanchez v. Valencia Holding Co., 61 Cal.4th 899 (2015) reafirmó la escala móvil pero mantuvo una cláusula arbitral de compraventa de automóvil cuya cara sustantiva no alcanzó el umbral. Cuentas: 2026 − 1965 = 61 años del marco de Walker-Thomas; 2026 − 1979 = 47 años de la ley californiana.
+
+### 한국어 (初译待校)
+
+답안은 다섯 단계로 쓴다. 첫째, 조항과 법원을 특정한다 — 물품은 제2-302조, 그 밖에는 제208조나 제1670.5조 같은 주 성문법 — 그리고 시점을 체결 당시로 고정한다. 둘째, 절차적 기록을 쌓는다: 부합성, 협상 가능성, 조항의 위치와 가독성, 약한 당사자의 언어와 교육 배경. 셋째, 실체적 기록을 쌓는다: 조항이 위험과 비용을 일방적으로 배분하는지, 상업적 정당화가 있는지, 거래의 핵심을 비우는지. 넷째, 슬라이딩 스케일로 두 면을 함께 달고 어느 면이 주력인지 밝힌다. 다섯째, 구제 단계를 고른다 — 분리, 제한, 전체 거부 — 그리고 이유를 댄다. 경계 두 개는 반드시 써야 한다. 중재가 주전장이다: Armendariz는 고용 중재의 최소 요건(중립 중재인, 충분한 증거개시, 서면 판정, 법정 구제의 전부, 추가 비용의 전가 금지)도 세웠지만, AT&T Mobility LLC v. Concepcion, 563 U.S. 333 (2011)은 연방중재법(FAA)이 중재를 겨냥한 주 규칙에 우선한다고 했으므로, 모든 계약에 일반적으로 적용되는 항변만 남는다. 그리고 Sanchez v. Valencia Holding Co., 61 Cal.4th 899 (2015)는 슬라이딩 스케일을 재확인하면서도 실체면이 문턱에 못 미친 자동차 매매 중재 조항을 유지했다. 계산: 2026 − 1965 = 61년, 2026 − 1979 = 47년이다.
+
+### Tiếng Việt (初译待校)
+
+Viết bài theo năm bước. Thứ nhất, xác định điều khoản và nguồn luật — Điều 2-302 cho hàng hóa, Điều 208 hoặc luật bang như Điều 1670.5 cho các trường hợp còn lại — và cố định thời điểm tại lúc giao kết. Thứ hai, dựng hồ sơ mặt thủ tục: tính gia nhập, khả năng thương lượng thực tế, vị trí và độ dễ đọc của điều khoản, ngôn ngữ và trình độ của bên yếu thế. Thứ ba, dựng hồ sơ mặt thực chất: điều khoản có phân bổ rủi ro và chi phí một chiều không, có lý do thương mại không, có làm rỗng cốt lõi giao dịch không. Thứ tư, cân hai mặt trên thang trượt và nói rõ mặt nào gánh lập luận. Thứ năm, chọn nấc biện pháp — cắt bỏ, giới hạn, hay từ chối toàn bộ — kèm lý do. Hai ranh giới phải xuất hiện. Trọng tài là chiến trường chính: Armendariz còn đặt yêu cầu tối thiểu cho trọng tài lao động (trọng tài viên trung lập, khám phá chứng cứ đầy đủ, phán quyết bằng văn bản, mọi biện pháp luật định, không chuyển chi phí phụ sang người lao động), nhưng AT&T Mobility LLC v. Concepcion, 563 U.S. 333 (2011) phán rằng FAA chiếm ưu thế trước các quy tắc bang nhắm riêng vào trọng tài; chỉ các phòng vệ hợp đồng áp dụng chung mới còn đứng vững. Còn Sanchez v. Valencia Holding Co., 61 Cal.4th 899 (2015) tái khẳng định thang trượt nhưng vẫn giữ một điều khoản trọng tài trong mua bán xe hơi vì mặt thực chất chưa đạt ngưỡng. Tính toán: 2026 − 1965 = 61 năm; 2026 − 1979 = 47 năm.
+
+### हिन्दी (初译待校)
+
+उत्तर पाँच चरणों में लिखें। पहला, खंड और स्रोत पहचानें — माल के लिए § 2-302, अन्यथा § 208 या § 1670.5 जैसी राज्य-विधि — और क्षण को गठन के समय पर स्थिर करें। दूसरा, प्रक्रियात्मक अभिलेख बनाएँ: adhesion, वार्ता की वास्तविक संभावना, खंड की स्थिति और पठनीयता, कमज़ोर पक्ष की भाषा और शिक्षा। तीसरा, वास्तविक अभिलेख बनाएँ: क्या खंड जोखिम और लागत एकतरफ़ा बाँटता है, कोई वाणिज्यिक औचित्य है या नहीं, और क्या वह सौदे के सार को खाली करता है। चौथा, दोनों पक्षों को sliding scale पर तौलें और बताएँ कि कौन-सा पक्ष तर्क का भार उठाता है। पाँचवाँ, उपाय का स्तर चुनें — पृथक्करण, सीमा, या पूर्ण इनकार — और कारण दें। दो सीमाएँ अवश्य आनी चाहिए। मध्यस्थता मुख्य रणभूमि है: Armendariz ने रोज़गार-मध्यस्थता के न्यूनतम मानक भी तय किए (तटस्थ मध्यस्थ, पर्याप्त discovery, लिखित निर्णय, सभी वैधानिक उपाय, अतिरिक्त लागत का स्थानांतरण नहीं), किंतु AT&T Mobility LLC v. Concepcion, 563 U.S. 333 (2011) ने कहा कि FAA उन राज्य-नियमों पर भारी है जो केवल मध्यस्थता को निशाना बनाते हैं; सामान्य रूप से लागू अनुबंध-बचाव ही बचते हैं। और Sanchez v. Valencia Holding Co., 61 Cal.4th 899 (2015) ने sliding scale की पुष्टि करते हुए भी एक कार-बिक्री मध्यस्थता खंड को बरकरार रखा क्योंकि वास्तविक पक्ष सीमा तक नहीं पहुँचा। गणना: 2026 − 1965 = 61 वर्ष; 2026 − 1979 = 47 वर्ष।
+
+## 参考依据
+
+- UCC § 2-302：订立时显失公平的合同或条款，法院可拒绝执行、剔除条款后执行其余、或限制适用。
+- Restatement (Second) of Contracts § 208：一般合同的显失公平规则。
+- Williams v. Walker-Thomas Furniture Co., 350 F.2d 445 (D.C. Cir. 1965)：无有意义选择与单方面有利条款的经典表述，交叉担保条款案发回重审。
+- California Civil Code § 1670.5（1979 年制定）：显失公平规则扩及一切合同，第 (b) 款的商业背景证据。
+- Armendariz v. Foundation Health Psychcare Services, Inc., 24 Cal.4th 83 (2000)：滑动标尺定版与就业仲裁最低配置。
+- AT&T Mobility LLC v. Concepcion, 563 U.S. 333 (2011)：FAA 优先适用对州显失公平规则的上限。
+- Sanchez v. Valencia Holding Co., 61 Cal.4th 899 (2015)：滑动标尺重申与实体面门槛的校准样本。
+- 算例本地复算一致：2026 − 1965 ＝ 61、2026 − 1979 ＝ 47、2015 − 2000 ＝ 15。
+
+## 免责声明
+
+个人学习笔记，不构成法律建议。个案中的条款效力以合同文本、订立时事实与管辖法域为准，请咨询执业律师。
