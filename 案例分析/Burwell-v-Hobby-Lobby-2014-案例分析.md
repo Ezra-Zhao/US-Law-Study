@@ -174,3 +174,17 @@ Chi tiết bổ sung: phần tiếp của dòng sự kiện vụ án này: thác
 ## 免责声明
 
 个人学习笔记，不构成法律建议。条文、额度与期限以官方公布的现行文本为准，个案处理请咨询执业律师。
+
+## 补译增量（2026-11-24 11:55轮）· 한국어 / Tiếng Việt / हिन्दी（细节对齐·初译待校）
+
+### 한국어 (초역·교정 대기)
+- 불이행의 대가 산식: 26 U.S.C. § 4980D는 요건을 갖추지 못한 단체 건강보험에 대해 영향을 받는 개인 1인당 하루 100달러의 벌금을 정하고, 법원은 Hobby Lobby를 예로 연간 약 4억 7,500만 달러로 계산했다. 보험 자체를 아예 끊으면 § 4980H의 고용주 공동책임 부담금으로 최소 약 2,600만 달러가 추정됐고, 직원들이 보험을 잃으면 인재 유지 경쟁력까지 흔들린다.
+- 다투는 범위는 네 가지뿐: 원고들은 피임 자체에 반대하지 않았고 Hobby Lobby의 보험은 FDA 승인 피임법 20종 중 16종을 이미 보장하고 있었다. 반대한 것은 착상 후 작용할 수 있다고 본 네 가지 — 응급피임약 두 종류(레보노르게스트렐과 울리프리스탈)와 자궁내장치 두 종류 — 뿐이었다.
+
+### Tiếng Việt (初译待校)
+- Công thức cái giá của việc không tuân thủ: 26 U.S.C. § 4980D phạt 100 đô la mỗi người mỗi ngày đối với chương trình sức khỏe nhóm không đạt yêu cầu, và tòa tính ví dụ Hobby Lobby ra khoảng 475 triệu đô la một năm. Nếu bỏ hẳn bảo hiểm, khoản thanh toán trách nhiệm chung của chủ lao động theo § 4980H ước tính ít nhất khoảng 26 triệu đô la, chưa kể áp lực giữ người khi nhân viên mất bảo hiểm.
+- Phạm vi tranh chấp chỉ là bốn phương pháp: nguyên đơn không phản đối tránh thai nói chung, và chương trình của Hobby Lobby vốn đã chi trả 16 trong 20 phương pháp tránh thai được FDA phê duyệt. Họ chỉ phản đối bốn phương pháp bị cho là có thể tác dụng sau thụ tinh — hai thuốc tránh thai khẩn cấp (levonorgestrel và ulipristal) và hai dụng cụ tử cung.
+
+### हिन्दी (初译待校)
+- अनुपालन न करने की कीमत का सूत्र: 26 U.S.C. § 4980D अपात्र समूह स्वास्थ्य योजना पर प्रभावित प्रत्येक व्यक्ति के लिए प्रतिदिन 100 डॉलर का जुर्माना लगाता है, और न्यायालय ने Hobby Lobby के उदाहरण से यह राशि वर्ष में लगभग 475 मिलियन डॉलर निकाली। यदि बीमा ही पूरी तरह बंद कर दिया जाए तो § 4980H के नियोक्ता साझा-दायित्व भुगतान का अनुमान कम से कम लगभग 26 मिलियन डॉलर था, और कर्मचारियों का बीमा छिनने से प्रतिधारण का दबाव अलग।
+- विवाद केवल चार विधियों तक सीमित: वादी गर्भनिरोध के स्वयं विरोधी नहीं थे, और Hobby Lobby की योजना FDA-अनुमोदित 20 विधियों में से 16 पहले से कवर करती थी। आपत्ति केवल उन चार पर थी जिन्हें निषेचन के बाद कार्य करने वाला माना गया — दो आपातकालीन गर्भनिरोधक गोलियाँ (levonorgestrel और ulipristal) और दो अंतर्गर्भाशयी उपकरण।
