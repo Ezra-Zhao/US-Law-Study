@@ -74,3 +74,23 @@ Tiếp theo là một bức tranh ghép cấp bang gồm ba họ: cấm gần nh
 *개인 학습 노트이며 법률 자문이 아닙니다. 구체적인 사안은 자격 있는 변호사에게 상담하십시오. (초역, 원어민 감수 대기)*
 *Ghi chú học tập cá nhân, không cấu thành tư vấn pháp lý. Với trường hợp cụ thể, hãy tham vấn luật sư có giấy phép hành nghề. (bản dịch sơ bộ, chờ hiệu đính)*
 *यह व्यक्तिगत अध्ययन नोट है और कानूनी सलाह नहीं है। किसी विशिष्ट मामले के लिए लाइसेंस-प्राप्त वकील से परामर्श करें। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)*
+
+## 补译增量（2026-11-24 12:55 轮）
+
+### 한국어 (초역, 원어민 감수 대기 / 初译待校)
+
+보충 1 (Dobbs 사건 번호와 날짜): Dobbs 사건의 사건 번호는 No. 19-1392이고, 구두 변론은 2021년 12월 1일에 열렸으며, 판결은 2022년 6월 24일에 선고됐습니다.
+
+보충 2 (EMTALA 응급 의무와 피임 선례): 연방 응급의료법(EMTALA)은 병원에 응급 환자의 상태를 먼저 안정시킬 의무를 지우며, 이 의무와 주 금지법이 응급실에서 충돌하는 경계는 여전히 하급 법원에서 다투어지고 있습니다. 피임의 한 줄은 이 지도의 중심은 아니지만, Griswold v. Connecticut, 381 U.S. 479 (1965)와 Eisenstadt v. Baird, 405 U.S. 438 (1972)의 피임권 선례는 Dobbs의 손을 타지 않았습니다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính / 初译待校)
+
+Bổ sung 1 (số hiệu và ngày tháng vụ Dobbs): Vụ Dobbs mang số hiệu No. 19-1392, được tranh luận ngày 1 tháng 12 năm 2021 và tuyên án ngày 24 tháng 6 năm 2022.
+
+Bổ sung 2 (nghĩa vụ cấp cứu EMTALA và các tiền lệ về tránh thai): Đạo luật EMTALA buộc bệnh viện phải ổn định tình trạng bệnh nhân cấp cứu trước, và ranh giới nơi nghĩa vụ này va chạm với lệnh cấm của bang trong phòng cấp cứu vẫn đang bị giằng co tại các tòa cấp dưới. Tuyến tránh thai không nằm ở trung tâm bản đồ này, nhưng các tiền lệ về quyền tránh thai Griswold v. Connecticut, 381 U.S. 479 (1965) và Eisenstadt v. Baird, 405 U.S. 438 (1972) không bị Dobbs đụng tới.
+
+### हिन्दी (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित / 初译待校)
+
+पूरक 1 (Dobbs का वाद क्रमांक और तिथियाँ): Dobbs वाद का क्रमांक No. 19-1392 है; मौखिक बहस 1 दिसंबर 2021 को हुई और निर्णय 24 जून 2022 को सुनाया गया।
+
+पूरक 2 (EMTALA आपात दायित्व और गर्भनिरोधक पूर्वनिर्णय): संघीय EMTALA अस्पतालों पर आपात रोगियों की स्थिति पहले स्थिर करने का दायित्व डालता है, और आपात कक्ष में इस दायित्व और राज्य प्रतिबंधों की टकराहट की सीमा निचली अदालतों में अभी भी खिंची हुई है। गर्भनिरोधक रेखा इस मानचित्र के केंद्र में नहीं है, परंतु Griswold v. Connecticut, 381 U.S. 479 (1965) और Eisenstadt v. Baird, 405 U.S. 438 (1972) के गर्भनिरोधक अधिकार वाले पूर्वनिर्णयों को Dobbs ने नहीं छुआ।
