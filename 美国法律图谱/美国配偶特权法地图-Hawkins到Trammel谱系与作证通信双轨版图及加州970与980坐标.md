@@ -88,3 +88,15 @@ Español (初译待校): Apuntes personales de estudio; no constituyen asesorami
 한국어 (初译待校): 개인 학습 노트이며 법률 자문이 아닙니다.
 Tiếng Việt (初译待校): Ghi chú học tập cá nhân; không phải tư vấn pháp lý.
 हिन्दी (初译待校): व्यक्तिगत अध्ययन नोट; कानूनी सलाह नहीं है।
+
+
+## 补译增量（2026-11-24 03:55轮：韩／越／印三语补齐中文主文细节，正文原有段落未改动）
+
+### 한국어 보충 (초역 · 初译待校)
+두 가지 세부 사항을 보충합니다. 첫째, Trammel v. United States, 445 U.S. 40 (1980)의 귀속 교체입니다. 증언 특권의 보유자가 피고 배우자에서 증인 배우자로 옮겨가 피고의 차단권이 사라졌고, 통신 특권은 Wolfle의 비밀 추정을 그대로 유지했습니다. 둘째, 시간 계산입니다. 1980－1958＝22로 Hawkins의 배분은 22년만 유지됐고, 1980－1934＝46으로 통신 궤도가 세워진 뒤 증언 궤도가 바뀔 때까지 46년이 걸렸습니다. *개인 학습 노트이며 법률 자문이 아닙니다.*
+
+### Bổ sung Tiếng Việt (bản dịch sơ bộ · 初译待校)
+Bổ sung hai chi tiết. Thứ nhất, sự đổi chủ trong Trammel v. United States, 445 U.S. 40 (1980): đặc quyền làm chứng chuyển từ bị cáo sang người phối ngẫu làm chứng, quyền chặn của bị cáo biến mất, trong khi đặc quyền thông tin liên lạc giữ nguyên suy đoán bảo mật của Wolfle. Thứ hai, phép tính thời gian: 1980－1958＝22, cách phân bổ của Hawkins chỉ tồn tại 22 năm; 1980－1934＝46 năm từ khi đường thông tin liên lạc được lập đến khi đường làm chứng được sửa. *Ghi chép học tập cá nhân, không phải tư vấn pháp lý.*
+
+### हिन्दी पूरक (प्रारंभिक अनुवाद · 初译待校)
+दो विवरण पूरक हैं। पहला, Trammel v. United States, 445 U.S. 40 (1980) में धारक का बदलना: गवाही विशेषाधिकार अभियुक्त पति/पत्नी से गवाह पति/पत्नी के पास चला गया, अभियुक्त का रोक-अधिकार समाप्त हुआ, जबकि संचार विशेषाधिकार में Wolfle की गोपनीयता धारणा यथावत रही। दूसरा, समय का हिसाब: 1980－1958＝22, Hawkins का बँटवारा केवल 22 वर्ष चला; 1980－1934＝46 वर्ष संचार पथ की स्थापना से गवाही पथ के बदलाव तक। *व्यक्तिगत अध्ययन टिप्पणी; कानूनी सलाह नहीं।*
