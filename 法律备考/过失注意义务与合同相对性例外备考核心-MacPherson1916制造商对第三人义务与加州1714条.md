@@ -41,3 +41,23 @@ MacPherson v. Buick Motor Co., 217 N.Y. 382, 111 N.E. 1050 (1916) — 2026 स�
 ## 免责声明（六语）
 
 中文：个人学习笔记，不构成法律建议。 / English: Study notes only; not legal advice. / Español: Notas de estudio; no es asesoría legal. (初译待校) / 한국어: 학습 노트이며 법률 조언이 아닙니다. (初译待校) / Tiếng Việt: Ghi chú học tập, không phải tư vấn pháp lý. (初译待校) / हिन्दी: यह अध्ययन-टिप्पणी है, कानूनी सलाह नहीं। (初译待校)
+
+## 补译增量（2026-11-24 13:55 轮）
+
+### 한국어 (초역, 교정 대기 / 初译待校)
+
+보충 1 (Devlin과 Statler로 넓어진 예외): Devlin v. Smith(비계 붕괴)와 Statler v. Ray(커피 주전자 폭발) 같은 사건들이 '본래 위험한 물건' 예외를 조금씩 넓혀 갔습니다. 그래서 시험 문제는 예외가 여전히 예외인지, 아니면 이미 규칙 자체를 삼켜 버렸는지가 됐습니다.
+
+보충 2 (제조자 너머로 넓어진 의무): 이 사건 이후 의무는 계속 바깥으로 넓어졌습니다. 수리업자, 공급업자, 토지 점유자 같은 고리들이 차례로 같은 논리 안으로 끌려 들어왔고, 의무의 지도는 제조자 한 칸에 머물지 않게 됐습니다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính / 初译待校)
+
+Bổ sung 1 (ngoại lệ được nới rộng qua Devlin và Statler): Các vụ như Devlin v. Smith (sập giàn giáo) và Statler v. Ray (nổ bình cà phê) đã từng chút nới rộng ngoại lệ «vật tự thân nguy hiểm», đến mức câu hỏi trong phòng thi trở thành: ngoại lệ còn là ngoại lệ, hay đã nuốt trọn quy tắc?
+
+Bổ sung 2 (nghĩa vụ mở rộng ra ngoài nhà sản xuất): Sau vụ án này, nghĩa vụ tiếp tục lan ra ngoài — thợ sửa chữa, nhà cung cấp, người chiếm hữu đất và các mắt xích khác lần lượt bị kéo vào cùng một logic, và bản đồ nghĩa vụ không còn dừng ở ô nhà sản xuất.
+
+### हिन्दी (प्रारंभिक अनुवाद, समीक्षा प्रतीक्षित / 初译待校)
+
+पूरक 1 (Devlin और Statler से फैला अपवाद): Devlin v. Smith (मचान गिरना) और Statler v. Ray (कॉफ़ी-पात्र विस्फोट) जैसे मामलों ने 'स्वयं खतरनाक वस्तु' वाले अपवाद को धीरे-धीरे फैलाया, यहाँ तक कि परीक्षा का प्रश्न यही बन गया — अपवाद अब भी अपवाद है, या वह नियम को ही निगल चुका है?
+
+पूरक 2 (निर्माता से आगे फैला कर्तव्य): इस मामले के बाद कर्तव्य बाहर की ओर फैलता गया — मरम्मतकर्ता, आपूर्तिकर्ता, भूमि-अधिकारी जैसी कड़ियाँ एक-एक करके उसी तर्क में खिंच आईं, और कर्तव्य का नक्शा निर्माता के एक खाने पर नहीं रुका।

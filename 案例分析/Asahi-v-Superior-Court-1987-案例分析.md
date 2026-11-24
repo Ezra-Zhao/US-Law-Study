@@ -41,3 +41,23 @@ Asahi Metal Industry Co. v. Superior Court, 480 U.S. 102 (1987) — 24 फ़र
 ## 免责声明（六语）
 
 中文：个人学习笔记，不构成法律建议。 / English: Study notes only; not legal advice. / Español: Notas de estudio; no es asesoría legal. (初译待校) / 한국어: 학습 노트이며 법률 조언이 아닙니다. (初译待校) / Tiếng Việt: Ghi chú học tập, không phải tư vấn pháp lý. (初译待校) / हिन्दी: यह अध्ययन-टिप्पणी है, कानूनी सलाह नहीं। (初译待校)
+
+## 补译增量（2026-11-24 13:55 轮）
+
+### 한국어 (초역, 교정 대기 / 初译待校)
+
+보충 1 (Stevens 대법관의 동의 의견): Stevens 대법관은 접촉 문제를 우회하고, 합리성과 사건의 양만으로 결론을 냈습니다. 이 사건에서 캘리포니아로 들어온 밸브 부품의 수량이 많지 않았다는 점도 그 판단의 근거였습니다.
+
+보충 2 (외국 부품 공급업체·국경 간 전자상거래 판매자의 답변 순서): 외국 부품 공급업체나 국경 간 전자상거래 판매자가 캘리포니아에서 제소되면, 답변 순서는 먼저 해당 주를 겨냥한 행위가 있었는지를 확인하고, 그다음 합리성 다섯 요소로 따지는 것입니다. 두 칸을 이 순서대로 점검해야 합니다.
+
+### Tiếng Việt (bản dịch sơ bộ, chờ hiệu đính / 初译待校)
+
+Bổ sung 1 (ý kiến đồng tình của Thẩm phán Stevens): Thẩm phán Stevens tránh vấn đề tiếp xúc và quyết định vụ án trực tiếp bằng tính hợp lý cùng khối lượng của vụ việc; số lượng linh kiện van vào California trong vụ này không lớn cũng là một phần căn cứ của ông.
+
+Bổ sung 2 (thứ tự biện hộ của nhà cung cấp linh kiện nước ngoài và người bán thương mại điện tử xuyên biên giới): Khi nhà cung cấp linh kiện nước ngoài hoặc người bán thương mại điện tử xuyên biên giới bị kiện tại California, thứ tự biện hộ là trước hết kiểm tra hành vi hướng riêng vào tiểu bang, rồi mới cân nhắc năm yếu tố hợp lý; hai ô phải được kiểm tra theo đúng thứ tự đó.
+
+### हिन्दी (प्रारंभिक अनुवाद, समीक्षा प्रतीक्षित / 初译待校)
+
+पूरक 1 (न्यायमूर्ति Stevens का सहमत मत): न्यायमूर्ति Stevens ने संपर्क-प्रश्न को किनारे रखा और मामले का निर्णय सीधे उचितता तथा मामले की मात्रा से किया; इस मामले में कैलिफ़ोर्निया में आए वाल्व-पुर्ज़ों की संख्या अधिक न होना भी उनके निर्णय का एक आधार था।
+
+पूरक 2 (विदेशी पुर्ज़ा-आपूर्तिकर्ताओं और सीमा-पार ई-कॉमर्स विक्रेताओं का बचाव-क्रम): जब विदेशी पुर्ज़ा-आपूर्तिकर्ता या सीमा-पार ई-कॉमर्स विक्रेता पर कैलिफ़ोर्निया में मुकदमा हो, तो बचाव का क्रम है — पहले राज्य की ओर लक्षित आचरण जाँचें, फिर उचितता के पाँच तत्व तौलें; दोनों खाने इसी क्रम में जाँचने चाहिए।
