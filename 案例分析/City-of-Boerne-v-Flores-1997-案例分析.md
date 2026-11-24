@@ -25,3 +25,20 @@ Trong City of Boerne v. Flores, 521 U.S. 507 (1997), Tòa Tối cao phán quyế
 
 ## हिन्दी (प्रारंभिक अनुवाद · 初译待校)
 City of Boerne v. Flores, 521 U.S. 507 (1997) में सर्वोच्च न्यायालय ने कहा कि 1993 का RFRA राज्यों पर लागू होने की सीमा तक चौदहवें संशोधन की धारा 5 के तहत कांग्रेस की शक्ति से बाहर था। कांग्रेस ने Employment Division v. Smith, 494 U.S. 872 (1990) को हटाने के लिए RFRA बनाकर दोनों स्तरों पर कठोर जाँच बहाल करने का प्रयास किया था। Kennedy के बहुमत ने उपचार्य हानि और अपनाए गए साधन के बीच «अनुरूपता और आनुपातिकता» माँगी: विधायी अभिलेख में राज्यों द्वारा व्यापक धार्मिक उत्पीड़न का कोई पैटर्न नहीं था, जबकि कानून का दायरा सार्वभौमिक था। RFRA संघीय सरकार के विरुद्ध बचा रहा (O Centro, 2006), और कांग्रेस ने 2000 में संकरा RLUIPA बनाया — जिसका भूमि-उपयोग भाग Boerne के चर्च-विस्तार तथ्यों को ही कवर करता है। California में कोई राज्य RFRA नहीं है।
+
+## 补译增量（2026-11-24 10:55轮）
+
+### 한국어 (초역 · 初译待校)
+
+- (보충 1 · 사실관계) 성 베드로 가톨릭 교회는 1923년에 세워졌고, 회중이 늘자 Flores 대주교가 증축을 신청했으나 교회가 역사 보존 지구에 있다는 이유로 건축 허가가 거부됐다. 교회가 근거로 삼은 1993년 《종교자유회복법》(RFRA)의 법전 인용은 42 U.S.C. 제2000bb조 이하이다.
+- (보충 2 · 연방 적용과 후속 노선) Gonzales v. O Centro Espírita, 546 U.S. 418 (2006)은 RFRA가 연방 정부 자체에 대해서는 여전히 유효함을 확인했다. 또 Boerne의 일치성·비례성(congruence and proportionality) 문은 이후 Kimel, Garrett, Shelby County로 이어지는 수정헌법 제14조 제5항 입법 심사 노선에서 계속 쓰였다.
+
+### Tiếng Việt (bản dịch sơ bộ · 初译待校)
+
+- (Bổ sung 1 · tình tiết) Nhà thờ Công giáo Thánh Phêrô được xây năm 1923; khi giáo dân tăng lên, Tổng giám mục Flores xin mở rộng nhưng bị từ chối giấy phép xây dựng vì nhà thờ nằm trong khu bảo tồn lịch sử. Đạo luật Phục hồi Tự do Tôn giáo 1993 (RFRA) mà nhà thờ viện dẫn có trích dẫn pháp điển là 42 U.S.C. § 2000bb trở đi.
+- (Bổ sung 2 · áp dụng liên bang và dòng án sau) Gonzales v. O Centro Espírita, 546 U.S. 418 (2006) xác nhận RFRA vẫn có hiệu lực đối với chính chính phủ liên bang. Cửa congruence and proportionality (tương xứng và cân xứng) của Boerne tiếp tục được dùng trong dòng án xét lập pháp theo mục 5 của Tu chính án 14 như Kimel, Garrett và Shelby County.
+
+### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+
+- (पूरक 1 · तथ्य) सेंट पीटर कैथोलिक चर्च 1923 में बना था; मंडली बढ़ने पर आर्कबिशप Flores ने विस्तार के लिए आवेदन किया, किंतु चर्च के ऐतिहासिक संरक्षण क्षेत्र में होने के कारण भवन अनुमति अस्वीकृत हुई। चर्च ने जिस 1993 के Religious Freedom Restoration Act (RFRA) का सहारा लिया, उसका संहिता-उद्धरण 42 U.S.C. § 2000bb से आगे है।
+- (पूरक 2 · संघीय प्रयोग और बाद की रेखा) Gonzales v. O Centro Espírita, 546 U.S. 418 (2006) ने पुष्टि की कि RFRA स्वयं संघीय सरकार पर अब भी प्रभावी है। Boerne का congruence and proportionality द्वार बाद की Kimel, Garrett और Shelby County वाली चौदहवें संशोधन खंड 5 विधायन-जाँच रेखा में चलता रहा।
