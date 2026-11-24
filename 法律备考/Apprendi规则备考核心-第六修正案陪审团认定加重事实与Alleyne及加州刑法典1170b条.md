@@ -110,3 +110,14 @@ Bo sung hai o pham vi. O tu hinh: Ring v. Arizona, 536 U.S. 584 (2002) dua quy t
 声明：个人学习笔记，不构成法律建议。六语对照，西班牙语为学习译稿，韩、越、印三语为初译待校。
 
 Disclaimer: Personal study notes, not legal advice.
+
+## 补译增量（2026-11-24 02:55轮：韩／越／印三语补齐中文主文细节，正文原有段落未改动）
+
+### 한국어 보충 (초역 · 初译待校)
+두 가지 세부 사항을 보충합니다. 첫째, Blakely v. Washington, 542 U.S. 296 (2004)의 계산입니다. 유죄 인정 후 표준 범위의 상한은 53개월이었는데 판사가 잔혹성을 스스로 인정해 90개월을 선고했고, 90－53＝37개월의 초과분에는 배심 인정이 없어 위헌이었습니다. 둘째, 연방의 출구인 United States v. Booker, 543 U.S. 220 (2005)입니다. 하나의 다수는 강제적 연방 양형지침이 Apprendi에 위반된다고 했고, 다른 다수는 지침을 권고적으로 바꿨습니다. 지침은 여전히 계산하지만 격자가 더는 법적 상한이 아닙니다. *개인 학습 노트이며 법률 자문이 아닙니다.*
+
+### Bổ sung Tiếng Việt (bản dịch sơ bộ · 初译待校)
+Bổ sung hai chi tiết. Thứ nhất, phép tính trong Blakely v. Washington, 542 U.S. 296 (2004): sau khi nhận tội, trần khung chuẩn là 53 tháng, nhưng thẩm phán tự xác định tình tiết tàn nhẫn và tuyên 90 tháng; phần vượt 90－53＝37 tháng không có xác định của bồi thẩm đoàn nên vi hiến. Thứ hai, lối ra liên bang là United States v. Booker, 543 U.S. 220 (2005): một đa số phán Hướng dẫn định lượng liên bang bắt buộc vi phạm Apprendi, và một đa số khác biến Hướng dẫn thành tham khảo — vẫn phải tính, nhưng lưới điểm không còn là trần pháp lý. *Ghi chép học tập cá nhân, không phải tư vấn pháp lý.*
+
+### हिन्दी पूरक (प्रारंभिक अनुवाद · 初译待校)
+दो विवरण पूरक हैं। पहला, Blakely v. Washington, 542 U.S. 296 (2004) का हिसाब: दोष-स्वीकृति के बाद मानक सीमा की छत 53 माह थी, किंतु न्यायाधीश ने स्वयं क्रूरता पाकर 90 माह दिए; 90－53＝37 माह की अतिरिक्त अवधि पर जूरी का निष्कर्ष नहीं था, अतः असंवैधानिक। दूसरा, संघीय निकास United States v. Booker, 543 U.S. 220 (2005) है: एक बहुमत ने अनिवार्य संघीय दंड-मार्गदर्शिका को Apprendi-विरुद्ध ठहराया और दूसरे बहुमत ने उसे परामर्शात्मक बना दिया — गणना अब भी होती है, किंतु ग्रिड कानूनी छत नहीं रही। *व्यक्तिगत अध्ययन टिप्पणी; कानूनी सलाह नहीं।*
