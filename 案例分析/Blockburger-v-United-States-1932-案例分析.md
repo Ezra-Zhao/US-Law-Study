@@ -41,3 +41,20 @@ Blockburger v. United States, 284 U.S. 299 (1932) — 4 जनवरी 1932 क
 ## 免责声明（六语）
 
 中文：个人学习笔记，不构成法律建议。 / English: Study notes only; not legal advice. / Español: Notas de estudio; no es asesoría legal. (初译待校) / 한국어: 학습 노트이며 법률 조언이 아닙니다. (初译待校) / Tiếng Việt: Ghi chú học tập, không phải tư vấn pháp lý. (初译待校) / हिन्दी: यह अध्ययन-टिप्पणी है, कानूनी सलाह नहीं। (初译待校)
+
+
+## 补译增量（2026-11-25 07:55轮）
+
+本节为存量补译：以下两组事实只见于中文主文，韩、越、印三语凝练版此前未载，现补齐（初译待校）。
+
+### 한국어 (初译待校)
+
+① Harrison 묶음: 캘리포니아 형법전 제654조의 다중 처벌 금지를 읽는 대표 기준은 People v. Harrison, 48 Cal.3d 321 (1989)입니다. 같은 행위가 여러 규정에 걸려도 처벌은 하나만이라는 제654조의 적용 판단에서 이 판결이 대표 읽기로 인용됩니다. ② 조이라이딩 묶음: Brown v. Ohio에서 피고인은 먼저 조이라이딩(무단 운전이라는 경한 죄)으로 유죄가 됐고, 검사가 그 뒤 같은 행위를 자동차 절도라는 중한 죄로 다시 기소하자 대법원이 막았습니다. 포함 범죄의 모든 요소가 이미 앞선 재판에서 증명됐기 때문입니다. *학습 노트이며 법률 조언이 아닙니다.*
+
+### Tiếng Việt (初译待校)
+
+① Nhóm Harrison: cách đọc thường dùng của lệnh cấm phạt nhiều lần theo Bộ luật Hình sự California § 654 là People v. Harrison, 48 Cal.3d 321 (1989); khi một hành vi chạm nhiều quy định mà chỉ được phạt theo một quy định, phán quyết này là cách đọc tiêu biểu được dẫn chiếu. ② Nhóm joyriding: trong Brown v. Ohio, bị cáo trước hết bị kết án về tội nhẹ joyriding (lái xe trái phép), sau đó công tố truy tố lại cùng hành vi bằng tội nặng trộm xe, và Tòa Tối cao đã chặn lại, vì mọi yếu tố của tội bao hàm đều đã được chứng minh ở phiên xử trước. *Ghi chú học tập, không phải tư vấn pháp lý.*
+
+### हिन्दी (初译待校)
+
+① Harrison समूह: California Penal Code § 654 के बहु-दंड प्रतिबंध की प्रचलित व्याख्या People v. Harrison, 48 Cal.3d 321 (1989) है; जब एक ही कृत्य कई प्रावधानों में फँसे परंतु दंड केवल एक के तहत मिले, तो यह निर्णय प्रतिनिधि व्याख्या के रूप में उद्धृत होता है। ② Joyriding समूह: Brown v. Ohio में अभियुक्त पहले joyriding (अनधिकृत रूप से वाहन चलाने के हलके अपराध) में दोषी ठहरा, फिर अभियोजन ने उसी कृत्य पर वाहन-चोरी के भारी अपराध से पुनः आरोप लगाया, जिसे सर्वोच्च न्यायालय ने रोक दिया, क्योंकि अंतर्विष्ट अपराध के सभी तत्व पहले मुकदमे में सिद्ध हो चुके थे। *यह अध्ययन-टिप्पणी है, कानूनी सलाह नहीं।*
