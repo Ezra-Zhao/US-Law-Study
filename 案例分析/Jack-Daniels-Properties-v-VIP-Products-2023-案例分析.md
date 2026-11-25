@@ -90,3 +90,18 @@ Jack Daniel's Properties, Inc. v. VIP Products LLC, 599 U.S. 140 (2023) मे�
 मूल बात कार्यात्मक है: ट्रेडमार्क कानून स्रोत के भ्रम को देखता है, और मज़ाक उस प्रश्न का उत्तर पहले से नहीं देता; बहु-कारक कसौटी देती है। तुलना के लिए Louis Vuitton Malletier v. Haute Diggity Dog, LLC, 507 F.3d 252 (4th Cir. 2007) है, जहाँ पैरोडी खिलौना दहलीज़ पर नहीं, भ्रम और तनुकरण के मुख्य विश्लेषण में जीता था। Rogers (1989) से इस मामले (2023) तक 2023 − 1989 = 34 वर्ष लगे। California में संघीय Lanham Act ही मुख्य क्षेत्र है; राज्य कानून में Business and Professions Code §§ 14200 आगे का पंजीकरण और § 14247 का तनुकरण-निषेध उपचार जुड़ता है। हैंगटैग पर «किसी ब्रांड से असंबद्ध» लिखना भ्रम का केवल एक कारक है, सुरक्षित बंदरगाह नहीं।
 
 *व्यक्तिगत अध्ययन नोट, कानूनी सलाह नहीं। (प्रारंभिक अनुवाद)*
+
+
+## 补译增量（2026-11-25 03:55轮）
+
+### 한국어（初译待校）
+
+보충 1 (중국어 본문 제1절): 장난감 병 본체에는 「100% SMELLY」라는 문구도 인쇄되어 있었습니다. 보충 2 (중국어 본문 제1절): 절차의 시작은 이랬습니다. Jack Daniel's 측이 먼저 판매 중단을 요구하는 서한을 보냈고, VIP가 곧바로 애리조나 연방지방법원에 비침해 확인의 소(declaratory judgment)를 제기했으며, Jack Daniel's가 반소로 맞섰습니다.
+
+### Tiếng Việt（初译待校）
+
+Bổ sung 1 (mục 1 của bản chính tiếng Trung): trên thân chai đồ chơi còn in dòng chữ «100% SMELLY». Bổ sung 2 (mục 1 của bản chính tiếng Trung): vụ việc bắt đầu theo trình tự sau — phía Jack Daniel's trước tiên gửi thư yêu cầu ngừng bán, VIP ngay sau đó khởi kiện xin tuyên bố không xâm phạm (declaratory judgment) tại tòa liên bang quận Arizona, và Jack Daniel's phản tố.
+
+### हिन्दी（初译待校）
+
+पूरक 1 (चीनी मूल पाठ के खंड 1 से): खिलौना-बोतल के शरीर पर «100% SMELLY» भी छपा था। पूरक 2 (चीनी मूल पाठ के खंड 1 से): कार्यवाही की शुरुआत ऐसे हुई — Jack Daniel's पक्ष ने पहले बिक्री रोकने की माँग वाला पत्र भेजा, VIP ने तुरंत Arizona के संघीय ज़िला न्यायालय में अनुल्लंघन की घोषणा (declaratory judgment) का वाद दायर किया, और Jack Daniel's ने प्रतिवाद (counterclaim) किया।

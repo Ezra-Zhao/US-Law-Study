@@ -88,3 +88,18 @@ Tại California, khung liên bang quyết định nội dung; luật bang bổ 
 California में संघीय ढाँचा ही मुख्य निर्णय करता है; राज्य कानून में Business and Professions Code §§ 14200 आगे का पंजीकरण, § 14247 का तनुकरण-निषेध और § 17200 के अनुचित प्रतिस्पर्धा दावे जुड़ते हैं। चेतावनी पत्र या प्लेटफ़ॉर्म की हटाने की सूचना आए तो पहले लिस्टिंग और बिक्री रिकॉर्ड सुरक्षित करें, स्थिति के आधार पर उपयोग का वर्गीकरण करके ही उत्तर दें, और नाम बदलने की लागत की तुलना मुकदमे के जोखिम से करें।
 
 *व्यक्तिगत अध्ययन नोट, कानूनी सलाह नहीं। (प्रारंभिक अनुवाद)*
+
+
+## 补译增量（2026-11-25 03:55轮）
+
+### 한국어（初译待校）
+
+보충 1 (중국어 본문 제3절): 제9순회법원은 Sleekcraft 8요소로 혼동 가능성을 재며, 실무상의 손잡이는 대략 이렇습니다. 원고 상표의 강도(유명할수록 피하기 어렵다), 양쪽 상품의 관련성, 양쪽 표지와 상업적 외관의 유사성, 실제 혼동의 증거, 피고의 의도(유명한 줄 알면서 붙여 팔면 의도 항목에서 매우 불리하다), 소비자의 주의 수준(저가 충동구매 상품일수록 소비자가 대충 보므로 혼동이 성립하기 쉽다). 보충 2 (중국어 본문 제4절): 돈의 노출도 계산해 두십시오. 상표 침해에서는 실제 손해와 침해 이익을 배상받을 수 있고, 등록상표 사건에서는 법정 손해배상과 변호사 비용 전가가 붙을 수 있으며, 연방 법원 소환장(summons)을 실제로 받으면 기한 안에 응소해야 합니다. 궐석판결(default judgment)은 합의보다 훨씬 비쌉니다.
+
+### Tiếng Việt（初译待校）
+
+Bổ sung 1 (mục 3 của bản chính tiếng Trung): Tuần hoàn số 9 dùng tám yếu tố Sleekcraft để xét khả năng gây nhầm lẫn, và các điểm nắm thực tế gồm: sức mạnh của nhãn hiệu nguyên đơn (càng nổi tiếng càng khó tránh), mức liên quan giữa hàng hóa hai bên, mức giống nhau giữa hai nhãn hiệu và diện mạo thương mại, chứng cứ nhầm lẫn thực tế, ý định của bị đơn (biết rõ nổi tiếng mà vẫn bám vào để bán thì yếu tố ý định rất xấu), và mức độ chú ý của người tiêu dùng (hàng giá rẻ mua theo hứng thì người tiêu dùng xem càng qua loa, nhầm lẫn càng dễ thành lập). Bổ sung 2 (mục 4 của bản chính tiếng Trung): cũng phải tính rõ phần tiền: xâm phạm nhãn hiệu có thể phải bồi thường thiệt hại thực tế và lợi nhuận do xâm phạm, vụ nhãn hiệu đã đăng ký còn có thể có bồi thường theo luật định và chuyển phí luật sư, và nếu thực sự nhận được trát đòi hầu tòa (summons) của tòa liên bang thì phải ứng tố trong thời hạn — phán quyết vắng mặt (default judgment) đắt hơn nhiều so với hòa giải.
+
+### हिन्दी（初译待校）
+
+पूरक 1 (चीनी मूल पाठ के खंड 3 से): Ninth Circuit भ्रम की संभावना को Sleekcraft के आठ कारकों से मापता है, और व्यावहारिक पकड़-बिंदु ये हैं: वादी के trademark की मज़बूती (जितना प्रसिद्ध, उतना बचना कठिन), दोनों पक्षों के सामान की संबद्धता, दोनों चिह्नों और commercial appearance की समानता, वास्तविक भ्रम का साक्ष्य, प्रतिवादी का आशय (प्रसिद्ध जानते हुए भी चिपककर बेचने पर आशय-कारक बहुत ख़राब दिखता है), और उपभोक्ता के ध्यान का स्तर (सस्ते, आवेग में खरीदे जाने वाले सामान को उपभोक्ता जितना लापरवाही से देखता है, भ्रम उतनी आसानी से सिद्ध होता है)। पूरक 2 (चीनी मूल पाठ के खंड 4 से): धन का जोखिम भी स्पष्ट गिनें: trademark उल्लंघन में वास्तविक हानि और उल्लंघन से हुआ लाभ वसूला जा सकता है, पंजीकृत trademark के मामलों में statutory damages और वकील-शुल्क का हस्तांतरण भी जुड़ सकता है, और यदि सचमुच संघीय न्यायालय का summons मिले तो समय-सीमा के भीतर जवाब देना होगा — default judgment समझौते से कहीं महँगा पड़ता है।
