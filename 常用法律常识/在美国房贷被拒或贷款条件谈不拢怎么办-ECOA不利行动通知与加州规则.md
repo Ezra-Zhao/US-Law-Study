@@ -85,3 +85,20 @@ Khi đàm phán không xong, hãy tách hai tình huống: năng lực thật s�
 来源与声明：Equal Credit Opportunity Act, 15 U.S.C. §§ 1691 起（§ 1691(a) 禁止依据、§ 1691e(b) 惩罚性赔偿上限、§ 1691e(f) 五年时效）；Regulation B, 12 C.F.R. Part 1002（§ 1002.2(c) 不利行动、§ 1002.4 一般规则、§ 1002.9 通知与 30 日／90 日／不完整申请时钟、§ 1002.12(b) 25 个月保存、§ 1002.14 估价副本）；Fair Credit Reporting Act, 15 U.S.C. §§ 1681i、1681m(a)（再调查与不利行动及分数披露）；Truth in Lending 与 Regulation Z, 12 C.F.R. §§ 1026.19(e)（Loan Estimate）、1026.43(c)（还款能力）；Fair Housing Act, 42 U.S.C. § 3605；Home Mortgage Disclosure Act, 12 U.S.C. §§ 2801 起与 Regulation C, 12 C.F.R. Part 1003；CFPB Circular 2022-03 与 2023-03（不利行动理由须与真实原因相符、复杂模型不例外）；加州：Health & Saf. Code §§ 35800 起（Holden Act，§§ 35810–35815 一线）、Civ. Code § 51（Unruh 法）、Fin. Code §§ 90000 起（加州消费者金融保护法）。文中 DTI、月供与买点回本数字均为虚构教学算例并已本地复算两遍一致；条文与机构口径以现行官方文本为准。中文：个人学习笔记，不构成法律建议。English: Personal study notes, not legal advice. Español: Notas personales de estudio, no es asesoría legal. 한국어: 개인 학습 노트이며 법률 자문이 아닙니다. Tiếng Việt: Ghi chú học tập cá nhân, không phải tư vấn pháp lý. हिन्दी: व्यक्तिगत अध्ययन नोट; विधिक सलाह नहीं।
 
 *Español、한국어、Tiếng Việt、हिन्दी 为初译待校。*
+
+
+## 补译增量（2026-11-25 00:55轮）
+
+以下为中文主文已有事实的韩／越／印三语补译（初译待校），不新增事实。
+
+### 한국어 (초역, 교정 대기)
+
+① 불완전 신청: Regulation B 제1002.9조 (c)항은 채권자에게 두 길을 줍니다. 불완전한 신청을 받은 뒤 30일 안에, 부족한 정보를 적고 보완 기한을 주며 기한을 넘기면 더 이상 처리하지 않음을 알리는 '부족 사항 통지'를 보내거나, 곧바로 불리한 조치 통지로 거절하는 것입니다. 구두로 부족하다고 알려주는 것도 규칙상 인정되지만 증거가 남지 않으므로, 구두 통지를 받으면 그 자리에서 서면본을 요구하십시오. ② 불리한 조치가 아닌 경우: 신청인이 스스로 신청을 철회했거나, 대출이 승인되었는데 신청인이 사용하지 않은 경우에는 불리한 조치가 아니며 이 통지 의무가 생기지 않습니다.
+
+### Tiếng Việt (bản dịch sơ bộ)
+
+① Hồ sơ chưa đầy đủ: Regulation B § 1002.9(c) cho bên cho vay hai lối — trong 30 ngày kể từ khi nhận hồ sơ chưa đầy đủ, hoặc gửi «thông báo thiếu sót» ghi rõ thiếu thông tin gì, cho thời hạn hợp lý để bổ sung và nói rõ quá hạn sẽ không xử lý nữa; hoặc từ chối ngay bằng thông báo hành động bất lợi. Thông báo miệng về thiếu sót cũng được quy tắc công nhận nhưng không để lại bằng chứng, nên khi nhận thông báo miệng hãy yêu cầu bản văn bản ngay tại chỗ. ② Không phải hành động bất lợi: người nộp đơn tự rút hồ sơ, hoặc khoản vay đã được duyệt nhưng người nộp đơn không dùng, đều không thuộc hành động bất lợi và không phát sinh bộ nghĩa vụ thông báo này.
+
+### हिन्दी (प्रारंभिक अनुवाद)
+
+① अपूर्ण आवेदन: Regulation B § 1002.9(c) ऋणदाता को दो रास्ते देता है — अपूर्ण आवेदन मिलने के 30 दिनों के भीतर या तो 'कमी सूचना' भेजे जिसमें लिखा हो कि कौन सी जानकारी बाकी है, पूर्ति की उचित समय-सीमा दी हो और स्पष्ट हो कि समय पर न देने पर आगे कार्रवाई नहीं होगी; या सीधे प्रतिकूल कार्रवाई सूचना से अस्वीकार कर दे। मौखिक रूप से कमी बताना नियमों में मान्य है किंतु उसका कोई प्रमाण नहीं रहता, इसलिए मौखिक सूचना मिले तो उसी समय लिखित प्रति माँगें। ② प्रतिकूल कार्रवाई नहीं: आवेदक स्वयं आवेदन वापस ले ले, या ऋण स्वीकृत हो जाए किंतु आवेदक उसे न ले, तो यह प्रतिकूल कार्रवाई नहीं है और यह सूचना दायित्व उत्पन्न नहीं होता।
