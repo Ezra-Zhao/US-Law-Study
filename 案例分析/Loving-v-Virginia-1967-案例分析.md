@@ -318,3 +318,24 @@ Este artículo es una nota de estudio personal y no constituye asesoría legal.
 Bài viết này là ghi chú học tập cá nhân, không phải tư vấn pháp lý. (Bản dịch sơ bộ, chờ hiệu đính)
 
 यह लेख एक व्यक्तिगत अध्ययन नोट है और कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+
+## 补译增量（2026-11-24 19:55轮·韩／越／印初译待校）
+
+补中文主文第二节第一段与第四段（第一争点细节组与第十修正案权限组，韩／越两语原稿缺此两段、印地语缺权限段）：
+
+### 한국어 (初译待校)
+
+첫째, 버지니아가 인종을 기준으로 백인과 비백인의 결혼을 금지하고, 주 밖에서의 회피 결혼과 금지 위반에 형벌을 부과하는 법률이 수정헌법 제14조의 평등 보호 조항을 위반하는가. 여기서 핵심은 법률이 인종을 언급했는지가 아니라, 겉보기에 양쪽 모두에게 똑같이 적용되는 금지로 인종을 축으로 하는 결혼 진입 제도를 유지할 수 있는가이다. 원고들은 법률의 분류 기준 자체가 인종이며 입법 목적이 백인을 다른 인종과 분리하는 데 있으므로, 이는 평등 보호 조항이 가장 핵심적으로 금지하는 바로 그 종류의 법률이라고 주장했다. 주 측은 금지령이 백인과 비백인에게 똑같이 적용되고 처벌도 대칭적이므로 어느 한쪽을 편애하는 차별은 없다고 맞섰다.
+
+이 두 쟁점과 얽혀 있는 권한 문제도 있다. 버지니아는 수정헌법 제10조를 원용해 결혼은 전통적으로 주가 유보한 권한이며 연방 법원이 각 주의 가족법에 개입해서는 안 된다고 주장했다. 이 항변이 성립하면 앞의 두 문제는 답할 필요조차 없어진다. 따라서 이 사건의 실제 심리 순서는, 먼저 수정헌법 제14조가 주의 결혼 입법을 규율할 수 있는지를 확인한 뒤, 평등 보호와 적법절차 두 갈래를 각각 밟는 것이다. 마지막으로 구체적인 구제 문제도 있다. 1959년의 유죄 판결과 25년간 함께 돌아오지 못한다는 집행유예 조건은 다투어지는 법률 위에 서 있으므로, 법률이 무효이면 유죄 판결도 설 수 없다.
+
+### Tiếng Việt (初译待校)
+
+Thứ nhất, việc Virginia vạch ranh giới theo chủng tộc, cấm kết hôn giữa người da trắng và người không phải da trắng, đồng thời áp hình phạt đối với việc ra ngoài bang để né tránh kết hôn và đối với vi phạm lệnh cấm — đạo luật như vậy có vi phạm Điều khoản Bảo vệ Bình đẳng của Tu chính án 14 hay không? Điểm mấu chốt ở đây không chỉ là luật có nhắc tới chủng tộc hay không, mà là bang có thể dùng một lệnh cấm bề ngoài áp dụng như nhau cho cả hai phía để duy trì một chế độ cho phép kết hôn lấy chủng tộc làm trục hay không. Nguyên đơn cho rằng tiêu chuẩn phân loại của luật chính là chủng tộc, mục đích lập pháp là tách người da trắng khỏi các chủng tộc khác, nên đây đúng là loại luật mà Điều khoản Bảo vệ Bình đẳng cốt lõi nhất cấm. Phía bang thì cho rằng lệnh cấm áp dụng như nhau cho người da trắng và người không phải da trắng, hình phạt đối xứng, nên không tồn tại sự phân biệt thiên vị phía nào.
+
+Gắn với hai vấn đề này còn một câu hỏi về thẩm quyền. Virginia viện dẫn Tu chính án 10, cho rằng hôn nhân xưa nay là quyền bảo lưu của bang và tòa án liên bang không nên can dự vào luật gia đình của các bang. Nếu lập luận này đứng vững, hai câu hỏi trướccăn bản không cần trả lời. Vì vậy trình tự xét xử thực sự của vụ án là: trước hết xác nhận Tu chính án 14 có điều chỉnh được lập pháp hôn nhân của bang hay không, rồi mới đi riêng hai đường bảo vệ bình đẳng và tố tụng hợp lệ. Cuối cùng còn vấn đề khắc phục cụ thể: bản án năm 1959 và điều kiện quản chế 25 năm không được cùng trở lại đều xây trên đạo luật bị thách thức, luật vô hiệu thì bản án không thể đứng vững.
+
+### हिन्दी (初译待校)
+
+इन दो प्रश्नों से एक अधिकार-प्रश्न भी जुड़ा था। Virginia ने दसवें संशोधन का सहारा लेकर कहा कि विवाह परंपरागत रूप से राज्यों का आरक्षित अधिकार रहा है और संघीय न्यायालयों को राज्यों के पारिवारिक कानून में हस्तक्षेप नहीं करना चाहिए। यदि यह दलील सफल हो जाती, तो पहले दो प्रश्नों का उत्तर देने की आवश्यकता ही नहीं रहती। अतः मामले की वास्तविक सुनवाई-क्रम यह था: पहले यह तय करना कि चौदहवाँ संशोधन राज्य के विवाह-विधान को छूता है या नहीं, फिर समान संरक्षण और विधिवत प्रक्रिया की दो अलग-अलग राहें लेना। अंत में एक ठोस राहत-प्रश्न भी था: 1959 की दोषसिद्धि और 25 वर्ष तक साथ न लौटने की परिवीक्षा शर्त उसी चुनौती-प्राप्त कानून पर टिकी थी, इसलिए कानून अवैध हो तो दोषसिद्धि भी नहीं टिक सकती।

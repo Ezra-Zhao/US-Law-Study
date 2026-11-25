@@ -158,3 +158,26 @@ Bài viết này là ghi chép học tập cá nhân, không phải tư vấn ph
 *한국어·베트남어·힌디어 본문은 학습용 초역으로, 원어민 감수를 기다리고 있습니다.*
 *Bản tiếng Hàn, tiếng Việt và tiếng Hindi là bản dịch học tập, đang chờ người bản ngữ hiệu đính.*
 *कोरियाई, वियतनामी और हिंदी पाठ अध्ययन अनुवाद हैं; मूल-भाषी समीक्षा लंबित है।*
+
+
+## 补译增量（2026-11-24 19:55轮·韩／越／印初译待校）
+
+补中文主文第一节第二、三段（Ambler 土地价值与程序姿态组，三语原稿仅各一段、此两段缺）：
+
+### 한국어 (初译待校)
+
+피상소인 Ambler Realty는 마을 서쪽 끝에 있는 68에이커의 빈 땅을 소유하고 있었는데, 남쪽은 Euclid Avenue, 북쪽은 Nickel Plate 철도에 접하고 양옆에는 이미 주거용으로 지정된 토지가 있었다. 소장에 따르면 이 땅은 오랫동안 산업 개발용 매물로 보유되어 왔고 산업 확장의 경로 위에 있었다. 산업용일 때 시가는 에이커당 약 10,000달러였지만 주거용으로 제한되면 에이커당 2,500달러를 넘지 않았고, Euclid Avenue에 접한 앞부분 200피트는 용도 제한이 없으면 전면 피트당 150달러, 주거용으로 제한되고 일반 상업이 배제되면 전면 피트당 50달러를 넘지 않았다. 조례는 이 땅의 상당 부분을 주거 등 제한 분류에 넣었다.
+
+Ambler는 조례 자체가 자유와 재산을 박탈해 수정헌법 제14조의 적법절차와 평등 보호를 위반한다고 주장하며 집행 금지를 구했다. 건축 허가를 먼저 신청하거나 조례 관리 기관에 면제를 구하지는 않았다. 다수 의견은 절차상 먼저 이를 확인했다. 조례 전체가 그 자체의 효력으로 위헌적으로 땅값을 떨어뜨리고 매각 가능성을 파괴한다는 공격이라면, 허가와 구제 절차를 먼저 거칠 필요가 없다는 것이다. 연방지방법원은 조례를 위헌이라 판단하고 집행을 금지했고(297 F. 307), Euclid 마을이 상소하자 대법원은 원심을 뒤집었다. 판결일은 1926년 11월 22일이었고, 반대 대법관 세 명은 별도의 반대 의견을 내지 않았다.
+
+### Tiếng Việt (初译待校)
+
+Bị đơn Ambler Realty sở hữu một khu đất trống 68 acre ở đầu phía tây của làng, phía nam giáp Euclid Avenue, phía bắc giáp tuyến đường sắt Nickel Plate, hai bên đã có đất quy hoạch làm nhà ở. Theo đơn kiện, khu đất này từ lâu được giữ để bán cho phát triển công nghiệp và nằm đúng trên hướng mở rộng công nghiệp: dùng cho công nghiệp thì giá thị trường khoảng 10.000 đô la mỗi acre, nhưng nếu bị giới hạn chỉ làm nhà ở thì không quá 2.500 đô la mỗi acre; phần 200 feet mặt tiền Euclid Avenue, nếu không bị giới hạn mục đích sử dụng thì trị giá 150 đô la mỗi feet mặt tiền, còn khi bị giới hạn làm nhà ở và loại trừ thương mại thông thường thì không quá 50 đô la mỗi feet mặt tiền. Sắc lệnh đã xếp phần lớn khu đất vào các hạng mục bị hạn chế như nhà ở.
+
+Ambler kiện cho rằng chính sắc lệnh tước đoạt tự do và tài sản, vi phạm tố tụng hợp lệ và bảo vệ bình đẳng của Tu chính án 14, và yêu cầu cấm thi hành; công ty không xin giấy phép xây dựng trước cũng không xin cơ quan quản lý sắc lệnh miễn trừ. Ý kiến đa số xác nhận điểm thủ tục trước: khi đòn tấn công nhắm vào việc sắc lệnh, bằng chính hiệu lực của nó, hạ giá đất và phá hủy khả năng bán một cách vi hiến, thì không cần đi qua thủ tục giấy phép và miễn trừ trước. Tòa quận liên bang phán sắc lệnh vi hiến và cấm thi hành (297 F. 307), làng Euclid kháng cáo, và Tòa Tối cao đã đảo ngược. Ngày phán quyết là 22 tháng 11 năm 1926, và ba thẩm phán bất đồng không viết ý kiến riêng.
+
+### हिन्दी (初译待校)
+
+प्रतिवादी Ambler Realty के पास गाँव के पश्चिमी छोर पर 68 एकड़ खाली भूमि थी, जिसके दक्षिण में Euclid Avenue, उत्तर में Nickel Plate रेलवे और दोनों ओर पहले से आवासीय घोषित भूखंड थे। वादपत्र के अनुसार यह भूमि लंबे समय से औद्योगिक विकास के लिए बिक्री हेतु रखी गई थी और औद्योगिक विस्तार के मार्ग पर थी: औद्योगिक उपयोग में इसका बाज़ार मूल्य लगभग $10,000 प्रति एकड़ था, परंतु आवासीय उपयोग तक सीमित करने पर $2,500 प्रति एकड़ से अधिक नहीं; Euclid Avenue से लगी अगली 200 फीट, यदि उपयोग अप्रतिबंधित हो तो $150 प्रति अग्र-फुट, और आवासीय तक सीमित तथा सामान्य वाणिज्य से बाहर रखने पर $50 प्रति अग्र-फुट से अधिक नहीं। अध्यादेश ने इस भूमि के बड़े भाग को आवासीय जैसी प्रतिबंधित श्रेणियों में डाल दिया था।
+
+Ambler ने वाद किया कि अध्यादेश स्वयं उसकी स्वतंत्रता और संपत्ति छीनता है और चौदहवें संशोधन की विधिवत प्रक्रिया व समान संरक्षण का उल्लंघन करता है, और प्रवर्तन पर रोक माँगी; उसने पहले भवन अनुमति नहीं माँगी थी और न ही अध्यादेश के प्रशासक से छूट चाही थी। बहुमत ने पहले प्रक्रियागत बिंदु तय किया: जब आक्रमण यह हो कि अध्यादेश अपने ही प्रभाव से असंवैधानिक रूप से भूमि का मूल्य गिराता है और बिक्री-योग्यता नष्ट करता है, तो पहले अनुमति और राहत की प्रक्रिया से गुजरना आवश्यक नहीं। संघीय ज़िला न्यायालय ने अध्यादेश को असंवैधानिक ठहराकर प्रवर्तन रोका (297 F. 307), Euclid गाँव ने अपील की और सर्वोच्च न्यायालय ने निर्णय पलट दिया। निर्णय तिथि 22 नवंबर 1926 थी, और तीन असहमत न्यायाधीशों ने अलग असहमति मत नहीं दिया।
