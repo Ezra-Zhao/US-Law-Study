@@ -45,3 +45,17 @@
 *개인 학습 노트이며 법률 자문이 아닙니다. (초역)*
 *Ghi chú học tập cá nhân, không phải tư vấn pháp lý. (Bản dịch sơ bộ)*
 *व्यक्तिगत अध्ययन नोट, कानूनी सलाह नहीं। (प्रारंभिक अनुवाद)*
+
+## 补译增量（2026-11-25 05:55轮）
+
+### 한국어 (初译待校)
+
+① 답안 순서 다섯 단계(중국어 본문): 첫째, 연방세인지 주세인지 정해 문을 고른다. 둘째, 청구의 목적이 부과·징수 자체를 겨냥하는지 본다. 셋째, 성문 예외를 확인한다(제7421조의 열거, 제1341조 쪽에서는 주 구제가 간명·신속·효율적인지). 넷째, 연방세라면 Williams Packing의 두 요건과 Regan의 대체 구제 없음이라는 좁은 틈을 본다. 다섯째, 주세라면 마지막에 Levin의 예양과 Hibbs의 제3자 지위를 덧붙인다. ② Woosley의 한계(중국어 본문): 캘리포니아 대법원은 Woosley v. State of California, 3 Cal.4th 758 (1992)에서, 법원은 입법부가 명문으로 정한 환급 경로를 넓힐 수 없다고 했다. *개인 학습 노트이며 법률 자문이 아닙니다. (초역)*
+
+### Tiếng Việt (初译待校)
+
+① Thứ tự trả lời năm bước (văn bản chính tiếng Trung): một, xác định thuế liên bang hay thuế bang để chọn đúng cửa; hai, xem mục đích của vụ kiện có nhắm vào chính việc xác định hay thu thuế hay không; ba, kiểm tra các ngoại lệ luật định (liệt kê tại Điều 7421, và phía Điều 1341 là cứu trợ của bang có rõ ràng, nhanh chóng và hiệu quả không); bốn, với thuế liên bang, kiểm tra tiếp hai điều kiện của Williams Packing và khe hẹp không có cứu trợ thay thế của Regan; năm, với thuế bang, bổ sung cuối cùng nguyên tắc tôn trọng lẫn nhau trong Levin và vị thế bên thứ ba trong Hibbs. ② Giới hạn trong Woosley (văn bản chính tiếng Trung): trong Woosley v. State of California, 3 Cal.4th 758 (1992), Tòa án Tối cao California cho rằng tòa án không thể mở rộng con đường hoàn thuế mà cơ quan lập pháp đã quy định rõ. *Ghi chú học tập cá nhân, không phải tư vấn pháp lý. (Bản dịch sơ bộ)*
+
+### हिन्दी (初译待校)
+
+① उत्तर का पाँच-चरण क्रम (चीनी मुख्य पाठ): पहला, संघीय कर है या राज्य कर, यह तय कर सही द्वार चुनें; दूसरा, देखें कि वाद का उद्देश्य निर्धारण या वसूली को ही निशाना बनाता है या नहीं; तीसरा, वैधानिक अपवाद जाँचें (धारा 7421 की सूची, और धारा 1341 की ओर राज्य उपाय स्पष्ट, त्वरित व प्रभावी है या नहीं); चौथा, संघीय कर हो तो Williams Packing की दो शर्तें और Regan की 'कोई वैकल्पिक उपाय नहीं' वाली संकीर्ण स्थिति देखें; पाँचवाँ, राज्य कर हो तो अंत में Levin की comity और Hibbs की तृतीय-पक्ष स्थिति जोड़ें। ② Woosley की सीमा (चीनी मुख्य पाठ): Woosley v. State of California, 3 Cal.4th 758 (1992) में California सर्वोच्च न्यायालय ने माना कि न्यायालय विधायिका द्वारा स्पष्ट रूप से निर्धारित वापसी मार्ग का विस्तार नहीं कर सकते। *व्यक्तिगत अध्ययन नोट, कानूनी सलाह नहीं। (प्रारंभिक अनुवाद)*

@@ -50,3 +50,17 @@ Hazelwood School District v. Kuhlmeier, 484 U.S. 260 (1988) (बहस 13 अक
 
 *声明：本文为个人学习笔记，不构成法律建议。*
 *Disclaimer: Personal study notes only; not legal advice.*
+
+## 补译增量（2026-11-25 05:55轮）
+
+### 한국어 (初译待校)
+
+① 남은 네 페이지로만 발행(중국어 본문): 교장이 두 기사가 실린 두 페이지 전체를 빼자, 그 호는 남은 네 페이지로만 나왔습니다. ② 학교 측 실무 동작(중국어 본문): 교보의 성격을 성문 정책에 적어 두는 것(교육과정 작품인지 개방 포럼인지), 삭제 이유는 그때그때 구체적인 교육적 관심에 연결해 적고 그저 맞지 않다고만 말하지 않는 것, 그리고 학생 측은 연방 헌법보다 먼저 자기 주에 학생 표현 보호법이 있는지부터 확인하는 것이 순서입니다. *개인 학습 노트이며 법률 자문이 아닙니다. (초역)*
+
+### Tiếng Việt (初译待校)
+
+① Chỉ phát hành với bốn trang còn lại (văn bản chính tiếng Trung): sau khi hiệu trưởng cắt bỏ cả hai trang chứa hai bài viết, số báo đó chỉ ra mắt với bốn trang còn lại. ② Việc thực hành phía nhà trường (văn bản chính tiếng Trung): ghi rõ định vị của tờ báo học sinh vào chính sách thành văn (là tác phẩm thuộc chương trình học hay diễn đàn mở), lý do cắt bỏ phải gắn ngay với mối quan tâm sư phạm cụ thể chứ không chỉ nói là không phù hợp; phía học sinh thì trước hết kiểm tra bang mình có luật bảo vệ biểu đạt của học sinh hay không rồi mới bàn đến Hiến pháp liên bang — đổi thứ tự sẽ bỏ sót lá bài mạnh nhất. *Ghi chú học tập cá nhân, không phải tư vấn pháp lý. (Bản dịch sơ bộ)*
+
+### हिन्दी (初译待校)
+
+① केवल शेष चार पृष्ठों के साथ प्रकाशन (चीनी मुख्य पाठ): प्रधानाचार्य ने दोनों लेखों वाले दो पृष्ठ हटाए, तो वह अंक केवल शेष चार पृष्ठों के साथ निकला। ② विद्यालय पक्ष की व्यावहारिक कार्यवाही (चीनी मुख्य पाठ): छात्र अख़बार की स्थिति लिखित नीति में स्पष्ट करें (पाठ्यक्रम कृति है या खुला मंच), हटाने के कारण उसी समय ठोस शैक्षणिक सरोकार से जोड़कर लिखें, केवल यह न कहें कि उचित नहीं है; छात्र पक्ष के लिए क्रम यह है कि पहले अपने राज्य में छात्र अभिव्यक्ति संरक्षण कानून है या नहीं, यह देखें, फिर संघीय संविधान की बात करें। *व्यक्तिगत अध्ययन नोट, कानूनी सलाह नहीं। (प्रारंभिक अनुवाद)*
