@@ -1,0 +1,57 @@
+# Ramos 不溯及备考核心：Edwards v. Vannoy、Teague 分水岭例外之死与加州坐标
+
+分工：与《陪审团审判备考核心》分工——彼篇管陪审权本体、Batson 与 Ramos 一致裁决的实体规则；本篇只抠新程序规则能不能回头改已经终局的定罪这一格。与《追溯法备考核心》分工——彼篇管立法追溯与 Calder 四类，本篇管司法新规在联邦人身保护令（habeas）中的溯及力。
+
+## 中文主文
+
+### 一、先把问题摆正：Ramos 赢了实体，Edwards 输了时间
+
+Ramos v. Louisiana, 590 U.S. 83 (2020)（美国联邦最高法院）推翻 Apodaca v. Oregon, 406 U.S. 404 (1972)，确立第六修正案要求州刑事审判的陪审团裁决必须一致，该要求经第十四修正案适用于各州。但 Ramos 只解决往后与未终局案件的实体规则；对判决已经终局、正在联邦人身保护令程序里挑战的人，新规则能不能溯及，另成一案：Edwards v. Vannoy, 593 U.S. 255 (2021)（美国联邦最高法院，Kavanaugh 执笔，6 比 3）。结论一句话：Ramos 的一致性要求不溯及适用于联邦复审中已经终局的州定罪。2026 减 2021 等于 5，该判例立了 5 年（算例本地复算两遍一致）；2026 减 2020 等于 6，Ramos 本体立了 6 年。答题时把两案拆开写，是本篇第一道分界。
+
+### 二、Teague 框架：新规则原则上不回头，只剩一条窄门
+
+溯及力的分析框架来自 Teague v. Lane, 489 U.S. 288 (1989)（美国联邦最高法院复数意见，后成通说框架）：联邦人身保护令复审中，新的宪法刑事程序规则原则上不溯及适用于已经终局的定罪，只有两个例外——其一，新规则把某类行为或某类人整个移出刑罚范围（实体性例外）；其二，新规则属于分水岭式程序规则（watershed rule of criminal procedure），即没有它，审判的准确性与基本公平会被严重动摇。几十年来，第二例外从未被任何新规则成功触发过，学理上常被形容为只存在于理论的门。Edwards 的动作，是把这条门的存续本身判了死刑：多数意见明说，分水岭例外已经不可挽回地落空，今后不会再有新程序规则借它溯及——用判决的逻辑说，这条例外被宣布为无实际内容的空集，新规则溯及的大门在联邦复审层面就此关上（实体性例外不在本案射程内，不受影响）。
+
+### 三、为什么 Ramos 过不了门：一致性重要，但不是准确性的地基
+
+多数意见的检验分两问。第一问，Ramos 规则是不是分水岭级别：法院说不一致裁决在美国多数法域本就长期被禁止，路易斯安那与俄勒冈是少数例外；不一致裁决下被定罪，不等于审判机制整体失灵，其对事实准确性的增益达不到 Gideon v. Wainwright 那一档——判决把 Gideon 式的规则（没有它审判根本不成立）与 Ramos 式的规则（让审判更好但不是地基）分开。第二问，后果与终局性：若 Ramos 溯及，仅两州就可能有大量终局定罪要重审，州的终局利益、受害人与证人负担、重审时证据流失，都是 Teague 框架里要计的成本。两问合起来：重要不等于分水岭，Ramos 不溯及。异议由 Kagan 执笔，主张 Ramos 恰恰是那种改变了我们对基本公平理解的规则，多数意见实际上是借本案埋葬 Teague 例外本身。考试写异议时抓住这一点：争的不是 Ramos 对不对，而是例外还活不活。
+
+### 四、射程卡准：三个不受影响的格子
+
+第一格，直接上诉与未终局案件：Ramos 对判决未终局、仍在直接审查中的案件照常适用，Edwards 只管联邦人身保护令里的终局定罪。第二格，州自己的救济：联邦法院不给溯及，不等于州不能给——州法院与州立法可以在州法层面给本州终局案件更宽的救济（一般原则见 Danforth v. Minnesota, 552 U.S. 264 (2008)：Teague 是联邦人身保护令的门槛，不是州再审的天花板）。第三格，实体性新规：把行为除罪化或把某类人移出刑罚范围的新规则，走 Teague 第一例外，不受 Edwards 影响。把三格写全，才算射程完整。
+
+### 五、加州落点：加州陪审团本来就要求一致，Edwards 在加州主要是框架价值
+
+加州刑事陪审团裁决历来要求全体一致，加州没有 Apodaca 式的非一致裁决传统，所以 Ramos 与 Edwards 对加州州内定罪几乎没有直接改判面。本篇在加州的落点是两条：其一，加州被告在联邦第九巡回走人身保护令挑战州定罪时，律师援引任何新程序规则，都先过 Edwards 这一关——先问规则终局前还是终局后宣布、属实体还是程序，程序性新规在联邦复审中原则上出局；其二，加州法院处理州法再审（如州人身保护令与法定再审通道）时不受 Teague 直接约束，可以按州法给更宽的溯及处理，但那是州法的选择，不是联邦宪法的命令。答题顺序：先 Ramos 实体，再 Teague 两例外，再 Edwards 关门，最后三格射程与加州落点。
+
+个人学习笔记，不构成法律建议。案例以 Ramos v. Louisiana, 590 U.S. 83 (2020)、Edwards v. Vannoy, 593 U.S. 255 (2021)、Teague v. Lane, 489 U.S. 288 (1989)、Danforth v. Minnesota, 552 U.S. 264 (2008) 判决文本为准。
+
+## English
+
+Ramos v. Louisiana, 590 U.S. 83 (2020), overruled Apodaca and held that the Sixth Amendment, applied to the states through the Fourteenth, requires unanimous jury verdicts in state criminal trials. Edwards v. Vannoy, 593 U.S. 255 (2021) — five years before 2026 (2026 − 2021 = 5), by a 6-3 vote in an opinion by Justice Kavanaugh — answered the separate timing question: the Ramos rule does not apply retroactively to state convictions that were already final on federal habeas review. The framework is Teague v. Lane, 489 U.S. 288 (1989): a new constitutional rule of criminal procedure ordinarily does not apply retroactively to final convictions, subject to two exceptions — substantive rules that place conduct or persons beyond the reach of punishment, and watershed rules of criminal procedure implicit in the concept of ordered liberty. No new rule had ever satisfied the watershed exception, and Edwards declared it moribund: going forward, no new procedural rule will satisfy it. Ramos itself failed the test because nonunanimous verdicts, long barred in most American jurisdictions, do not so seriously undermine accuracy as to rank with Gideon; importance is not watershed status, and the costs to finality in the two affected states confirmed the result. Justice Kagan's dissent argued that the majority was using the case to bury the Teague exception itself. Three limits define the scope: Ramos still governs cases not yet final on direct review; states remain free to give broader retroactive relief under state law, as Danforth v. Minnesota, 552 U.S. 264 (2008), confirms Teague is a federal-habeas floor, not a ceiling on state collateral review; and substantive new rules still travel through Teague's first exception untouched. California has always required unanimous criminal jury verdicts, so Edwards changes almost nothing for California convictions directly; its California significance is procedural — any new procedural rule raised on federal habeas from a California conviction meets the Edwards bar first, while California courts remain free to be more generous under state law.
+
+*Personal study notes; not legal advice.*
+
+## Español — traducción de estudio (初译待校)
+
+Ramos v. Louisiana, 590 U.S. 83 (2020), anuló Apodaca y sostuvo que la Sexta Enmienda, aplicable a los estados por la Decimocuarta, exige veredictos unánimes del jurado en los juicios penales estatales. Edwards v. Vannoy, 593 U.S. 255 (2021) —cinco años antes de 2026 (2026 − 2021 = 5), por 6 a 3, con opinión del juez Kavanaugh— respondió la pregunta temporal: la regla de Ramos no se aplica retroactivamente a las condenas estatales ya firmes en revisión federal de hábeas. El marco es Teague v. Lane, 489 U.S. 288 (1989): una nueva regla constitucional de procedimiento penal normalmente no se aplica retroactivamente a condenas firmes, con dos excepciones: las reglas sustantivas que sustraen conductas o personas al castigo, y las reglas procesales decisivas (watershed) implícitas en el concepto de libertad ordenada. Ninguna regla nueva había satisfecho jamás la segunda excepción, y Edwards la declaró moribunda: en adelante ninguna regla procesal nueva la satisfará. Ramos no superó la prueba porque los veredictos no unánimes, prohibidos desde hace mucho en la mayoría de las jurisdicciones, no socavan la exactitud al nivel de Gideon; ser importante no es ser watershed, y los costos para la firmeza en los dos estados afectados confirmaron el resultado. La disidencia de la jueza Kagan sostuvo que la mayoría enterraba la propia excepción de Teague. El alcance tiene tres límites: Ramos sigue rigiendo los casos aún no firmes en revisión directa; los estados pueden dar un alivio retroactivo más amplio bajo su propio derecho, pues Danforth v. Minnesota, 552 U.S. 264 (2008), confirma que Teague es un suelo federal y no un techo estatal; y las reglas sustantivas nuevas siguen pasando por la primera excepción. California siempre ha exigido unanimidad en sus jurados penales, así que Edwards apenas cambia nada directamente allí; su valor en California es procesal. (traducción de estudio, pendiente de revisión)
+
+*Notas personales de estudio; no constituyen asesoría legal.*
+
+## 한국어 — 초역, 교정 대기 중 (初译待校)
+
+Ramos v. Louisiana, 590 U.S. 83 (2020)는 Apodaca를 뒤집고 수정헌법 제6조가 제14조를 통해 주에도 적용되어 주 형사재판의 배심 평결은 만장일치여야 한다고 했습니다. Edwards v. Vannoy, 593 U.S. 255 (2021)(2026 − 2021 = 5년 전, Kavanaugh 대법관 의견, 6대 3)는 시간 문제를 따로 답했습니다. Ramos 규칙은 연방 인신보호 심사 단계에서 이미 확정된 주 유죄판결에는 소급 적용되지 않습니다. 틀은 Teague v. Lane, 489 U.S. 288 (1989)입니다. 새로운 헌법상 형사절차 규칙은 원칙적으로 확정 판결에 소급되지 않으며, 예외는 둘뿐입니다. 행위나 사람을 처벌 범위 밖으로 빼는 실체적 규칙과, 질서 있는 자유의 개념에 내재한 분수령(watershed) 절차 규칙입니다. 분수령 예외를 충족한 새 규칙은 한 번도 없었고, Edwards는 그 예외가 사실상 사멸했다고 선언했습니다. 앞으로 어떤 새 절차 규칙도 그 예외를 충족하지 못합니다. Ramos 자체도 검사를 통과하지 못했습니다. 대다수 법역에서 오래 금지돼 온 비만장일치 평결이 Gideon 수준으로 정확성을 무너뜨리지는 않기 때문입니다. 중요하다는 것과 분수령이라는 것은 다릅니다. Kagan 대법관의 반대의견은 다수의견이 Teague 예외 자체를 묻어 버렸다고 비판했습니다. 범위는 세 가지로 한정됩니다. Ramos는 직접심사에서 아직 확정되지 않은 사건에는 여전히 적용되고, Danforth v. Minnesota, 552 U.S. 264 (2008)가 확인하듯 주는 주법으로 더 넓은 소급 구제를 줄 수 있으며, 실체적 새 규칙은 첫 번째 예외를 그대로 통과합니다. 캘리포니아는 형사 배심 만장일치를 늘 요구해 왔으므로 Edwards의 직접 영향은 거의 없고, 그 의의는 절차적 틀에 있습니다. (초역, 교정 대기 중)
+
+*개인 학습 노트이며 법률 자문이 아닙니다.*
+
+## Tiếng Việt — bản dịch sơ bộ, chờ hiệu đính (初译待校)
+
+Ramos v. Louisiana, 590 U.S. 83 (2020) đã lật lại Apodaca và phán rằng Tu chính án thứ Sáu, áp dụng cho các bang qua Tu chính án thứ Mười bốn, đòi hỏi phán quyết nhất trí của bồi thẩm đoàn trong các phiên tòa hình sự cấp bang. Edwards v. Vannoy, 593 U.S. 255 (2021) — năm năm trước 2026 (2026 − 2021 = 5), với tỷ lệ 6-3, ý kiến của Thẩm phán Kavanaugh — trả lời câu hỏi thời gian riêng biệt: quy tắc Ramos không áp dụng hồi tố đối với các bản án cấp bang đã chung thẩm trong thủ tục habeas liên bang. Khung phân tích là Teague v. Lane, 489 U.S. 288 (1989): một quy tắc hiến pháp mới về thủ tục hình sự thường không áp dụng hồi tố cho bản án đã chung thẩm, với hai ngoại lệ — quy tắc thực chất đưa hành vi hoặc con người ra khỏi phạm vi trừng phạt, và quy tắc thủ tục mang tính bước ngoặt (watershed) hàm chứa trong khái niệm tự do có trật tự. Chưa quy tắc mới nào từng thỏa mãn ngoại lệ watershed, và Edwards tuyên bố ngoại lệ đó đã chết: từ nay không quy tắc thủ tục mới nào thỏa mãn được nó. Bản thân Ramos trượt bài kiểm tra vì phán quyết không nhất trí, vốn bị cấm từ lâu ở hầu hết các khu vực tài phán, không làm suy yếu tính chính xác đến mức Gideon; quan trọng không đồng nghĩa với watershed, và cái giá đối với tính chung thẩm ở hai bang bị ảnh hưởng củng cố kết luận. Ý kiến phản đối của Thẩm phán Kagan cho rằng đa số đã chôn vùi chính ngoại lệ Teague. Phạm vi có ba giới hạn: Ramos vẫn áp dụng cho các vụ chưa chung thẩm ở giai đoạn xét lại trực tiếp; các bang vẫn có thể cho cứu trợ hồi tố rộng hơn theo luật bang, vì Danforth v. Minnesota, 552 U.S. 264 (2008) xác nhận Teague là sàn liên bang chứ không phải trần của việc xét lại cấp bang; và các quy tắc thực chất mới vẫn đi qua ngoại lệ thứ nhất. California luôn đòi hỏi nhất trí trong bồi thẩm đoàn hình sự, nên Edwards hầu như không thay đổi gì trực tiếp ở đó; ý nghĩa của nó tại California nằm ở khung thủ tục. (bản dịch sơ bộ, chờ hiệu đính)
+
+*Ghi chú học tập cá nhân, không phải tư vấn pháp lý.*
+
+## हिन्दी — प्रारंभिक अनुवाद, समीक्षा लंबित (初译待校)
+
+Ramos v. Louisiana, 590 U.S. 83 (2020) ने Apodaca को पलटकर कहा कि छठा संशोधन, चौदहवें संशोधन के माध्यम से राज्यों पर लागू होकर, राज्य आपराधिक मुकदमों में जूरी के सर्वसम्मत निर्णय माँगता है। Edwards v. Vannoy, 593 U.S. 255 (2021) — 2026 से पाँच वर्ष पहले (2026 − 2021 = 5), 6-3 से, न्यायमूर्ति Kavanaugh का मत — ने समय का अलग प्रश्न उत्तरित किया: Ramos नियम संघीय habeas समीक्षा में पहले से अंतिम हो चुकी राज्य सज़ाओं पर पूर्वव्यापी रूप से लागू नहीं होता। ढाँचा Teague v. Lane, 489 U.S. 288 (1989) है: आपराधिक प्रक्रिया का नया संवैधानिक नियम सामान्यतः अंतिम सज़ाओं पर पूर्वव्यापी नहीं होता, दो अपवादों सहित — वे वास्तविक नियम जो आचरण या व्यक्तियों को दंड के दायरे से बाहर कर दें, और वे watershed प्रक्रियात्मक नियम जो व्यवस्थित स्वतंत्रता की अवधारणा में निहित हों। कोई नया नियम watershed अपवाद को कभी पूरा नहीं कर पाया था, और Edwards ने उसे मृतप्राय घोषित कर दिया: आगे से कोई नया प्रक्रियात्मक नियम उसे पूरा नहीं करेगा। Ramos स्वयं भी परीक्षा में असफल रहा, क्योंकि असर्वसम्मत निर्णय, जो अधिकांश क्षेत्रों में लंबे समय से प्रतिबंधित हैं, सटीकता को Gideon के स्तर तक नहीं गिराते; महत्वपूर्ण होना watershed होना नहीं है। न्यायमूर्ति Kagan के असहमति मत ने कहा कि बहुमत ने Teague अपवाद को ही दफ़ना दिया। दायरे की तीन सीमाएँ हैं: Ramos उन मामलों पर अब भी लागू है जो प्रत्यक्ष समीक्षा में अंतिम नहीं हुए; राज्य अपने कानून के तहत अधिक व्यापक पूर्वव्यापी राहत दे सकते हैं, क्योंकि Danforth v. Minnesota, 552 U.S. 264 (2008) पुष्टि करता है कि Teague संघीय न्यूनतम है, राज्य समीक्षा की छत नहीं; और नए वास्तविक नियम पहले अपवाद से अब भी गुज़रते हैं। कैलिफ़ोर्निया में आपराधिक जूरी की सर्वसम्मति हमेशा से आवश्यक रही है, इसलिए वहाँ Edwards का प्रत्यक्ष प्रभाव लगभग नहीं है; उसका महत्व प्रक्रियात्मक ढाँचे में है। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+*व्यक्तिगत अध्ययन नोट्स; कानूनी सलाह नहीं।*
