@@ -1,0 +1,67 @@
+# 例外条款与管辖权剥夺备考核心：McCardle 到 Patchak 的管辖、改法与改判三格及加州坐标
+
+本篇管备考答题：国会能不能把一个正在审的案子从联邦法院手里拿走。下一篇图谱篇管版图：同一条谱系在整个联邦法院体系里怎么摆位。两篇同题成对、算例各自独立。
+
+## 中文主文
+
+### 一、文本起点：宪法第三条第二款的例外条款
+
+美国宪法第三条第二款先给最高法院上诉管辖权，再留一句口子：这种上诉管辖受国会作出的例外与规定约束（with such Exceptions, and under such Regulations as the Congress shall make），通称例外条款（Exceptions Clause）。备考先把问题拆成三格：一，国会关的是哪扇门——是撤掉某类案件的管辖（改门）；二，国会改的是门后的规则——修改实体法，哪怕改动正打到未决案件（改法）；三，国会越过门直接写判决——规定法院必须怎么判（改判）。三格的命运完全不同：改门原则上可以，改法也可以，改判不行。整条谱系就是围着这三格的边界打转。
+
+### 二、改门的定案：Ex parte McCardle（1869）
+
+Ex parte McCardle, 74 U.S. (7 Wall.) 506 (1869)（美国联邦最高法院）：报人 McCardle 在重建时期被军事当局拘押，依国会 1867 年的人身保护法向最高法院上诉；案件已经辩论之后，国会废除了那部 1867 年法里授权最高法院受理此类上诉的条款。法院一致认定：被废的正是本案唯一的管辖来源，管辖既失，法院只能以无管辖权驳回——法院无权去问国会废法的动机。但判决同时留了一道缝：废除只打到 1867 年那条通道，并没有废掉更早的通道；1789 年《司法法》的人身保护管辖经 1868 年法保留下来的那条路还在。同年 Ex parte Yerger, 75 U.S. (8 Wall.) 85 (1869) 就确认了这条替代通道可用。所以 McCardle 的准确读法是：国会可以关掉一扇自己开的门，但要看它到底关了哪扇、还剩哪扇，不能读成国会可以把人身保护整体抹掉。
+
+### 三、改判的红线：United States v. Klein（1872）
+
+United States v. Klein, 80 U.S. (13 Wall.) 128 (1872)（美国联邦最高法院），距 McCardle 只有 1872 减 1869 等于 3 年：内战后索赔人凭总统赦免主张取回被没收财产收益，国会却立法规定，法院一旦看到赦免就必须认定索赔人有罪并以无管辖权驳回。法院判这部法无效，给出两条界限：其一，国会不得借管辖之名规定裁判规则（prescribe rules of decision）——嘴上说关门，手里却写好了判决书；其二，国会不得借立法推翻赦免的既判效果、把赦免做文章当成定罪证据。Klein 的射程要写准：它禁的是指示法院如何判，不是禁止国会碰未决案件本身；把 Klein 读成国会一改法就违宪，是本题最常见的过度扩张。
+
+### 四、改法的放行：Robertson（1992）与 Bank Markazi（2016）
+
+Robertson v. Seattle Audubon Society, 503 U.S. 429 (1992)（美国联邦最高法院），距 Klein 已 1992 减 1872 等于 120 年：环保团体就西北林木采伐诉讼未决期间，国会立法直接调整了管辖那片林地的实体规则。法院一致认定合宪——国会改的是实体法本身，新法适用于未决案件只是改法的自然结果，不构成 Klein 意义上的规定裁判规则。分界一句话：改了规则再让法院照新规则判，是立法；规则不变、只命令法院把某个案子判输，是改判。
+
+Bank Markazi v. Peterson, 578 U.S. 212 (2016)（美国联邦最高法院）：国会立法针对一批已识别的特定执行案件，规定某类资产可供执行恐怖主义判决债权人受偿。法院以 6 比 2 维持：针对性再强，只要立法实质上改变了实体法、法院仍是自己在适用新法找事实下结论，就仍属改法而非改判。从 McCardle 到本案，1869 到 2016 相隔 2016 减 1869 等于 147 年，改门与改法的双放行跨了一个半世纪仍站得住；本案距 Robertson 则是 2016 减 1992 等于 24 年，特定化立法的边界在这一站被推到最靠前的位置。
+
+### 五、最近一站：Patchak v. Zinke（2018）
+
+Patchak v. Zinke, 583 U.S. 244 (2018)（美国联邦最高法院），距 Bank Markazi 仅 2018 减 2016 等于 2 年：国会立法规定，涉及某块特定土地的案件应当迅速驳回。法院以多意见（plurality）维持该法：相对多数把这类规定读作管辖调整——国会撤回了对这类案件的管辖同意，法院驳回只是管辖丧失的后果，不是指令法院在原规则下硬判某方输。多意见判决的答题纪律必须写明：本案没有一份意见拿到多数票，引用时要标相对多数属性，不能写成全院一致的定论；但结果本身清楚——直接写应当驳回的立法，这一站仍被放进了改门格而不是改判格。
+
+### 六、加州坐标：州议会没有同等的剥夺工具
+
+联邦这套打法不能平移到加州。加州高等法院（Superior Court）的管辖由加州宪法与成文法共同定下——加州宪法第六条第 10 款是文本锚点之一——州议会是在州宪法划定的框架内以成文法填充管辖，而不是像国会凭例外条款对一个由宪法直接授出的上诉管辖做同等程度的剥夺（本段口径为 B 级：以加州宪法文本与州判例当期核对为准，本文不编造具体加州案名）。答题落点：加州题里看到州议会撤州法院管辖，先查州宪法本身的授权与限制，不要直接套 McCardle。
+
+### 七、答题流水线与易错点
+
+四步走：一，先认格——涉案立法是改门、改法还是改判；二，改门引 McCardle，同时查还有没有 Yerger 式替代通道没被关；三，改法引 Robertson 与 Bank Markazi，写明法院仍在适用新法裁判；四，疑似改判引 Klein，核两件事——是否规定裁判规则、是否借赦免等既定权利翻案。三个高频错误：把 McCardle 读成国会可以废掉全部人身保护通道（Yerger 缝还在）；把 Klein 读成国会不得影响未决案件（Robertson 正相反）；把 Patchak 写成多数意见（它是多意见判决）。
+
+个人学习笔记，不构成法律建议。案例以 Ex parte McCardle, 74 U.S. (7 Wall.) 506 (1869)、Ex parte Yerger, 75 U.S. (8 Wall.) 85 (1869)、United States v. Klein, 80 U.S. (13 Wall.) 128 (1872)、Robertson v. Seattle Audubon Society, 503 U.S. 429 (1992)、Bank Markazi v. Peterson, 578 U.S. 212 (2016)、Patchak v. Zinke, 583 U.S. 244 (2018) 的判决文本为准；宪法文本以美国宪法第三条第二款与加州宪法第六条第 10 款为准，加州口径以当期核对为准。
+
+## English
+
+The exam framework has three boxes. Congress may close a door it opened (jurisdiction), it may change the law behind the door even for pending cases (substance), but it may not dictate how a court decides (judgment). The text is the Exceptions Clause of Article III, Section 2: the Supreme Court's appellate jurisdiction exists with such exceptions and under such regulations as Congress shall make. In Ex parte McCardle, 74 U.S. (7 Wall.) 506 (1869), Congress repealed the 1867 habeas appeal provision after argument; the Court dismissed for want of jurisdiction and refused to examine Congress's motives — yet noted the repeal left untouched the older habeas route preserved from the Judiciary Act of 1789 through the 1868 Act, a route Ex parte Yerger, 75 U.S. (8 Wall.) 85 (1869) confirmed the same year. United States v. Klein, 80 U.S. (13 Wall.) 128 (1872), only 1872 − 1869 = 3 years later, drew the red line: Congress may not prescribe rules of decision under the label of jurisdiction, nor nullify the effect of a presidential pardon by treating it as proof of guilt. Robertson v. Seattle Audubon Society, 503 U.S. 429 (1992), 1992 − 1872 = 120 years after Klein, upheld a statute that changed the substantive law governing pending timber litigation: amending the law is legislation even when it decides who wins. Bank Markazi v. Peterson, 578 U.S. 212 (2016) went further, upholding 6–2 a statute aimed at identified enforcement cases because it genuinely changed the governing law; from McCardle to Bank Markazi is 2016 − 1869 = 147 years, and from Robertson 2016 − 1992 = 24 years. Patchak v. Zinke, 583 U.S. 244 (2018), just 2018 − 2016 = 2 years later, upheld in a plurality decision a statute directing dismissal of suits over a specific parcel, read as a jurisdictional withdrawal; cite it as a plurality, not a majority. California coordinate: Superior Court jurisdiction rests on the California Constitution (art. VI, § 10) together with statutes, and the Legislature fills that frame rather than wielding an Exceptions-Clause-style stripping power (grade B; verify against the current constitutional text and state case law; no specific California case is asserted here). Exam sequence: classify the statute, check for a surviving Yerger-style route, test genuine law-change under Robertson and Bank Markazi, then test Klein's two limits.
+
+Personal study notes; not legal advice.
+
+## Español (初译待校)
+
+El marco de examen tiene tres casillas. El Congreso puede cerrar una puerta que él abrió (jurisdicción), puede cambiar la ley tras la puerta incluso para casos pendientes (fondo), pero no puede dictar cómo decide un tribunal (fallo). El texto es la Cláusula de Excepciones del Artículo III, Sección 2: la jurisdicción de apelación de la Corte Suprema existe con las excepciones y regulaciones que el Congreso establezca. En Ex parte McCardle, 74 U.S. (7 Wall.) 506 (1869), el Congreso derogó la vía de apelación de hábeas corpus de 1867 ya debatido el caso; la Corte se declaró sin jurisdicción sin examinar motivos, pero advirtió que subsistía la vía antigua preservada desde la Ley Judicial de 1789 por la ley de 1868, confirmada ese mismo año en Ex parte Yerger, 75 U.S. (8 Wall.) 85 (1869). United States v. Klein, 80 U.S. (13 Wall.) 128 (1872), solo 1872 − 1869 = 3 años después, trazó la línea roja: el Congreso no puede prescribir reglas de decisión bajo la etiqueta de jurisdicción ni anular el efecto de un indulto presidencial tratándolo como prueba de culpa. Robertson v. Seattle Audubon Society, 503 U.S. 429 (1992), 1992 − 1872 = 120 años tras Klein, validó una ley que cambió el derecho sustantivo de un litigio forestal pendiente: cambiar la ley es legislar aunque decida quién gana. Bank Markazi v. Peterson, 578 U.S. 212 (2016) fue más lejos y validó por seis a dos una ley dirigida a casos de ejecución identificados porque cambiaba de verdad la ley aplicable; de McCardle a Bank Markazi hay 2016 − 1869 = 147 años, y desde Robertson, 2016 − 1992 = 24 años. Patchak v. Zinke, 583 U.S. 244 (2018), apenas 2018 − 2016 = 2 años después, validó en decisión plural una ley que ordenaba desestimar demandas sobre una parcela concreta, leída como retiro jurisdiccional; debe citarse como pluralidad, no como mayoría. Coordenada de California: la jurisdicción del Tribunal Superior descansa en la Constitución estatal (art. VI, § 10) junto con las leyes, y la Legislatura completa ese marco sin un poder de despojo equivalente a la Cláusula de Excepciones (grado B; verificar contra el texto constitucional y la jurisprudencia vigentes; aquí no se afirma ningún caso californiano concreto). (初译待校)
+
+Notas personales de estudio; no constituyen asesoría legal.
+
+## 한국어 (初译待校)
+
+시험 틀은 세 칸입니다. 의회는 자신이 연 문을 닫을 수 있고(관할), 계류 중인 사건에 대해서도 문 뒤의 법을 바꿀 수 있으나(실체), 법원이 어떻게 판결할지를 지시할 수는 없습니다(판결 지시). 근거는 헌법 제3조 제2절의 예외 조항(Exceptions Clause)으로, 대법원의 상소 관할은 의회가 정하는 예외와 규정에 따릅니다. Ex parte McCardle, 74 U.S. (7 Wall.) 506 (1869)에서 의회는 변론 뒤에 1867년 인신보호 상소 규정을 폐지했고, 법원은 동기를 묻지 않고 관할 없음으로 각하했지만, 1789년 사법법에서 이어져 1868년 법으로 보존된 옛 통로는 남았다고 지적했으며, Ex parte Yerger, 75 U.S. (8 Wall.) 85 (1869)가 같은 해 이를 확인했습니다. 불과 1872 − 1869 = 3년 뒤의 United States v. Klein, 80 U.S. (13 Wall.) 128 (1872)은 레드라인을 그었습니다. 의회는 관할이라는 이름으로 재판 규칙(rules of decision)을 정할 수 없고, 대통령 사면의 효과를 뒤집어 사면을 유죄의 증거로 삼을 수도 없습니다. Klein 이후 1992 − 1872 = 120년이 지난 Robertson v. Seattle Audubon Society, 503 U.S. 429 (1992)는 계류 중인 삼림 소송의 실체법을 바꾼 법률을 합헌으로 봤습니다. 법을 바꾸는 것은 누가 이기는지를 정하더라도 입법입니다. Bank Markazi v. Peterson, 578 U.S. 212 (2016)는 특정된 집행 사건들을 겨냥한 법률까지 6대 2로 유지했는데, 적용 법을 실제로 바꿨기 때문입니다. McCardle에서 Bank Markazi까지 2016 − 1869 = 147년, Robertsonからは 2016 − 1992 = 24년입니다. 그로부터 2018 − 2016 = 2년 뒤의 Patchak v. Zinke, 583 U.S. 244 (2018)는 특정 토지에 관한 소송의 각하를 규정한 법률을 상대다수 의견(plurality)으로 유지했으며, 다수 의견이 아닌 상대다수로 인용해야 합니다. 캘리포니아 좌표: 상급법원(Superior Court)의 관할은 주헌법(제6조 제10항)과 법률이 함께 정하고, 주의회는 그 틀을 채울 뿐 예외 조항식 박탈 권한을 갖지 않습니다(B등급, 현행 헌법 문언과 주 판례로 확인할 것, 구체적인 캘리포니아 사건명은 단정하지 않음). (초역, 교정 대기 중)
+
+개인 학습 노트이며 법률 자문이 아닙니다.
+
+## Tiếng Việt (初译待校)
+
+Khung bài thi có ba ô. Quốc hội có thể đóng cánh cửa mình đã mở (thẩm quyền), có thể đổi luật sau cánh cửa ngay cả với vụ đang chờ xử (thực thể), nhưng không thể ra lệnh tòa phải phán quyết thế nào (chỉ thị phán quyết). Văn bản là Điều khoản Ngoại lệ (Exceptions Clause) tại Điều III, Mục 2: thẩm quyền phúc thẩm của Tòa án Tối cao tồn tại với các ngoại lệ và quy định do Quốc hội đặt ra. Trong Ex parte McCardle, 74 U.S. (7 Wall.) 506 (1869), Quốc hội bãi bỏ quy định phúc thẩm habeas năm 1867 sau khi đã tranh luận; Tòa bác đơn vì không có thẩm quyền và không xét động cơ, nhưng lưu ý lối cũ được bảo lưu từ Đạo luật Tư pháp 1789 qua đạo luật 1868 vẫn còn, và Ex parte Yerger, 75 U.S. (8 Wall.) 85 (1869) xác nhận ngay cùng năm. Chỉ 1872 − 1869 = 3 năm sau, United States v. Klein, 80 U.S. (13 Wall.) 128 (1872) vạch lằn ranh đỏ: Quốc hội không thể quy định quy tắc xét xử (rules of decision) dưới nhãn thẩm quyền, cũng không thể vô hiệu hóa hiệu lực ân xá của tổng thống bằng cách coi ân xá là bằng chứng có tội. Robertson v. Seattle Audubon Society, 503 U.S. 429 (1992), 1992 − 1872 = 120 năm sau Klein, giữ nguyên đạo luật đổi luật thực thể trong vụ kiện gỗ đang chờ xử: đổi luật là lập pháp dù nó quyết định ai thắng. Bank Markazi v. Peterson, 578 U.S. 212 (2016) đi xa hơn, giữ nguyên với tỉ lệ 6–2 đạo luật nhắm vào các vụ thi hành đã xác định vì nó thực sự đổi luật điều chỉnh; từ McCardle đến Bank Markazi là 2016 − 1869 = 147 năm, từ Robertson là 2016 − 1992 = 24 năm. Patchak v. Zinke, 583 U.S. 244 (2018), chỉ 2018 − 2016 = 2 năm sau, giữ nguyên bằng phán quyết đa ý kiến tương đối (plurality) đạo luật quy định bác các vụ kiện về một thửa đất cụ thể, được đọc như rút thẩm quyền; phải trích dẫn như ý kiến tương đối, không phải đa số. Tọa độ California: thẩm quyền của Tòa Thượng thẩm (Superior Court) dựa trên Hiến pháp bang (Điều VI, Mục 10) cùng các đạo luật, và cơ quan lập pháp bang lấp đầy khung đó chứ không có quyền tước thẩm quyền kiểu Điều khoản Ngoại lệ (mức B; đối chiếu văn bản hiến pháp và án lệ hiện hành; bài này không khẳng định án lệ California cụ thể nào). (bản dịch sơ bộ, chờ hiệu đính)
+
+Ghi chú học tập cá nhân, không phải tư vấn pháp lý.
+
+## हिन्दी (初译待校)
+
+परीक्षा-ढाँचे में तीन खाने हैं। कांग्रेस वह द्वार बंद कर सकती है जो उसने खोला था (अधिकारिता), वह लंबित मामलों के लिए भी द्वार के पीछे का कानून बदल सकती है (मूल विधि), लेकिन वह यह नहीं बता सकती कि अदालत फैसला कैसे करे (निर्णय-निर्देश)। पाठ अनुच्छेद III, धारा 2 का अपवाद खंड (Exceptions Clause) है: सर्वोच्च न्यायालय की अपीलीय अधिकारिता कांग्रेस द्वारा किए गए अपवादों और विनियमों के अधीन है। Ex parte McCardle, 74 U.S. (7 Wall.) 506 (1869) में कांग्रेस ने बहस के बाद 1867 के habeas अपील प्रावधान को निरस्त कर दिया; न्यायालय ने अधिकारिता के अभाव में खारिज किया और उद्देश्यों की जाँच से इनकार किया, फिर भी नोट किया कि 1789 के न्यायपालिका अधिनियम से 1868 के अधिनियम द्वारा संरक्षित पुराना मार्ग बचा रहा, जिसकी पुष्टि उसी वर्ष Ex parte Yerger, 75 U.S. (8 Wall.) 85 (1869) ने की। केवल 1872 − 1869 = 3 वर्ष बाद United States v. Klein, 80 U.S. (13 Wall.) 128 (1872) ने लाल रेखा खींची: कांग्रेस अधिकारिता के नाम पर निर्णय के नियम (rules of decision) नहीं बना सकती, न राष्ट्रपति की क्षमा के प्रभाव को उसे अपराध का प्रमाण बनाकर निष्फल कर सकती है। Klein के 1992 − 1872 = 120 वर्ष बाद Robertson v. Seattle Audubon Society, 503 U.S. 429 (1992) ने लंबित वन-वाद का मूल कानून बदलने वाले कानून को बरकरार रखा: कानून बदलना विधायन है, भले ही वह तय कर दे कि कौन जीतेगा। Bank Markazi v. Peterson, 578 U.S. 212 (2016) और आगे गया और चिन्हित प्रवर्तन मामलों को लक्षित कानून को 6–2 से बरकरार रखा क्योंकि उसने लागू कानून सचमुच बदला था; McCardle से Bank Markazi तक 2016 − 1869 = 147 वर्ष हैं, और Robertson से 2016 − 1992 = 24 वर्ष। उसके मात्र 2018 − 2016 = 2 वर्ष बाद Patchak v. Zinke, 583 U.S. 244 (2018) ने एक विशिष्ट भूखंड पर मुकदमों को खारिज करने का निर्देश देने वाले कानून को बहुलक निर्णय (plurality) में अधिकारिता-वापसी के रूप में बरकरार रखा; इसे बहुमत नहीं, बहुलक राय कहकर ही उद्धृत करें। California निर्देशांक: उच्च न्यायालय (Superior Court) की अधिकारिता राज्य संविधान (अनुच्छेद VI, § 10) और कानूनों पर एक साथ टिकी है, और राज्य विधायिका उस ढाँचे को भरती है, उसके पास अपवाद-खंड जैसी छीनने की शक्ति नहीं है (श्रेणी B; वर्तमान संवैधानिक पाठ और राज्य न्याय-निर्णयों से सत्यापित करें; यहाँ किसी विशिष्ट California मामले का दावा नहीं किया गया है)। (प्रारंभिक अनुवाद, समीक्षा लंबित)
+
+व्यक्तिगत अध्ययन नोट; विधिक सलाह नहीं।
