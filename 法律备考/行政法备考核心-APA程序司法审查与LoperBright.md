@@ -136,3 +136,22 @@ Bổ sung: đường ranh của Jarkesy không chỉ nằm ở khoản phạt m�
 - 한국어: 개인 학습 노트이며 법률 자문이 아닙니다. 구체적인 사건은 자격을 갖춘 변호사에게 상담하세요. (초역, 원어민 감수 대기)
 - Tiếng Việt: Ghi chép học tập cá nhân, không phải tư vấn pháp lý. Với vụ việc cụ thể, hãy hỏi luật sư có giấy phép hành nghề. (bản dịch sơ bộ, chờ hiệu đính)
 - हिन्दी: व्यक्तिगत अध्ययन नोट; कानूनी सलाह नहीं है। किसी विशिष्ट मामले के लिए लाइसेंसधारी वकील से परामर्श करें। (प्रारंभिक अनुवाद, मूल-भाषी समीक्षा लंबित)
+
+
+---
+
+## 补译增量（2026-11-25 18:55 轮）
+
+以下两组事实见于中文主文，韩、越、印三语此前未成段译出，现补齐（初译待校）：
+
+### 한국어 (初译待校)
+
+첫째, Loper Bright 판결의 유지 장치: 2024년 6월 28일 6대 3으로 Chevron을 뒤집으면서도, 과거에 Chevron에 근거해 선고된 구체적 판결은 법정 선례구속(statutory stare decisis)에 의해 자동 번복되지 않는다. 둘째, 의회의 위임 여지: 의회는 여전히 기관이 경계 안에서 빈틈을 채우도록 명시적으로 위임할 수 있으며, 법원의 일은 그 위임의 바깥 경계를 긋고 기관이 경계 안에 머무는지 확인하는 것이다. 주 법원이 주법을 심사하는 데에는 본 판결이 미치지 않는다.
+
+### Tiếng Việt (初译待校)
+
+Thứ nhất, cơ chế giữ ổn định của Loper Bright: dù lật đổ Chevron với tỉ lệ 6–3 vào ngày 28 tháng 6 năm 2024, các phán quyết cụ thể trước đây dựa trên Chevron không tự động bị đảo ngược, nhờ nguyên tắc tôn trọng tiền lệ luật định (statutory stare decisis). Thứ hai, dư địa ủy quyền của Quốc hội: Quốc hội vẫn có thể ủy quyền rõ ràng cho cơ quan lấp khoảng trống trong một ranh giới, và việc của tòa là vạch ranh giới ngoài của sự ủy quyền đó và bảo đảm cơ quan hành động trong ranh giới. Tòa bang xét luật bang không bị phán quyết này ràng buộc. (初译待校)
+
+### हिन्दी (初译待校)
+
+पहला, Loper Bright का स्थायित्व-तंत्र: 28 जून 2024 को 6–3 से Chevron को पलटने के बावजूद, पहले Chevron के आधार पर दिए गए ठोस निर्णय वैधानिक पूर्वनिर्णय-सम्मान (statutory stare decisis) के कारण स्वतः नहीं पलटते। दूसरा, कांग्रेस की प्रत्यायोजन-गुंजाइश: कांग्रेस अब भी किसी एजेंसी को सीमा के भीतर रिक्तियाँ भरने का स्पष्ट अधिकार दे सकती है; अदालत का काम उस प्रत्यायोजन की बाहरी सीमा खींचना और एजेंसी का उसी के भीतर रहना सुनिश्चित करना है। राज्य कानून की समीक्षा करने वाली राज्य अदालतें इस निर्णय से बाध्य नहीं हैं। (初译待校)
