@@ -1,0 +1,105 @@
+# Rhode Island v. Innis, 446 U.S. 291 (1980) 案例分析：押送车里的一段闲话，为什么不算讯问
+
+> 个人学习笔记，不构成法律建议。
+
+这篇讲什么：一名已援引律师权的谋杀嫌疑人，在押送途中听见两名警察闲聊，说失踪的霰弹枪可能被附近残疾儿童学校的孩子捡到、伤到人。嫌疑人当即插话，带警察找到了枪。联邦最高法院以 6 比 3 认定这段闲聊不构成讯问，供述可采。本案引注：Rhode Island v. Innis, 446 U.S. 291 (1980)，美国联邦最高法院，Stewart 大法官执笔多数意见，1980 年 5 月 12 日判决。
+
+## 小节一：事实与程序——三次警告、一次援引、一段车内对话
+
+### 中文主文
+
+案情从一具尸体说起。1975 年 1 月，出租车司机 John Mulvaney 在罗德岛失踪，数日后尸体在一处浅坑中被找到，死于头部后侧的霰弹枪伤。警方锁定 Thomas Innis。Innis 被捕时身上没有枪，警察先后三次向他宣读米兰达警告，Innis 明确表示明白权利、要请律师、律师到场前不愿回答问题。负责的警官随即吩咐在场所有警察：不要讯问他，也不要强迫或诱导他放弃权利。
+
+押送由三名警察执行，途中一名警官对同伴说起：失踪的霰弹枪还没找到，附近有一所残疾儿童学校，万一哪个孩子捡到枪、伤了自己或别人就糟了；另一名警官附和说应当继续搜。Innis 当场打断，说把车停下、他带他们去找枪，随后领警察在路边野地里找到了那支霰弹枪。州法院里，Innis 主张这段对话就是变相讯问，供述与枪都应排除；罗德岛州最高法院支持了他，撤销定罪。联邦最高法院再审后推翻州最高法院，认定供述可采。从 Miranda 到本案隔了 14 年（1980 减 1966 等于 14），米兰达的第二道开关讯问，直到本案才有了可操作的定义。
+
+*个人学习笔记，不构成法律建议。*
+
+### English
+
+The case begins with a body. In January 1975, taxi driver John Mulvaney disappeared in Rhode Island; days later his body was found in a shallow grave, killed by a shotgun blast to the back of the head. Police identified Thomas Innis as the suspect. When arrested, Innis had no gun on him. Officers read him the Miranda warnings three times, and Innis stated that he understood his rights, wanted a lawyer, and did not wish to answer questions until a lawyer was present. The supervising officer then instructed all officers present not to interrogate Innis and not to coerce or cajole him into waiving his rights.
+
+Three officers transported Innis. During the ride, one officer remarked to another that the missing shotgun had not been found, that there was a school for handicapped children nearby, and that it would be a tragedy if a child found the gun and hurt himself or someone else; the second officer agreed they should keep searching. Innis interrupted, told them to turn the car around, and said he would show them where the gun was; he then led them to the shotgun in a field beside the road. At trial Innis argued the conversation was interrogation in disguise and that both the statements and the gun should be suppressed; the Supreme Court of Rhode Island agreed and vacated the conviction. The Supreme Court of the United States, in Rhode Island v. Innis, 446 U.S. 291 (1980), decided May 12, 1980, with Justice Stewart writing for a six-Justice majority, reversed and held the statements admissible. Fourteen years separate Miranda from this case (1980 minus 1966 equals 14): only here did Miranda's second switch, interrogation, receive a workable definition.
+
+*Personal study notes; not legal advice.*
+
+### Español — 初译待校
+
+El caso empieza con un cadáver. En enero de 1975, el taxista John Mulvaney desapareció en Rhode Island; días después su cuerpo fue hallado en una fosa poco profunda, muerto por un disparo de escopeta en la parte trasera de la cabeza. La policía identificó a Thomas Innis como sospechoso. Al detenerlo, Innis no llevaba arma. Los agentes le leyeron las advertencias Miranda tres veces, e Innis declaró que entendía sus derechos, que quería un abogado y que no deseaba responder preguntas hasta que un abogado estuviera presente. El oficial al mando ordenó entonces a todos los presentes que no interrogaran a Innis y que no lo coaccionaran ni lo indujeran a renunciar a sus derechos.
+
+Tres agentes trasladaron a Innis. Durante el trayecto, uno comentó a otro que la escopeta perdida aún no aparecía, que cerca había una escuela para niños con discapacidad y que sería una tragedia que un niño encontrara el arma y se hiriera o hiriera a alguien; el segundo convino en que debían seguir buscando. Innis interrumpió, pidió que dieran la vuelta y dijo que les mostraría dónde estaba el arma; luego los condujo hasta la escopeta, en un terreno junto a la carretera. En el juicio, Innis sostuvo que la conversación era un interrogatorio disfrazado y que tanto las declaraciones como el arma debían excluirse; la Corte Suprema de Rhode Island le dio la razón y anuló la condena. La Corte Suprema de los Estados Unidos, en Rhode Island v. Innis, 446 U.S. 291 (1980), resuelto el 12 de mayo de 1980, con opinión del juez Stewart para una mayoría de seis, revocó y declaró admisibles las declaraciones. Catorce años separan Miranda de este caso (1980 menos 1966 son 14): solo aquí el segundo interruptor de Miranda, el interrogatorio, recibió una definición utilizable.
+
+*Notas personales de estudio; no constituye asesoría legal. (初译待校)*
+
+### 한국어 — 初译待校
+
+사건은 시신에서 시작합니다. 1975년 1월 로드아일랜드에서 택시 기사 John Mulvaney가 실종됐고, 며칠 뒤 얕은 무덤에서 머리 뒤쪽에 산탄총을 맞고 숨진 채 발견됐습니다. 경찰은 Thomas Innis를 용의자로 특정했습니다. 체포될 때 Innis는 총을 갖고 있지 않았습니다. 경찰은 Miranda 고지를 세 차례 읽어 줬고, Innis는 권리를 이해했고 변호사를 원하며 변호사가 올 때까지 질문에 답하고 싶지 않다고 말했습니다. 책임 경찰관은 자리에 있던 모든 경찰에게 Innis를 심문하지 말고 권리 포기를 강요하거나 유도하지도 말라고 지시했습니다.
+
+경찰 세 명이 Innis를 호송했습니다. 이동 중 한 경찰이 동료에게, 실종된 산탄총을 아직 못 찾았는데 근처에 장애 아동 학교가 있어 아이가 총을 주워 자신이나 남을 다치게 하면 비극이라고 말했고, 다른 경찰이 계속 찾아야 한다고 맞장구쳤습니다. Innis가 끼어들어 차를 돌리라고, 총이 있는 곳을 보여 주겠다고 했고, 길가 들판에서 그 산탄총을 찾아냈습니다. 재판에서 Innis는 그 대화가 위장된 심문이니 진술과 총 모두 배제돼야 한다고 주장했고, 로드아일랜드주 대법원이 이를 받아들여 유죄를 취소했습니다. 미국 연방대법원, Rhode Island v. Innis, 446 U.S. 291 (1980), 1980년 5월 12일 선고, Stewart 대법관이 여섯 명의 다수 의견을 썼고, 주 대법원을 뒤집어 진술의 채택을 인정했습니다. Miranda에서 이 사건까지는 14년이 걸렸습니다(1980 빼기 1966은 14). Miranda의 둘째 스위치인 심문이 쓸 만한 정의를 얻은 것은 이때입니다.
+
+*개인 학습 노트이며 법률 자문이 아닙니다. (초역, 원어민 감수 대기)*
+
+### Tiếng Việt — 初译待校
+
+Vụ án bắt đầu bằng một thi thể. Tháng 1 năm 1975, tài xế taxi John Mulvaney mất tích ở Rhode Island; vài ngày sau thi thể của ông được tìm thấy trong một ngôi mộ nông, chết vì một phát súng shotgun vào sau đầu. Cảnh sát xác định Thomas Innis là nghi phạm. Khi bị bắt, Innis không mang súng. Cảnh sát đọc cảnh báo Miranda cho anh ta ba lần, và Innis nói rằng anh ta hiểu các quyền của mình, muốn có luật sư, và không muốn trả lời câu hỏi cho đến khi luật sư có mặt. Viên sĩ quan phụ trách sau đó chỉ thị mọi cảnh sát có mặt không được thẩm vấn Innis và không được ép buộc hay dụ dỗ anh ta từ bỏ các quyền của mình.
+
+Ba cảnh sát áp giải Innis. Trên đường đi, một cảnh sát nói với đồng nghiệp rằng khẩu shotgun mất tích vẫn chưa được tìm thấy, gần đó có một trường học cho trẻ khuyết tật, và sẽ là thảm kịch nếu một đứa trẻ nhặt được súng và làm bị thương chính mình hay người khác; cảnh sát thứ hai đồng ý rằng họ nên tiếp tục tìm. Innis ngắt lời, bảo quay xe lại và nói sẽ chỉ chỗ giấu súng; rồi anh ta dẫn họ tới khẩu shotgun trong một bãi đất ven đường. Tại phiên tòa, Innis lập luận cuộc trò chuyện đó là thẩm vấn trá hình và cả lời khai lẫn khẩu súng đều phải bị loại; Tòa án Tối cao Rhode Island đồng ý và hủy bản án. Tòa án Tối cao Hoa Kỳ, trong Rhode Island v. Innis, 446 U.S. 291 (1980), quyết ngày 12 tháng 5 năm 1980, với Thẩm phán Stewart viết cho đa số sáu thẩm phán, đã đảo ngược và giữ rằng lời khai được chấp nhận. Mười bốn năm tách Miranda khỏi vụ này (1980 trừ 1966 bằng 14): chỉ đến đây công tắc thứ hai của Miranda, thẩm vấn, mới có một định nghĩa dùng được.
+
+*Ghi chú học tập cá nhân; không phải tư vấn pháp lý. (Bản dịch sơ bộ, chờ hiệu đính)*
+
+### हिन्दी — 初译待校
+
+मामला एक शव से शुरू होता है। जनवरी 1975 में Rhode Island में टैक्सी चालक John Mulvaney लापता हो गया; कुछ दिन बाद उसका शव एक उथली क़ब्र में मिला, सिर के पिछले हिस्से में shotgun के धमाके से मारा गया। पुलिस ने Thomas Innis को संदिग्ध के रूप में पहचाना। गिरफ़्तारी के समय Innis के पास कोई बंदूक नहीं थी। अधिकारियों ने उसे Miranda चेतावनियाँ तीन बार पढ़कर सुनाईं, और Innis ने कहा कि वह अपने अधिकार समझता है, वकील चाहता है, और वकील के उपस्थित होने तक प्रश्नों के उत्तर नहीं देना चाहता। पर्यवेक्षक अधिकारी ने तब उपस्थित सभी अधिकारियों को निर्देश दिया कि वे Innis से पूछताछ न करें और अधिकार छोड़ने के लिए उसे मजबूर या प्रेरित न करें।
+
+तीन अधिकारी Innis को ले गए। यात्रा के दौरान एक अधिकारी ने दूसरे से कहा कि लापता shotgun अभी तक नहीं मिली है, पास में विकलांग बच्चों का एक विद्यालय है, और यदि कोई बच्चा बंदूक पाकर स्वयं को या किसी और को घायल कर दे तो यह त्रासदी होगी; दूसरे अधिकारी ने सहमति दी कि खोज जारी रखनी चाहिए। Innis ने बीच में टोका, गाड़ी मोड़ने को कहा और कहा कि वह बताएगा बंदूक कहाँ है; फिर वह उन्हें सड़क किनारे एक खेत में shotgun तक ले गया। विचारण में Innis ने तर्क दिया कि वह बातचीत छद्म पूछताछ थी और बयान तथा बंदूक दोनों बाहर होने चाहिए; Rhode Island के सर्वोच्च न्यायालय ने सहमति देकर दोषसिद्धि रद्द कर दी। संयुक्त राज्य के सर्वोच्च न्यायालय ने, Rhode Island v. Innis, 446 U.S. 291 (1980), 12 मई 1980 को निर्णीत, जिसमें न्यायाधीश Stewart ने छह-न्यायाधीश बहुमत के लिए लिखा, उसे पलट दिया और बयानों को स्वीकार्य ठहराया। Miranda से इस मामले तक 14 वर्ष हैं (1980 ऋण 1966 बराबर 14): केवल यहाँ Miranda के दूसरे स्विच, पूछताछ, को एक उपयोगी परिभाषा मिली।
+
+*व्यक्तिगत अध्ययन नोट; यह कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद, समीक्षा लंबित)*
+
+## 小节二：裁判要旨与边界——应知标准为什么在本案没有触发
+
+### 中文主文
+
+多数意见先立定义，再套事实。定义就是功能等同：讯问包括明示提问及其功能等同物，即警察应知相当可能引出有罪回答的言语或行动，不含与逮捕通常相伴的言行。多数意见特别点明检验的重心：主要看嫌疑人的感受与处境，警察的意图只在它与嫌疑人可能如何理解这番话相关时才算数，换句话说，问题是这番话客观上像不像在问，而不是警察心里自称在干什么。套到本案事实，多数意见认定这段对话不构成讯问：两名警官的话是说给彼此听的、篇幅短、语气是一般性的担忧，没有迹象表明他们应知 Innis 异常容易被这类话打动，也没有迹象表明他们知道 Innis 对残疾儿童有特别的敏感；Innis 的插话是自愿开口，供述可采，枪作为其后果一并进来。
+
+异议的声音也要记。Brennan 与 Marshall 两位大法官的异议认为，在一名已援引律师权的嫌疑人面前谈论失踪凶器，客观上就是冲着引出反应去的，多数意见把应知标准执行得太松；Stevens 大法官另写异议，质疑多数意见对州法院事实认定的处理。这组分歧正是本案留给后世的考题：同一段话，多数看成同事闲聊，异议看成功能等同，分水岭全在应知二字怎么称量。本案至今 46 年（2026 减 1980 等于 46），后续两块边界由十年后的两案补齐：登记提问的例行边界见 Pennsylvania v. Muniz, 496 U.S. 582 (1990)，卧底交谈不触发米兰达见 Illinois v. Perkins, 496 U.S. 292 (1990)。加州坐标与备考篇同口径：定义层直接适用 Innis 的联邦地板，加州《刑法典》第 859.5 条一带的录音要求与《福利与机构法典》第 625.6 条的未成年人咨询规则只管程序留痕，不改本案的定义检验。读本案的结论要落到一句：警察的话算不算讯问，不看有没有问号，看应知标准下它是不是相当可能把有罪回答勾出来，本案的闲聊没过这条线，换一组事实就可能过线。
+
+*个人学习笔记，不构成法律建议。*
+
+### English
+
+The majority first set the definition, then applied it. Interrogation includes express questioning and its functional equivalent: words or action the police should know are reasonably likely to elicit an incriminating response, excluding speech normally attendant to arrest. The Court stressed where the test points: primarily at the suspect's perceptions and circumstances, with police intent relevant only insofar as it bears on how the suspect was likely to understand the words — the question is whether the words objectively functioned as questioning, not what the officers called them. Applied here, the conversation was not interrogation: the officers' remarks were addressed to each other, were brief, and sounded in general concern; nothing showed the officers should have known Innis was unusually disoriented or susceptible to this kind of appeal, and nothing showed they knew of any special sensitivity toward handicapped children. Innis's interruption was a volunteered statement, admissible, and the shotgun came in with it.
+
+The dissents are part of the holding's teaching. Justices Brennan and Marshall argued that discussing a missing murder weapon in front of a suspect who had invoked counsel was objectively aimed at eliciting a response, and that the majority applied the should-know standard too loosely; Justice Stevens wrote separately on the treatment of the state court's fact-finding. That split is the exam question the case leaves behind: the same words look like colleagues chatting to the majority and like a functional equivalent to the dissent, and everything turns on how should know is weighed. The case is now 46 years old (2026 minus 1980 equals 46). Its two later boundary companions are Pennsylvania v. Muniz, 496 U.S. 582 (1990), on routine booking questions, and Illinois v. Perkins, 496 U.S. 292 (1990), on undercover conversations. The California coordinate matches the companion study note: the Innis federal floor supplies the definition, while the recording rules around Penal Code Section 859.5 and the juvenile consultation rule in Welfare and Institutions Code Section 625.6 govern procedure and record-making, not the definition itself. The one-line takeaway: whether police words count as interrogation turns not on a question mark but on whether, under the should-know standard, they were reasonably likely to elicit an incriminating response — this conversation did not cross that line, and a different record could.
+
+*Personal study notes; not legal advice.*
+
+### Español — 初译待校
+
+La mayoría primero fijó la definición y después la aplicó. El interrogatorio incluye las preguntas expresas y su equivalente funcional: palabras o actos que la policía debería saber que son razonablemente aptos para provocar una respuesta incriminatoria, excluido el lenguaje que normalmente acompaña la detención. La Corte subrayó hacia dónde apunta la prueba: principalmente a las percepciones y circunstancias del sospechoso, y la intención policial solo cuenta en la medida en que ilumina cómo el sospechoso probablemente entendió las palabras; la pregunta es si las palabras funcionaron objetivamente como interrogatorio, no cómo las llamaran los agentes. Aplicado al caso, la conversación no fue interrogatorio: los comentarios se dirigían el uno al otro, fueron breves y sonaban a preocupación general; nada mostraba que los agentes debieran saber que Innis estaba inusualmente desorientado o era susceptible a ese tipo de apelación, ni que conocieran una sensibilidad especial suya hacia los niños con discapacidad. La interrupción de Innis fue una declaración voluntaria, admisible, y la escopeta entró con ella.
+
+Los votos disidentes forman parte de la enseñanza del caso. Los jueces Brennan y Marshall sostuvieron que hablar del arma homicida perdida ante un sospechoso que había invocado a su abogado estaba objetivamente dirigido a provocar una respuesta, y que la mayoría aplicó el estándar del deber de saber con demasiada laxitud; el juez Stevens escribió por separado sobre el trato dado a los hechos fijados por el tribunal estatal. Esa división es la pregunta de examen que el caso deja: las mismas palabras parecen charla entre colegas para la mayoría y equivalente funcional para la disidencia, y todo depende de cómo se pese el debería saber. El caso cumple hoy 46 años (2026 menos 1980 son 46). Sus dos compañeros posteriores de frontera son Pennsylvania v. Muniz, 496 U.S. 582 (1990), sobre preguntas rutinarias de registro, e Illinois v. Perkins, 496 U.S. 292 (1990), sobre conversaciones con agentes encubiertos. La coordenada de California coincide con la nota de estudio compañera: el suelo federal de Innis aporta la definición, mientras que las reglas de grabación en torno a la sección 859.5 del Código Penal y la regla de consulta juvenil de la sección 625.6 del Código de Bienestar e Instituciones gobiernan el procedimiento y el registro, no la definición. Conclusión en una frase: si las palabras policiales cuentan como interrogatorio no depende del signo de interrogación, sino de si, bajo el estándar del deber de saber, eran razonablemente aptas para provocar una respuesta incriminatoria; esta conversación no cruzó esa línea, y otro expediente podría cruzarla.
+
+*Notas personales de estudio; no constituye asesoría legal. (初译待校)*
+
+### 한국어 — 初译待校
+
+다수 의견은 먼저 정의를 세우고 그다음 적용했습니다. 심문에는 명시적 질문과 그 기능적 등가물이 포함됩니다. 경찰이 유죄 답변을 끌어낼 상당한 가능성이 있음을 알았거나 알았어야 할 언행이며, 체포에 통상 따르는 언행은 제외됩니다. 법원이 강조한 검사의 방향은 피의자의 인식과 사정이 중심이고, 경찰의 의도는 피의자가 그 말을 어떻게 이해했을 법한지와 관련될 때만 의미를 갖는다는 것입니다. 문제는 그 말이 객관적으로 질문처럼 기능했는가이지 경찰이 그것을 뭐라고 불렀는가가 아닙니다. 본건에 적용하면 그 대화는 심문이 아니었습니다. 경찰들의 말은 서로에게 향한 것이었고 짧았으며 일반적인 우려로 들렸습니다. 경찰이 Innis가 유난히 혼란스럽거나 그런 호소에 약하다는 것을 알았어야 했다는 사정도, 장애 아동에 대한 특별한 민감성을 알았다는 사정도 없었습니다. Innis의 끼어듦은 자발적 진술로 채택 가능했고 산탄총도 함께 들어왔습니다.
+
+반대 의견도 이 판결의 가르침의 일부입니다. Brennan과 Marshall 대법관은 변호사 권리를 원용한 용의자 앞에서 실종된 살인 무기를 거론한 것은 객관적으로 반응을 끌어내려는 것이었고 다수 의견이 알았어야 한다는 기준을 너무 느슨하게 적용했다고 봤습니다. Stevens 대법관은 주 법원의 사실 인정 취급에 대해 따로 썼습니다. 이 갈림이 본건이 남긴 시험 문제입니다. 같은 말이 다수에게는 동료 간 잡담으로, 반대에게는 기능적 등가물로 보이며, 모든 것은 알았어야 한다는 말을 어떻게 재는가에 달려 있습니다. 본건은 이제 46년이 됐습니다(2026 빼기 1980은 46). 후대의 경계 짝꿍은 통상 입건 질문에 관한 Pennsylvania v. Muniz, 496 U.S. 582 (1990)와 잠입 대화에 관한 Illinois v. Perkins, 496 U.S. 292 (1990)입니다. 캘리포니아 좌표는 짝꿍 학습 노트와 같습니다. Innis의 연방 바닥이 정의를 공급하고, 형법전 제859.5조 부근의 녹음 규칙과 복지기관법전 제625.6조의 청소년 상담 규칙은 정의 자체가 아니라 절차와 기록을 다스립니다. 한 줄 결론: 경찰의 말이 심문인지는 물음표가 아니라, 알았어야 한다는 기준 아래 그 말이 유죄 답변을 끌어낼 상당한 가능성이 있었는지에 달려 있습니다. 이 대화는 그 선을 넘지 않았고, 다른 기록이었다면 넘었을 수도 있습니다.
+
+*개인 학습 노트이며 법률 자문이 아닙니다. (초역, 원어민 감수 대기)*
+
+### Tiếng Việt — 初译待校
+
+Đa số trước hết đặt định nghĩa, rồi mới áp dụng. Thẩm vấn bao gồm hỏi trực tiếp và tương đương chức năng của nó: lời nói hay hành động mà cảnh sát biết hoặc phải biết là có khả năng hợp lý sẽ khơi ra câu trả lời buộc tội, loại trừ lời nói thường đi kèm việc bắt giữ. Tòa nhấn mạnh hướng của phép thử: chủ yếu vào nhận thức và hoàn cảnh của nghi phạm, còn ý định của cảnh sát chỉ có ý nghĩa trong chừng mực nó soi sáng cách nghi phạm có khả năng hiểu những lời đó; câu hỏi là những lời đó có khách quan hoạt động như thẩm vấn hay không, chứ không phải cảnh sát gọi chúng là gì. Áp vào vụ này, cuộc trò chuyện không phải thẩm vấn: các câu nói hướng vào nhau, ngắn gọn và nghe như lo lắng chung; không có gì cho thấy cảnh sát phải biết Innis đặc biệt mất phương hướng hay nhạy cảm với kiểu tác động này, và không có gì cho thấy họ biết anh ta có sự nhạy cảm đặc biệt đối với trẻ khuyết tật. Việc Innis ngắt lời là một lời khai tự nguyện, được chấp nhận, và khẩu shotgun đi vào cùng với nó.
+
+Các ý kiến bất đồng là một phần bài học của phán quyết. Các Thẩm phán Brennan và Marshall lập luận rằng việc bàn về hung khí giết người mất tích trước mặt một nghi phạm đã viện dẫn quyền có luật sư là khách quan nhằm khơi ra phản ứng, và đa số đã áp dụng tiêu chuẩn phải biết quá lỏng lẻo; Thẩm phán Stevens viết riêng về cách xử lý việc xác định sự kiện của tòa bang. Sự chia rẽ đó là câu hỏi thi mà vụ án để lại: cùng những lời đó, đa số thấy như đồng nghiệp trò chuyện, phía bất đồng thấy như tương đương chức năng, và mọi thứ xoay quanh cách cân chữ phải biết. Vụ án nay đã 46 năm (2026 trừ 1980 bằng 46). Hai vụ bạn đồng hành về ranh giới sau này là Pennsylvania v. Muniz, 496 U.S. 582 (1990), về câu hỏi ghi sổ thường lệ, và Illinois v. Perkins, 496 U.S. 292 (1990), về trò chuyện với cảnh sát chìm. Tọa độ California khớp với bài học tập đi kèm: sàn liên bang của Innis cung cấp định nghĩa, trong khi các quy tắc ghi âm quanh khoản 859.5 Bộ luật Hình sự và quy tắc tham vấn cho trẻ vị thành niên tại khoản 625.6 Bộ luật Phúc lợi và Thể chế điều chỉnh thủ tục và việc lập hồ sơ, không phải định nghĩa. Kết luận một câu: lời cảnh sát có được tính là thẩm vấn hay không không tùy thuộc dấu chấm hỏi, mà tùy thuộc việc, theo tiêu chuẩn phải biết, chúng có khả năng hợp lý khơi ra câu trả lời buộc tội hay không; cuộc trò chuyện này đã không vượt qua lằn ranh đó, và một hồ sơ khác thì có thể.
+
+*Ghi chú học tập cá nhân; không phải tư vấn pháp lý. (Bản dịch sơ bộ, chờ hiệu đính)*
+
+### हिन्दी — 初译待校
+
+बहुमत ने पहले परिभाषा रखी, फिर उसे लागू किया। पूछताछ में स्पष्ट प्रश्न और उसका कार्यात्मक समकक्ष शामिल है: ऐसे शब्द या कार्य जिनके बारे में पुलिस को पता हो या पता होना चाहिए कि उनसे दोषी उत्तर निकलने की युक्तियुक्त संभावना है, गिरफ़्तारी के साथ सामान्यतः जुड़े भाषण को छोड़कर। न्यायालय ने ज़ोर दिया कि परीक्षण किधर इशारा करता है: मुख्यतः संदिग्ध की धारणाओं और परिस्थितियों की ओर, और पुलिस का इरादा केवल उसी हद तक मायने रखता है जहाँ वह यह बताए कि संदिग्ध ने उन शब्दों को संभवतः कैसे समझा होगा; प्रश्न यह है कि क्या वे शब्द वस्तुनिष्ठ रूप से पूछताछ की तरह कार्य करते थे, न कि अधिकारी उन्हें क्या कहते थे। यहाँ लागू करने पर वह बातचीत पूछताछ नहीं थी: अधिकारियों की टिप्पणियाँ एक-दूसरे को संबोधित थीं, संक्षिप्त थीं और सामान्य चिंता जैसी लगती थीं; कुछ भी यह नहीं दिखाता था कि अधिकारियों को पता होना चाहिए था कि Innis असामान्य रूप से भ्रमित था या इस प्रकार के आग्रह के प्रति संवेदनशील था, और कुछ भी यह नहीं दिखाता था कि वे विकलांग बच्चों के प्रति उसकी किसी विशेष संवेदनशीलता को जानते थे। Innis का बीच में बोलना स्वेच्छा से दिया गया बयान था, स्वीकार्य, और shotgun उसके साथ अंदर आ गई।
+
+असहमतियाँ भी इस निर्णय की शिक्षा का भाग हैं। न्यायाधीश Brennan और Marshall ने तर्क दिया कि वकील का आह्वान कर चुके संदिग्ध के सामने लापता हत्या-हथियार की चर्चा करना वस्तुनिष्ठ रूप से प्रतिक्रिया निकालने के उद्देश्य से था, और बहुमत ने पता होना चाहिए वाले मानक को बहुत ढीला लगाया; न्यायाधीश Stevens ने राज्य न्यायालय के तथ्य-निर्धारण के व्यवहार पर अलग से लिखा। वही विभाजन इस मामले की छोड़ी हुई परीक्षा-प्रश्न है: वही शब्द बहुमत को सहकर्मियों की बातचीत लगते हैं और असहमति को कार्यात्मक समकक्ष, और सब कुछ इस पर टिका है कि पता होना चाहिए को कैसे तौला जाए। मामला अब 46 वर्ष का है (2026 ऋण 1980 बराबर 46)। इसकी दो बाद की सीमा-साथी हैं Pennsylvania v. Muniz, 496 U.S. 582 (1990), नियमित बुकिंग प्रश्नों पर, और Illinois v. Perkins, 496 U.S. 292 (1990), गुप्त बातचीत पर। California निर्देशांक साथी अध्ययन नोट से मेल खाता है: Innis का संघीय न्यूनतम मानक परिभाषा देता है, जबकि दंड संहिता खंड 859.5 के आसपास के रिकॉर्डिंग नियम और कल्याण व संस्था संहिता खंड 625.6 का किशोर परामर्श नियम प्रक्रिया और अभिलेख-निर्माण को शासित करते हैं, परिभाषा को नहीं। एक-पंक्ति निष्कर्ष: पुलिस के शब्द पूछताछ गिने जाएँगे या नहीं, यह प्रश्न-चिह्न पर नहीं, बल्कि इस पर निर्भर है कि पता होना चाहिए वाले मानक के तहत उनसे दोषी उत्तर निकलने की युक्तियुक्त संभावना थी या नहीं; यह बातचीत उस रेखा को पार नहीं करती थी, और कोई अन्य अभिलेख पार कर सकता था।
+
+*व्यक्तिगत अध्ययन नोट; यह कानूनी सलाह नहीं है। (प्रारंभिक अनुवाद, समीक्षा लंबित)*
