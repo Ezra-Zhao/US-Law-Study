@@ -58,3 +58,16 @@ Bổ sung: Rule 45(d)(3) phân biệt các trường hợp bắt buộc hủy ho
 Tiếng Việt（bản dịch sơ bộ, chờ hiệu đính）: Bổ sung 1: Nhận trát đòi hầu tòa là lúc nghĩa vụ bảo quản bắt đầu; xóa email hay tài liệu liên quan có thể thành hủy hoại bằng chứng (spoliation) với hậu quả nặng hơn chính tài liệu. Bổ sung 2: Tại California, trát đòi hồ sơ cá nhân của người tiêu dùng phải tuân thêm yêu cầu thông báo trước cho người tiêu dùng theo Bộ luật Tố tụng Dân sự § 1985.3.
 
 हिन्दी（प्रारंभिक अनुवाद, समीक्षा लंबित）: पूरक 1: सम्मन मिलते ही संरक्षण-दायित्व शुरू हो जाता है; संबंधित ईमेल या दस्तावेज़ हटाना साक्ष्य-विनाश (spoliation) हो सकता है, जिसका परिणाम दस्तावेज़ से भी भारी होता है। पूरक 2: कैलिफ़ोर्निया में उपभोक्ता के निजी रिकॉर्ड वाले सम्मन पर सिविल प्रक्रिया संहिता § 1985.3 के तहत उपभोक्ता को पूर्व सूचना देने की अतिरिक्त शर्त लागू होती है।
+
+## 补译增量（2026-11-27 05:55 轮）
+
+中文主文已有细节补译——①联邦传票的强制撤销事由：FRCP 第 45(d)(3) 条规定，传票要求披露特权事项且无例外或豁免适用时，法院必须撤销或修改该传票；②加州对应工具：《民事诉讼法典》第 1987.1 条允许受送达人或当事人申请撤销、修改或设定条件（motion to quash）。
+
+### 한국어 (초역, 교정 대기)
+① 연방 소환장의 강제 취소 사유: FRCP § 45(d)(3)에 따르면, 소환장이 특권 사항의 공개를 요구하고 예외나 면제가 적용되지 않을 경우 법원은 그 소환장을 취소하거나 수정해야 한다. ② 캘리포니아의 대응 수단: 민사소송법전 § 1987.1은 송달받은 자나 당사자가 취소·수정·조건 설정을 신청(motion to quash)할 수 있게 한다.
+
+### Tiếng Việt (dịch sơ bộ, chờ hiệu đính)
+① Căn cứ hủy bắt buộc trát đòi hầu tòa liên bang: FRCP 45(d)(3) quy định tòa án phải hủy hoặc sửa đổi trát nếu trát yêu cầu tiết lộ thông tin được đặc quyền bảo vệ và không có ngoại lệ hay miễn trừ nào áp dụng. ② Công cụ tương ứng của California: Bộ luật Tố tụng Dân sự § 1987.1 cho phép người nhận trát hoặc đương sự nộp đơn xin hủy, sửa đổi hoặc đặt điều kiện (motion to quash).
+
+### हिन्दी (प्रारंभिक अनुवाद, संशोधन लंबित)
+① संघीय समन के अनिवार्य रद्दीकरण के आधार: FRCP नियम 45(d)(3) के अनुसार, यदि समन विशेषाधिकार-संरक्षित विषय के प्रकटीकरण की माँग करे और कोई अपवाद या छूट लागू न हो, तो न्यायालय को वह समन रद्द या संशोधित करना होगा। ② कैलिफ़ोर्निया का संगत उपाय: सिविल प्रक्रिया संहिता § 1987.1 प्राप्तकर्ता या पक्षकार को रद्दीकरण, संशोधन या शर्तें लगाने हेतु आवेदन (motion to quash) करने देती है।
