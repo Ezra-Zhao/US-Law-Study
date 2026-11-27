@@ -138,3 +138,19 @@ Vụ án đã kéo ngưỡng đó xuống sàn là United States v. Park, 421 U.
 *개인 학습 노트이며 법률 자문이 아닙니다. 구체적인 사안은 면허 있는 변호사에게 상담하십시오. (초역·待校)*
 *Ghi chú học tập cá nhân, không cấu thành tư vấn pháp lý. Đối với vụ việc cụ thể, hãy tham vấn luật sư có giấy phép. (bản dịch sơ bộ·待校)*
 *यह व्यक्तिगत अध्ययन नोट है और कानूनी सलाह नहीं है। किसी विशिष्ट मामले के लिए कृपया लाइसेंसधारी वकील से परामर्श करें। (प्रारंभिक अनुवाद·待校)*
+
+---
+
+## 补译增量（2026-11-27 14:05 补跑轮 · 初译待校）
+
+### 한국어 (초역 · 初译待校)
+1. 의약품의 정의는 성분이 아니라 용도 의도(intended use)에 달려 있습니다. 21 U.S.C. § 321(g)에 따라 질병의 진단·치료·완화·예방을 목적으로 하거나 신체의 구조·기능에 영향을 줄 의도가 있는 물품은 의약품이며, 이 정의가 FDA 관할의 첫 관문입니다.
+2. 의료기기 510(k) 시판 전 신고(§ 360(k))의 결과는 «승인(approval)»이 아니라 «클리어런스(clearance)»입니다. 신청자는 이미 합법적으로 시판된 predicate 기기와의 실질적 동등성(substantial equivalence)을 증명합니다. 고위험 기기는 § 360e의 시판 전 승인(PMA)을 거치며, 유효한 과학적 증거로 안전성과 유효성을 입증해야 합니다. (초역·待校)
+
+### Tiếng Việt (bản dịch sơ bộ · 初译待校)
+1. Định nghĩa thuốc không dựa trên thành phần mà dựa trên mục đích sử dụng (intended use): theo 21 U.S.C. § 321(g), vật phẩm nhằm chẩn đoán, điều trị, giảm nhẹ hay phòng bệnh, hoặc nhằm tác động đến cấu trúc hay chức năng cơ thể, đều là thuốc — và định nghĩa này là cửa đầu tiên của thẩm quyền FDA.
+2. Thông báo tiền thị trường 510(k) (§ 360(k)) cho thiết bị y tế cho kết quả là «thông quan» (clearance) chứ không phải «phê duyệt» (approval): người nộp chứng minh tính tương đương đáng kể (substantial equivalence) với thiết bị tiền nhiệm đã lưu hành hợp pháp. Thiết bị nguy cơ cao đi qua phê duyệt tiền thị trường (PMA) theo § 360e, đòi hỏi bằng chứng khoa học hợp lệ về an toàn và hiệu quả. (bản dịch sơ bộ·待校)
+
+### हिन्दी (प्रारंभिक अनुवाद · 初译待校)
+1. औषधि की परिभाषा घटकों से नहीं, आशयित उपयोग (intended use) से तय होती है: 21 U.S.C. § 321(g) के अनुसार रोग के निदान, उपचार, शमन या रोकथाम के लिए, या शरीर की संरचना या कार्य को प्रभावित करने के आशय से बनाई गई वस्तु औषधि है — और यही परिभाषा FDA अधिकार-क्षेत्र का पहला द्वार है।
+2. चिकित्सा उपकरणों की 510(k) बाज़ार-पूर्व सूचना (§ 360(k)) का परिणाम «अनुमोदन» (approval) नहीं, «निकासी» (clearance) है: आवेदक पहले से वैध रूप से बाज़ार में मौजूद predicate उपकरण से पर्याप्त समानता (substantial equivalence) सिद्ध करता है। उच्च-जोखिम उपकरण § 360e के बाज़ार-पूर्व अनुमोदन (PMA) से गुज़रते हैं, जिसमें सुरक्षा और प्रभावशीलता का वैध वैज्ञानिक साक्ष्य चाहिए। (प्रारंभिक अनुवाद·待校)
