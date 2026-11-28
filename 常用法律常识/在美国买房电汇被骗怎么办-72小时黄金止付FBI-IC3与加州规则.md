@@ -89,3 +89,18 @@ Tại California, khiếu nại có thể đi hai đường song song mà không
 बीमा की सीमा भी स्पष्ट करनी चाहिए: title owner's policy का कवर न करना यह नहीं कहता कि हर बीमा बंद है — कुछ नई wire fraud endorsement या ब्रोकर की cyber liability policy कवर कर सकती है, इसलिए मानकर न चलें, policy की शर्तें जाँचें। बैंक पक्ष में, UCC Article 4A के तहत विवाद तभी बनता है जब बैंक ने ग्राहक के निर्देश से अलग निष्पादन किया हो या प्राप्तकर्ता बैंक ने स्पष्ट red flag अनदेखा किया हो; जब आप स्वयं ठग के निर्देश पर धन भेजते हैं तो बैंक सामान्यतः उत्तरदायी नहीं होता — फिर भी recall और freeze में सहयोग की माँग लिखित अभिलेख के साथ जारी रखनी चाहिए।
 
 California में शिकायत दो समानांतर मार्गों से हो सकती है और दोनों में टकराव नहीं है: लाइसेंसी escrow के विरुद्ध DFPI (Department of Financial Protection and Innovation) को और ब्रोकर के विरुद्ध DRE (Department of Real Estate) को। यदि संदेह हो कि आपके अपने ब्रोकर का मेलबॉक्स हैक हुआ है, तो उसकी firm से cyber incident response शुरू करने की माँग करें — यह आपकी अपनी सुरक्षा भी है और अन्य ग्राहकों की हानि रोकना भी।
+
+
+## 补译增量（2026-11-27 15:55轮）
+
+### 한국어 (초译待校)
+- FBI IC3의 자산회복팀(Recovery Asset Team)은 은행들과 금융사기 차단망(Financial Fraud Kill Chain)으로 연결되어 있으며, 송금 후 72시간 안에 신고할수록 동결 성공 가능성이 뚜렷이 높아진다. 72시간은 보장선이 아니라 황금선이다.
+- 개인 주거 거래의 도난 손실은 2018년부터 2025년까지 TCJA 제한을 받아 원칙적으로 개인 도난손실로 공제할 수 없다(§ 165(h)(5), 연방 재난 선포 예외). 세금으로 메울 수 있다는 옛말을 믿지 말 것.
+
+### Tiếng Việt (初译待校)
+- Đội Khôi phục Tài sản (Recovery Asset Team) của FBI IC3 kết nối với các ngân hàng qua Financial Fraud Kill Chain; báo cáo trong vòng 72 giờ sau khi chuyển tiền làm tăng rõ rệt khả năng đóng băng. 72 giờ là "đường vàng", không phải bảo đảm.
+- Thiệt hại do trộm cắp trong giao dịch nhà ở cá nhân, giai đoạn 2018–2025, về nguyên tắc không được khấu trừ như tổn thất trộm cắp cá nhân (§ 165(h)(5), trừ ngoại lệ tuyên bố thảm họa liên bang).
+
+### हिन्दी (初译待校)
+- FBI IC3 की Recovery Asset Team बैंकों से Financial Fraud Kill Chain के माध्यम से जुड़ी है; हस्तांतरण के 72 घंटों के भीतर रिपोर्ट करने से फ़्रीज़ की संभावना स्पष्ट रूप से बढ़ जाती है। 72 घंटे गारंटी नहीं, स्वर्ण-रेखा है।
+- व्यक्तिगत आवास लेनदेन में चोरी का नुकसान 2018–2025 के दौरान TCJA सीमा के कारण सामान्यतः व्यक्तिगत चोरी-हानि के रूप में कटौती योग्य नहीं है (§ 165(h)(5), संघीय आपदा घोषणा अपवाद)।
